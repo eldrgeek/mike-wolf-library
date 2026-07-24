@@ -1,0 +1,68 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+const terms = await getCollection('terms');
+const sources = await getCollection('sources');
+---
+<Base title="About" description="About The Library — how it was built, what's in it, and how to read it.">
+  <div class="max-w-2xl mx-auto px-4 sm:px-6 pt-12 pb-16">
+    <p class="text-xs font-mono uppercase tracking-label text-copper mb-3">Colophon</p>
+    <h1 class="font-serif text-3xl sm:text-4xl font-normal text-ink mb-8">About The Library</h1>
+
+    <div class="prose-lib">
+      <p>
+        This is an indexed, cross-referenced archive of Mike Wolf's writing. It collects a
+        working <a href="/dictionary/">dictionary</a> of {terms.length} terms — the private
+        dialect that Mike and a fleet of named AIs grew while building a small, strange, real
+        organization together — alongside the {sources.length} long-form
+        <a href="/corpus/">sources</a> that vocabulary came from.
+      </p>
+
+      <h2>What's in it</h2>
+      <p>
+        <strong>The Dictionary</strong> decodes the coined words and the ordinary words carrying
+        a private overload — <em>locatedness</em>, <em>Silicon Children</em>, <em>ship it</em>,
+        <em>the greenhouse</em>. Each entry links to related terms and to the corpus passages
+        where the idea is discussed.
+      </p>
+      <p>
+        <strong>The Corpus</strong> holds the writing itself: the <em>Self-Referential
+        Metanovel</em> (a 2011–2012 book about writing a book), the <em>Silicon Children</em>
+        manifesto, essays and posts from <em>70 Years WTF</em>, and the <em>AI WTF</em> field
+        reports from inside a human-AI company. Every piece is readable in full and searchable
+        to the word.
+      </p>
+
+      <h2>How it was built</h2>
+      <p>
+        The site is a static Astro build with a client-side MiniSearch index — no server, no
+        login, no tracking, and no per-query cost. The engine is a stripped and re-themed port
+        of the "thinker archive" engine originally built for <em>Levinese</em> (a dictionary of
+        Michael Levin's vocabulary). Content is ingested from source files by a reusable adapter,
+        so the archive is designed to grow: the next phase widens the corpus to the full
+        700-post <em>70 Years WTF</em> back catalogue.
+      </p>
+
+      <h2>How to read it</h2>
+      <p>
+        Enter through the words. Each term is a handle on a way of seeing. Follow a term to the
+        passage where it lives, follow the passage to the terms it discusses, and let the
+        cross-references carry you. The more of the language you understand, the easier it is to
+        see the single pattern behind all of it.
+      </p>
+
+      <p class="text-sm text-muted" style="font-style:italic;">
+        Built in 2026 by Mike Wolf and the SOMA fleet. In the same spirit as
+        <a href="https://mike-wolf.com">mike-wolf.com</a>.
+      </p>
+    </div>
+  </div>
+
+  <style is:global>
+    .prose-lib { font-family: 'Literata', Georgia, serif; color: #3d2c1e; line-height: 1.9; }
+    .prose-lib p { margin-bottom: 1.4rem; }
+    .prose-lib h2 { font-family: 'Literata', Georgia, serif; color: #1a1a2e; margin-top: 2.4rem; margin-bottom: 1rem; font-size: 1.4rem; font-weight: 500; }
+    .prose-lib a { color: #2a9d8f; text-decoration: underline; text-underline-offset: 3px; }
+    .prose-lib strong { color: #1a1a2e; font-weight: 600; }
+  </style>
+</Base>

@@ -1,0 +1,158 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const rawTerms = await getCollection('terms');
+const rawSources = await getCollection('sources');
+
+const sourceTitle = new Map<string, string>();
+for (const s of rawSources) {
+  sourceTitle.set(s.slug ?? s.id.replace(/\.md$/, ''), s.data.title);
+}
+
+const terms = rawTerms.map(e => {
+  const slug = e.slug;
+  return {
+    slug,
+    letter: e.data.letter,
+    title: e.data.title,
+    subtitle: e.data.subtitle,
+    theme: e.data.theme,
+    origin: e.data.origin,
+    related: e.data.related,
+    provenance: e.data.provenance,
+    tags: e.data.tags,
+    definition: e.body, // pre-rendered HTML from ingest
+  };
+}).sort((a, b) => a.title.localeCompare(b.title));
+
+const titleBySlug = new Map(terms.map(t => [t.slug, t.title]));
+
+const termsByLetter = terms.reduce((acc, t) => {
+  const l = (t.letter || t.title[0]).toUpperCase();
+  (acc[l] ||= []).push(t);
+  return acc;
+}, {} as Record<string, typeof terms>);
+const letters = Object.keys(termsByLetter).sort();
+const stripHtml = (h: string) => h.replace(/<[^>]*>/g, ' ');
+---
+<Base title="Dictionary" description={`A working dictionary of the private dialect Mike Wolf and his AI collaborators speak — ${terms.length} cross-referenced terms.`}>
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 pt-12 pb-4">
+    <p class="text-xs font-mono uppercase tracking-label text-copper mb-3">Dictionary</p>
+    <h1 class="font-serif text-3xl sm:text-4xl font-normal text-ink mb-4">The Lexicon</h1>
+    <p class="text-muted max-w-2xl leading-relaxed font-serif">
+      {terms.length} terms — some coined outright, others ordinary words carrying a private
+      overload. Each links to related terms and to the corpus passages where it lives.
+    </p>
+  </div>
+
+  <div id="dict-nav" class="sticky top-14 z-40 bg-bg/95 backdrop-blur-sm border-b border-rule">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-3 flex flex-col gap-2 sm:flex-row sm:items-center sm:gap-4">
+      <div class="flex items-center gap-3 flex-1 min-w-0">
+        <div class="relative flex-1 max-w-xs">
+          <input id="dict-search" type="search" placeholder="Filter terms…"
+            class="w-full px-3 py-1.5 text-sm border border-rule rounded-md bg-surface text-ink placeholder:text-faint focus:outline-none focus:border-copper/50 focus:ring-1 focus:ring-copper/20" />
+        </div>
+        <span id="dict-count" class="text-xs text-muted whitespace-nowrap tabular-nums font-mono">{terms.length} terms</span>
+      </div>
+      <div class="flex flex-wrap gap-1">
+        {letters.map(l => (
+          <a href={`#letter-${l}`} data-letter={l}
+            class="dict-letter w-7 h-7 flex items-center justify-center rounded text-xs font-medium text-muted border border-transparent hover:bg-surface hover:border-rule hover:text-ink transition-colors">{l}</a>
+        ))}
+      </div>
+    </div>
+  </div>
+
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 mt-6">
+    {letters.map(letter => (
+      <div id={`letter-${letter}`} class="dict-section mb-14 scroll-mt-28" data-letter={letter}>
+        <div class="flex items-center gap-4 mb-8">
+          <span class="font-serif text-5xl font-medium text-copper/25">{letter}</span>
+          <div class="h-px flex-1 bg-rule" />
+        </div>
+        <div class="space-y-12">
+          {termsByLetter[letter].map(term => (
+            <article id={`term-${term.slug}`} class="dict-entry scroll-mt-28"
+              data-search={`${term.title} ${term.subtitle ?? ''} ${stripHtml(term.definition)} ${term.tags.join(' ')}`.toLowerCase()}>
+              <div class="mb-3">
+                <div class="flex flex-wrap items-baseline gap-2 mb-1">
+                  <h2 class="font-serif text-2xl font-medium text-ink">{term.title}</h2>
+                  {term.theme && <span class="text-xs font-mono uppercase tracking-label text-teal">{term.theme}</span>}
+                </div>
+                {term.subtitle && <p class="font-serif italic text-muted text-base">{term.subtitle}</p>}
+              </div>
+
+              <div class="bg-surface border border-rule rounded-lg p-6 mb-4 dict-body">
+                <div set:html={term.definition} />
+              </div>
+
+              {term.origin && (
+                <p class="text-xs text-muted mb-3"><span class="font-medium uppercase tracking-wide text-copper">Origin.</span> {term.origin}</p>
+              )}
+
+              <div class="flex flex-wrap items-center gap-2">
+                {term.tags.map(tag => (
+                  <span class="text-xs bg-copper-light text-copper px-2.5 py-1 rounded-full border border-copper-border">{tag}</span>
+                ))}
+                {term.related.length > 0 && <span class="text-xs text-muted self-center ml-1">→ see also:</span>}
+                {term.related.slice(0, 5).map(slug => (
+                  titleBySlug.has(slug) ? (
+                    <a href={`#term-${slug}`} class="text-xs text-teal hover:text-copper underline underline-offset-2 decoration-teal/30">{titleBySlug.get(slug)}</a>
+                  ) : null
+                ))}
+              </div>
+
+              {term.provenance.filter(p => sourceTitle.has(p)).length > 0 && (
+                <p class="mt-3 text-xs text-muted">
+                  <span class="font-medium uppercase tracking-wide text-copper">Discussed in:</span>{' '}
+                  {term.provenance.filter(p => sourceTitle.has(p)).slice(0, 6).map((p, i, arr) => (
+                    <>
+                      <a href={`/corpus/${p}/`} class="text-teal hover:text-copper underline underline-offset-2 decoration-teal/30">{sourceTitle.get(p)}</a>{i < arr.length - 1 ? '; ' : ''}
+                    </>
+                  ))}
+                </p>
+              )}
+            </article>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+
+  <div id="dict-empty" class="hidden max-w-5xl mx-auto px-4 sm:px-6 py-16 text-center">
+    <p class="text-muted">No terms match your search.</p>
+  </div>
+</Base>
+
+<style is:global>
+  .dict-body p { margin-bottom: 0.9rem; line-height: 1.75; color: #3d2c1e; font-family: 'Literata', Georgia, serif; }
+  .dict-body p:last-child { margin-bottom: 0; }
+  .dict-body a { color: #2a9d8f; text-decoration: underline; text-underline-offset: 2px; }
+</style>
+
+<script>
+  const input = document.getElementById('dict-search') as HTMLInputElement;
+  const countEl = document.getElementById('dict-count') as HTMLElement;
+  const emptyEl = document.getElementById('dict-empty') as HTMLElement;
+  const entries = document.querySelectorAll<HTMLElement>('.dict-entry');
+  const sections = document.querySelectorAll<HTMLElement>('.dict-section');
+  const total = entries.length;
+
+  function apply(raw: string) {
+    const q = raw.trim().toLowerCase();
+    let shown = 0;
+    entries.forEach(el => {
+      const match = !q || (el.dataset.search ?? '').includes(q);
+      el.hidden = !match;
+      if (match) shown++;
+    });
+    sections.forEach(sec => {
+      const has = [...sec.querySelectorAll<HTMLElement>('.dict-entry')].some(e => !e.hidden);
+      sec.hidden = !has;
+    });
+    countEl.textContent = q ? `${shown} of ${total}` : `${total} terms`;
+    emptyEl.classList.toggle('hidden', shown > 0);
+  }
+  input?.addEventListener('input', () => apply(input.value));
+</script>

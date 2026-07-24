@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# SPA-style fallback so hash/anchor deep links resolve.
+# NOTE: v1 is fully static. There are intentionally NO edge functions,
+# no /api/ask, no auth. Per-query cost is $0.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

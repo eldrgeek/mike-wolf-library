@@ -1,0 +1,183 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base title="Atlas" description="A semantic map of the whole library — dictionary terms and corpus sources placed by meaning, projected via UMAP from sentence-transformer embeddings.">
+  <style>
+    main { padding: 0 !important; }
+    #atlas-canvas { display:block; cursor:grab; }
+    #atlas-canvas:active { cursor:grabbing; }
+    .atlas-btn { padding:4px 10px; background:#fff; border:1px solid rgba(26,26,46,0.12); border-radius:5px; cursor:pointer; color:#3d2c1e; font-size:12px; font-family:'Outfit',sans-serif; }
+    .atlas-btn.active { background:#b87333; color:#faf8f4; border-color:#b87333; }
+  </style>
+
+  <div id="atlas-root" style="position:relative;width:100%;height:calc(100vh - 56px);overflow:hidden;background:#faf8f4;">
+    <canvas id="atlas-canvas"></canvas>
+
+    <div style="position:absolute;top:0;left:0;right:0;z-index:10;display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding:8px 14px;background:rgba(250,248,244,0.9);backdrop-filter:blur(8px);border-bottom:1px solid rgba(26,26,46,0.08);font-family:'Outfit',sans-serif;font-size:12px;color:#3d2c1e;">
+      <span style="font-family:'Literata',serif;font-size:14px;color:#b87333;margin-right:4px;">Semantic Atlas</span>
+      <button id="btn-terms" class="atlas-btn active">Terms</button>
+      <button id="btn-sources" class="atlas-btn active">Sources</button>
+      <input id="atlas-search" type="text" placeholder="Search…" style="padding:4px 8px;background:#fff;border:1px solid rgba(26,26,46,0.15);border-radius:4px;color:#3d2c1e;font-size:12px;width:140px;outline:none;">
+      <button id="btn-reset" class="atlas-btn">↺ Reset</button>
+      <span id="atlas-stats" style="color:#9b9bab;font-family:'JetBrains Mono',monospace;font-size:11px;"></span>
+    </div>
+
+    <div id="atlas-tip" style="position:absolute;pointer-events:none;z-index:20;display:none;max-width:260px;padding:9px 12px;background:#fff;border:1px solid rgba(26,26,46,0.15);border-radius:6px;box-shadow:0 4px 20px rgba(0,0,0,0.08);font-family:'Outfit',sans-serif;font-size:12px;color:#3d2c1e;line-height:1.5;"></div>
+
+    <div style="position:absolute;bottom:16px;right:16px;z-index:10;padding:10px 13px;background:rgba(255,255,255,0.9);border:1px solid rgba(26,26,46,0.08);border-radius:6px;font-family:'Outfit',sans-serif;font-size:11px;color:#3d2c1e;line-height:1.8;">
+      <div style="display:flex;align-items:center;gap:7px;"><span style="width:11px;height:11px;border-radius:50%;background:#b87333;display:inline-block;"></span> Dictionary terms</div>
+      <div style="display:flex;align-items:center;gap:7px;margin-top:3px;"><span style="width:9px;height:9px;border-radius:50%;background:#2a9d8f;display:inline-block;margin-left:1px;"></span> Corpus sources</div>
+    </div>
+
+    <div id="atlas-loading" style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:'Literata',serif;color:#6b6b7b;font-size:15px;">Loading the map…</div>
+  </div>
+
+  <script>
+    const canvas = document.getElementById('atlas-canvas') as HTMLCanvasElement;
+    const ctx = canvas.getContext('2d')!;
+    const tip = document.getElementById('atlas-tip') as HTMLElement;
+    const loading = document.getElementById('atlas-loading') as HTMLElement;
+    const stats = document.getElementById('atlas-stats') as HTMLElement;
+
+    let points: any[] = [];
+    let edges: any[] = [];
+    const view = { scale: 1, ox: 0, oy: 0 };
+    let showTerms = true, showSources = true, query = '';
+    let bounds = { minX: -10, maxX: 10, minY: -10, maxY: 10 };
+
+    function resize() {
+      const r = canvas.parentElement!.getBoundingClientRect();
+      canvas.width = r.width * devicePixelRatio;
+      canvas.height = r.height * devicePixelRatio;
+      canvas.style.width = r.width + 'px';
+      canvas.style.height = r.height + 'px';
+      ctx.setTransform(devicePixelRatio, 0, 0, devicePixelRatio, 0, 0);
+      draw();
+    }
+
+    function worldToScreen(x: number, y: number) {
+      const w = canvas.width / devicePixelRatio, h = canvas.height / devicePixelRatio;
+      const nx = (x - bounds.minX) / (bounds.maxX - bounds.minX);
+      const ny = (y - bounds.minY) / (bounds.maxY - bounds.minY);
+      const pad = 60;
+      const sx = pad + nx * (w - 2 * pad);
+      const sy = pad + ny * (h - 2 * pad);
+      return [sx * view.scale + view.ox, sy * view.scale + view.oy];
+    }
+
+    function visible(p: any) {
+      if (p.type === 'term' && !showTerms) return false;
+      if (p.type === 'source' && !showSources) return false;
+      if (query && !(`${p.title} ${p.subtitle || ''}`.toLowerCase().includes(query))) return false;
+      return true;
+    }
+
+    function draw() {
+      const w = canvas.width / devicePixelRatio, h = canvas.height / devicePixelRatio;
+      ctx.clearRect(0, 0, w, h);
+      // edges
+      ctx.strokeStyle = 'rgba(184,115,51,0.12)';
+      ctx.lineWidth = 0.6;
+      const posById = new Map(points.map(p => [p.id, p]));
+      for (const e of edges) {
+        const a = posById.get(e.source), b = posById.get(e.target);
+        if (!a || !b || !visible(a) || !visible(b)) continue;
+        const [ax, ay] = worldToScreen(a.x2, a.y2);
+        const [bx, by] = worldToScreen(b.x2, b.y2);
+        ctx.beginPath(); ctx.moveTo(ax, ay); ctx.lineTo(bx, by); ctx.stroke();
+      }
+      // points
+      for (const p of points) {
+        if (!visible(p)) continue;
+        const [sx, sy] = worldToScreen(p.x2, p.y2);
+        const isTerm = p.type === 'term';
+        ctx.beginPath();
+        ctx.arc(sx, sy, isTerm ? 5 : 3.5, 0, Math.PI * 2);
+        ctx.fillStyle = isTerm ? '#b87333' : '#2a9d8f';
+        ctx.fill();
+        if (view.scale > 1.6 && isTerm) {
+          ctx.fillStyle = 'rgba(61,44,30,0.75)';
+          ctx.font = '10px Outfit, sans-serif';
+          ctx.fillText(p.title, sx + 7, sy + 3);
+        }
+      }
+    }
+
+    function hitTest(mx: number, my: number) {
+      for (const p of points) {
+        if (!visible(p)) continue;
+        const [sx, sy] = worldToScreen(p.x2, p.y2);
+        if ((mx - sx) ** 2 + (my - sy) ** 2 < 64) return p;
+      }
+      return null;
+    }
+
+    canvas.addEventListener('mousemove', (ev) => {
+      const r = canvas.getBoundingClientRect();
+      const mx = ev.clientX - r.left, my = ev.clientY - r.top;
+      if (dragging) {
+        view.ox += mx - lastX; view.oy += my - lastY;
+        lastX = mx; lastY = my; draw(); return;
+      }
+      const p = hitTest(mx, my);
+      if (p) {
+        tip.style.display = 'block';
+        tip.style.left = Math.min(mx + 14, r.width - 260) + 'px';
+        tip.style.top = (my + 14) + 'px';
+        tip.innerHTML = `<strong>${p.title}</strong>${p.subtitle ? `<br><span style="color:#6b6b7b;font-style:italic;">${p.subtitle}</span>` : ''}<br><span style="color:#9b9bab;font-size:10px;">${p.type} · click to open</span>`;
+        canvas.style.cursor = 'pointer';
+      } else { tip.style.display = 'none'; canvas.style.cursor = 'grab'; }
+    });
+
+    let dragging = false, lastX = 0, lastY = 0, downX = 0, downY = 0;
+    canvas.addEventListener('mousedown', (ev) => {
+      const r = canvas.getBoundingClientRect();
+      dragging = true; lastX = downX = ev.clientX - r.left; lastY = downY = ev.clientY - r.top;
+    });
+    window.addEventListener('mouseup', (ev) => {
+      if (!dragging) return;
+      dragging = false;
+      const r = canvas.getBoundingClientRect();
+      const mx = ev.clientX - r.left, my = ev.clientY - r.top;
+      if ((mx - downX) ** 2 + (my - downY) ** 2 < 25) {
+        const p = hitTest(mx, my);
+        if (p && p.url) location.href = p.url;
+      }
+    });
+    canvas.addEventListener('wheel', (ev) => {
+      ev.preventDefault();
+      const r = canvas.getBoundingClientRect();
+      const mx = ev.clientX - r.left, my = ev.clientY - r.top;
+      const factor = ev.deltaY < 0 ? 1.1 : 0.9;
+      view.ox = mx - (mx - view.ox) * factor;
+      view.oy = my - (my - view.oy) * factor;
+      view.scale *= factor;
+      draw();
+    }, { passive: false });
+
+    function reset() { view.scale = 1; view.ox = 0; view.oy = 0; draw(); }
+    document.getElementById('btn-reset')!.addEventListener('click', reset);
+    document.getElementById('btn-terms')!.addEventListener('click', (e) => {
+      showTerms = !showTerms; (e.target as HTMLElement).classList.toggle('active', showTerms); draw();
+    });
+    document.getElementById('btn-sources')!.addEventListener('click', (e) => {
+      showSources = !showSources; (e.target as HTMLElement).classList.toggle('active', showSources); draw();
+    });
+    (document.getElementById('atlas-search') as HTMLInputElement).addEventListener('input', (e) => {
+      query = (e.target as HTMLInputElement).value.trim().toLowerCase(); draw();
+    });
+    window.addEventListener('resize', resize);
+
+    fetch('/atlas.json').then(r => r.ok ? r.json() : Promise.reject()).then(data => {
+      points = data.points || [];
+      edges = data.edges || [];
+      const xs = points.map(p => p.x2), ys = points.map(p => p.y2);
+      bounds = { minX: Math.min(...xs), maxX: Math.max(...xs), minY: Math.min(...ys), maxY: Math.max(...ys) };
+      loading.style.display = 'none';
+      stats.textContent = `${data.stats?.terms ?? 0} terms · ${data.stats?.sources ?? 0} sources · ${edges.length} links`;
+      resize();
+    }).catch(() => {
+      loading.textContent = 'The semantic map is being generated — check back shortly.';
+    });
+  </script>
+</Base>

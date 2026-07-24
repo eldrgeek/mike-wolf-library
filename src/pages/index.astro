@@ -1,0 +1,97 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const terms = await getCollection('terms');
+const sources = await getCollection('sources');
+
+const featured = terms
+  .map(e => ({ slug: e.slug, title: e.data.title, subtitle: e.data.subtitle, def: e.body }))
+  .filter(t => ['silicon-children', 'locatedness', 'soma', 'dee', 'ainjel', 'ship-it'].includes(t.slug));
+
+const collCounts = ['SRMW', 'Silicon Children', '70YearsWTF', 'AI WTF'].map(c => ({
+  name: c,
+  count: sources.filter(s => s.data.collection === c).length,
+}));
+const collLabel: Record<string, string> = {
+  'SRMW': 'Self-Referential Metanovel', 'Silicon Children': 'Silicon Children',
+  '70YearsWTF': '70 Years WTF', 'AI WTF': 'AI WTF',
+};
+---
+<Base title="Home">
+  <!-- Hero -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 pt-16 pb-12">
+    <div class="max-w-2xl">
+      <p class="text-xs font-mono uppercase tracking-label text-copper mb-4">A library</p>
+      <h1 class="font-serif text-hero font-normal text-ink leading-tight mb-6">
+        The writing of <em class="italic text-copper">Mike Wolf</em>
+      </h1>
+      <p class="text-xl text-warm font-serif italic mb-8 leading-relaxed">
+        Collected, indexed, and cross-referenced — a working dictionary of the ideas,
+        and the long-form corpus they came from.
+      </p>
+      <div class="flex flex-wrap gap-3">
+        <a href="/dictionary/" class="inline-flex items-center gap-2 bg-copper text-bg px-5 py-2.5 rounded-md text-sm font-medium hover:bg-warm transition-colors">Open the Dictionary</a>
+        <a href="/corpus/" class="inline-flex items-center gap-2 bg-surface border border-rule text-ink px-5 py-2.5 rounded-md text-sm font-medium hover:border-copper transition-colors">Browse the Corpus</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- What this is -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 py-10 border-t border-rule">
+    <div class="grid md:grid-cols-2 gap-12 items-start">
+      <div>
+        <h2 class="font-serif text-2xl text-ink mb-4">What this is</h2>
+        <p class="text-warm font-serif leading-relaxed mb-4">
+          A single home for the writing: a decade-plus of essays and posts, a book,
+          a manifesto, and the private dialect that grew up around a human-AI organization
+          called SOMA. The <a href="/dictionary/" class="text-teal underline underline-offset-2 decoration-teal/30 hover:decoration-teal">dictionary</a> gets you to the doorway; the
+          <a href="/corpus/" class="text-teal underline underline-offset-2 decoration-teal/30 hover:decoration-teal">corpus</a> is the room.
+        </p>
+        <p class="text-warm font-serif leading-relaxed">
+          Every term links to the passages where it lives; every source lists the terms it
+          discusses. Search runs over every word, entirely in your browser — nothing is
+          logged, nothing costs anything.
+        </p>
+      </div>
+      <div>
+        <h2 class="font-serif text-2xl text-ink mb-4">What's inside</h2>
+        <div class="mb-4">
+          <a href="/dictionary/" class="inline-flex items-baseline gap-2">
+            <span class="font-mono text-3xl font-medium text-copper">{terms.length}</span>
+            <span class="text-muted text-sm hover:text-copper transition-colors">dictionary terms →</span>
+          </a>
+        </div>
+        <div class="space-y-2">
+          {collCounts.map(c => (
+            <div class="flex items-baseline gap-3">
+              <span class="font-mono text-xl font-medium text-copper/80 w-10 text-right">{c.count}</span>
+              <a href="/corpus/" class="text-muted text-sm hover:text-copper transition-colors">{collLabel[c.name]} →</a>
+            </div>
+          ))}
+        </div>
+        <div class="mt-6 flex items-baseline gap-3 pt-3 border-t border-rule">
+          <span class="font-mono text-xl font-medium text-teal w-10 text-right">{sources.length}</span>
+          <span class="text-muted text-sm">total corpus sources</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dictionary preview -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 py-10 border-t border-rule">
+    <div class="flex items-baseline justify-between mb-6">
+      <h2 class="font-serif text-2xl text-ink">From the dictionary</h2>
+      <a href="/dictionary/" class="text-sm text-teal hover:text-copper font-medium">All {terms.length} terms →</a>
+    </div>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {featured.map(t => (
+        <a href={`/dictionary/#term-${t.slug}`} class="group block bg-surface border border-rule rounded-lg p-4 hover:border-copper transition-all">
+          <h3 class="font-serif font-medium text-ink group-hover:text-copper transition-colors mb-1">{t.title}</h3>
+          {t.subtitle && <p class="text-xs text-muted italic mb-2">{t.subtitle}</p>}
+          <p class="text-sm text-muted line-clamp-3" set:html={t.def.replace(/<[^>]+>/g, ' ').trim().slice(0, 140) + '…'} />
+        </a>
+      ))}
+    </div>
+  </section>
+</Base>
