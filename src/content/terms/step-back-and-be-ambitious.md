@@ -10,6 +10,7 @@ related:
   - "mistake-of-the-right-size"
 provenance: []
 tags:
+  - "dialect"
   - "rituals"
 ---
 

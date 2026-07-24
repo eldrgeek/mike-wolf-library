@@ -11,6 +11,7 @@ related:
 provenance:
   - "70yearswtf-pricing-lessons-learned"
 tags:
+  - "dialect"
   - "places"
 ---
 

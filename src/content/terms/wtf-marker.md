@@ -11,6 +11,7 @@ related:
   - "documentary-grade"
 provenance: []
 tags:
+  - "dialect"
   - "rituals"
 ---
 

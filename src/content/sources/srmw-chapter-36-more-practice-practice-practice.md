@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
   - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
+  - "srmw-chapter-5-a-metanovel"
+  - "srmw-chapter-7-who-s-in-the-metanovel"
+  - "srmw-chapter-9-finding-a-publisher"
 ---
 
 I woke up a 8:00 AM. “Practice, practice, practice,” I said to myself.

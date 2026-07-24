@@ -12,6 +12,7 @@ related:
   - "documentary-grade"
 provenance: []
 tags:
+  - "dialect"
   - "philosophy"
 ---
 

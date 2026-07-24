@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-the-ideas-of-intelligence-this-post"
+  - "70yearswtf-99-subscribers-are-here-on-my-blog"
+  - "70yearswtf-can-god-create-a-rock-so-big-that"
+  - "70yearswtf-even-aholes-can-get-missions-from"
 ---
 
 “I love you,” says my imaginary daughter in the imaginary conversation that I’m pretending that we’re having. “But honestly, your blog posts? They go on and on. I know you’ve got a lot of wisdom, but I can’t stick around waiting for it. I tune out after…”

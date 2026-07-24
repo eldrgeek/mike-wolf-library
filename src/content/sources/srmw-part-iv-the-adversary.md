@@ -12,11 +12,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
+  - "srmw-chapter-12-how-to-create-a-muse-without-a-muse"
+  - "srmw-chapter-13-evolving-a-muse"
   - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
   - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
 ---
 
 If at first you don’t succeed,

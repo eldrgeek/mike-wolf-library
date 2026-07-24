@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-applied-mindtravel-a-how-to-guide-19-10-19"
+  - "70yearswtf-celebrate-every-success-19-10-18"
+  - "70yearswtf-i-imagine-that-this-will-be-one-of"
+  - "70yearswtf-quality-19-10-17"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Daniel and I have a regular call, once a week, for about an hour.

@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-even-more-like-heaven-and-the-internet"
+  - "70yearswtf-happy-cohabiversary-to-us-15-03-08"
+  - "70yearswtf-my-life-is-over-and-thats-a-good"
+  - "70yearswtf-to-my-best-friend-on-our-47th-anniversary-17-08-30"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 *What an AI imagines that Chilling Street Cottage might look like. It’s wrong, of course.*

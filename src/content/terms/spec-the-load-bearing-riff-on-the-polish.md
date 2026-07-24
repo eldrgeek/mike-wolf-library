@@ -10,6 +10,7 @@ related:
   - "ship-it"
 provenance: []
 tags:
+  - "dialect"
   - "rituals"
 ---
 

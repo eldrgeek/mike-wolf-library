@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-lapses-and-fubar-13-01-03"
+  - "70yearswtf-lowering-the-bar-a-technique-for-13-01-05"
+  - "70yearswtf-reality-isnt-optional-13-01-05"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I've published 272 posts since I started this blog. When I thought about what I've written, the first three that I remembered being particularly proud of writing were ["Violence Markets and Government Monopolies"](https://70yearsoldwtf.blogspot.com/2015/11/violence-markets-and-government.html) and ["The Illusion of Liberal Failure"](https://70yearsoldwtf.blogspot.com/2016/03/the-illusion-of-liberal-failure-part-i.html) and ["Reality Isn't Optional"](https://70yearsoldwtf.blogspot.com/2013/01/reality-isnt-optional.html) Each is a fairly well thought through treatment of a political/economic idea.

@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-a-series-of-strokes-19-03-11"
+  - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"
+  - "70yearswtf-what-problem-are-you-trying-to-solve-18-11-13"
+  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Yesterday was pretty much a waste of time. Trust me, reading this will not waste your time. It will save you time. Read it and remember it.

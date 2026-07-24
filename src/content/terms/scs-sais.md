@@ -11,6 +11,7 @@ related:
   - "wtf-marker"
 provenance: []
 tags:
+  - "dialect"
   - "rituals"
 ---
 

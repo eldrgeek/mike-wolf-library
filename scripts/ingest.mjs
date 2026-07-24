@@ -35,6 +35,9 @@ const P = {
   // These files are named `70yearswtf-<postslug>.md` and are the canonical
   // on-disk copy (bodies are NOT re-fetched during ingest — avoids Substack 429s).
   seventyArchive: join(ROOT, 'content-cache/70yt'),
+  // Extra dictionary terms extracted from Mike's writing (SRMW, Wall, 70yt, chats),
+  // pre-rendered to the term output schema (HTML body). Source-tagged in frontmatter.
+  termsExtra: join(ROOT, 'content-cache/terms-extra'),
   aiwtfPosts: join(HOME, 'Projects/SOMA/aiwtf/posts'),
   aiwtfDrafts: join(HOME, 'Projects/SOMA/aiwtf/drafts'),
 };
@@ -189,7 +192,7 @@ function parseLexicon() {
       theme: e.theme,
       origin,
       relatedNames,
-      tags: [themeTag].filter(Boolean),
+      tags: ['dialect', themeTag].filter(Boolean),
       bodyHtml,
       bodyText,
     });
@@ -336,6 +339,39 @@ function parse70yt() {
     n++;
   }
   console.log(`  70YearsWTF → ${n} posts`);
+}
+
+// Extra dictionary terms mined from Mike's writing (SRMW/Wall/70yt/chats), pre-rendered
+// to the term schema with HTML bodies. Dedupe by slug vs the live Lexicon terms.
+function parseTermsExtra() {
+  if (!existsSync(P.termsExtra)) { console.log('  Dictionary extra → (none)'); return; }
+  const seen = new Set(termRecords.map(t => t.slug));
+  let n = 0, dupes = 0;
+  for (const f of readdirSync(P.termsExtra)) {
+    if (!f.endsWith('.md') || f.startsWith('_')) continue;
+    const slug = f.replace(/\.md$/, '');
+    if (seen.has(slug)) { dupes++; continue; }
+    const { data, body } = parseFrontmatter(readFileSync(join(P.termsExtra, f), 'utf8'));
+    const letter = (data.letter && /[A-Z]/.test(data.letter)) ? data.letter
+      : ((data.title || slug)[0] || '#').toUpperCase().replace(/[^A-Z]/, '#');
+    const bodyHtml = body.trim();
+    termRecords.push({
+      slug,
+      letter,
+      title: data.title || slug.replace(/-/g, ' '),
+      subtitle: data.subtitle || '',
+      theme: data.theme || undefined,
+      origin: data.origin || data.source || '',
+      relatedNames: Array.isArray(data.related) ? data.related : [],
+      tags: Array.isArray(data.tags) ? data.tags : (data.tags ? [data.tags] : []),
+      provenance: Array.isArray(data.provenance) ? data.provenance : [],
+      bodyHtml,
+      bodyText: bodyHtml.replace(/<[^>]+>/g, ' '),
+    });
+    seen.add(slug);
+    n++;
+  }
+  console.log(`  Dictionary extra → ${n} terms (${dupes} dupes skipped)`);
 }
 
 // Full 70YearsWTF archive (688+ posts) fetched to content-cache/70yt/.
@@ -494,6 +530,7 @@ function writeAll() {
 // ── Run ───────────────────────────────────────────────────────────────────────
 console.log('Ingesting Mike Wolf Library corpus…\n');
 parseLexicon();
+parseTermsExtra();
 parseSRMW();
 parse70yt();
 parse70ytArchive();

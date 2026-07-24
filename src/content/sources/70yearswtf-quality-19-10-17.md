@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-applied-mindtravel-a-how-to-guide-19-10-19"
+  - "70yearswtf-celebrate-every-success-19-10-18"
+  - "70yearswtf-i-imagine-that-this-will-be-one-of"
+  - "70yearswtf-victory-laps-complete-it-or-delete-19-10-16"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 *Photo by **[Javier Aguilera](https://www.pexels.com/@jamphotography?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/low-angle-photo-of-black-harley-davidson-forty-eight-1200-motorcycle-parked-on-dirt-road-during-golden-hour-2611690/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***

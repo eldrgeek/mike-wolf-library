@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-75-years-5-days-posting-retrospective-17-12-26"
+  - "70yearswtf-lapses-and-fubar-13-01-03"
+  - "70yearswtf-reality-isnt-optional-13-01-05"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I was pretty pleased with (logical) yesterday's post, ["Reality Isn't Optional,"](https://70yearsoldwtf.blogspot.com/2013/01/reality-isnt-optional.html) apart from the time that it took to get it out. I started on the day after my blog says I posted it, but didn't post it until I was happy. That took a few days of editing and rewriting, making my thinking clearer and the prose better, and correcting my many spelling and grammar errors (some of which may still be there).

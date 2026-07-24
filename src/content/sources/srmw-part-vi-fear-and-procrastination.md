@@ -12,10 +12,10 @@ tags:
   - "metanovel"
   - "writing"
 related:
+  - "srmw-part-ii-the-metanovel"
   - "70yearswtf-fifi-and-raul-and-mike-and-bobbi-18-01-13"
   - "70yearswtf-modems-and-memories-19-08-27"
   - "srmw-part-i-before-the-beginning"
-  - "srmw-part-ii-the-metanovel"
   - "srmw-chapter-1-starting-out-the-first-chapter"
 ---
 

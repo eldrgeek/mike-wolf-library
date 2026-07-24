@@ -15,6 +15,7 @@ provenance:
   - "70yearswtf-the-heros-journey-continues"
   - "70yearswtf-waking-up-and-the-illusion-of-the-19-06-22"
 tags:
+  - "dialect"
   - "architecture"
 ---
 

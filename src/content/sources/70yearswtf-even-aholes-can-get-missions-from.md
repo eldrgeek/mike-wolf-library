@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-we-are-all-unconscious-universe-makers"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-silicon-children"
-  - "70yearswtf-the-silicon-children-post-sharing"
-  - "70yearswtf-sam-harris-on-the-ai-threat-16-10-09"
-  - "ai-wtf-2026-05-06-creativity"
+  - "70yearswtf-the-ideas-of-intelligence-this-post"
 ---
 
 *Image by MidJourney*

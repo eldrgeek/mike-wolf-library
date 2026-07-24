@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-fifi-and-raul-and-soledad-and-santiago"
   - "70yearswtf-modems-and-memories-19-08-27"
   - "srmw-part-vi-fear-and-procrastination"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
 ---
 
 Family Jeopardy. Our three girls are standing in front of their buzzers.

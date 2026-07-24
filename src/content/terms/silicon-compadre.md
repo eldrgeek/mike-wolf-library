@@ -11,6 +11,7 @@ related:
   - "the-foundation"
 provenance: []
 tags:
+  - "dialect"
   - "philosophy"
 ---
 

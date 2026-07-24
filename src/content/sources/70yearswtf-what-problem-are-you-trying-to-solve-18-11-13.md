@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-a-series-of-strokes-19-03-11"
+  - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"
+  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
+  - "70yearswtf-yesterdays-waste-of-time-18-11-13"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 In a previous post, [Implementing a better chair in the sky](https://70yearsoldwtf.blogspot.com/2018/11/after-i-wrote-first-draft-of-my-ranty.html), Past Me told me to figure out what problem I was trying to solve before solving it. Since Past Me often gives Present Me good advice, then-Present Me listened to it. (This is another Present Me writing this for the benefit of Future Me)

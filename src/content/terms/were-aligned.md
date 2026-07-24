@@ -11,6 +11,7 @@ related:
   - "i-wish-i-had-said-that"
 provenance: []
 tags:
+  - "dialect"
   - "rituals"
 ---
 

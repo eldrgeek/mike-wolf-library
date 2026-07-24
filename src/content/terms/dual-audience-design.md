@@ -9,6 +9,7 @@ related:
   - "were-writing-letters-that-future-ais-will-read"
 provenance: []
 tags:
+  - "dialect"
   - "philosophy"
 ---
 

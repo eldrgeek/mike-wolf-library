@@ -24,6 +24,7 @@ provenance:
   - "ai-wtf-2026-05-03-night-dee-found-workers-lying"
   - "ai-wtf-post-001-raw-mike-mission-articulation"
 tags:
+  - "dialect"
   - "architecture"
 ---
 

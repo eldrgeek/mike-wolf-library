@@ -11,6 +11,7 @@ related:
   - "dee"
 provenance: []
 tags:
+  - "dialect"
   - "philosophy"
 ---
 

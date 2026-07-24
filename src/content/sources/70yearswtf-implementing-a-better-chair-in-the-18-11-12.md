@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-a-series-of-strokes-19-03-11"
+  - "70yearswtf-what-problem-are-you-trying-to-solve-18-11-13"
+  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
+  - "70yearswtf-yesterdays-waste-of-time-18-11-13"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 After I wrote the first draft of [my ranty blog post on how it is to be in an uncomfortable chair in the sky](https://70yearsoldwtf.blogspot.com/2018/11/when-your-chair-in-sky-is-just-not.html), I decided to actually try and do something about it. What a surprise! Me, doing something based on a plan.

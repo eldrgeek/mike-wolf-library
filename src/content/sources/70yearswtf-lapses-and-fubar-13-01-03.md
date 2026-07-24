@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-75-years-5-days-posting-retrospective-17-12-26"
+  - "70yearswtf-lowering-the-bar-a-technique-for-13-01-05"
+  - "70yearswtf-reality-isnt-optional-13-01-05"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Three posts into Project70 and my first lapse. Notwithstanding this post's date, (google has forgivingly let me backdate it) today is January 5th and I've missed two days.

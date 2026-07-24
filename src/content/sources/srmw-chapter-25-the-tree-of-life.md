@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
+  - "srmw-part-iii-memories"
+  - "srmw-part-i-before-the-beginning"
   - "srmw-chapter-1-starting-out-the-first-chapter"
   - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
 ---
 
 The chapter changed, of course. But that was one small detail. The big change was my per­

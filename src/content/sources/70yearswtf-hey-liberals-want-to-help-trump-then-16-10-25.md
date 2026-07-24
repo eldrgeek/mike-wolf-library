@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-a-meditation-on-assholery-18-08-20"
+  - "70yearswtf-frustration-and-forgiveness-19-05-22"
+  - "70yearswtf-hooponopono-20-01-08"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I'm not kidding. Every bit of assholery helps. Call him names. Make bad arguments. Mock his supporters. Yeah, that will help a lot.

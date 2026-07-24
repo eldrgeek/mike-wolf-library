@@ -1,0 +1,17 @@
+---
+letter: "T"
+title: "Tea Party of the mind"
+subtitle: "vocal minority of mental agents that blocks consensus action"
+theme: "Philosophy & Doctrine"
+authored_by: "Mike Wolf & the SOMA fleet"
+origin: "70yt *dysfunction-in-the-society-of-mind* (batch 4)."
+source: "70yt *dysfunction-in-the-society-of-mind* (batch 4)."
+related: []
+provenance:
+  - "70yearswtf-dysfunction-in-the-society-of-mind-14-12-09"
+tags:
+  - "- \"70yt"
+---
+
+<p><strong>What we mean.</strong> Minsky society of mind politicized: disruptive minority forces inaction.</p>
+<blockquote><p>“Think of that as the Tea Party of the mind.” — 70yt *dysfunction-in-the-society-of-mind* (batch 4).</p></blockquote>

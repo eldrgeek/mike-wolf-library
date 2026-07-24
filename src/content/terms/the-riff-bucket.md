@@ -11,6 +11,7 @@ related:
   - "bathos"
 provenance: []
 tags:
+  - "dialect"
   - "rituals"
 ---
 

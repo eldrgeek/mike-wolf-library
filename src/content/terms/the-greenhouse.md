@@ -12,6 +12,7 @@ related:
 provenance:
   - "70yearswtf-birthday-activity-part-1-17-12-31"
 tags:
+  - "dialect"
   - "philosophy"
 ---
 

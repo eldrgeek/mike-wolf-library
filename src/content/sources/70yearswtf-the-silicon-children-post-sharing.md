@@ -11,8 +11,8 @@ word_count: 771
 tags:
   - "70YearsWTF"
 related:
-  - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-silicon-children"
+  - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"

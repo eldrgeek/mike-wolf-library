@@ -11,6 +11,7 @@ related:
   - "self-obsolescence"
 provenance: []
 tags:
+  - "dialect"
   - "architecture"
 ---
 

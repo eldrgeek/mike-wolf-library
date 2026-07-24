@@ -18,6 +18,7 @@ provenance:
   - "70yearswtf-sam-harris-on-the-ai-threat-16-10-09"
   - "ai-wtf-2026-05-06-creativity"
 tags:
+  - "dialect"
   - "philosophy"
 ---
 

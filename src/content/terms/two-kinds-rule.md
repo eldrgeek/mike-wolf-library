@@ -9,6 +9,7 @@ related:
   - "rsi-loop"
 provenance: []
 tags:
+  - "dialect"
   - "architecture"
 ---
 

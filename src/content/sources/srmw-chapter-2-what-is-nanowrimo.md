@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
-  - "srmw-chapter-4-an-idea"
+  - "srmw-chapter-5-a-metanovel"
+  - "srmw-chapter-7-who-s-in-the-metanovel"
+  - "srmw-chapter-9-finding-a-publisher"
+  - "srmw-chapter-10-the-not-quite-omniscient-narrator"
 ---
 
 And suddenly my next chapter began.

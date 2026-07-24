@@ -11,11 +11,11 @@ word_count: 647
 tags:
   - "70YearsWTF"
 related:
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-ideas-want-to-survive-they-want-their-18-07-05"
+  - "70yearswtf-can-god-create-a-rock-so-big-that"
+  - "70yearswtf-really-im-supposed-to-save-the-world"
+  - "70yearswtf-reboot"
+  - "70yearswtf-do-ideas-exist"
 ---
 
 > *Why canonical (Mem's note):* The post where Bach + Deutsch are explicitly named in 70yearswtf canon, three days after the God-existence post. Critical paragraph for substrate work: *"Information is non-material and yet has causal power. So says Joscha Bach. Knowledge is a kind of information. So says David Deutsch. Information needs a material substrate. Yet the same information can be in many places without violating any Known Laws of the Universe."* This is Mike's substrate-independence argument, sourced. Closes: *"All ideas are connected, and the union of all ideas, connected, is the idea of God."*

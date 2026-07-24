@@ -10,6 +10,7 @@ related:
   - "silicon-compadre"
 provenance: []
 tags:
+  - "dialect"
   - "philosophy"
 ---
 

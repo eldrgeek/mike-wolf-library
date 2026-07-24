@@ -1,0 +1,16 @@
+---
+letter: "A"
+title: "all my wishes are dying wishes"
+subtitle: "every wish is a dying wish because we are already dying (slowly)"
+theme: "Philosophy & Doctrine"
+authored_by: "Mike Wolf"
+origin: "70yt *anytime-i-am-there-and-other-dying* (batch 5)."
+source: "70yt *anytime-i-am-there-and-other-dying* (batch 5)."
+related: []
+provenance: []
+tags:
+  - "70yt"
+  - "philosophy"
+---
+<p><strong>What we mean.</strong> Mortality as continuous condition, not final scene only.</p>
+<blockquote><p>“all my wishes are dying wishes because I’m dying” — 70yt *anytime-i-am-there-and-other-dying* (batch 5).</p></blockquote>

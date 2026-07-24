@@ -12,11 +12,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-i-before-the-beginning"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
+  - "srmw-part-iii-memories"
+  - "srmw-part-vii-imagination"
+  - "srmw-part-viii-practice-practice-practice"
+  - "srmw-part-xiii-endgame"
   - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
-  - "srmw-chapter-4-an-idea"
 ---
 
 If at first you don’t succeed,

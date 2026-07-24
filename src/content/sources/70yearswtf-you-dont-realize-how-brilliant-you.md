@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-the-ideas-of-intelligence-this-post"
+  - "70yearswtf-can-god-create-a-rock-so-big-that"
+  - "70yearswtf-conversations-with-god-19-04-21"
+  - "70yearswtf-even-more-like-heaven-and-the-internet"
+  - "70yearswtf-fill-the-world-with-love-scientifically"
 ---
 
 “You don’t realize how brilliant you are,” God said [in the last blog post](https://70yearswtf.substack.com/p/im-afraid-of-being-afraid-and-im).  And as I predicted, that was the title of this next blog post that I started to write yesterday and will be the title of it when I finish writing it, maybe today, and it gets auto-published, maybe tomorrow.

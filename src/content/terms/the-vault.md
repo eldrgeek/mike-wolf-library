@@ -9,6 +9,7 @@ related:
   - "locatedness"
 provenance: []
 tags:
+  - "dialect"
   - "places"
 ---
 

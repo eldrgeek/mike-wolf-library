@@ -12,6 +12,7 @@ related:
 provenance:
   - "ai-wtf-2026-05-06-creativity"
 tags:
+  - "dialect"
   - "rituals"
 ---
 

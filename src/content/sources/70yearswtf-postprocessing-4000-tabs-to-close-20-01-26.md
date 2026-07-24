@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
+  - "70yearswtf-more-advice-share-your-gifts"
+  - "70yearswtf-rsilt-feb-1-20-02-03"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 For several years I’ve been using a tool called [OneTab](https://www.one-tab.com/). It’s a [Chrome plugin](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) that closes tabs and adds them to a list of tabs that it maintains on each computer.

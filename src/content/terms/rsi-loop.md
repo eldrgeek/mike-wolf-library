@@ -13,6 +13,7 @@ related:
 provenance:
   - "ai-wtf-post-001-raw-mike-mission-articulation"
 tags:
+  - "dialect"
   - "architecture"
 ---
 

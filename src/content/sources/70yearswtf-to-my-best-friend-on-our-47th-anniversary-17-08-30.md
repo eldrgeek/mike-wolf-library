@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-even-more-like-heaven-and-the-internet"
+  - "70yearswtf-happy-cohabiversary-to-us-15-03-08"
+  - "70yearswtf-happy-cohabiversary"
+  - "70yearswtf-my-life-is-over-and-thats-a-good"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Today is our 47th wedding anniversary. We’re in countdown territory. My 75th birthday is in December. My slightly older best friend and wife (same person) has already celebrated hers. Next March 8th is our 50th cohabiversary--the day we first started living together. And two years after that is our 50th wedding anniversary.

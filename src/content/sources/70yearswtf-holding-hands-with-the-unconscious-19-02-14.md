@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-more-advice-share-your-gifts"
+  - "70yearswtf-postprocessing-4000-tabs-to-close-20-01-26"
+  - "70yearswtf-rsilt-feb-1-20-02-03"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I’m close to making a change in my life. Everything’s ready. It’s been ready for a while. But I don’t make the change. This happens a lot.

@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
+  - "srmw-part-iv-the-adversary"
+  - "srmw-chapter-12-how-to-create-a-muse-without-a-muse"
   - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
   - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
 ---
 
 And just like that, I had a new chapter and two new ideas. Evolution and a metamuse. I’d

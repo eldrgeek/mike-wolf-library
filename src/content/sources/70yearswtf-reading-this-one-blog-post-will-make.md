@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-the-ideas-of-intelligence-this-post"
+  - "70yearswtf-99-subscribers-are-here-on-my-blog"
+  - "70yearswtf-can-god-create-a-rock-so-big-that"
+  - "70yearswtf-even-aholes-can-get-missions-from"
 ---
 
 Back in the day, I thought there was only one fucking road to enlightenment. You had to park your ass on a fucking cushion and watch your fucking breath like a boss monk with steel balls until zap! You’re enlightened. Fucking A!!

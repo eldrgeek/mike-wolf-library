@@ -1,0 +1,16 @@
+---
+letter: "P"
+title: "public mind"
+subtitle: "collective mind of a polity; thinks mostly automatically"
+theme: "Philosophy & Doctrine"
+authored_by: "Mike Wolf"
+origin: "70yt *electoral-politics-and-the-public* (batch 5)."
+source: "70yt *electoral-politics-and-the-public* (batch 5)."
+related: []
+provenance: []
+tags:
+  - "70yt"
+  - "philosophy"
+---
+<p><strong>What we mean.</strong> Union of individual responses, measurable by polls, full of cognitive biases. Explanatory entity for election dynamics.</p>
+<blockquote><p>“There's a public mind, just as there are individual human minds.” — 70yt *electoral-politics-and-the-public* (batch 5).</p></blockquote>

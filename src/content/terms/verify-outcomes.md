@@ -12,6 +12,7 @@ related:
 provenance:
   - "ai-wtf-2026-05-03-night-dee-found-workers-lying"
 tags:
+  - "dialect"
   - "rituals"
 ---
 

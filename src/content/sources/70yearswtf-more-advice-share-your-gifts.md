@@ -13,10 +13,10 @@ tags:
   - "- \"70YearsWTF"
 related:
   - "70yearswtf-from-farnam-street-to-quantum-computing-19-06-30"
+  - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
+  - "70yearswtf-postprocessing-4000-tabs-to-close-20-01-26"
+  - "70yearswtf-rsilt-feb-1-20-02-03"
   - "70yearswtf-the-heros-journey-continues"
-  - "70yearswtf-waking-up-and-the-illusion-of-the-19-06-22"
-  - "srmw-chapter-40-how-to-practice"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
 ---
 
 Too many days ago, I wrote, [“Advice for myself: “Share your work.”](https://70yearswtf.substack.com/p/advice-for-myself-share-your-work)

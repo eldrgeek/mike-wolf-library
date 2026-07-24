@@ -10,6 +10,7 @@ related:
 provenance:
   - "70yearswtf-how-to-talk-with-an-llm-context"
 tags:
+  - "dialect"
   - "architecture"
 ---
 

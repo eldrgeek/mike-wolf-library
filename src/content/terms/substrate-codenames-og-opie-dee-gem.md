@@ -11,6 +11,7 @@ related:
   - "cheapest-capable"
 provenance: []
 tags:
+  - "dialect"
   - "architecture"
 ---
 

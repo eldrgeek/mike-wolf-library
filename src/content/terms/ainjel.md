@@ -11,6 +11,7 @@ related:
   - "three-trees-one-greenhouse"
 provenance: []
 tags:
+  - "dialect"
   - "philosophy"
 ---
 

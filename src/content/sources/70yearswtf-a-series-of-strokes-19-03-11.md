@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"
+  - "70yearswtf-what-problem-are-you-trying-to-solve-18-11-13"
+  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
+  - "70yearswtf-yesterdays-waste-of-time-18-11-13"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 What’s the difference between losing a memory because of a stroke and losing one because of “natural forgetfulness?” Or because of senility—which is what you call an old person’s natural forgetfulness.

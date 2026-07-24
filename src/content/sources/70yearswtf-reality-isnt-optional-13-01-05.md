@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "- \"70YearsWTF"
 related:
+  - "70yearswtf-75-years-5-days-posting-retrospective-17-12-26"
+  - "70yearswtf-lapses-and-fubar-13-01-03"
+  - "70yearswtf-lowering-the-bar-a-technique-for-13-01-05"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 A while ago I created a blog called *[Reality Isn't Optional](https://realityisntoptional.blogspot.com/)*. The name comes from a friend of mine, who uses that phrase as a touchstone when he (a libertarian of the Republican variety) is criticizing the ideas of the Left. I think it's an apt phrase when criticizing the ideas of Left, Right, North, South, and so on.
