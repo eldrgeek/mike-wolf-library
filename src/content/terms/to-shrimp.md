@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-senior-creativity-to-shrimp-15-01-09"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> One-afternoon coinage: get the larger edition and <em>shrimp it</em>. Clears backlog by inventing a word.</p>

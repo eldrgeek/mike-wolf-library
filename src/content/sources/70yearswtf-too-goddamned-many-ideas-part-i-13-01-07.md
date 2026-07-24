@@ -10,7 +10,8 @@ excerpt: "No idea exists in isolation. Every idea is part of a network of ideas 
 word_count: 901
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

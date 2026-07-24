@@ -7,12 +7,14 @@ date: "2019-06-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/paradise-forgotten-paradise-remembered-19-06-09"
 excerpt: "Photo: Davide Cantelli Paradise forgotten, paradise remembered I ended May with a flurry of writing activity: seven posts in this blog in five days. And several posts in others, too. That’s the way that I want things to be. Then…"
-word_count: 200
+word_count: 199
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/paradise-forgotten-paradise-remembered-19-06-09/1.jpg)
 
 *Photo: [Davide Cantelli](https://unsplash.com/@cant89)*
 

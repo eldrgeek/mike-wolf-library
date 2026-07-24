@@ -11,7 +11,8 @@ provenance:
   - "srmw-part-ii-the-metanovel"
   - "srmw-part-vi-fear-and-procrastination"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Named chapter in Fear and Procrastination arc. Handle for the panic loop where Third Classic Blunder is felt before defined.</p>

@@ -10,7 +10,9 @@ excerpt: "Photo by [Valentin Lacoste](https://unsplash.com/@valentinlacoste) on 
 word_count: 785
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-frustration-and-forgiveness-19-05-22"
   - "70yearswtf-hey-liberals-want-to-help-trump-then-16-10-25"

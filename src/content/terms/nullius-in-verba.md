@@ -9,7 +9,8 @@ source: "Royal Society 1660; adopted Mike 2026-05-06 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Royal Society motto as source-curation: primary sources (HIG, NIST, original papers, Mike’s writings) over consensus-of-recaps. Skepticism at sources, not curiosity.</p>

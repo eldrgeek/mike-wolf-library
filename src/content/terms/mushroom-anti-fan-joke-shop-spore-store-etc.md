@@ -9,7 +9,10 @@ source: "Vault titles scan."
 related: []
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
+link: "https://mushroom-madness-boutique.lovable.app"
+link_label: "mushroom-madness-boutique.lovable.app"
 ---
 
 <p><strong>What we mean.</strong> Concept is Mike’s; names largely assistant-suggested. No locked Mike brand string. Working title: “Spore Store” (and similar assistant-suggested names) are provisional; the locked idea is the anti-fan mushroom joke shop, not a specific brand string.</p>

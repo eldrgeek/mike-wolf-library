@@ -7,12 +7,14 @@ date: "2019-07-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/what-really-happened-in-paris-19-07-24"
 excerpt: "Faula Theiry Part I “I don’t know if it’s possible to take that shot and get the stars in one go, must be a composite. Several hundred maybe. What do you think?” “Right. No chance it’s a single shot.” “Holy…"
-word_count: 1180
+word_count: 1179
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/what-really-happened-in-paris-19-07-24/1.jpg)
 
 *[Faula Theiry](https://500px.com/photo/52071370/montmartre-paris-by-faula-thierry)*
 

@@ -10,7 +10,8 @@ excerpt: "If no one makes the world better, the world gets worse. Fortunately, t
 word_count: 650
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

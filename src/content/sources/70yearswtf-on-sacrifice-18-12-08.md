@@ -10,7 +10,9 @@ excerpt: "The other day I got into a discussion on the internet. This happens. I
 word_count: 1252
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

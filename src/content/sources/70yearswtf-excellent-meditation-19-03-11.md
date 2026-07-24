@@ -10,7 +10,8 @@ excerpt: "A while ago I had an excellent meditation session that combined what I
 word_count: 818
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

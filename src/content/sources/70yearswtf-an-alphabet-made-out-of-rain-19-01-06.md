@@ -10,7 +10,9 @@ excerpt: "Daniel wrote this in a hangout that we share: During my run today (lis
 word_count: 1625
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

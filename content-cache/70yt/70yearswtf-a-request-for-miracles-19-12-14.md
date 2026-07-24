@@ -7,11 +7,13 @@ date: "2019-12-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/a-request-for-miracles-19-12-14"
 excerpt: "I asked, and I received"
-word_count: 560
+word_count: 649
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![A tranquil 16:9 cover image that fills the entire frame and reflects the theme of miracles and discovery. The scene features a serene landscape with vibrant shades of blue and green, showcasing a peaceful ocean meeting the horizon under a soft blue sky. A lush, green forest frames the sides, and a winding path leads through the greenery toward the ocean. In the center of the path, a glowing, ethereal light symbolizes connection and wonder. The composition fully fills the frame, emphasizing nature's beauty, calmness, and a sense of awe.](/media/70yt/a-request-for-miracles-19-12-14/1.jpg)
 
 It started with a conversation at the Stonington Opera House. A young woman told me about her miracle—her child.
 

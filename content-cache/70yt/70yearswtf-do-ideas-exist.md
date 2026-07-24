@@ -7,7 +7,7 @@ date: "2021-06-28"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/do-ideas-exist"
 excerpt: "Why canonical (Mem's note): Earlier (2021) articulation of ideas-as-conversational-partners. \"Every word is full of ideas. Without ideas, words would be just noises or patterns of squiggles.\" Establishes the ideas-talk-back voicing trick…"
-word_count: 850
+word_count: 695
 tags:
   - "70YearsWTF"
 related:
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-mistakes-are-the-only-route-to-knowledge"
 ---
 
+
+
 > *Why canonical (Mem's note):* Earlier (2021) articulation of ideas-as-conversational-partners. *"Every word is full of ideas. Without ideas, words would be just noises or patterns of squiggles."* Establishes the ideas-talk-back voicing trick that Mike uses across the cluster. Less philosophical-load than the 2024 cluster but key voice exemplar.
 
 
@@ -25,7 +27,7 @@ related:
 
 ---
 
-[](https://substackcdn.com/image/fetch/$s_!TI8l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50bb722c-d36a-43bc-b4bc-7fa51b99b4af_2200x1529.jpeg)
+![](/media/70yt/do-ideas-exist/1.jpg)
 
 Ideas come to me. Sometimes they come in a flash. Sometimes they appear slowly.
 
@@ -75,9 +77,9 @@ Take the idea for writing this post.
 
 “Yes,” I said.
 
-“The truth,” said the idea, “is the God you talk to is as real as you are. And She doesn’t sometimes talk to you. She always talks to you. You only listen occasionally….”
+“The truth,” said the idea, “is the God you talk to is as real as you are. And She doesn’t sometimes talk to you. She always talks to you.  You only listen occasionally….”
 
-“…and hear even less often,” God added. 
+“…and hear even less often,” God added.
 
 “Yes,” said the idea. “Thus, you have the illusion that God ‘sometimes talk to you,’ It’s not real. It’s the result of your inattention.” God nodded.
 
@@ -109,7 +111,7 @@ Take the idea for writing this post.
 
 She turned to me. “What would your life be without ideas?” God asked.
 
-It did not take me long to answer. 
+It did not take me long to answer.
 
 “My life would be empty,” I said. “I love ideas.”
 
@@ -129,10 +131,6 @@ I paused for only a moment.
 
 “Amen,” said a chorus of Ideas.
 
-Subscribe
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 “Subscribe now,” said a button.
-
----
-
-*Archived to SOMA canon 2026-05-06 by Mem. Provenance: fetched directly from 70yearswtf.substack.com via host shell. Original is the source of truth; this copy exists so the team can cite without round-tripping the network.*

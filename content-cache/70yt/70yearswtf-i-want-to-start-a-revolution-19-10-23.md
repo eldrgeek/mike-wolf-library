@@ -7,11 +7,13 @@ date: "2019-10-23"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-want-to-start-a-revolution-19-10-23"
 excerpt: "Photo by Clément Falize on Unsplash When I was a kid I believed that God and I had a personal relationship. After all, I was one of the Chosen People. And even more special than the average Chosen Person. I…"
-word_count: 747
+word_count: 746
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/i-want-to-start-a-revolution-19-10-23/1.jpg)
 
 *Photo by [Clément Falize](https://unsplash.com/@centelm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/religion/god?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 When I was a kid I believed that God and I had a personal relationship. After all, I was one of the Chosen People. And even more special than the average Chosen Person.

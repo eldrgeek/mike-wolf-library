@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-the-aging-retired-adder-13-08-14"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Start researching; end hours later on frogs or quantum physics. Named failure mode.</p>

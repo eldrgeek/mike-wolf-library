@@ -10,7 +10,8 @@ excerpt: "We civilize kids by teaching them to manage their emotions, their beha
 word_count: 1005
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

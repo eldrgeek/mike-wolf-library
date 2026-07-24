@@ -9,7 +9,8 @@ source: "70yt *in-the-underworld* (batch 5)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Descend to thank, sit with, and forgive dead past selves. Typographic theology.</p>

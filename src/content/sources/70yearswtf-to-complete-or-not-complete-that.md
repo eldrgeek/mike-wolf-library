@@ -6,11 +6,13 @@ order: 0
 date: "2023-12-13"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/to-complete-or-not-complete-that"
-excerpt: "That’s how this post started out. Here’s how it gets completed. The problem is completing what I start. I’ve got 138 unpublished (and therefore incomplete) drafts right now. This is maybe number 138. Or possibly 139. I could find out by…"
-word_count: 696
+excerpt: "![](/media/70yt/to-complete-or-not-complete-that/1.jpg) That’s how this post started out. Here’s how it gets completed. The problem is completing what I start. I’ve got 138 unpublished (and therefore incomplete) drafts right now. This is…"
+word_count: 821
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -19,6 +21,8 @@ related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
+![](/media/70yt/to-complete-or-not-complete-that/1.jpg)
+
 That’s how this post started out. Here’s how it gets completed.
 
 The problem is completing what I start.
@@ -26,6 +30,10 @@ The problem is completing what I start.
 I’ve got 138 unpublished (and therefore incomplete) drafts right now. This is maybe number 138. Or possibly 139. I could find out by starting another one. But I won’t. Because then I’d make the problem worse. I’d have 139 or possibly 140 incomplete drafts.
 
 Among the most popular kinds of Large Language Models (LLMs) are GPTs, which is the kind of thing that ChatGPT is GPT means “Generative Pretrained Transformers.” What’s a Generative Pretrained Transformer? Let’s ask one.
+
+![](/media/70yt/to-complete-or-not-complete-that/2.jpg)
+
+![](/media/70yt/to-complete-or-not-complete-that/3.jpg)
 
 Blah blah blah. It goes on.
 
@@ -113,3 +121,5 @@ Really.
 > ##### Me
 
 Done
+
+![A whimsical illustration of a self-referential GPT (Generative Pre-trained Transformer). The image shows a series of GPT models, each depicted as robotic or virtual entities, with the first one describing a GPT, which in turn is describing another GPT, creating an infinite loop. Each GPT in the series is slightly smaller than the previous one, giving a sense of recursion and continuity. The setting is abstract, emphasizing the conceptual and digital nature of GPTs, with a backdrop of binary code or futuristic elements.](/media/70yt/to-complete-or-not-complete-that/4.jpg)

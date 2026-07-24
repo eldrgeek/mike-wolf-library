@@ -10,7 +10,9 @@ excerpt: "Haha, it’s a trick question. Kids don’t misbehave. And neither do 
 word_count: 713
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

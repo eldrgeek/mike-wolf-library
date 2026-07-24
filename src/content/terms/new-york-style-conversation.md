@@ -9,7 +9,8 @@ source: "70yt *new-york-style-vs-californianew-england* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Interrupt, talk over, argue loud — as love and engagement. Contrasted with California/New England polite turn-taking.</p>

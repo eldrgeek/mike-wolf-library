@@ -9,7 +9,8 @@ source: "70yt *free-will-and-self-improvement* (batch 2)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Default/non-awake = perceive and act without reflection; free will ≈ flip a bit between conditioned courses only while awake.</p>

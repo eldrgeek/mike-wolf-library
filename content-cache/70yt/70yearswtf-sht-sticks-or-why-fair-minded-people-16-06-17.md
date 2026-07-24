@@ -7,12 +7,14 @@ date: "2016-06-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/sht-sticks-or-why-fair-minded-people-16-06-17"
 excerpt: "Everybody dislikes Hillary. Not any of the left-leaning folks who I know. And the right-leaners? Fuggedaboudit. I don't like her either. But I've concluded that I dislike her more than she deserves. Why? Because of data and science. Science says…"
-word_count: 2731
+word_count: 2732
 tags:
   - "70YearsWTF"
   - "rationality"
 related: []
 ---
+
+![](/media/70yt/sht-sticks-or-why-fair-minded-people-16-06-17/1.jpg)
 
 Everybody dislikes Hillary. Not any of the left-leaning folks who I know. And the right-leaners? Fuggedaboudit.
 
@@ -94,6 +96,8 @@ From first principles (and I think this is a good first principle) someone who h
 
 Look at this data from the Roper archive at Cornell.
 
+![](/media/70yt/sht-sticks-or-why-fair-minded-people-16-06-17/2.jpg)
+
 Romney leads the pack with peak unfavorables at 53%. Reagan, a well known public figure before he ran, at 49%. Dole, after years in the Senate at 47%.
 
 Obama was the least disliked, with peak unfavorables at 28%. And the little known Bill Clinton, before becoming president, at 37%.
@@ -121,9 +125,13 @@ Almost nobody has unfavorables below 40% because half-dead monkey voters will fi
 
 If you look at Hillary's trend over the past year you'll see the unfavorables tipping up. That might reflect the fact that she's been under attack from both the Bernie fans, and the Republicans. We don't know how much of her unfavorable is due to her "not being Bernie enough" and how much is due to her being "too Hillary." But it why they are as high as they are is not the point.
 
+![](/media/70yt/sht-sticks-or-why-fair-minded-people-16-06-17/3.jpg)
+
 The point is that both she and Trump are at record highs, aren't they?
 
 I picked the time frame for Hillary so you can compare with the polling history for Donald Trump. Here's what they other "historically disfavored" candidate looks like.
+
+![](/media/70yt/sht-sticks-or-why-fair-minded-people-16-06-17/4.jpg)
 
 Wow! That's quite a bit different from Hillary. And everyone else. Hardly ever below 60% unfavorable and after the recent drop (presumably as he became the presumptive) it's on its way back up.
 
@@ -145,6 +153,8 @@ And now, I know it's kind of bullshit.
 Shit sticks.
 
 If you pay attention to the media you'll see that everyone gets lambasted pretty heavily. Here's what the picture looks like.
+
+![](/media/70yt/sht-sticks-or-why-fair-minded-people-16-06-17/5.jpg)
 
 Everyone's got plenty of negative news coverage. Which gives open minded people good reasons to think worse of each of the candidates than they deserve. And we do.
 

@@ -10,7 +10,9 @@ excerpt: "Photo by [Clever Visuals](https://unsplash.com/@clevervisuals) on [Uns
 word_count: 865
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"

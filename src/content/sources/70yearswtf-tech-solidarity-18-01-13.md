@@ -10,7 +10,7 @@ excerpt: "According to its landing page: [Tech Solidarity](https://techsolidarit
 word_count: 324
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -10,7 +10,9 @@ excerpt: "A while ago I created a blog called [Reality Isn't Optional](https://r
 word_count: 2516
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-75-years-5-days-posting-retrospective-17-12-26"
   - "70yearswtf-lapses-and-fubar-13-01-03"

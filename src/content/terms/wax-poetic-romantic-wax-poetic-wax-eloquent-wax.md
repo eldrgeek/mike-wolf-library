@@ -9,7 +9,8 @@ source: "Vault Grok *Wax Poetic Mustache Wax Parody*."
 related: []
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Parody grooming line; SKUs named for idioms. Tagline draft: “Wax your 'stache. Wax your words.”</p>

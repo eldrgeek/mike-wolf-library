@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/winning-losing-grace-and-being-there-16-06-30/1.jpg)
+
 Years ago Bobbi came back from a conference she'd attended and shared this:
 
 1. Show up

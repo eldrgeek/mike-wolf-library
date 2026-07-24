@@ -6,11 +6,12 @@ order: 0
 date: "2016-02-01"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/corporatism-versus-governmentalism-16-02-01"
-excerpt: "Photo credit: [Alan Cleaver](http://www.flickr.com/photos/11121568@N06/) via [Foter.com](http://foter.com/photo/tax-by-definition/) / [CC BY](http://creativecommons.org/licenses/by/2.0/) Summary Some people believe in property rights and…"
-word_count: 1925
+excerpt: "![](/media/70yt/corporatism-versus-governmentalism-16-02-01/1.jpg) Photo credit: [Alan Cleaver](http://www.flickr.com/photos/11121568@N06/) via [Foter.com](http://foter.com/photo/tax-by-definition/) / [CC…"
+word_count: 1935
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/corporatism-versus-governmentalism-16-02-01/1.jpg)
 
 Photo credit: [Alan Cleaver](http://www.flickr.com/photos/11121568@N06/) via [Foter.com](http://foter.com/photo/tax-by-definition/) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 

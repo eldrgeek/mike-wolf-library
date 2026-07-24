@@ -6,18 +6,22 @@ order: 0
 date: "2016-01-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-am-a-cyborg-and-google-helps-me-16-01-11"
-excerpt: "We live our lives in moments, and as soon as a moment has passed, the memory of the moment begins to fade. That is, assuming we made a memory in the first place. And when we die—as we will—all those memories will die with you. Fortunately,…"
-word_count: 1146
+excerpt: "![](/media/70yt/i-am-a-cyborg-and-google-helps-me-16-01-11/1.jpg) We live our lives in moments, and as soon as a moment has passed, the memory of the moment begins to fade. That is, assuming we made a memory in the first place. And when we…"
+word_count: 1168
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
+  - "70yearswtf-finding-my-voice"
+  - "70yearswtf-predictions-16-01-09"
+  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/i-am-a-cyborg-and-google-helps-me-16-01-11/1.jpg)
 
 We live our lives in moments, and as soon as a moment has passed, the memory of the moment begins to fade. That is, assuming we made a memory in the first place.
 
@@ -96,3 +100,5 @@ Yay!
 If you are interested in all the features of Timeline, [you can go here](http://google-latlong.blogspot.com/2015/07/your-timeline-revisiting-world-that.html).
 
 If you are interested in more of the features of me, cyborg or not, you can subscribe. If you click the button below, I will sign up. Or my cyber-half will.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

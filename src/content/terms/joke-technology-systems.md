@@ -9,7 +9,10 @@ source: "Vault Claude *YeshID leads and Joke Technology*."
 related: []
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
+link: "https://schlokta.netlify.app"
+link_label: "schlokta.netlify.app"
 ---
 
 <p><strong>What we mean.</strong> Skunkworks brand for fake websites roasting Okta complexity (`joketechnologysystems.com`). Yiddish-flavored siblings + Oktholm.</p>

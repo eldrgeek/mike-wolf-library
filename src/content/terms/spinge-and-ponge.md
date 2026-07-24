@@ -9,7 +9,8 @@ source: "70yt *senior-creativity-inventing-new-words* (batch 2)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Senior word-blending as creativity. <em>Ponge</em> = half-born residue. Explicit inventing-new-words post.</p>

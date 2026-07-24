@@ -10,7 +10,8 @@ excerpt: "You know what a postmortem is? Not that kind. I mean a project postmor
 word_count: 304
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

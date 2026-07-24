@@ -7,7 +7,7 @@ date: "2023-03-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/who-is-fafkag"
 excerpt: "What's in a NAME?"
-word_count: 158
+word_count: 172
 tags:
   - "70YearsWTF"
 related: []
@@ -24,6 +24,8 @@ A symbol.
 So are YMMV and ELELEM.
 
 WTF is also a symbol, but for something else.
+
+![Cymbal with symbols by DALL_E 2](/media/70yt/who-is-fafkag/1.jpg)
 
 *Cymbal with symbols by DALL_E 2*
 

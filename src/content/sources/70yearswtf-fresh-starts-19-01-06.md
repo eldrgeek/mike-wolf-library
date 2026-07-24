@@ -10,7 +10,9 @@ excerpt: "I’m great at fresh starts. I’ve fresh started hundreds of times. A
 word_count: 676
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

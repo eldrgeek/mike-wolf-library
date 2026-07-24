@@ -10,7 +10,10 @@ excerpt: "Let’s again consider the question I started with yesterday: “Is th
 word_count: 650
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

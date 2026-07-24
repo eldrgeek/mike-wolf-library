@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *wtf-sticky-metadraft-announcement* (batch 3)."
 source: "70yt *wtf-sticky-metadraft-announcement* (batch 3)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-wtf-sticky-metadraft-announcement"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Self-referential publishing humor; infinite regress named.</p>

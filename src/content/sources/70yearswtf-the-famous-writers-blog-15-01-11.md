@@ -7,10 +7,12 @@ date: "2015-01-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-famous-writers-blog-15-01-11"
 excerpt: "Yesterday (or maybe tomorrow, since I'm backdating this post) WordPress emailed (or will have emailed) me pages from a blog I'd written and forgotten about. To understand the post's context you have to know about the [hijacking of the…"
-word_count: 439
+word_count: 450
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -30,6 +32,8 @@ I have trouble believing that the word "mastermind" applies to a guy who killed 
 Since my Dad was an old Jewish guy who had had a stroke and was sometimes in a wheelchair, it was only a matter of time before I wrote something to him, then only a matter of time before I reprinted what I wrote in a blog post, and only a matter of time before Wordpress reminded me of what I posted, and now it's only a matter of time before you read about it.
 
 So here it is.
+
+![](/media/70yt/the-famous-writers-blog-15-01-11/1.jpg)
 
 [Raiders of the lost Archives II: The IAOSYOJMRFSIW](https://famouswritersblog.wordpress.com/2011/06/08/raiders-of-the-lost-archives-ii-the-iaosyojmrfsiw/)
 

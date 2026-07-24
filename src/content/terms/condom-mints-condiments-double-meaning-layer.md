@@ -6,10 +6,14 @@ theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Vault-puns extraction note."
 source: "Vault-puns extraction note."
-related: []
+related:
+  - "condom-mints"
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
+link: "https://condommints.lovable.app"
+link_label: "condommints.lovable.app"
 ---
 
 <p><strong>What we mean.</strong> Second pun layer on the Ready product: <em>condom mints</em> ≈ <em>condiments</em>. Source chats state product shape/use; the condiments sound-alike is asserted here as the intended double meaning for dictionary gloss.</p>

@@ -10,7 +10,8 @@ excerpt: "Google tells me that they have some new Blogger themes. Cool! I check 
 word_count: 664
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -10,7 +10,8 @@ excerpt: "For years my weight was steady, around 175 lbs. I could eat as much as
 word_count: 745
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

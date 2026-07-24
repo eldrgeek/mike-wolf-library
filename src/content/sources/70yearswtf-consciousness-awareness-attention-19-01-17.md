@@ -10,13 +10,15 @@ excerpt: "I’ve been discovering how fascinating my mind is. Really. It’s fas
 word_count: 1266
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
+  - "70yearswtf-attention-on-intention-and-metaintention-20-01-26"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I’ve been discovering how fascinating my mind is. Really. It’s fascinating.

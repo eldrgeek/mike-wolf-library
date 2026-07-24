@@ -10,7 +10,9 @@ excerpt: "I want to save the world. I have always wanted to. I feel it’s the n
 word_count: 258
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

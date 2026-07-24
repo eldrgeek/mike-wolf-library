@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-family-of-mind-internal-family-systems-15-03-14"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Named affliction; IFS work credited with remission; writing about the cure risks reactivation.</p>

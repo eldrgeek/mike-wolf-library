@@ -6,11 +6,13 @@ order: 0
 date: "2015-02-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-star-stuff-15-02-03"
-excerpt: "Yesterday, (well, [logical yesterday](http://70yearsoldwtf.blogspot.com/2015/02/im-mike-from-right-here-center-of.html)) I said where I came from, [the center of the…"
-word_count: 728
+excerpt: "![timeline of the universe](/media/70yt/im-star-stuff-15-02-03/1.jpg) Yesterday, (well, [logical yesterday](http://70yearsoldwtf.blogspot.com/2015/02/im-mike-from-right-here-center-of.html)) I said where I came from, [the center of the…"
+word_count: 742
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![timeline of the universe](/media/70yt/im-star-stuff-15-02-03/1.jpg)
 
 Yesterday, (well, [logical yesterday](http://70yearsoldwtf.blogspot.com/2015/02/im-mike-from-right-here-center-of.html)) I said where I came from, [the center of the universe](http://70yearsoldwtf.blogspot.com/2015/02/im-mike-from-right-here-center-of.html).
 

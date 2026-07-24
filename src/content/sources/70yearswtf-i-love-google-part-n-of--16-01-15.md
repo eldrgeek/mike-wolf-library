@@ -6,11 +6,11 @@ order: 0
 date: "2016-01-15"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-love-google-part-n-of--16-01-15"
-excerpt: "My Chromebook touchpad was not working right. Yes, it was working, but it was laggy. I had to try a dozen times to move the cursor from here to there. Sometimes it would move part way. Sometimes it wouldn't move at all. Suck! When in…"
-word_count: 99
+excerpt: "![](/media/70yt/i-love-google-part-n-of--16-01-15/1.jpg) My Chromebook touchpad was not working right. Yes, it was working, but it was laggy. I had to try a dozen times to move the cursor from here to there. Sometimes it would move part…"
+word_count: 125
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -19,6 +19,8 @@ related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
+![](/media/70yt/i-love-google-part-n-of--16-01-15/1.jpg)
+
 My Chromebook touchpad was not working right. Yes, it was working, but it was laggy. I had to try a dozen times to move the cursor from here to there. Sometimes it would move part way. Sometimes it wouldn't move at all. Suck!
 
 When in doubt, ask Google. The image at the top shows what happened when I typed "chromebook touchpad not working"
@@ -26,6 +28,8 @@ When in doubt, ask Google. The image at the top shows what happened when I typed
 When plugged in? I wonder? So I pull the plug. And my touchpad works. Yay!
 
 For comparison I tried bing. And below is what I got:
+
+![](/media/70yt/i-love-google-part-n-of--16-01-15/2.jpg)
 
 More results. More noise. No help.
 

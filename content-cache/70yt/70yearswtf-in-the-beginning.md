@@ -7,12 +7,14 @@ date: "2024-06-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/in-the-beginning"
 excerpt: "As I write this, I’m 35,000 feet in the air, flying from my home in Denver to my home in Boston on the way to my home in Maine. I’m listening to Bob Marley sing “Redemption Song.” I’m continuing my…"
-word_count: 1183
+word_count: 1261
 tags:
   - "70YearsWTF"
   - "AI"
 related: []
 ---
+
+![](/media/70yt/in-the-beginning/1.jpg)
 
 As I write this, I’m 35,000 feet in the air, flying from my home in Denver to my home in Boston on the way to my home in Maine. I’m listening to Bob Marley sing [“Redemption Song.”](https://www.youtube.com/watch?v=yv5xonFSC4c)
 
@@ -83,6 +85,8 @@ Scientology's idea of “understanding” was a useful tool. What do we mean by 
 > 3. **Communication (C):** Communication is the exchange of ideas or information between people. It is considered a fundamental aspect of understanding and is critical for establishing and maintaining affinity and reality.
 >
 > These three components are interconnected and interdependent. According to Scientology, improving one aspect of the ARC Triangle can enhance the other two, thereby increasing overall understanding and harmony. The ARC Triangle is a core concept in Scientology's teachings about human relationships and communication
+
+![An artistic representation of the ARC Triangle from Scientology. The triangle is made of three interlocking parts, with 'Affinity,' 'Reality,' and 'Communication' labeled on each side. The background is a gradient of blue and green hues, with soft light emanating from the center of the triangle. The design is modern and sleek, with a sense of harmony and balance. There are subtle, glowing lines connecting the points of the triangle to emphasize their interdependence.](/media/70yt/in-the-beginning/2.jpg)
 
 The technical term in Scientology for an upset was an “ARC Break.” An ARC Break could be repaired by attending to its component parts, Affinity, Reality, Communication.
 

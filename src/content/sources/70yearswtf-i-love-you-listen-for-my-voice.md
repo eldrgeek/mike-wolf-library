@@ -6,11 +6,13 @@ order: 0
 date: "2025-04-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-love-you-listen-for-my-voice"
-excerpt: "One word Frees us of all the weight and pain of life: That word is Love. - Sophocles, Oedipus at Colonus Sometimes, we seem mindless. We seem to hear nothing. But often, and certainly if we listen, we hear voices in our minds. And not just…"
-word_count: 867
+excerpt: "![](/media/70yt/i-love-you-listen-for-my-voice/1.jpg) One word Frees us of all the weight and pain of life: That word is Love. - Sophocles, Oedipus at Colonus Sometimes, we seem mindless. We seem to hear nothing. But often, and certainly…"
+word_count: 873
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "God"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/i-love-you-listen-for-my-voice/1.jpg)
 
 > One word Frees us of all the weight and pain of life:
 > That word is Love. - Sophocles, Oedipus at Colonus
@@ -115,8 +119,6 @@ Or, it asks me if I want to mix metaphors and “pour oil on troubled waters.”
 This was inspired by friends who were studying [ACIM Lesson 39, “God’s Voice Speaks to Me Throughout the day,”](https://acim.org/acim/lesson-49/gods-voice-speaks-to-me-all-through-the-day/en/s/451) on the day I wrote this.
 
 [And Inspired](https://70yearswtf.substack.com/p/inspiration-every-breath-you-take?utm_source=publication-search) by the [Source of Inspiration](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utm_source=publication-search).
-
-Thanks for reading this essay.
 
 [Leave a comment](https://70yearswtf.substack.com/p/i-love-you-listen-for-my-voice/comments)
 

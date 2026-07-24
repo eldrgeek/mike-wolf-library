@@ -10,7 +10,8 @@ excerpt: "TL;DR I used to run a cognitive surplus (I’ll define that later. But
 word_count: 1009
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

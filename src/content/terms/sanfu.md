@@ -9,7 +9,8 @@ source: "70yt *four-years-in-a-retrospective*; *lapses-and-fubar*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Mike’s SNAFU-shaped coinage for begin → bog down → abandon. Anti-SANFU: threaten to publish crap rather than vanish; tiny completable objectives. Shame/perfectionism as disease vectors.</p>

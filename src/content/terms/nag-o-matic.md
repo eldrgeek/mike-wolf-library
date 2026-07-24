@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Productized conscience: Past Me invents; friend automates. Kin to later estate reminder culture.</p>

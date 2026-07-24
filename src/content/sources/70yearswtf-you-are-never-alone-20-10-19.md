@@ -6,18 +6,20 @@ order: 0
 date: "2020-10-19"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/you-are-never-alone-20-10-19"
-excerpt: "“I don’t like working alone,” I said. It was just after midnight. I could not sleep. I was writing my [750 words](https://750words.com/). I corrected myself. “Sometimes I like working alone, but then the fun runs out. If I accomplish…"
-word_count: 860
+excerpt: "![](/media/70yt/you-are-never-alone-20-10-19/1.jpg) “I don’t like working alone,” I said. It was just after midnight. I could not sleep. I was writing my [750 words](https://750words.com/). I corrected myself. “Sometimes I like working…"
+word_count: 871
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
+  - "70yearswtf-more-advice-share-your-gifts"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/you-are-never-alone-20-10-19/1.jpg)
 
 “I don’t like working alone,” I said. It was just after midnight. I could not sleep. I was writing my [750 words](https://750words.com/).
 

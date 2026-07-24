@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/egg-bot-16-12-06/1.jpg)
+
 I found [this recipe](http://modernistcuisine.com/recipes/easter-eggs-two-ways/) for Easter Eggs at Modernist Cuisine. The eggs were decorated with an Egg Bot.
 
 EggBot? Really. Yes. [Here](http://egg-bot.com/). And you can buy a kit [here](https://www.amazon.com/Original-Egg-bot-Kit-Deluxe/dp/B00C9O01E0) and here.

@@ -7,13 +7,15 @@ date: "2021-06-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/paradise-gained-lost-regained-what"
 excerpt: "My recent experience of heaven on earth, turned into something like hell, then heaven again. What's next?"
-word_count: 1485
+word_count: 1507
 tags:
   - "70YearsWTF"
   - "meditation"
   - "rationality"
 related: []
 ---
+
+![Photo by Amanda Phung(https://unsplash.com/@amandabereckonedwith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/paradise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/paradise-gained-lost-regained-what/1.jpg)
 
 *Photo by [Amanda Phung](https://unsplash.com/@amandabereckonedwith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/paradise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -216,3 +218,5 @@ Probably.
 Will I wake up again? Certainly.
 
 And next time I wake up, I am sure I will know more than I did before.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

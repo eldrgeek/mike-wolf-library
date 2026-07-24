@@ -7,12 +7,14 @@ date: "2019-06-30"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/from-farnam-street-to-quantum-computing-19-06-30"
 excerpt: "Photo by Hal Gatewood on Unsplash This morning I was reading an essay on quantum computing when an idea appeared: write a blog post called “From Farnam Street to Quantum Computing.” That’s the way it is with ideas. They just…"
-word_count: 616
+word_count: 615
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/from-farnam-street-to-quantum-computing-19-06-30/1.jpg)
 
 *Photo by [Hal Gatewood](https://unsplash.com/@halgatewood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/atom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

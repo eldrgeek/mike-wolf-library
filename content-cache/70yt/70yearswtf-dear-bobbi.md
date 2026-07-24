@@ -7,7 +7,7 @@ date: "2024-07-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/dear-bobbi"
 excerpt: "Photo by me, with Jim Reynolds the night we last saw Gogol Bordello I talked to Jane Reynolds the other day. (Of course, you know that) Remember Jim, Jane’s husband. He and I went to see Gogol Bordello in Portland…"
-word_count: 368
+word_count: 404
 tags:
   - "70YearsWTF"
   - "Bobbi"
@@ -15,11 +15,15 @@ tags:
 related: []
 ---
 
+![Photo by me, with Jim Reynolds the night we last saw Gogol Bordello](/media/70yt/dear-bobbi/1.jpg)
+
 *Photo by me, with Jim Reynolds the night we last saw Gogol Bordello*
 
 I talked to Jane Reynolds the other day. (Of course, you know that)
 
 Remember Jim, Jane’s husband. He and I went to see Gogol Bordello in Portland (Of course, you remember him.)
+
+![Gogol Bordello, Jim, and chow](/media/70yt/dear-bobbi/2.jpg)
 
 *Gogol Bordello, Jim, and chow*
 

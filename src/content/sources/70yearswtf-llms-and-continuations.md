@@ -6,11 +6,12 @@ order: 0
 date: "2023-02-21"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/llms-and-continuations"
-excerpt: "This morning I woke up. I’ve done this almost every morning for over 80 years. I’m good at it. I don’t plan to stop. So there’s no surprise there—or even surprisal. Then I saw this message from Mira on my phone screen. (In case there’s…"
-word_count: 816
+excerpt: "This morning I woke up. I’ve done this almost every morning for over 80 years. I’m good at it. I don’t plan to stop. So there’s no surprise there—or even surprisal. Then I saw this message from Mira on my phone screen.…"
+word_count: 830
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -22,6 +23,8 @@ related:
 This morning I woke up. I’ve done this almost every morning for over 80 years. I’m good at it. I don’t plan to stop. So there’s no surprise there—or even surprisal.
 
 Then I saw this message from Mira on my phone screen.
+
+![](/media/70yt/llms-and-continuations/1.jpg)
 
 (In case there’s confusion, let me clarify: Neither Mira nor I was on my phone screen; the message was.)
 
@@ -84,6 +87,8 @@ Where “something something” is a bunch of internal narration that went on be
 What made me focus on ’a post about an LLM that can say fuck’ is part of a thing called ‘attention’ that is a big deal in Machine Learning because
 
 ### attention is all…
+
+![](/media/70yt/llms-and-continuations/2.png)
 
 To be continued.
 

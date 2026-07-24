@@ -9,7 +9,8 @@ source: "70yt *optimism-possibilism-and-pragmatism* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Rejects dispositional optimism. If it can happen, treat as possible and act on influenceable parts — hope without pollyanna.</p>

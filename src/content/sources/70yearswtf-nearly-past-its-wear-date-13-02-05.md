@@ -10,7 +10,7 @@ excerpt: "This joke is from the early '60s, a time when there still were words t
 word_count: 310
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

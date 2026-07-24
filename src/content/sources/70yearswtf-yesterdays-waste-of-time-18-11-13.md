@@ -10,7 +10,8 @@ excerpt: "Yesterday was pretty much a waste of time. Trust me, reading this will
 word_count: 579
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-a-series-of-strokes-19-03-11"
   - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"

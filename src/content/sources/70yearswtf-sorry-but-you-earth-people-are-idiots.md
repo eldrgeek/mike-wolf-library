@@ -6,11 +6,11 @@ order: 0
 date: "2023-07-28"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/sorry-but-you-earth-people-are-idiots"
-excerpt: "A neighbor of mine sent this in an email to me and some other friends. sorry i just couldn't help but chuckle at this from hubbell: And then there is this: Are we to believe that alien spacecraft can navigate across tens of thousands of…"
-word_count: 977
+excerpt: "![](/media/70yt/sorry-but-you-earth-people-are-idiots/1.jpg) A neighbor of mine sent this in an email to me and some other friends. sorry i just couldn't help but chuckle at this from hubbell: And then there is this: Are we to believe that…"
+word_count: 1016
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/sorry-but-you-earth-people-are-idiots/1.jpg)
 
 A neighbor of mine sent this in an email to me and some other friends.
 
@@ -28,6 +30,8 @@ A neighbor of mine sent this in an email to me and some other friends.
 Jesus!
 
 Has anyone read this from H. L. Mencken?
+
+![For every complex problem there is an answer that is clear, simple, and wrong. - H. L. Mencken](/media/70yt/sorry-but-you-earth-people-are-idiots/2.jpg)
 
 The simple, clear, and completely fucking wrong answer is: “There are no alien spacecraft.”
 

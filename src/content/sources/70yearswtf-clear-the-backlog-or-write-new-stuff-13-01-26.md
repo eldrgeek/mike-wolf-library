@@ -10,7 +10,8 @@ excerpt: "So I'm back writing. And I have two choices: I can clear the backlog, 
 word_count: 725
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

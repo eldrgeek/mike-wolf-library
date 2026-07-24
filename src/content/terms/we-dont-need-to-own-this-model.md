@@ -10,7 +10,8 @@ related: []
 provenance:
   - "ai-wtf-post-001-raw-mike-mission-articulation"
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Ownership of a particular model is not the moat. Reciprocity over enclosure for technical and cultural artifacts.</p>

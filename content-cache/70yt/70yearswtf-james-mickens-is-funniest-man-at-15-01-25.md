@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/james-mickens-is-funniest-man-at-15-01-25/1.jpg)
+
 That sounds kind of like faint praise, but he's way, way better than you might think, given that build up.
 
 Or you can watch him give a presentation on cloud computing, security, and the general awesomeness of James Mickens [here](http://vimeo.com/95066828).

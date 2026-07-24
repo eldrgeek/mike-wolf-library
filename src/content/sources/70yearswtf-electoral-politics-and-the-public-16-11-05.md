@@ -10,7 +10,11 @@ excerpt: "The election keeps bouncing back and forth. First Clinton is up. Then 
 word_count: 2670
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
+  - "automation"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

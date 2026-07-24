@@ -9,7 +9,8 @@ source: "SRMW."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Level above Not Quite Omniscient: can narrate changes <em>into</em> the metanovel. Metanarration is causal, not commentary.</p>

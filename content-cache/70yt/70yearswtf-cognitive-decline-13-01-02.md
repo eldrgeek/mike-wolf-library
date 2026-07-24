@@ -7,12 +7,14 @@ date: "2013-01-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/cognitive-decline-13-01-02"
 excerpt: "Note: I wrote this in 2013 and used Grammarly to spell-check and improve its low. Man! Grammarly is good. Man! Did I make a lot of errors. --- The signs were all around me. I just had to look. Which…"
-word_count: 1679
+word_count: 1682
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/cognitive-decline-13-01-02/1.jpg)
 
 Note: I wrote this in 2013 and used [Grammarly](https://www.grammarly.com/) to spell-check and improve its low. Man! Grammarly is good. Man! Did I make a lot of errors.
 

@@ -10,7 +10,8 @@ excerpt: "The AIs aren’t coming. They're already here. They've been among us l
 word_count: 2269
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

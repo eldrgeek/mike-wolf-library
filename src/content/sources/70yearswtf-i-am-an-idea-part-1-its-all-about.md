@@ -11,11 +11,11 @@ word_count: 975
 tags:
   - "70YearsWTF"
 related:
-  - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-ideas-want-to-survive-they-want-their-18-07-05"
+  - "70yearswtf-the-idea-of-bobbi"
+  - "70yearswtf-the-ideas-of-intelligence-this-post"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-do-ideas-exist"
 ---
 
 > *Why canonical (Mem's note):* Mike applying the frame to himself, one day after the Bobbi post. *"An idea of me must have existed before I was born otherwise I would not exist."* Seeds the move that two years later becomes "I see myself speaking for and embodying a growing and evolving set of ideas." Ends with the promise "Tomorrow: God is an idea." (Part 2 was apparently never written, or arrived later under a different title — see "The Idea of God: Assuming what may not be true," 2025-03-14, and "The ideas of intelligence, this post, and God," 2025-03-17.)

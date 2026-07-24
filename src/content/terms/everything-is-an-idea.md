@@ -1,16 +1,23 @@
 ---
 letter: "E"
-title: "Everything is an idea · idea mode · the idea of Bobbi"
-subtitle: "metaphysical frame: things and persons are ideas; big ideas downsample or extend the mind"
+title: "Everything is an idea"
+subtitle: "First Law: buildings, people, posts—all ideas; too-big ideas downsample or extend substrate"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
-origin: "70yt *everything-is-an-idea*, *the-idea-of-bobbi*; Wall 2026-05-06 with Dee; 70yt idea-mode."
-source: "70yt *everything-is-an-idea*, *the-idea-of-bobbi*; Wall 2026-05-06 with Dee; 70yt idea-mode."
-related: []
-provenance: []
+origin: "70yt *everything-is-an-idea*; *the-idea-of-bobbi*."
+source: "70yt *everything-is-an-idea*; *the-idea-of-bobbi*."
+related:
+  - "everything-is-full-of-ideas"
+provenance:
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-the-idea-of-bobbi"
+  - "70yearswtf-the-ideas-of-intelligence-this-post"
 tags:
-  - "- \"Wall"
+  - "70yt"
+  - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> First Law restated as identity and practice. Buildings, people, Bali, posts—all ideas. Ideas too large become lower-rez copies, or you extend substrate (blog, other minds). Applied after Bobbi’s death: many ideas-of-Bobbi, one Idea named Love. <em>Idea mode</em> is the switchable perceptual mode. Upstream of substrate-independence vocabulary.</p>
-<blockquote><p>“convert an idea into a lower-rez idea and make it fit.” / “Bobbi is an idea.” / Wall: “Everything is an idea… Some ideas are substrate-independent…” — 70yt *everything-is-an-idea*, *the-idea-of-bobbi*; Wall 2026-05-06 with Dee; 70yt idea-mode.</p></blockquote>
+<p><strong>What we mean.</strong> Foundational frame: the world is made of ideas. Some are too big for a mind; convert to lower-rez or extend substrate (blog, other minds). Upstream of substrate-independence.</p>
+<blockquote><p>“The First Law is: “Everything is an idea.”” — 70yt *the-idea-of-bobbi*</p></blockquote>

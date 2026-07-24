@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-everything-arises-and-passes-away"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Once received, it can be given onward. ACIM-adjacent packaging.</p>

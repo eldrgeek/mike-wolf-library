@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/blog-retrospective-2015-guilty-of-16-01-03/1.jpg)
+
 Photo credit: [orangesparrow](http://www.flickr.com/photos/38409127@N08/) via [Foter.com](http://foter.com/photo/104-365-a-little-justice/) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 Your honor, ladies and gentlemen of the jury -- and LGTB members of the jury, I don't mean to overlook you -- the author of this blog has been posting to it for a little over three years. During that time he has published 129 posts.

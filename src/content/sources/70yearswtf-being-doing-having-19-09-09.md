@@ -10,13 +10,15 @@ excerpt: "This is part of a series of posts. Come back when I’m finished and I
 word_count: 551
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
+  - "70yearswtf-inspiration-not-intention-17-01-06"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 This is part of a series of posts. Come back when I’m finished and I’ll link them together.

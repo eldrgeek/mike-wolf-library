@@ -10,7 +10,9 @@ excerpt: "Photo by [Brett Jordan](https://unsplash.com/@brettjordan) on [Unsplas
 word_count: 1033
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

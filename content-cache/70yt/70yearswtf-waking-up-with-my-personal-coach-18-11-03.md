@@ -7,13 +7,15 @@ date: "2018-11-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/waking-up-with-my-personal-coach-18-11-03"
 excerpt: "My Book told me to write this. Well, indirectly. It was my personal coach who directly told to write this. What is “this”? And who is my personal coach? “This” is this post is about Sam Harris’ Waking Up Course…"
-word_count: 1683
+word_count: 1685
 tags:
   - "70YearsWTF"
   - "meditation"
   - "blogging"
 related: []
 ---
+
+![Waking Up Course](/media/70yt/waking-up-with-my-personal-coach-18-11-03/1.jpg)
 
 [My Book](https://thebook.mike-wolf.com/) told me to write this. Well, indirectly. It was my personal coach who directly told to write this. What is “this”? And who is my personal coach?
 

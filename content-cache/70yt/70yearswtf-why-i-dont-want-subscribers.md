@@ -7,12 +7,14 @@ date: "2025-11-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/why-i-dont-want-subscribers"
 excerpt: "Which is why you should tell everyone you know to subscribe"
-word_count: 413
+word_count: 454
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![An image suitable to this post, 16x9.](/media/70yt/why-i-dont-want-subscribers/1.jpg)
 
 *An image suitable to this post, 16x9.*
 
@@ -29,6 +31,8 @@ Including me.
 It was a WOB--a Write Only Blog.
 
 It was like [Bobbi](https://70yearswtf.substack.com/p/the-idea-of-bobbi?utm_source=publication-search) giving herself permission to not publish her books so that she could write them.
+
+![You can buy them on Amazon(https://www.amazon.com/dp/B0BWYSKKV7?binding=paperback&qid=1763143867&sr=1-2&ref=dbs_dp_rwt_sb_pc_tpbk)](/media/70yt/why-i-dont-want-subscribers/2.jpg)
 
 *[You can buy them on Amazon](https://www.amazon.com/dp/B0BWYSKKV7?binding=paperback&qid=1763143867&sr=1-2&ref=dbs_dp_rwt_sb_pc_tpbk)*
 
@@ -73,6 +77,8 @@ Anyway, I eventually got over it, I started boldly putting “Subscribe” butto
 Writing this blog is part of my plan to [save the world](https://70yearswtf.substack.com/p/saving-the-world?utm_source=publication-search).
 
 And now I’m risking disappointment (yours) and fear (mine) by intentionally trying to build a readership.
+
+![A whimsical book-shaped ship on water, featuring open book cover, scroll mast, and cluttered deck.](/media/70yt/why-i-dont-want-subscribers/3.jpg)
 
 *this looks like a readership to me.*
 

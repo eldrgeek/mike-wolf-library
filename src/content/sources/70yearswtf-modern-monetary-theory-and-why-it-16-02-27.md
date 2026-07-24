@@ -6,11 +6,12 @@ order: 0
 date: "2016-02-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/modern-monetary-theory-and-why-it-16-02-27"
-excerpt: "Photo credit: [free pictures of money](http://www.flickr.com/photos/126278138@N03/) via [Foter.com](http://foter.com/photo/money-92/) / [CC BY](http://creativecommons.org/licenses/by/2.0/) A while ago I tripped over an economic theory…"
-word_count: 4473
+excerpt: "![](/media/70yt/modern-monetary-theory-and-why-it-16-02-27/1.jpg) Photo credit: [free pictures of money](http://www.flickr.com/photos/126278138@N03/) via [Foter.com](http://foter.com/photo/money-92/) / [CC…"
+word_count: 4486
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/modern-monetary-theory-and-why-it-16-02-27/1.jpg)
 
 Photo credit: [free pictures of money](http://www.flickr.com/photos/126278138@N03/) via [Foter.com](http://foter.com/photo/money-92/) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 

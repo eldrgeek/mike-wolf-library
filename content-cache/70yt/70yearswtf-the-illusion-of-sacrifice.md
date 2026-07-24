@@ -7,11 +7,13 @@ date: "2021-06-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-illusion-of-sacrifice"
 excerpt: "In earlier posts I recommended sacrifice. I reconsider and retract."
-word_count: 618
+word_count: 641
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![Photo by Stormseeker(https://unsplash.com/@sseeker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/sacrifice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/the-illusion-of-sacrifice/1.jpg)
 
 *Photo by [Stormseeker](https://unsplash.com/@sseeker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sacrifice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -85,4 +87,4 @@ I’ll add that to my list of [“Some things I’ve learned about love.”](htt
 
 And add to that:
 
-- Love prevents resentment
+- Love prevents resentment[Subscribe now](https://70yearswtf.substack.com/subscribe?)

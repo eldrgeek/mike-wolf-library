@@ -6,11 +6,12 @@ order: 0
 date: "2015-01-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/falling-behind-and-catching-up-and-15-01-29"
-excerpt: "Maybe I haven't set the bar low enough. Or maybe I can't set the bar low enough. Or maybe I just don't want to. Whatever my excuse, I've managed to fall more than a week behind on my blogging. So: it's going to be two posts a day, filling…"
-word_count: 503
+excerpt: "![](/media/70yt/falling-behind-and-catching-up-and-15-01-29/1.png) Maybe I haven't set the bar low enough. Or maybe I can't set the bar low enough. Or maybe I just don't want to. Whatever my excuse, I've managed to fall more than a week…"
+word_count: 529
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/falling-behind-and-catching-up-and-15-01-29/1.png)
 
 Maybe I haven't set the bar low enough. Or maybe I can't set the bar low enough. Or maybe I just don't want to. Whatever my excuse, I've managed to fall more than a week behind on my blogging. So: it's going to be two posts a day, filling in the past while moving into the future.
 
@@ -30,6 +33,8 @@ To get search history turned you go to the search options page for your account.
 Now the next step is looking at your history. You do that by going to your history page which will be [here](https://history.google.com/history/). You'll have to provide your name and password, but if you're using Chrome and Chrome Sync and you've let Chrome remember your password then all you have to do is press enter. Easy!
 
 That will give you something that looks like this:
+
+![](/media/70yt/falling-behind-and-catching-up-and-15-01-29/2.jpg)
 
 As you can see, I do a lot of searching. And I just spent some time searching for stuff for this article.
 

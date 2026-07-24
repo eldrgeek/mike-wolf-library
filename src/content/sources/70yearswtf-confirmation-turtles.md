@@ -6,11 +6,13 @@ order: 0
 date: "2021-03-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/confirmation-turtles"
-excerpt: "Confirmation Turtles is a useful and clever [portmanteau](https://en.wikipedia.org/wiki/Portmanteau) that combines [confirmation bias](https://en.wikipedia.org/wiki/Confirmationbias) with [turtles all the way…"
-word_count: 690
+excerpt: "![Turtle Pyramid - Stack of 3 turtles hinged trinket box](/media/70yt/confirmation-turtles/1.jpg) Confirmation Turtles is a useful and clever [portmanteau](https://en.wikipedia.org/wiki/Portmanteau) that combines [confirmation…"
+word_count: 730
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Turtle Pyramid - Stack of 3 turtles hinged trinket box](/media/70yt/confirmation-turtles/1.jpg)
 
 **Confirmation Turtles** is a useful and clever [portmanteau](https://en.wikipedia.org/wiki/Portmanteau) that combines [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) with [turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down).
 
@@ -81,15 +85,23 @@ Knowing what you’re up against prepares you for the work ahead.
 
 ## Details about newness
 
+![](/media/70yt/confirmation-turtles/2.jpg)
+
 Google reports 129 instances of the phrase, all of which seem to be coincidental, like
 
+![](/media/70yt/confirmation-turtles/3.jpg)
+
 and
+
+![](/media/70yt/confirmation-turtles/4.png)
 
 Some say there’s nothing new under the sun, but my Confirmtion Turtles disagree, and Daniel’s coinage proves what my Confirmation Turtles have told me.
 
 ---
 
 Perhaps you enjoyed this, and your Confirmation Turtles will tell you to subscribe.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [1](#footnote-anchor-1)
 

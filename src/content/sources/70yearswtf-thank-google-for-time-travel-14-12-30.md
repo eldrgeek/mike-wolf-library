@@ -10,7 +10,8 @@ excerpt: "FAIL! Plan A was to start the New Year right by posting every day. Pla
 word_count: 194
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

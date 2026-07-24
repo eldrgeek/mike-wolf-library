@@ -7,12 +7,14 @@ date: "2019-07-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/when-were-a-wake-19-07-04"
 excerpt: "Photo by Zbysiu Rodak on Unsplash Pun by Mike Wolf on Hangouts For reasons that I think will be fun to figure out, this pun delights me. Q: When does water reach the highest level of consciousness? A: When it’s…"
-word_count: 699
+word_count: 698
 tags:
   - "70YearsWTF"
   - "meditation"
 related: []
 ---
+
+![](/media/70yt/when-were-a-wake-19-07-04/1.jpg)
 
 *Photo by [Zbysiu Rodak](https://unsplash.com/@zbigniew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/wake?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) Pun by Mike Wolf on Hangouts*
 

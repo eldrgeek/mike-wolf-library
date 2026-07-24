@@ -7,12 +7,14 @@ date: "2024-10-26"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/really-im-supposed-to-save-the-world"
 excerpt: "I guess I am."
-word_count: 517
+word_count: 619
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![A surreal illustration of a person standing on a small, grassy hill under a partly cloudy sky, with a bright sun breaking through the clouds, symbolizing hope. The person is looking up, holding a glowing thread that stretches up into the sky, connecting to an abstract, ethereal figure representing a guiding force. Ghostly, imaginary readers appear as faint, semi-transparent silhouettes around the person, engaging in a lively conversation. A sheep stands nearby, gazing curiously at the scene. The image captures a mix of determination, reflection, and a touch of whimsy, conveying the theme of overcoming fear and continuing a journey. The scene is bathed in soft, warm light, suggesting renewal and encouragement.](/media/70yt/really-im-supposed-to-save-the-world/1.jpg)
 
 In 2021 I wrote [a blog post about saving the world](https://70yearswtf.substack.com/p/saving-the-world).
 

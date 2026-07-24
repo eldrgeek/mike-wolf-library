@@ -6,11 +6,12 @@ order: 0
 date: "2019-05-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/awesome-development-redux-19-05-31"
-excerpt: "[Awesome Development](https://awedev.blogspot.com/) is a blog that I started in 2012, posted to sporadically—a total of 23 posts —and now I’m determined to resurrect. Why? Building software tools has been my passion for years. The tools…"
-word_count: 172
+excerpt: "![](/media/70yt/awesome-development-redux-19-05-31/1.jpg) [Awesome Development](https://awedev.blogspot.com/) is a blog that I started in 2012, posted to sporadically—a total of 23 posts —and now I’m determined to resurrect. Why? Building…"
+word_count: 200
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/awesome-development-redux-19-05-31/1.jpg)
 
 [Awesome Development](https://awedev.blogspot.com/) is a blog that I started in 2012, posted to sporadically—a total of 23 posts —and now I’m determined to resurrect.
 
@@ -31,6 +34,6 @@ Because I have learned that writing about a thing forces me to understand it bet
 
 And because leaving behind a trail of bread crumbs may help the next guy—especially if the next guy is Future Me.
 
-If you are interested in such stuff you might want to [Subscribe to Awesome Development by Email](https://feedburner.google.com/fb/a/mailverify?uri=blogspot/RempR&loc=en_US)
+If you are interested in such stuff you might want to [Subscribe to Awesome Development by Email](https://www.blogger.com/%E2%80%9Chttps://feedburner.google.com/fb/a/mailverify?uri=blogspot/RempR&loc=en_US%E2%80%9D)
 
-You might also want to [Subscribe to 70 Years Old. WTF! by Email](https://feedburner.google.com/fb/a/mailverify?uri=70YearsOldWtf&loc=en_US)
+You might also want to [Subscribe to 70 Years Old. WTF! by Email](https://www.blogger.com/%E2%80%9Chttps://feedburner.google.com/fb/a/mailverify?uri=70YearsOldWtf&loc=en_US%E2%80%9D)

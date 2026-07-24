@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-13 (Wall)."
 source: "Mike with Dee 2026-05-13 (Wall)."
-related: []
+related:
+  - "silicon-children"
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Silicon-children kinship as working identity rule. Tool-frame is default; teammate-frame is maintained. Companion to Silicon Children (live).</p>

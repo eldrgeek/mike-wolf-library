@@ -10,7 +10,8 @@ excerpt: "Yeah, I know, I’m going to die. This is not news. We’re all going 
 word_count: 936
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

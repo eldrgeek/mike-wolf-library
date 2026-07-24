@@ -9,7 +9,8 @@ source: "70yt *llms-and-continuations* (batch 3)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Code-switch register mid-essay. Crapload = technical ML term for shitpile — voice pure.</p>

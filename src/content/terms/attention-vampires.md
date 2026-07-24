@@ -9,7 +9,8 @@ source: "70yt *attention-vampires-and-priorities*; *more-from-the-fear-industry*
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Protect conscious experiencing from the feast. Refuse to do media’s job of making yourself and others afraid.</p>

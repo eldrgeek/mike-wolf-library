@@ -7,12 +7,14 @@ date: "2021-03-07"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/abarim-publications"
 excerpt: "The fate of our world: the Bible, AI, and cryptocurrency"
-word_count: 1783
+word_count: 1866
 tags:
   - "70YearsWTF"
   - "AI"
 related: []
 ---
+
+![Go here!(https://www.abarim-publications.com/index.html)](/media/70yt/abarim-publications/1.png)
 
 *[Go here!](https://www.abarim-publications.com/index.html)*
 
@@ -30,6 +32,8 @@ The Abarim Publications’ logo line is “The fate of our world: the Bible, AI,
 
 [This page](https://70yearswtf.substack.com/publish/post/33008344) gives one of the site’s premises: that the Bible and science are not only not opposed, and not merely complementary, but derive from the same impulse—to know Truth.
 
+![The Gospel of Impurity(https://70yearswtf.substack.com/publish/post/33008344)](/media/70yt/abarim-publications/2.jpg)
+
 *[The Gospel of Impurity](https://70yearswtf.substack.com/publish/post/33008344)*
 
 Supporting that assertion is the site’s text (at least 4,000 pages, and maybe 20,000, but who’s counting?) The site goes at it. Hard.
@@ -44,11 +48,17 @@ No, let’s do the overview.
 
 At the bottom of every page is this list of major topics.
 
+![](/media/70yt/abarim-publications/3.jpg)
+
 Here’s the science section:
+
+![](/media/70yt/abarim-publications/4.jpg)
 
 We’ll get into that in a minute. First, here’s the Bible section
 
 # The Bible section
+
+![](/media/70yt/abarim-publications/5.jpg)
 
 We’ll get into that now. But in the reverse order.
 
@@ -64,13 +74,19 @@ Helpfully, Abarim Publications provides the Bible in English and Greek—the [In
 
 A typical verse, Matthew 5:10, looks like this:
 
+![Matthew 5:10](/media/70yt/abarim-publications/6.jpg)
+
 *Matthew 5:10*
 
 And the linked dictionary entry for the word [μακαριος](https://www.abarim-publications.com/DictionaryG/m/m-a-k-a-r-i-o-sfin.html) looks like this:
 
+![μακαριος(https://www.abarim-publications.com/DictionaryG/m/m-a-k-a-r-i-o-sfin.html)](/media/70yt/abarim-publications/7.png)
+
 *[μακαριος](https://www.abarim-publications.com/DictionaryG/m/m-a-k-a-r-i-o-sfin.html)*
 
 The [opening page for the interlinear New Testament](https://www.abarim-publications.com/Interlinear-New-Testament/index.html) identifies the sources that were used and also tells us, “The translations of the separate Greek words are entirely our own, so feel free to send us your feedback.”
+
+![](/media/70yt/abarim-publications/8.jpg)
 
 In some cases, the translations are unexceptionable. In other cases, they are idiosyncratic.  The example above, [μακαριος](https://www.abarim-publications.com/DictionaryG/m/m-a-k-a-r-i-o-sfin.html), is usually translated as “blessed.” Abarim Publications acknowledges the convention and explains their translation thusly:
 
@@ -88,9 +104,13 @@ Abarim Publications has a dictionary of every name of every person and every pla
 
 Let’s pick a name at random. How about Michael. Is that random enough?
 
+![The Amazing Name Michael(https://www.abarim-publications.com/Meaning/Michael.html)](/media/70yt/abarim-publications/9.jpg)
+
 *[The Amazing Name Michael](https://www.abarim-publications.com/Meaning/Michael.html)*
 
 Here’s what Abarim Publications entry for “The Amazing Name Michael” looks like:
+
+![](/media/70yt/abarim-publications/10.jpg)
 
 I’ve always preferred to translate my name as “Who is like God” rather than as “Who is like God?”
 
@@ -108,9 +128,13 @@ Every name in the Abarim Publications dictionary of names has at least four sect
 
 **Etymology of the name **: If the name has components, it divides the name  into its parts. For Greek or Hebrew derivatives, the component link to the Abarim Publications Greek or Hebrew dictionary. For others, not so much, it seems. My name, like Gaul and the Holy Trinity, is divided into three parts. In English (not Hebrew) order, the parts are Mi Ke El
 
+![](/media/70yt/abarim-publications/11.jpg)
+
 That’s “who” and “is like” and “God.”
 
 ** Meaning:**Expands the one-line-or-so definition in the summary. For Michael, it’s:
+
+![](/media/70yt/abarim-publications/12.jpg)
 
 The dictionary of names is extensive.
 
@@ -149,6 +173,8 @@ I guess there’s something about Mary.
 
 Remember this? I said I’d get back to it, and here we are.
 
+![{\displaystyle i\hbar {\frac {\partial }{\partial t}}\Psi (x,t)=\left-{\frac {\hbar ^{2}}{2m}}{\frac {\partial ^{2}}{\partial x^{2}}}+V(x,t)\right\Psi (x,t)\,.}](/media/70yt/abarim-publications/13.png)
+
 The link to [Quantum Mechanics and Chaos Theory](https://www.abarim-publications.com/QuantumMechanicsIntroduction.html) is a 23 part discussion, plus appendices. The discussion is in three sections:
 
 - **[Quantum Mechanics](https://www.abarim-publications.com/QuantumMechanicsIntroduction.html)**: A gentle introduction to Quantum Mechanics and science's history and key concepts in passing. It proceeds through an explanation of [Quarks](https://en.wikipedia.org/wiki/Quark) and the [Standard Model](https://en.wikipedia.org/wiki/Standard_Model) and [Quantum Foam](https://en.wikipedia.org/wiki/Quantum_foam). It ends with a discussion of the [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) theory's origins of the universe and some implications.
@@ -158,6 +184,8 @@ The link to [Quantum Mechanics and Chaos Theory](https://www.abarim-publications
 ## [Quantum Mechanics](https://www.abarim-publications.com/QuantumMechanicsIntroduction.html)
 
 I majored in math and minored in physics at MIT, so I’ve got credentials. I know a thing or two. Here’s a special case of the position-space [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) for a single nonrelativistic particle in one dimension:
+
+![](/media/70yt/abarim-publications/14.jpg)
 
 I used to do this kind of shit when I was in school. So I knew a thing or two.
 
@@ -207,3 +235,5 @@ I went back and read some of the early pages. The series on QM, CT, and ST were 
 ---
 
 If you want to read more, and you are not already a subscriber, you can always
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

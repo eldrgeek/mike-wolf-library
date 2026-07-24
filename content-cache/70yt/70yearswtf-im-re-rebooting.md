@@ -7,12 +7,14 @@ date: "2024-12-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-re-rebooting"
 excerpt: "Hi Vikki, I was going to write a blog post about re-rebooting today. Not just today. Several days, including today. Haven't done it yet. Maybe today's the day. Or maybe tomorrow. I didn’t remember having written this blog post about…"
-word_count: 483
+word_count: 556
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![A humorous and intricate Rube Goldberg-style machine designed for rebooting a computer, featuring overly complicated components like pipes, gears, pulleys, and whirring gizmos. Labels on parts of the machine include 'Reboot Process,' 'Error Management,' and 'System Recovery.' At the end of the contraption, a toaster comically ejects a burnt slice of toast with the word 'Error' charred onto it. The scene is colorful, playful, and exaggerated, with a whimsical and cartoonish art style.](/media/70yt/im-re-rebooting/1.jpg)
 
 Hi Vikki,
 

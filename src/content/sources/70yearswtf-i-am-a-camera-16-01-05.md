@@ -6,11 +6,12 @@ order: 0
 date: "2016-01-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-am-a-camera-16-01-05"
-excerpt: "For my 73rd birthday I got myself an awesome new camera, a Sony ILCE 5000. It's changing the way that I look at the world. When I was in my 20's I bought a Nikon F SLR, which was, in those days, the cool camera to have. With a 50mm Nikor…"
-word_count: 398
+excerpt: "![](/media/70yt/i-am-a-camera-16-01-05/1.jpg) For my 73rd birthday I got myself an awesome new camera, a Sony ILCE 5000. It's changing the way that I look at the world. When I was in my 20's I bought a Nikon F SLR, which was, in those…"
+word_count: 409
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/i-am-a-camera-16-01-05/1.jpg)
 
 For my 73rd birthday I got myself an awesome new camera, a Sony ILCE 5000. It's changing the way that I look at the world.
 

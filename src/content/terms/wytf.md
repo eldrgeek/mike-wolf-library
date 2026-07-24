@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt batch 4 titles."
 source: "70yt batch 4 titles."
-related: []
+related:
+  - "wtf-marker"
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Deliberate misspelling embedding <em>why</em>. Intensified WTF as birthday/blog stock-taking. Related live WTF marker.</p>

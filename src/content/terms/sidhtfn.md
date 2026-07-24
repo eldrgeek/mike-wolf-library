@@ -11,7 +11,8 @@ provenance:
   - "70yearswtf-pot-odds-13-05-21"
   - "70yearswtf-sidhtfn-13-05-22"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Named footer discipline for infinite-scope rabbit holes: list what you are <em>not</em> doing and ship.</p>

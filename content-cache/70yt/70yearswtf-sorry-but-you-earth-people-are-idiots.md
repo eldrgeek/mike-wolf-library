@@ -7,11 +7,13 @@ date: "2023-07-28"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/sorry-but-you-earth-people-are-idiots"
 excerpt: "A neighbor of mine sent this in an email to me and some other friends. sorry i just couldn't help but chuckle at this from hubbell: And then there is this: Are we to believe that alien spacecraft can navigate…"
-word_count: 919
+word_count: 922
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/sorry-but-you-earth-people-are-idiots/1.jpg)
 
 A neighbor of mine sent this in an email to me and some other friends.
 
@@ -22,6 +24,8 @@ A neighbor of mine sent this in an email to me and some other friends.
 Jesus!
 
 Has anyone read this from H. L. Mencken?
+
+![For every complex problem there is an answer that is clear, simple, and wrong. - H. L. Mencken](/media/70yt/sorry-but-you-earth-people-are-idiots/2.jpg)
 
 The simple, clear, and completely fucking wrong answer is: “There are no alien spacecraft.”
 

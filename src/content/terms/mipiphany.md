@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-could-i-possibly-be-stupider-i-dont-15-01-24"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Self-declared mid-post coinage. Mini-insight that sitting down and writing anything breaks the “I can’t write” faction.</p>

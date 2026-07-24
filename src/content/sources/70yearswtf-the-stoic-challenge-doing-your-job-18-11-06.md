@@ -10,7 +10,8 @@ excerpt: "On October 30th, I completed the [30-day Stoic Challenge](https://dail
 word_count: 818
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

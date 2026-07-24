@@ -7,7 +7,7 @@ date: "2013-01-10"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/plumbing-failures-part-i-13-01-10"
 excerpt: "At seventy, my plumbing doesn't work like it did at thirty. Or sixty. But then nothing does. Still, plumbing failures are one of the special special joys of aging. And there are so many failure modes! The most common plumbing…"
-word_count: 734
+word_count: 742
 tags:
   - "70YearsWTF"
 related: []
@@ -16,6 +16,8 @@ related: []
 At seventy, my plumbing doesn't work like it did at thirty. Or sixty. But then nothing does. Still, plumbing failures are one of the special special joys of aging. And there are so many failure modes!
 
 The most common plumbing problem of aging men is called [Benign Prostatic Hyperplasia](http://en.wikipedia.org/wiki/Benign_prostatic_hyperplasia), or BPH to its friends, which don't include me. Break it down: benign means it's not gonna kill you. Prostatic means it's about your prostate. Hyperplasia means too many cells. In other words, the older you get the bigger your prostate. That's a problem because of faulty plumbing design.
+
+![English: Prostate and bladder, sagittal sectio...](/media/70yt/plumbing-failures-part-i-13-01-10/1.jpg)
 
 English: Prostate and bladder, sagittal section. 中文: 前列腺與膀胱，矢狀切面。 (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:Prostatelead.jpg))
 Check out the picture in the sidebar (courtesy Wikipedia, of course), you can see that the channel from [bladder](http://en.wikipedia.org/wiki/Urinary_bladder) to penis--called the urethra--leads through the prostate. Whoever came up with that design should be fired, because as men age BPH constricts the channel which then results in two problems: we pee more often and it takes longer to start a stream, technically, "increased frequency" and "hesitancy." Frequency goes up because it seems that you can't fully empty your bladder, especially at night. Coupled with hesitancy it's a lot of fun.

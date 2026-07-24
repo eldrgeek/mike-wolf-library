@@ -10,7 +10,8 @@ excerpt: "I'm enrolled in a colloquy, titled: [Examining Public discourse in the
 word_count: 379
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

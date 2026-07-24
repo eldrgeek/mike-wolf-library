@@ -10,7 +10,8 @@ excerpt: "Is democracy in crisis? Really, I don't know. I can argue that it is. 
 word_count: 91
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

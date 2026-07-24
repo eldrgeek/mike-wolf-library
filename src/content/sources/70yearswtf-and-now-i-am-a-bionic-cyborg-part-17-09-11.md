@@ -10,13 +10,15 @@ excerpt: "I’m a bionic cyborg. I’ve [been a cyborg for a while](https://70ye
 word_count: 2233
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
+  - "70yearswtf-and-now-i-am-a-bionic-cyborg-part-17-09-14"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I’m a bionic cyborg. I’ve [been a cyborg for a while](https://70yearsoldwtf.blogspot.com/2016/01/i-am-cyborg-and-google-helps-me.html). Recently I wrote that I was [looking forward to my bionic future](https://70yearsoldwtf.blogspot.com/2017/08/looking-forward-to-my-bionic-future.html). And to the [pain, suffering, and stupidity](https://70yearsoldwtf.blogspot.com/2017/08/looking-forward-to-pain-suffering-and.html) that would accompany my transition. Well, it’s done. I’m a bionic cyborg and the pain, suffering, and stupidity are past and were far below expectations. Here’s the story.

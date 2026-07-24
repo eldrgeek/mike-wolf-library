@@ -10,7 +10,8 @@ excerpt: "“Your toaster is on line 1,” said Angie, amusement in her voice. �
 word_count: 1474
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -16,6 +16,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/the-world-changes-in-an-instant/1.jpg)
+
 “Will you tell our story?” she asks me.
 
 “Sure,” I say. And I start to write it. It’s February 2. I write it and rewrite it and rewrite it.
@@ -113,6 +115,8 @@ She was friends with Liz Ausley, whom she’d met at Goucher College. She was in
 “I remember all kinds of things,” I answer.
 
 (But just to be sure, I did a little Internet research and found [Issue 33 of “The Auditor”](http://iapsop.com/archive/materials/auditor/auditor_33.pdf) which confirmed my recollection.)
+
+![](/media/70yt/the-world-changes-in-an-instant/2.jpg)
 
 “I remember the moment I first saw you,” I tell her.
 

@@ -10,7 +10,8 @@ excerpt: "I'm not blogging. Or not blogging regularly, which as far as I am conc
 word_count: 185
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -6,11 +6,11 @@ order: 0
 date: "2021-07-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/qfe-our-mom"
-excerpt: "This is a placeholder post. I’ll come back later and write more about my amazing mother. Or maybe link to some other posts. The Queen on her throne, age 90 Mom’s official title was QFE—which stands for Queen of Fucking Everything. Here she…"
-word_count: 519
+excerpt: "This is a placeholder post. I’ll come back later and write more about my amazing mother. Or maybe link to some other posts. ![The Queen on her throne, age 90](/media/70yt/qfe-our-mom/1.jpg) The Queen on her throne, age 90 Mom’s official…"
+word_count: 540
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -20,6 +20,8 @@ related:
 ---
 
 This is a placeholder post. I’ll come back later and write more about my amazing mother. Or maybe link to some other posts.
+
+![The Queen on her throne, age 90](/media/70yt/qfe-our-mom/1.jpg)
 
 *The Queen on her throne, age 90*
 
@@ -60,6 +62,8 @@ This is her 107th birthday. Happy birthday, Mom
 “Thank you, darling,” says a raspy voice in my head.
 
 Unmistakably, Mom.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 Subscribers get to get news of the QFE and every other fucking thing I write about, delivered to their mailbox when I write about it. You got a problem with that?
 

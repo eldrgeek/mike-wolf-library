@@ -7,7 +7,7 @@ date: "2019-06-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/why-meditate-redux-19-06-16"
 excerpt: "Credit Simon Migag Why Meditate? Redux Again, the question is asked. Why meditate? This question (abbreviated) popped up in the channel where some of us discuss such things. It seems like you don’t get any benefits for normal life until…"
-word_count: 694
+word_count: 693
 tags:
   - "70YearsWTF"
   - "meditation"
@@ -15,6 +15,8 @@ tags:
   - "automation"
 related: []
 ---
+
+![](/media/70yt/why-meditate-redux-19-06-16/1.jpg)
 
 *Credit [Simon Migag](https://unsplash.com/@simonmigaj)*
 

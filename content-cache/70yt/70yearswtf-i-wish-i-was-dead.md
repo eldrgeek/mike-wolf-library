@@ -7,12 +7,14 @@ date: "2023-08-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-wish-i-was-dead"
 excerpt: "Not now. But then."
-word_count: 578
+word_count: 605
 tags:
   - "70YearsWTF"
   - "AI"
 related: []
 ---
+
+![AI image from Lexica.art](/media/70yt/i-wish-i-was-dead/1.jpg)
 
 *AI image from Lexica.art*
 

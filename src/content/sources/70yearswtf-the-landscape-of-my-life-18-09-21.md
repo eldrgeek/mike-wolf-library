@@ -10,7 +10,8 @@ excerpt: "The day started out poorly. Bobbi and I had been discussing one of the
 word_count: 1248
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-is-science-stagnant-a-rant-18-11-18"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Truthiness cousin for STEM cosplay — “patina of scienciness.”</p>

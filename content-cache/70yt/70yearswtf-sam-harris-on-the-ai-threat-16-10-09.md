@@ -7,7 +7,7 @@ date: "2016-10-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/sam-harris-on-the-ai-threat-16-10-09"
 excerpt: "As promised (or threatened) in this post, here's my next article on Sam Harris. Sam recently gave a TED talk on AI. It's worth watching, before or after reading this. He argues, in a clear and non-technical way, why human-level…"
-word_count: 535
+word_count: 534
 tags:
   - "70YearsWTF"
   - "AI"
@@ -15,6 +15,8 @@ tags:
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/sam-harris-on-the-ai-threat-16-10-09/1.jpg)
 
 As promised (or threatened) in [this post](http://70yearsoldwtf.blogspot.com/2016/10/sam-harris-thinking-in-public.html), here's my next article on Sam Harris.
 

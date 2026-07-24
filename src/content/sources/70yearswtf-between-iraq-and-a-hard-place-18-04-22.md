@@ -7,10 +7,10 @@ date: "2018-04-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/between-iraq-and-a-hard-place-18-04-22"
 excerpt: "I woke up from a nap with a burning desire to check Google Maps and find out if there is any city or geographic landmark named Ahardplace so that I could find what was really between Iraq and Ahardplace. There isn't any such place. There…"
-word_count: 162
+word_count: 175
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -32,3 +32,5 @@ So here's a [link to a Hard Place.](https://goo.gl/maps/VemTp8TeNk42) Since it's
 Potato potato.
 
 Anyway [here's the walking route between Iraq and a (or the) Hard Place,](https://goo.gl/maps/vX9sAonoeNR2)
+
+![](/media/70yt/between-iraq-and-a-hard-place-18-04-22/1.jpg)

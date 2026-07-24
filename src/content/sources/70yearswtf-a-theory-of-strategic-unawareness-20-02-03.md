@@ -10,7 +10,8 @@ excerpt: "Why do people lose awareness? Why run on automatic? If someone’s dec
 word_count: 941
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -10,7 +10,7 @@ excerpt: "How fortunate I am to be among those—like my friends—who understan
 word_count: 584
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -10,7 +10,8 @@ excerpt: "Today realized that I have been making a mistake by trying to solve pr
 word_count: 370
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

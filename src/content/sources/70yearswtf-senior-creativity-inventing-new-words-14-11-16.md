@@ -10,7 +10,8 @@ excerpt: "I'm usually annoyed at the changes in my mental infrastructure. Blown 
 word_count: 434
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

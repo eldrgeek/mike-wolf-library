@@ -7,13 +7,15 @@ date: "2025-03-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/can-god-create-a-rock-so-big-that"
 excerpt: "“Of course I can,” says The God I Don’t Believe In.” “Then you aren’t omnipotent,” says a reader. “There’s a rock that you can’t move.” “Of course, I can move it,” says God. “I’m God, after all.” “Wait a minute,”…"
-word_count: 541
+word_count: 627
 tags:
   - "70YearsWTF"
   - "Theology"
   - "God"
 related: []
 ---
+
+![A surreal and philosophical depiction of the classic paradox: 'Can God create a rock so big that She can't move it?' The image shows a vast cosmic landscape with a divine, ethereal female figure, radiating celestial light, gazing at an impossibly massive rock suspended in space. The rock is glowing with mystical energy, symbolizing its paradoxical nature. The goddess has an expression of contemplation, as if pondering the limits of omnipotence. The scene is awe-inspiring, blending elements of divine majesty and philosophical irony.](/media/70yt/can-god-create-a-rock-so-big-that/1.jpg)
 
 “Of course I can,” says [The God I Don’t Believe In.](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utm_source=publication-search)”
 

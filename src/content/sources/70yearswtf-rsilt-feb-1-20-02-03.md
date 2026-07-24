@@ -10,7 +10,10 @@ excerpt: "Feb 1, I decided I was going to keep track of what I learned. Looking 
 word_count: 1650
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
   - "70yearswtf-more-advice-share-your-gifts"

@@ -10,7 +10,8 @@ excerpt: "Photo by [Faris Mohammed](https://unsplash.com/@pkmfaris) on [Unsplash
 word_count: 1155
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

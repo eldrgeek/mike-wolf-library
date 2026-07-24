@@ -6,14 +6,17 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
 source: "SRMW."
-related: []
+related:
+  - "mindscape"
+  - "most-of-reality-is-imagined"
 provenance:
   - "srmw-chapter-29-the-worst-day-of-my-life"
   - "srmw-chapter-30-outside-space-and-time"
   - "srmw-chapter-31-the-days-that-never-end"
   - "srmw-part-xiii-endgame"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Hard Times doctrine: when you fail, find a safe place — if you don’t have one, <em>make one</em>. Portable imaginary coordinate. Kin to mindtravel destinations.</p>

@@ -6,7 +6,9 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
 source: "SRMW."
-related: []
+related:
+  - "god-helps-those-who-narrate-themselves"
+  - "third-classic-blunder"
 provenance:
   - "srmw-part-ii-the-metanovel"
   - "srmw-chapter-2-what-is-nanowrimo"
@@ -27,7 +29,8 @@ provenance:
   - "srmw-chapter-41-a-decision"
   - "srmw-part-xiii-endgame"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Named narrative engine and character: omniscient “but not quite.” Gap is joke and plot; practices toward Quite Omniscient. Estate later love of partial honest epistemic status rhymes.</p>

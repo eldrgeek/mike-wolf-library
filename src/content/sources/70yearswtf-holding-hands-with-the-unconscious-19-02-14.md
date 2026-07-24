@@ -10,7 +10,8 @@ excerpt: "I’m close to making a change in my life. Everything’s ready. It’
 word_count: 771
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-more-advice-share-your-gifts"
   - "70yearswtf-postprocessing-4000-tabs-to-close-20-01-26"

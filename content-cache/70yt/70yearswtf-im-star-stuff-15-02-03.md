@@ -7,13 +7,15 @@ date: "2015-02-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-star-stuff-15-02-03"
 excerpt: "Yesterday, (well, logical yesterday) I said where I came from, the center of the universe. Today I'll tell you what I am: I'm star stuff. It's actually a pretty cool thing to meditate on. I can sit here, close my…"
-word_count: 668
+word_count: 672
 tags:
   - "70YearsWTF"
   - "meditation"
   - "blogging"
 related: []
 ---
+
+![timeline of the universe](/media/70yt/im-star-stuff-15-02-03/1.jpg)
 
 Yesterday, (well, [logical yesterday](http://70yearsoldwtf.blogspot.com/2015/02/im-mike-from-right-here-center-of.html)) I said where I came from, [the center of the universe](http://70yearsoldwtf.blogspot.com/2015/02/im-mike-from-right-here-center-of.html).
 

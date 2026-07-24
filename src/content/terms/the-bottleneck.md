@@ -11,6 +11,8 @@ related:
   - "tnta"
   - "cheapest-capable"
   - "self-obsolescence"
+  - "lights-out-lights-on"
+  - "afk-taxonomy-atk-afk-ok-afk-dnba-afk-dnd-asleep"
 provenance:
   - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-intention-lost-intention-regained-19-02-22"

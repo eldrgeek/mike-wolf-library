@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-your-new-audience-has-405-billion-parameters"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not writing <em>with</em> or <em>about</em> AI — <em>for</em> models that answer when people ask about you. Cowen/Gwern-inflected, adopted as program: quirks over polish, text over video. Converges with dual-audience / letters-to-future-AIs (live).</p>

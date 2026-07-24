@@ -6,18 +6,21 @@ order: 0
 date: "2023-08-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/everything-arises-and-passes-away"
-excerpt: "Image machine-generated from [arhub.ai](https://arthub.ai/art/144794) But maybe passing away is not the same as dying. Everything arises and passes away. This sentence is arising in my mind, and now part of it has arisen, and now it is…"
-word_count: 536
+excerpt: "![ah3-d6d564d86a07.jpeg](/media/70yt/everything-arises-and-passes-away/1.jpg) Image machine-generated from [arhub.ai](https://arthub.ai/art/144794) But maybe passing away is not the same as dying. Everything arises and passes away. This…"
+word_count: 548
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
+  - "70yearswtf-i-wish-i-was-dead"
+  - "srmw-part-vi-fear-and-procrastination"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![ah3-d6d564d86a07.jpeg](/media/70yt/everything-arises-and-passes-away/1.jpg)
 
 *Image machine-generated from [arhub.ai](https://arthub.ai/art/144794)*
 

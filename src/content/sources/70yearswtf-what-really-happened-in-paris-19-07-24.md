@@ -6,11 +6,12 @@ order: 0
 date: "2019-07-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/what-really-happened-in-paris-19-07-24"
-excerpt: "[Faula Theiry](https://500px.com/photo/52071370/montmartre-paris-by-faula-thierry) Part I “I don’t know if it’s possible to take that shot and get the stars in one go, must be a composite. Several hundred maybe. What do you think?” “Right.…"
-word_count: 1304
+excerpt: "![](/media/70yt/what-really-happened-in-paris-19-07-24/1.jpg) [Faula Theiry](https://500px.com/photo/52071370/montmartre-paris-by-faula-thierry) Part I “I don’t know if it’s possible to take that shot and get the stars in one go, must be a…"
+word_count: 1316
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/what-really-happened-in-paris-19-07-24/1.jpg)
 
 *[Faula Theiry](https://500px.com/photo/52071370/montmartre-paris-by-faula-thierry)*
 

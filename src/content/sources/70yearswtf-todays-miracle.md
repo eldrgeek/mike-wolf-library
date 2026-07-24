@@ -6,11 +6,12 @@ order: 0
 date: "2022-03-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/todays-miracle"
-excerpt: "True fact: I woke up from a dream a couple of nights ago and wrote what’s in the image at the top of this post so I wouldn’t forget it. If there were a God who created a world with me in it, writing this, and you in it, reading this... But…"
-word_count: 909
+excerpt: "![](/media/70yt/todays-miracle/1.jpg) True fact: I woke up from a dream a couple of nights ago and wrote what’s in the image at the top of this post so I wouldn’t forget it. If there were a God who created a world with me in it, writing…"
+word_count: 915
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/todays-miracle/1.jpg)
 
 True fact: I woke up from a dream a couple of nights ago and wrote what’s in the image at the top of this post so I wouldn’t forget it.
 

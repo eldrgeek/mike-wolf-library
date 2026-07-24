@@ -9,7 +9,8 @@ source: "70yt *a-projects-guy*; *do-your-job-redux*; *do-your-job*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not a stay-in-touch guy — shows up for joint work. “I do my job” unsticks existential fog. Universe memo <em>do your fucking job</em> expands to cosmic duty of conscious parts.</p>

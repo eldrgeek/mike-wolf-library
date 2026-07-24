@@ -6,11 +6,12 @@ order: 0
 date: "2016-04-13"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/how-a-scam-made-me-a-wikipedia-edtor-16-04-13"
-excerpt: "I was doing some online research when I found myself on this page. It looks a little bit like the page that Chrome displays when you go to a site that Google deems unsafe. Only it's red. Danger! Danger! Still, it's Google, right? It's got…"
-word_count: 305
+excerpt: "![](/media/70yt/how-a-scam-made-me-a-wikipedia-edtor-16-04-13/1.png) I was doing some online research when I found myself on this page. It looks a little bit like the page that Chrome displays when you go to a site that Google deems…"
+word_count: 320
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/how-a-scam-made-me-a-wikipedia-edtor-16-04-13/1.png)
 
 I was doing some online research when I found myself on this page. It looks a little bit like the page that Chrome displays when you go to a site that Google deems unsafe. Only it's red.
 

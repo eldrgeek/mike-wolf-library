@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *climate-science-addiction-part-n* (batch 4)."
 source: "70yt *climate-science-addiction-part-n* (batch 4)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-climate-science-addiction-part-n-19-06-26"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Benders, junkie, Part N of M — serial relapse structure. Not denialism; names the compulsion.</p>

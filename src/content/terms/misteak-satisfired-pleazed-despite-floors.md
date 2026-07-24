@@ -9,7 +9,8 @@ source: "70yt *making-misteaks*; *every-day-is-groundhog-day*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not unfixed typos: intentional orthographic comedy in a post arguing he is “definitely not a perfectionist.” Error as wink; proof-by-performance.</p>

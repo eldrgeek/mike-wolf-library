@@ -10,7 +10,7 @@ excerpt: "I opened my eyes, and the universe appeared. \"Actually,\" said the un
 word_count: 313
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

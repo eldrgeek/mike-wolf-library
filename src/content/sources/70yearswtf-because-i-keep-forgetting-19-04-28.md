@@ -6,11 +6,13 @@ order: 0
 date: "2019-04-28"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/because-i-keep-forgetting-19-04-28"
-excerpt: "I’ve [written about this before](https://70yearsoldwtf.blogspot.com/2018/11/waking-up-with-my-personal-coach.html), using some of these, taken from Sam Harris’s talk “The Logic of Practice” from the “[The Waking Up…"
-word_count: 1352
+excerpt: "![A reflective, serene image showing a person sitting in meditation by a calm lake, surrounded by soft morning light, gentle mist, and a backdrop of mountains. The lake surface is still, mirroring the scene with clarity. The background…"
+word_count: 1427
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![A reflective, serene image showing a person sitting in meditation by a calm lake, surrounded by soft morning light, gentle mist, and a backdrop of mountains. The lake surface is still, mirroring the scene with clarity. The background symbolizes the internal journey of meditation, with tranquil colors and soft, blurred details representing the calmness of mind. The atmosphere should evoke introspection, peace, and presence.](/media/70yt/because-i-keep-forgetting-19-04-28/1.jpg)
 
 I’ve [written about this before](https://70yearsoldwtf.blogspot.com/2018/11/waking-up-with-my-personal-coach.html), using some of these, taken from Sam Harris’s talk “The Logic of Practice” from the “[The Waking Up Course](https://wakingup.com/).” I’m just going to slow it down and unpack what he says. Because it’s vital that I remember it. If it helps you, too, great. But I’m writing this to remind me. Because once in a while, I do read what I write.
 

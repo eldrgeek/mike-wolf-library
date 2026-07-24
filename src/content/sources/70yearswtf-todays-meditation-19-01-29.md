@@ -10,7 +10,9 @@ excerpt: "A couple of hours ago I finished a meditation session, the second of t
 word_count: 615
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

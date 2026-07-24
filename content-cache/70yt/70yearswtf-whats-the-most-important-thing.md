@@ -7,12 +7,14 @@ date: "2025-11-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/whats-the-most-important-thing"
 excerpt: "Besides reading this blog post, I mean"
-word_count: 2307
+word_count: 2332
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/whats-the-most-important-thing/1.jpg)
 
 My [SBM](https://70yearswtf.substack.com/p/sbm-and-dbf-19-05-23?utm_source=publication-search) Daniel has a theory.
 

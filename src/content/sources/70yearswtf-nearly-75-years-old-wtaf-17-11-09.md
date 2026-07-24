@@ -10,13 +10,14 @@ excerpt: "Seventy-fifth birthday in less than two months. Nearly five years writ
 word_count: 899
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-waking-up-and-the-illusion-of-the-19-06-22"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Seventy-fifth birthday in less than two months. Nearly five years writing this particular blog, off and on (mostly off). So? So what's it like being nearly a three-quarters of a century old? What have I learned in that time? What do I want to do next? What do I think about my life? What do I think about the world as it is? Where do I think the world is going? When am I going to stop asking myself such questions?

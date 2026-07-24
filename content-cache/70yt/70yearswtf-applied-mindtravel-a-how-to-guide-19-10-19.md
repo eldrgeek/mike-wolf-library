@@ -7,12 +7,14 @@ date: "2019-10-19"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/applied-mindtravel-a-how-to-guide-19-10-19"
 excerpt: "Photo by Daniela Cuevas on Unsplash A while back I wrote this post: Mindscapes and mindtravel Today I discovered I’d written a how-to guide and never published it. Easily fixed. Building the itinerary Get a notebook (or start a document).…"
-word_count: 288
+word_count: 292
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/applied-mindtravel-a-how-to-guide-19-10-19/1.jpg)
 
 *Photo by [Daniela Cuevas](https://unsplash.com/@danielacuevas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/landscape?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

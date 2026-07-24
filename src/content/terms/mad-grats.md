@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-helping-stuff-die-lessons-from-a-19-03-09"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not mad props — gratitude aimed at the bad day because the lesson required the shittiness.</p>

@@ -10,7 +10,9 @@ excerpt: "When I was a kid, I had a secret dream. One way to say it: I wanted to
 word_count: 468
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

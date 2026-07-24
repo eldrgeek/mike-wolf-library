@@ -7,16 +7,16 @@ date: "2022-08-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/today-i-am-filled-with-spirit-and"
 excerpt: "Photo by [Marek Piwnicki](https://unsplash.com/@marekpiwnicki) on [Unsplash](https://unsplash.com) Today I woke, and my mind was flooded with Ideas. So many things to write about. So many things to be grateful for. So many things to…"
-word_count: 868
+word_count: 879
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
+  - "70yearswtf-mikes-life-moviewise-review"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-99-subscribers-are-here-on-my-blog"
-  - "70yearswtf-can-god-create-a-rock-so-big-that"
-  - "70yearswtf-even-aholes-can-get-missions-from"
+  - "70yearswtf-an-open-letter-to-my-90-year-old"
 ---
 
 *Photo by [Marek Piwnicki](https://unsplash.com/@marekpiwnicki) on [Unsplash](https://unsplash.com)*
@@ -78,7 +78,7 @@ It is more like this:
 
 I could say a lot more about this. And I have.
 
-[70 Years Old. WTF!The paradoxes of gratitude and forgivenessLate in my life, I discovered the paradoxical properties and the enormous power of gratitude and forgiveness. Cost and benefit When you tell someone you are grateful, you give them more than it costs you. When you forgive someone, it costs you nothing and relieves them from whatever burden they were carrying…Read more8 years ago · Michael Wolf](https://70yearswtf.substack.com/p/the-paradoxes-of-gratitude-and-forgiveness-18-12-06?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/today-i-am-filled-with-spirit-and/1.jpg) 70 Years Old. WTF!The paradoxes of gratitude and forgivenessLate in my life, I discovered the paradoxical properties and the enormous power of gratitude and forgiveness. Cost and benefit When you tell someone you are grateful, you give them more than it costs you. When you forgive someone, it costs you nothing and relieves them from whatever burden they were carrying…Read more8 years ago · Michael Wolf](https://70yearswtf.substack.com/p/the-paradoxes-of-gratitude-and-forgiveness-18-12-06?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 And I have
 

@@ -9,7 +9,8 @@ source: "70yt *superplacebo-by-placebionix* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Belief technology with premium tiers that work better the more they cost. Placebionix proprietary blend is hyperbole.</p>

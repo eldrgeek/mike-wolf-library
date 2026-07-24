@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/a-projects-guy-16-08-19/1.jpg)
+
 My sister used to tell me she was hurt when I didn't call or write to her. If she called, I might not even call back. “What's up with that?” she'd ask.
 
 A few years ago, I figured it out. "I'm not a stay-in-touch-and-connected guy," I told her. "I'm a projects guy. Make a project we can do together, and I'll happily work on it with you."

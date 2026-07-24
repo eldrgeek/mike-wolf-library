@@ -10,7 +10,9 @@ excerpt: "TL;DR The AI values alignment problem is not new. We've had AIs for mi
 word_count: 673
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

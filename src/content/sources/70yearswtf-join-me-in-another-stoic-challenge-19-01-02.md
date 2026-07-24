@@ -10,7 +10,9 @@ excerpt: "Last October, I did the 30 Day Stoic Challenge. It was a great experie
 word_count: 479
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

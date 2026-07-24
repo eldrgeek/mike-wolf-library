@@ -10,7 +10,8 @@ excerpt: "English: Google Logo officially released on May 2010 (Photo credit: [W
 word_count: 246
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

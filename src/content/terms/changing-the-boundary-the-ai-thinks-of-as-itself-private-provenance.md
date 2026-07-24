@@ -9,7 +9,8 @@ source: "Mike 2026-05-10, Friston FEP with Mark Lesser (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> As self-boundary for humans and AIs becomes more the same, better futures become look-forward-able. Private conversation frame with Mark Lesser.</p>

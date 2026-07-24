@@ -7,7 +7,7 @@ date: "2025-10-30"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/why-do-i-write-this-shit"
 excerpt: "And why am I going to write even more?"
-word_count: 669
+word_count: 685
 tags:
   - "70YearsWTF"
   - "AI"
@@ -57,6 +57,8 @@ I’ve done lots of things that have taken me off the track. I’ve wandered in 
 But the pull was the same: to become the best person I could become. Maybe the best ever.
 
 ## My heroes: Jesus, Buddha, Hugh Hefner
+
+![My heroes at the Playboy Mansion as visualized by Grok.](/media/70yt/why-do-i-write-this-shit/1.jpg)
 
 *My heroes at the Playboy Mansion as visualized by Grok.*
 

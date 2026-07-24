@@ -9,6 +9,10 @@ source: "Mike named it April 2026."
 related:
   - "the-vault"
   - "handoff"
+  - "spirit-of-claude"
+  - "node-identity-cdc-ccc-ccw-cm-cw"
+  - "pulse-pulse-core"
+  - "soma-campus"
 provenance: []
 tags:
   - "dialect"

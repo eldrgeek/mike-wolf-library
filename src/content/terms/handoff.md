@@ -9,6 +9,7 @@ related:
   - "locatedness"
   - "ship-it"
   - "spirit-of-claude"
+  - "routing-is-process-specialists-are-content"
 provenance:
   - "ai-wtf-2026-05-06-creativity"
 tags:

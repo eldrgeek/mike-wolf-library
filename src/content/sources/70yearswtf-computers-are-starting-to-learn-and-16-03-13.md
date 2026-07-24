@@ -6,11 +6,13 @@ order: 0
 date: "2016-03-13"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/computers-are-starting-to-learn-and-16-03-13"
-excerpt: "The breakthroughs are coming faster and faster. Last night (as I started this post) Google's go-playing computer system, called AlphaGo, beat one of the the world's best go players, [Lee Sedol](http://en.wikipedia.org/wiki/LeeSedol) of…"
-word_count: 1870
+excerpt: "![](/media/70yt/computers-are-starting-to-learn-and-16-03-13/1.jpg) The breakthroughs are coming faster and faster. Last night (as I started this post) Google's go-playing computer system, called AlphaGo, beat one of the the world's best…"
+word_count: 1883
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/computers-are-starting-to-learn-and-16-03-13/1.jpg)
 
 The breakthroughs are coming faster and faster. Last night (as I started this post) Google's go-playing computer system, called AlphaGo, beat one of the the world's best go players, [Lee Sedol](http://en.wikipedia.org/wiki/Lee_Sedol) of Korea. Tonight (as I continue it) AlphaGo has won the second match in a five game series. This morning (as I work on it) AlphaGo has won the third.
 

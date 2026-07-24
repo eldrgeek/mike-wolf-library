@@ -10,7 +10,10 @@ excerpt: "I've been binge-listening and binge-reading a bunch of Sam Harris' stu
 word_count: 465
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

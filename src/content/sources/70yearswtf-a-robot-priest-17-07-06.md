@@ -10,7 +10,8 @@ excerpt: "Another job taken by robots. This robot priest will bless you. (Humans
 word_count: 221
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -10,13 +10,14 @@ excerpt: "Sometimes I don’t realize that I’m thirsty until I take a sip of w
 word_count: 403
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-hanukkapella-19-12-11"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Sometimes I don’t realize that I’m thirsty until I take a sip of water.

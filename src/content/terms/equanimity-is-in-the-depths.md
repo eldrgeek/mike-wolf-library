@@ -9,7 +9,8 @@ source: "70yt *equanimity-is-in-the-depths* (batch 3)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Agitation is surface weather. Manage habitat, not only individual thoughts.</p>

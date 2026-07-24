@@ -10,7 +10,9 @@ excerpt: "A while ago [I wrote](http://70yearsoldwtf.blogspot.com/2015/03/humans
 word_count: 102
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

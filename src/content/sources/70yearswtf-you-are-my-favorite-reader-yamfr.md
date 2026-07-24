@@ -6,11 +6,13 @@ order: 0
 date: "2023-04-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/you-are-my-favorite-reader-yamfr"
-excerpt: "“Me?” You might ask, but only after 1. I’ve finished writing this; 2. I’ve posted this, and; 3. You’ve started to read it. 4. You’ve gotten here. “You mean I’m your favorite reader?” you might repeat for continuity, pace and timing. “Yes,”…"
-word_count: 673
+excerpt: "![](/media/70yt/you-are-my-favorite-reader-yamfr/1.jpg) “Me?” You might ask, but only after 1. I’ve finished writing this; 2. I’ve posted this, and; 3. You’ve started to read it. 4. You’ve gotten here. “You mean I’m your favorite reader?”…"
+word_count: 683
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/you-are-my-favorite-reader-yamfr/1.jpg)
 
 “Me?” You might ask, but only after
 

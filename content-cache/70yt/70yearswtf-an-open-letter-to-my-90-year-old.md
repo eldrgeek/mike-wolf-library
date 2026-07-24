@@ -7,7 +7,7 @@ date: "2022-09-08"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/an-open-letter-to-my-90-year-old"
 excerpt: "Photo by Lucas George Wendt on Unsplash Hi! I hope you’re doing well. I hope you are loving life. I hope your body isn’t a wreck. I hope you’re not dead. Remember me? I’m your nearly-80-year-old-past-self. If you don’t remember,…"
-word_count: 626
+word_count: 700
 tags:
   - "70YearsWTF"
 related: []
@@ -95,4 +95,4 @@ And press publish
 
 Or you can read this, which changed my life
 
-[70 Years Old. WTF!Thank you, Past Me. Thank you random stranger(Original art from here) Last night on Reddit I came across a comment that has changed my life. Of course, it doesn't take all that much to change someone's life. I wouldn't have written this but for that comment, so the existence of this post means reading that comment was a life changing event. But I hope my life will change it in a larger way…Read more9 years ago · Michael Wolf](https://70yearswtf.substack.com/p/thank-you-past-me-thank-you-random-17-07-01?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/an-open-letter-to-my-90-year-old/1.jpg) 70 Years Old. WTF!Thank you, Past Me. Thank you random stranger(Original art from here) Last night on Reddit I came across a comment that has changed my life. Of course, it doesn't take all that much to change someone's life. I wouldn't have written this but for that comment, so the existence of this post means reading that comment was a life changing event. But I hope my life will change it in a larger way…Read more9 years ago · Michael Wolf](https://70yearswtf.substack.com/p/thank-you-past-me-thank-you-random-17-07-01?utm_source=substack&utm_campaign=post_embed&utm_medium=web)

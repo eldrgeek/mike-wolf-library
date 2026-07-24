@@ -7,11 +7,13 @@ date: "2014-06-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/failure-is-inevitable-because-death-14-06-11"
 excerpt: "A picture of the hot house at the Botanical gardens. The hedge at the front said \" Sex + Death\" I have no idea what this means only that they are the 2 things in life that are truly inevitable…"
-word_count: 168
+word_count: 179
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![A picture of the hot house at the Botanical ga...](/media/70yt/failure-is-inevitable-because-death-14-06-11/1.jpg)
 
 A picture of the hot house at the Botanical gardens. The hedge at the front said " Sex + Death" I have no idea what this means only that they are the 2 things in life that are truly inevitable (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:HotHouseSydneyRoyalBotanicalGardens.jpg))
 

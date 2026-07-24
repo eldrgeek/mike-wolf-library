@@ -6,11 +6,12 @@ order: 0
 date: "2023-07-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/guest-post-36-in-36"
-excerpt: "Image by Midjourney based on a [prompt by ChatGPT 4](https://chat.openai.com/share/0da84ff9-9267-4bf8-bafc-229b3625f942) based on the guest post, below i've had crazy dreams before. actually, most of my dreams are probably what you could…"
-word_count: 426
+excerpt: "![Image by Midjourney based on a prompt by ChatGPT 4(https://chat.openai.com/share/0da84ff9-9267-4bf8-bafc-229b3625f942) based on the guest post, below](/media/70yt/guest-post-36-in-36/1.jpg) Image by Midjourney based on a [prompt by…"
+word_count: 485
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Image by Midjourney based on a prompt by ChatGPT 4(https://chat.openai.com/share/0da84ff9-9267-4bf8-bafc-229b3625f942) based on the guest post, below](/media/70yt/guest-post-36-in-36/1.jpg)
 
 *Image by Midjourney based on a [prompt by ChatGPT 4](https://chat.openai.com/share/0da84ff9-9267-4bf8-bafc-229b3625f942) based on the guest post, below*
 
@@ -40,6 +43,8 @@ aha...
 i just need a couple of days to catch up with shit.  how about you?
 
 [n](https://noelpaulstookey.com/)
+
+![Created by DALL-E based on a prompt by ChatGPT4 based on the post above](/media/70yt/guest-post-36-in-36/2.jpg)
 
 *Created by DALL-E based on a prompt by ChatGPT4 based on the post above*
 

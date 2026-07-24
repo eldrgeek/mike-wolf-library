@@ -7,12 +7,14 @@ date: "2025-01-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/even-more-like-heaven-and-the-internet"
 excerpt: "Edited, improved slightly and still as true as anything I've written."
-word_count: 2124
+word_count: 2142
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Photo by Johannes Plenio(https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/even-more-like-heaven-and-the-internet/1.jpg)
 
 *Photo by [Johannes Plenio](https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

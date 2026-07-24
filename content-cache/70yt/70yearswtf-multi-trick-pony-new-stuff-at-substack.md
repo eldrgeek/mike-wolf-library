@@ -7,7 +7,7 @@ date: "2024-12-18"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/multi-trick-pony-new-stuff-at-substack"
 excerpt: "I haven’t been posting anything on Substack for a while. While trying to re-reboot myself I discovered a bunch of new stuff you can do with Substack. Polls Yippee! I can create polls. Custom Buttons Wow! I can make a…"
-word_count: 180
+word_count: 210
 tags:
   - "70YearsWTF"
 related: []
@@ -80,6 +80,8 @@ This should be called LameteX
 ## Financial Chart
 
 For those interested in financial charts, here’s one
+
+![TradingView chart](/media/70yt/multi-trick-pony-new-stuff-at-substack/1.jpg)
 
 *Created with [TradingView](https://tradingview.com)*
 

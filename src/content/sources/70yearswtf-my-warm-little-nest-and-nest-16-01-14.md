@@ -6,11 +6,11 @@ order: 0
 date: "2016-01-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/my-warm-little-nest-and-nest-16-01-14"
-excerpt: "You never know what matters until you nearly lose it. That's what happened when I lost contact with my Nest thermostat. And our little nest in Maine. On the road, away from home, I get an email from Lisa, the lady who is looking after our…"
-word_count: 419
+excerpt: "![](/media/70yt/my-warm-little-nest-and-nest-16-01-14/1.jpg) You never know what matters until you nearly lose it. That's what happened when I lost contact with my Nest thermostat. And our little nest in Maine. On the road, away from home,…"
+word_count: 432
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/my-warm-little-nest-and-nest-16-01-14/1.jpg)
 
 You never know what matters until you nearly lose it. That's what happened when I lost contact with my Nest thermostat. And our little nest in Maine.
 

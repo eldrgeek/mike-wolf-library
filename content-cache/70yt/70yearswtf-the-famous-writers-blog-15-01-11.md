@@ -27,6 +27,8 @@ Since my Dad was an old Jewish guy who had had a stroke and was sometimes in a w
 
 So here it is.
 
+![](/media/70yt/the-famous-writers-blog-15-01-11/1.jpg)
+
 [Raiders of the lost Archives II: The IAOSYOJMRFSIW](https://famouswritersblog.wordpress.com/2011/06/08/raiders-of-the-lost-archives-ii-the-iaosyojmrfsiw/)
 
 Posted: 07 Jun 2011 06:49 PM PDT

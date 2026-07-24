@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/do-your-job-17-06-23/1.jpg)
+
 From: The Universe
 
 To: All my conscious parts

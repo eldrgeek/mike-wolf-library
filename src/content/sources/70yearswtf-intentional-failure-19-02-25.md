@@ -10,13 +10,14 @@ excerpt: "What now? Intentional failure Yesterday I realized that I had not post
 word_count: 927
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-going-meta"
+  - "70yearswtf-lowering-the-bar-a-technique-for-13-01-05"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 What now?

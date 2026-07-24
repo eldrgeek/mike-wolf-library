@@ -10,7 +10,7 @@ excerpt: "Someone made a comment at Beyond Labels this morning about a brilliant
 word_count: 1023
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

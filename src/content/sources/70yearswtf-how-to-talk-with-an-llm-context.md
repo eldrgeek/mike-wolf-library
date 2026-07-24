@@ -6,11 +6,13 @@ order: 0
 date: "2025-11-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/how-to-talk-with-an-llm-context"
-excerpt: "Each chat with an LLM is a conversation with a context. Same for people. When two people start a conversation, context is established even before the first word is spoken. It’s based on where they are, what is going on around them, what…"
-word_count: 2021
+excerpt: "![](/media/70yt/how-to-talk-with-an-llm-context/1.jpg) Each chat with an LLM is a conversation with a context. Same for people. When two people start a conversation, context is established even before the first word is spoken. It’s based…"
+word_count: 2032
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/how-to-talk-with-an-llm-context/1.jpg)
 
 Each chat with an LLM is a conversation with a context. Same for people.
 

@@ -7,12 +7,14 @@ date: "2021-07-07"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/what-should-i-write-about"
 excerpt: "Photo by Art Lasovsky on Unsplash “What should I write about?” I asked God. I had written a post predicting more conversations with God and once again, my prediction was being borne out. “That’s not God,” said a reader. I…"
-word_count: 466
+word_count: 490
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Photo by Art Lasovsky(https://unsplash.com/@artlasovsky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/writing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/what-should-i-write-about/1.jpg)
 
 *Photo by [Art Lasovsky](https://unsplash.com/@artlasovsky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/writing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -67,5 +69,7 @@ The ego judges. God encourages.
 “Yes,” I said.
 
 “Then write with me.”
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 God says I should keep putting a subscribe button at the bottom of the page.

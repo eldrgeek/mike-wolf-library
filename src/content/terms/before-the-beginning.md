@@ -8,10 +8,12 @@ origin: "SRMW."
 source: "SRMW."
 related: []
 provenance:
+  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
   - "srmw-part-iii-memories"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Part I title and structural claim: you may need a different universe/metauniverse before Chapter 1 is possible.</p>

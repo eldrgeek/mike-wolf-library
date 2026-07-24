@@ -10,7 +10,9 @@ excerpt: "[What do I predict](https://70yearsoldwtf.blogspot.com/2018/10/predict
 word_count: 654
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

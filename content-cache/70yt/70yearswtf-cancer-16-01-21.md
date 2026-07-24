@@ -7,11 +7,13 @@ date: "2016-01-21"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/cancer-16-01-21"
 excerpt: "Everything in life teaches you something. Here are some things I’ve learned from cancer: mine, and others. Oh, you didn’t know that I had cancer? Sorry. Forgot to tell you. Actually, I didn’t know myself until yesterday. Not yesterday, yesterday.…"
-word_count: 916
+word_count: 918
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/cancer-16-01-21/1.jpg)
 
 Everything in life teaches you something. Here are some things I’ve learned from cancer: mine, and others.
 
@@ -50,5 +52,7 @@ Update: Mark (my brother, I didn’t tell you his name) still has myeloma. It’
 Cancer sucks.
 
 Subscribing doesn’t suck. Or maybe it sucks, in which case, don’t do it. In any case, here’s your chance.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 Or later. Or not at all.

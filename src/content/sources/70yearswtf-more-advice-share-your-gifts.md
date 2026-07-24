@@ -6,11 +6,12 @@ order: 0
 date: "2021-09-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/more-advice-share-your-gifts"
-excerpt: "Too many days ago, I wrote, [“Advice for myself: “Share your work.”](https://70yearswtf.substack.com/p/advice-for-myself-share-your-work) So did I share my work? Not much. That’s ok. One day, Future Me, you’ll listen to [the wise advice of…"
-word_count: 673
+excerpt: "![](/media/70yt/more-advice-share-your-gifts/1.jpg) Too many days ago, I wrote, [“Advice for myself: “Share your work.”](https://70yearswtf.substack.com/p/advice-for-myself-share-your-work) So did I share my work? Not much. That’s ok. One…"
+word_count: 689
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-from-farnam-street-to-quantum-computing-19-06-30"
   - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-rsilt-feb-1-20-02-03"
   - "70yearswtf-the-heros-journey-continues"
 ---
+
+![](/media/70yt/more-advice-share-your-gifts/1.jpg)
 
 Too many days ago, I wrote, [“Advice for myself: “Share your work.”](https://70yearswtf.substack.com/p/advice-for-myself-share-your-work)
 
@@ -94,3 +97,5 @@ You might want to subscribe as well.
 ---
 
 Or subscribe to this substack, where I’ll share some more of my gifts. And encourage you to share yours.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

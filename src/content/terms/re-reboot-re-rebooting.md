@@ -9,7 +9,8 @@ source: "70yt *im-re-rebooting*; *multi-trick-pony*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Serial comeback self-mockery: not first dawn, reboot of the reboot. Long blog life recursive restart habit.</p>

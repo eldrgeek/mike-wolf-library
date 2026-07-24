@@ -10,7 +10,7 @@ excerpt: "Imagine that you are discussing a policy issue with someone (I just di
 word_count: 425
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

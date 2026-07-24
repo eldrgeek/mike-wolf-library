@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-06 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "architecture"
 ---
 
 <p><strong>What we mean.</strong> Different specialist roles for different cognitive shapes. Find, then fix.</p>

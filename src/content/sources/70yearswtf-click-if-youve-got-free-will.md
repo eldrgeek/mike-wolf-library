@@ -6,11 +6,12 @@ order: 0
 date: "2025-11-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/click-if-youve-got-free-will"
-excerpt: "Does free will exist? Wikipedia defines [Free Will](https://en.wikipedia.org/wiki/Freewill) this way: Free will is generally understood as the capacity or ability of people to (a) choose between different possible courses of…"
-word_count: 174
+excerpt: "![](/media/70yt/click-if-youve-got-free-will/1.jpg) Does free will exist? Wikipedia defines [Free Will](https://en.wikipedia.org/wiki/Freewill) this way: Free will is generally understood as the capacity or ability of people to (a) choose…"
+word_count: 184
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/click-if-youve-got-free-will/1.jpg)
 
 ## Does free will exist?
 

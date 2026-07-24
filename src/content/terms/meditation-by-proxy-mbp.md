@@ -9,7 +9,8 @@ source: "70yt *helping-stuff-die* (batch 3)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> MBP invented mid-shitty-day. Helping stuff die = psychological habits must die for new ones; don’t nurse what needs death.</p>

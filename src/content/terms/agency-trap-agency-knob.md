@@ -9,7 +9,8 @@ source: "70yt *the-agency-trap* (batch 6)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Dial agency: at 100, betrayal demands “fuck them”; toward zero, conditioning explains — anger loses fuel. Practice for forgiveness of loved ones and self.</p>

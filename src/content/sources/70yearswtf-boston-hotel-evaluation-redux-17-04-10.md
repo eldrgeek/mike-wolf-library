@@ -10,7 +10,8 @@ excerpt: "Note: a recent G+ post by one of the reviewed Hoteliers sent me back t
 word_count: 858
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

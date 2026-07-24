@@ -7,11 +7,13 @@ date: "2021-12-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-love-you-despite-your-shortcomings"
 excerpt: "Photo by Steve Johnson from Pexels I love you. I accept you as you are. Despite the many ways you could improve, and have not improved, and probably never will improve, I love you. That’s the kind of person I…"
-word_count: 210
+word_count: 228
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![Photo by **Steve Johnson(https://www.pexels.com/@steve?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/photo-of-abstract-painting-on-canvass-1484760/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/i-love-you-despite-your-shortcomings/1.jpg)
 
 *Photo by **[Steve Johnson](https://www.pexels.com/@steve?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/photo-of-abstract-painting-on-canvass-1484760/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 

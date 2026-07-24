@@ -15,6 +15,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/i-love-you-listen-for-my-voice/1.jpg)
+
 > One word Frees us of all the weight and pain of life:
 > That word is Love. - Sophocles, Oedipus at Colonus
 
@@ -111,8 +113,6 @@ Or, it asks me if I want to mix metaphors and “pour oil on troubled waters.”
 This was inspired by friends who were studying [ACIM Lesson 39, “God’s Voice Speaks to Me Throughout the day,”](https://acim.org/acim/lesson-49/gods-voice-speaks-to-me-all-through-the-day/en/s/451) on the day I wrote this.
 
 [And Inspired](https://70yearswtf.substack.com/p/inspiration-every-breath-you-take?utm_source=publication-search) by the [Source of Inspiration](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utm_source=publication-search).
-
-Thanks for reading this essay.
 
 [Leave a comment](https://70yearswtf.substack.com/p/i-love-you-listen-for-my-voice/comments)
 

@@ -6,11 +6,11 @@ order: 0
 date: "2015-08-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-piano-artistry-of-jonathan-edwards-15-08-29"
-excerpt: "Conversation with a friend reminded me of \"[The Piano Artistry of Jonathan Edwards](http://en.wikipedia.org/wiki/ThePianoArtistryofJonathanEdwards),\" an album long forgotten. The Wikipedia article provides details and links. Released in…"
-word_count: 232
+excerpt: "![](/media/70yt/the-piano-artistry-of-jonathan-edwards-15-08-29/1.jpg) Conversation with a friend reminded me of \"[The Piano Artistry of Jonathan Edwards](http://en.wikipedia.org/wiki/ThePianoArtistryofJonathanEdwards),\" an album long…"
+word_count: 245
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/the-piano-artistry-of-jonathan-edwards-15-08-29/1.jpg)
 
 Conversation with a friend reminded me of "[The Piano Artistry of Jonathan Edwards](http://en.wikipedia.org/wiki/The_Piano_Artistry_of_Jonathan_Edwards)," an album long forgotten. The Wikipedia article provides details and links.
 Released in 1957, it featured [Jo Stafford](http://en.wikipedia.org/wiki/Jo_Stafford), then a popular singer, and her husband [Paul Weston](http://en.wikipedia.org/wiki/Paul_Weston) on piano, the two pretending to be Jonathan and Darlene Edwards.

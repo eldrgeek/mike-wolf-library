@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
 source: "SRMW."
-related: []
+related:
+  - "bathos"
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Front-matter gag that is also poetics: language is compost; originality is recombination. Bathos-adjacent loft+trash.</p>

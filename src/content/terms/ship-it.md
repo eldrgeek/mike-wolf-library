@@ -8,6 +8,9 @@ source: ""
 related:
   - "mistake-of-the-right-size"
   - "handoff"
+  - "verify-outcomes"
+  - "spec-the-load-bearing-riff-on-the-polish"
+  - "the-vault"
 provenance: []
 tags:
   - "dialect"

@@ -10,7 +10,9 @@ excerpt: "Once again I’ve arrived near the end of the day with lots to write a
 word_count: 218
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

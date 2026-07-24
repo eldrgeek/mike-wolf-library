@@ -7,13 +7,15 @@ date: "2025-03-07"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/happy-cohabiversary"
 excerpt: "What an AI imagines that Chilling Street Cottage might look like. It’s wrong, of course. Bobbi and I started living together at Chilling Street Cottage in Sharpthorne, East Grinstead, Sussex, England, Earth, Milky Way, etc., on March 8, 1968. We…"
-word_count: 465
+word_count: 601
 tags:
   - "70YearsWTF"
   - "Bobbi"
   - "AI"
 related: []
 ---
+
+![A nostalgic and romantic illustration of a charming English countryside cottage, inspired by the 1960s, surrounded by lush greenery and blooming flowers. The scene is warm and inviting, with a cozy light glowing from the windows, suggesting a sense of home and shared history. A vintage car from the late 1960s is parked nearby, symbolizing past adventures. The night sky is clear, evoking a timeless, dreamy atmosphere. The image should capture a sense of love, memory, and playfulness, subtly reflecting the idea of changing identities over time.](/media/70yt/happy-cohabiversary/1.jpg)
 
 *What an AI imagines that Chilling Street Cottage might look like. It’s wrong, of course.*
 
@@ -37,9 +39,15 @@ When I retired from Green Hills Software (for the first time), we drove cross co
 
 John sent me this after our announcement:
 
+![](/media/70yt/happy-cohabiversary/2.jpg)
+
 I replied:
 
+![](/media/70yt/happy-cohabiversary/3.jpg)
+
 On our way through the Natchez Trace, [at Milepost 180.7](https://www.nps.gov/places/french-camp.htm) we changed our names again. I was Greenwood Leflore, and she was Loblolly Leflore.
+
+![](/media/70yt/happy-cohabiversary/4.jpg)
 
 We got back to Maine and changed our names back.
 

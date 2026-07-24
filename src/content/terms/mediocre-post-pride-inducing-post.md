@@ -9,7 +9,8 @@ source: "70yt *nearly-75-years-old-wtaf* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Gap between grades is small vs writing nothing. Anti-perfection publishing doctrine.</p>

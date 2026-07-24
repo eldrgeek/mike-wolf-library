@@ -9,7 +9,8 @@ source: "70yt *staffing-it-out* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Mind-as-executive with trained staff of surrogates. Can be intentional or insubordinate. Bobbi’s “You’re not here” addresses a staffer.</p>

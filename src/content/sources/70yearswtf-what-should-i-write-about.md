@@ -6,11 +6,12 @@ order: 0
 date: "2021-07-07"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/what-should-i-write-about"
-excerpt: "Photo by [Art Lasovsky](https://unsplash.com/@artlasovsky?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/writing?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)…"
-word_count: 603
+excerpt: "![Photo by Art Lasovsky(https://unsplash.com/@artlasovsky?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 647
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by Art Lasovsky(https://unsplash.com/@artlasovsky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/writing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/what-should-i-write-about/1.jpg)
 
 *Photo by [Art Lasovsky](https://unsplash.com/@artlasovsky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/writing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -72,5 +75,7 @@ The ego judges. God encourages.
 “Yes,” I said.
 
 “Then write with me.”
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 God says I should keep putting a subscribe button at the bottom of the page.

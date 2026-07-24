@@ -15,6 +15,8 @@ related: []
 
 Precision and accuracy in measurement are different, and often confused.
 
+![](/media/70yt/precision-and-accuracy-18-06-20/1.png)
+
 From [here](https://sites.google.com/a/apaches.k12.in.us/mr-evans-science-website/accuracy-vs-precision)
 Let's assume that we are trying to measure a property that has a value that is stable and that can be measured.
 

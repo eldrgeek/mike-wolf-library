@@ -6,11 +6,13 @@ order: 0
 date: "2025-04-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/god-derangement-syndrome-is-a-serious"
-excerpt: "“God Derangement Syndrome is a serious problem,” says [the God I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utmsource=publication-search), reading the title I’d written for the post. “God doesn’t exist,”…"
-word_count: 588
+excerpt: "![](/media/70yt/god-derangement-syndrome-is-a-serious/1.jpg) “God Derangement Syndrome is a serious problem,” says [the God I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utmsource=publication-search),…"
+word_count: 605
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "God"
+  - "blogging"
 related:
   - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-even-more-like-heaven-and-the-internet"
   - "70yearswtf-fill-the-world-with-love-scientifically"
 ---
+
+![](/media/70yt/god-derangement-syndrome-is-a-serious/1.jpg)
 
 “God Derangement Syndrome is a serious problem,” says [the God I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utm_source=publication-search), reading the title I’d written for the post.
 
@@ -56,5 +60,7 @@ related:
 “And as I said in the beginning, just after I made the heavens and the earth, God Derangement Syndrome is a serious problem.”
 
 [Leave a comment](https://70yearswtf.substack.com/p/god-derangement-syndrome-is-a-serious/comments)
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [Do something else](https://theuselessweb.com/)

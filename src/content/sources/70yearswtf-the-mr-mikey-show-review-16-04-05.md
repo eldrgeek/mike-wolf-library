@@ -6,11 +6,12 @@ order: 0
 date: "2016-04-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-mr-mikey-show-review-16-04-05"
-excerpt: "Photo credit: [Denis Collette...!!!](https://www.flickr.com/photos/deniscollette/6853430687/) via [Foter.com](http://foter.com/) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) There's this show that I've been watching…"
-word_count: 1639
+excerpt: "![](/media/70yt/the-mr-mikey-show-review-16-04-05/1.jpg) Photo credit: [Denis Collette...!!!](https://www.flickr.com/photos/deniscollette/6853430687/) via [Foter.com](http://foter.com/) / [CC…"
+word_count: 1663
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/the-mr-mikey-show-review-16-04-05/1.jpg)
 
 Photo credit: [Denis Collette...!!!](https://www.flickr.com/photos/deniscollette/6853430687/) via [Foter.com](http://foter.com/) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
@@ -72,6 +75,8 @@ A few episodes ago he was reading the internet late at night and read a long sto
 > ... $25,000 for every player on every team in the 2017 [NCAA](http://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association) tournament, health insurance for a minimum of 10 years after graduation, irrevocable scholarships, and the student/athlete’s ownership of his or her own likeness and name, in perpetuity, plus the right to market them.
 
 The story includes reactions from the all over the web and twitterverse, including:
+
+![](/media/70yt/the-mr-mikey-show-review-16-04-05/2.jpg)
 
 He went to sleep without finishing the article, which was nearly 1500 words long. So did I.
 

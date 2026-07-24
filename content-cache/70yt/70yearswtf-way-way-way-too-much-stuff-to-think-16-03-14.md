@@ -7,7 +7,7 @@ date: "2016-03-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/way-way-way-too-much-stuff-to-think-16-03-14"
 excerpt: "My browser is cluttered with open tabs. My Evernote is cluttered with articles that I've clipped so that I could responsibly close some of my earlier tab clutter. And my head? Fugeddaboudit! So here's what I'm going to (try to)…"
-word_count: 2607
+word_count: 2611
 tags:
   - "70YearsWTF"
   - "AI"
@@ -157,6 +157,8 @@ CLOSED
 10. Great [time-lapsed video](https://photos.google.com/share/AF1QipNFGWcxePo9yvirpkjSTh8H_KyS61sxLqH1ZJisqSBsRNcVGkjumYbu7PhwILhrVg/photo/AF1QipM39wcw0T83pQdE9VyorHkraGjUYqwIqmW9kEnu?key=X0pqV20wbkkzU29IX2ZaaDk5SjBvVHFLS0tmMy1n) of the sun setting in SFO.
 
 Looks like this:
+
+![](/media/70yt/way-way-way-too-much-stuff-to-think-16-03-14/1.jpg)
 
 CLOSED.
 

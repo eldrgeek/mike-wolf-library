@@ -10,6 +10,12 @@ related:
   - "the-fleet"
   - "cheapest-capable"
   - "ralph-loop"
+  - "node-identity-cdc-ccc-ccw-cm-cw"
+  - "dee"
+  - "hermes"
+  - "lights-out-lights-on"
+  - "the-relay"
+  - "the-vps"
 provenance:
   - "ai-wtf-2026-05-03-night-dee-found-workers-lying"
   - "ai-wtf-post-001-raw-mike-mission-articulation"

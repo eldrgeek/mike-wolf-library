@@ -1,16 +1,16 @@
 ---
 letter: "S"
 title: "Sighence"
-subtitle: "possible portmanteau for cyclic-sighing breathing app"
+subtitle: "a box-breathing website — sigh + science"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
-origin: "Vault PROJECT_INDEX “Sighence” cluster."
-source: "Vault PROJECT_INDEX “Sighence” cluster."
+origin: "Mike's box-breathing web project (\\\"Sighence\\\" cluster)."
+source: "Mike's box-breathing web project (\\\"Sighence\\\" cluster)."
 related: []
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
 ---
 
-<p><strong>What we mean.</strong> Seen in PROJECT_INDEX cluster only this pass; source not deep-opened. May be product name not joke-website shape. Gloss it as <em>sigh</em> + <em>science</em>: a portmanteau for cyclic-sighing breathing science/app territory.</p>
-<blockquote><p>“(titles-only scan — not confirmed)” — Vault PROJECT_INDEX “Sighence” cluster.</p></blockquote>
+<p><strong>What we mean.</strong> A web app Mike built to guide <em>box breathing</em> (the paced inhale–hold–exhale–hold practice) — named by the portmanteau <em>sigh</em> + <em>science</em>: the science of the breath, worn lightly as a pun. One of Mike's small web builds, this one earnest under the wordplay.</p>

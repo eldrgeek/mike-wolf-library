@@ -10,13 +10,13 @@ excerpt: "Today is Feb 17, despite the date on this post. Because I'm in catch u
 word_count: 814
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
+  - "70yearswtf-get-out-of-your-head-and-into-your-18-03-11"
+  - "70yearswtf-the-last-barrier-to-change-18-07-21"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Today is Feb 17, despite the date on this post. Because I'm in catch up mode. And I'm having trouble starting to catch up.

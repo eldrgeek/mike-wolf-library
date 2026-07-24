@@ -10,7 +10,8 @@ related: []
 provenance:
   - "srmw-chapter-8-what-about-publishing"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Solution to 50k/publishing problem: publish the metanovel <em>in</em> the metanovel. If it weren’t real, how are you reading it?</p>

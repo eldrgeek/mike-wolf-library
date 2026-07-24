@@ -7,10 +7,11 @@ date: "2023-05-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-am-your-greatest-fan"
 excerpt: "No, it’s not a typo. When My man Moses asked, “What is your name?” that was My answer. I AM. I AM your greatest fan. “My greatest fan?” I imagined an [imaginary reader](https://70yearswtf.substack.com/p/imaginary-readers-imaginary-god)…"
-word_count: 207
+word_count: 216
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "God"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -58,6 +59,8 @@ I AM here.
 I AM there.
 
 And like Roy Kent
+
+![](/media/70yt/i-am-your-greatest-fan/1.jpg)
 
 I AM.
 

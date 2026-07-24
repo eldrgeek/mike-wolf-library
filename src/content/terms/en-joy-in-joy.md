@@ -9,7 +9,9 @@ source: "SRMW; 70yt *superpowers-for-mundane-matters*."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Re-hyphenation: <em>in-joying</em> receives joy already there; <em>en-joying</em> actively puts joy into an experience. Blog restates as superpower: enjoyment isn’t passive pleasure found in the world — inject joy into nearly anything. Practiced craft of attention, not lifestyle-poster gratitude.</p>

@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Named category from Daily Pages. Gateway to debugging AutoMike.</p>

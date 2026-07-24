@@ -9,7 +9,8 @@ source: "Vault Claude Code Sessions 2026-07 comedy websites. ---"
 related: []
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Comedy-website concept; name is the load-bearing pun. Comedy-site / Joke Technology portfolio pattern.</p>

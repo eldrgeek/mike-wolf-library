@@ -10,7 +10,7 @@ excerpt: "English: Old English Sheep Dog. (From Photo by Bowden Bros.) (Photo cr
 word_count: 1021
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

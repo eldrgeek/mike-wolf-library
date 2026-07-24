@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/a-post-an-hour-can-i-do-it-18-06-23/1.jpg)
+
 Here's what I want to do. I want to write. A lot. I'd like to knock out an essay each hour for the rest of the day. Can I do it?
 
 I think it's possible. I certainly want to try. And I've got my wonderful new [high productivity workflow](https://70yearsoldwtf.blogspot.com/2018/04/high-productivity-blogging-workflow.html) worked out. I just have to do what I've decided to do the way I've decided to do it. Or better.

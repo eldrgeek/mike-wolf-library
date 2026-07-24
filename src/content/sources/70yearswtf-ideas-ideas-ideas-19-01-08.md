@@ -10,7 +10,8 @@ excerpt: "Today I’m writing about a big idea. It’s stupidly simple. To solve
 word_count: 667
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/to-write-be-a-writer-to-publish-be/1.jpg)
+
 “I want to be published,” I said. By “I,” I mean “me,” the Daily Pages I had once been, and that would become this blog post. I didn’t know that being published would be my destiny back then. Back then, I was just Daily Pages.
 
 “You’re not good enough,” said the ego.

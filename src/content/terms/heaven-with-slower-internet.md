@@ -13,7 +13,8 @@ provenance:
   - "70yearswtf-self-promotion"
   - "70yearswtf-we-are-all-unconscious-universe-makers"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Settled life-frame: already living in the afterlife — forgiveness, love, nothing left to prove, still something to write. Updated after Bobbi’s death: still true.</p>

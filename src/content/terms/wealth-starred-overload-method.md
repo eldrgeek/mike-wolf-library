@@ -9,7 +9,8 @@ source: "70yt *too-goddamned-many-ideas-part-i* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Editorial device for political/economic words too overloaded; wealth* is the exemplar. Method is dictionary-worthy.</p>

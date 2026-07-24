@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-electoral-politics-and-the-public-16-11-05"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Union of individual responses, measurable by polls, full of cognitive biases. Explanatory entity for election dynamics.</p>

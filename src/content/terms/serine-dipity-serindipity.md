@@ -9,7 +9,8 @@ source: "70yt *l-serine-serine-dipity* (batch 5)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Serendipity × L-serine. Happy accident of cognitive-health hunting.</p>

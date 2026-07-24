@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike Wolf, 2026-05-03 (Wall)."
 source: "Mike Wolf, 2026-05-03 (Wall)."
-related: []
+related:
+  - "ai-optimism"
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> There is a true frontier where moral valence is unclear. Mike’s claim is positional: we are not near it. Licenses continued building under AI optimism without denying a hard frontier exists <em>somewhere</em>.</p>

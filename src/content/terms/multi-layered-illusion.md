@@ -9,7 +9,8 @@ source: "70yt *simple-illusions-and-multi-layered* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Sadness can increase on inspection until some depth where nothing remains. Method: look until layers end.</p>

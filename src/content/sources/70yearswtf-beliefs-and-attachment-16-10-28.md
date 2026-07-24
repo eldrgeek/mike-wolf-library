@@ -10,7 +10,8 @@ excerpt: "We all have beliefs. They're designed to help us survive. Sometimes th
 word_count: 919
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

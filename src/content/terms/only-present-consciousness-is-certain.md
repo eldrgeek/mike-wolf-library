@@ -9,7 +9,8 @@ source: "70yt *the-only-thing-i-can-be-certain-of* (batch 3)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Harris-inflected: only certainty is present experience of consciousness when present.</p>

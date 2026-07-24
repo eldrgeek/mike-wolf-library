@@ -7,7 +7,7 @@ date: "2018-04-28"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/high-productivity-blogging-workflow-18-04-28"
 excerpt: "Here’s my new high-productivity workflow design for blogging. We’ll see how well this works, and how long it lasts. So far it’s gotten this post out. I’m using Google Chrome, Google Docs with Google Voice Typing Markdown, Nimbus Screenshots and…"
-word_count: 574
+word_count: 579
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -15,6 +15,8 @@ related: []
 ---
 
 Here’s my new high-productivity workflow design for blogging. We’ll see how well this works, and how long it lasts. So far it’s gotten this post out.
+
+![my setup](/media/70yt/high-productivity-blogging-workflow-18-04-28/1.jpg)
 
 I’m using [Google Chrome](https://www.google.com/chrome/), [Google Docs](https://www.google.com/docs/about/) with [Google Voice Typing](https://support.google.com/docs/answer/4492226?hl=en) [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images), [Nimbus Screenshots](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) and [Markdown Here](https://markdown-here.com/) [Blogger](https://www.blogger.com/), [Grammarly](https://www.grammarly.com/), [Github](https://github.com/) and maybe someday [Gatsby](https://www.gatsbyjs.org/). Because you know I’m Mr. Geek. Maybe I’ll use [Markdown Monster](https://markdownmonster.west-wind.com/)
 

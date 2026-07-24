@@ -10,7 +10,8 @@ excerpt: "Jordan Peterson says that we don’t understand ourselves as well as w
 word_count: 1446
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

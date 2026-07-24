@@ -10,7 +10,9 @@ excerpt: "It is Friday, November 16th, as these things are reckoned on planet Ea
 word_count: 1141
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

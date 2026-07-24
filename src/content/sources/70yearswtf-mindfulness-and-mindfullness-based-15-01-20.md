@@ -10,13 +10,14 @@ excerpt: "Bobbi and I are watching a [Great Courses](http://www.thegreatcourses.
 word_count: 333
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-family-of-mind-internal-family-systems-15-03-14"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Bobbi and I are watching a [Great Courses](http://www.thegreatcourses.com/) series titled "The Science of Mindfulness: A Research-based Path to Well-Being" taught by Professor Ronald Siegel of Harvard. The course itself has been worthwhile, and I've dug into several related practices that the course mentions, one where I quit after about a quarter-inch of digging, the other in which I've dug more deeply.

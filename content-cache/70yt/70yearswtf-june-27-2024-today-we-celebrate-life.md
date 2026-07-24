@@ -7,11 +7,13 @@ date: "2024-06-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/june-27-2024-today-we-celebrate-life"
 excerpt: "It’s been six months since January 27, 2024. In “The Idea of Bobbi,” I had a section called “Celebration of Life.” I wrote: Our wedding ceremony began with these words, “Today, we celebrate life.” Our family plans a “Celebration of…"
-word_count: 595
+word_count: 598
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/june-27-2024-today-we-celebrate-life/1.jpg)
 
 It’s been six months since [January 27, 2024](https://70yearswtf.substack.com/p/january-27-2024).
 

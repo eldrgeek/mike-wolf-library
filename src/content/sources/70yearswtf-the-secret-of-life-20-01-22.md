@@ -10,7 +10,8 @@ excerpt: "I want to learn the secret of life. Scratch that. There isn’t just o
 word_count: 460
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

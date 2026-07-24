@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-06 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Wall flagged INTERNAL because of ops attribution rule + Dee named. Buddhist framing may be publishable if stripped of Wall re-attribution ops.</p>

@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/the-tree-of-life-its-span-and-its-17-01-09/1.jpg)
+
 People worry about us destroying life on this planet by our activity. But that's not likely. We might fuck ourselves up, our family--the family of life is just too tough.
 
 Just take a look at our family tree, the tree of life, taken from [this website](https://www.evogeneao.com/explore/tree-of-life-explorer). Time is an expanding half-ellipse. The center is the moment of birth of the earth. The appearance of the first life form, the origin point for the tree, is about a half-billion years in--about 3.5 billion years ago. The outer perimeter is the present. Branching lines from the origin to the present are the evolutionary paths that led to a modern creature.
@@ -27,11 +29,15 @@ The site makes clear a couple of things. First: this is OUR family tree. It show
 
 Notice what happens during the Cambrian explosion, which happens about 500 million years ago. (It starts when the purple band appears and ends around where the blue band appears.
 
+![](/media/70yt/the-tree-of-life-its-span-and-its-17-01-09/2.jpg)
+
 For the first 3 billion years, not all that much diversity. We go from bacteria, through plants to sponges and corals. [Wikipedia says](https://en.wikipedia.org/wiki/Cambrian_explosion):
 
 > Prior to the Cambrian explosion most organisms were simple, composed of individual cells occasionally organized into colonies. Over the following 70 to 80 million years, the rate of diversification accelerated by an order of magnitude[note 3] and the diversity of life began to resemble that of today.
 
 Now look at what happens in the "mass extinctions."
+
+![](/media/70yt/the-tree-of-life-its-span-and-its-17-01-09/3.jpg)
 
 Now look at what happens in the "mass extinctions." A lot of those branching lines are broken, meaning that a species died out. But in short order, in geologic time short order that is, as you can see in the inset above, or the tree of life that heads this article or on the interactive site, diversity is restored. Life is pretty hard to shut down.
 

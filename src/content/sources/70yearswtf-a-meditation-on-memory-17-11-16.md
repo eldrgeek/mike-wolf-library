@@ -10,7 +10,8 @@ excerpt: "I have a lousy memory for tasks and social commitments, and a really g
 word_count: 1201
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

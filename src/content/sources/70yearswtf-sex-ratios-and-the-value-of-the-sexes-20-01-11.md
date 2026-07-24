@@ -10,7 +10,11 @@ excerpt: "Continuing the [series](https://70yearsoldwtf.blogspot.com/2020/01/pro
 word_count: 1333
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
+  - "economics"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

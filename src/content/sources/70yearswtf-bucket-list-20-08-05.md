@@ -6,11 +6,12 @@ order: 0
 date: "2020-08-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/bucket-list-20-08-05"
-excerpt: "After I die, you kids will each get a small bucket with my ashes and you need to take me here and all the other places I will pick out. It’s my bucket list. I wrote that in “The Borg channel,” our family’s hangouts chat channel. “Here” was…"
-word_count: 1280
+excerpt: "![Rakotzbrucke](/media/70yt/bucket-list-20-08-05/1.jpg) After I die, you kids will each get a small bucket with my ashes and you need to take me here and all the other places I will pick out. It’s my bucket list. I wrote that in “The Borg…"
+word_count: 1290
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Rakotzbrucke](/media/70yt/bucket-list-20-08-05/1.jpg)
 
 > After I die, you kids will each get a small bucket with my ashes and you need to take me here and all the other places I will pick out. It’s my bucket list.
 

@@ -10,7 +10,8 @@ excerpt: "The Universe works in mysterious ways. I wrote a long post. [Scott Ale
 word_count: 820
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

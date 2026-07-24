@@ -10,7 +10,8 @@ excerpt: "Here I am again, behind on my planned posting, and with a broken posti
 word_count: 663
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

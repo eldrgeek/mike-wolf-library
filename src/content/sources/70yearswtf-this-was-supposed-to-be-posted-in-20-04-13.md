@@ -10,7 +10,7 @@ excerpt: "“Why have I published only one post in March,” I asked the blank s
 word_count: 286
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

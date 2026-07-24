@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-personal-journeys-and-jew-overflow-15-01-30"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Michal’s coinage for Mi Yodeya; Mike spreads it.</p>

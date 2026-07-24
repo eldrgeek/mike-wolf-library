@@ -7,12 +7,14 @@ date: "2022-07-26"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/who-cares"
 excerpt: "Photo by Anna Shvets: I wrote zero blog posts in January. Zero in February. Five in March. Yay! But zero in April. Zero in May. Zero in June. It’s July 26th. Zero so far. No one cares. Check that. I…"
-word_count: 431
+word_count: 429
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Photo by Anna Shvets(https://www.pexels.com/photo/person-holding-babys-hand-3845456/):](/media/70yt/who-cares/1.jpg)
 
 *[Photo by Anna Shvets](https://www.pexels.com/photo/person-holding-babys-hand-3845456/):*
 

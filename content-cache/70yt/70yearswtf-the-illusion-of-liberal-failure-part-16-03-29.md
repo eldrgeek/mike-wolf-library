@@ -7,12 +7,14 @@ date: "2016-03-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-illusion-of-liberal-failure-part-16-03-29"
 excerpt: "Pittsburgh \"air\" 1941 You don't have to be a genius to find an example of a law, regulation, or practice, put in place by liberals that's resulted in a ridiculous outcome, or corrupt behavior, or unintended consequences. This is fortunate,…"
-word_count: 1733
+word_count: 1746
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Corner of Liberty and Fifth Avenues](/media/70yt/the-illusion-of-liberal-failure-part-16-03-29/1.jpg)
 
 Pittsburgh "air" 1941
 

@@ -6,11 +6,12 @@ order: 0
 date: "2019-10-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/nanowrimo-re-redux-19-10-22"
-excerpt: "It’s almost November. November is National novel writing month. [NaNoWriMo](https://nanowrimo.org/). Last year more than 300,000 signed up to write a 50,000 word novel in November. I tried in 2010 and succeeded in 2011. 50,000 words is…"
-word_count: 350
+excerpt: "![](/media/70yt/nanowrimo-re-redux-19-10-22/1.jpg) It’s almost November. November is National novel writing month. [NaNoWriMo](https://nanowrimo.org/). Last year more than 300,000 signed up to write a 50,000 word novel in November. I tried…"
+word_count: 360
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/nanowrimo-re-redux-19-10-22/1.jpg)
 
 It’s almost November.
 

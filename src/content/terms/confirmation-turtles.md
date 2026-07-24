@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-confirmation-turtles"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Confirmation bias + turtles all the way down: gigantic pyramid of slow angry turtles. Coined by SBM Daniel; Mike injects into memosphere.</p>

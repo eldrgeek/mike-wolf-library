@@ -7,12 +7,14 @@ date: "2019-10-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/victory-laps-complete-it-or-delete-19-10-16"
 excerpt: "Daniel and I have a regular call, once a week, for about an hour. Sometimes there’s some catching up—but most of that happens in the chat channels we’re in. The weekly calls are usually about more substantial stuff. What’s happening…"
-word_count: 474
+word_count: 473
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/victory-laps-complete-it-or-delete-19-10-16/1.jpg)
 
 Daniel and I have a regular call, once a week, for about an hour.
 

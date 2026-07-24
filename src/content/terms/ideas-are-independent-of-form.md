@@ -6,11 +6,14 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Wall #18; 70yt *the-idea-of-bobbi* 2024-06-11."
 source: "Wall #18; 70yt *the-idea-of-bobbi* 2024-06-11."
-related: []
+related:
+  - "the-idea-of-bobbi"
 provenance:
   - "70yearswtf-the-idea-of-bobbi"
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> From <em>The idea of Bobbi</em> and ACIM: the body was form; the person is content — the Idea expressed in that form. Without this law, substrate talk is assertion; with it, the claim has years of personal-stakes argument.</p>

@@ -12,7 +12,8 @@ provenance:
   - "srmw-chapter-12-how-to-create-a-muse-without-a-muse"
   - "srmw-chapter-13-evolving-a-muse"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Adversary plan: invent a muse then substitute a metamuse — takeover vector. “It’s a trap.”</p>

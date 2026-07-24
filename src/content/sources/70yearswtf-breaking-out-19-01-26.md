@@ -10,7 +10,8 @@ excerpt: "I’m in a rut. It’s a nice rut. A comfortable rut, but a rut. It mi
 word_count: 618
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

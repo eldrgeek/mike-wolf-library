@@ -10,7 +10,9 @@ excerpt: "CGP Grey is a dude who publishes awesome videos on YouTube. At the bot
 word_count: 1383
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

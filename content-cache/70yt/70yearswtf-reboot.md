@@ -7,12 +7,14 @@ date: "2024-04-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/reboot"
 excerpt: "Apparently, the God I don’t believe in wants me to write. “I do,” She says. “I’m writing,” I say. “Good,” She says. “And I want you to finish writing and post it.” “That’s harder,” I say. “I know,” God says.…"
-word_count: 693
+word_count: 794
 tags:
   - "70YearsWTF"
   - "God"
 related: []
 ---
+
+![A thought-provoking image capturing the essence of a story beginning with "Apparently the God I don't believe in wants me to write." The scene is of a person at an old wooden desk under a dim lamp, surrounded by darkness, looking contemplative with a pen poised above a blank paper. A faint, celestial light breaks through the darkness above, symbolizing divine inspiration. The mood is solitary and introspective, with a warm desk area contrasting the mysterious outer darkness. The phrase "Apparently the God I don't believe in wants me to write." is visible, artistically integrated into the scene, enhancing the narrative.](/media/70yt/reboot/1.jpg)
 
 Apparently, [the God I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in) wants me to write.
 
@@ -59,6 +61,8 @@ She talked, smiled, laughed, and loved ice cream like always. We held hands and 
 She always deserved a good Dad, and now she had one.
 
 But shit.
+
+![](/media/70yt/reboot/2.jpg)
 
 “I get why you said ‘not so bad,’” an imaginative imaginary reader said. “Alzheimer’s sucks.”
 

@@ -10,7 +10,8 @@ excerpt: "We all tell stories about ourselves. I do, anyway. We need them to mak
 word_count: 1818
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

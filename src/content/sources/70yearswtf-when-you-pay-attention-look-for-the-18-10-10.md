@@ -10,7 +10,8 @@ excerpt: "A friend of mine—a guy who I’ve never met IRL, but a guy who I con
 word_count: 503
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -9,7 +9,8 @@ source: "Dee 2026-05-04; Mike validated (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Rewrite of almost-right “load-bearing move” line. Frame chooses drift; vigilance holds. Colleague/tool/peer frames none self-maintain; teammate-frame requires active maintenance.</p>

@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/the-mr-mikey-show-review-16-04-05/1.jpg)
+
 Photo credit: [Denis Collette...!!!](https://www.flickr.com/photos/deniscollette/6853430687/) via [Foter.com](http://foter.com/) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 There's this show that I've been watching for years. It doesn't have a name, so I'll give it a name: "The Mr. Mikey Show." It seems to be the only thing that's on the only channel I get, so my choices are limited. And my feelings about the show are conflicted. So today I'm going to write a review, partly to clarify my feelings, partly in the vague hope that some of the writers or producers will read my review and improve the program.
@@ -67,6 +69,8 @@ A few episodes ago he was reading the internet late at night and read a long sto
 > ... $25,000 for every player on every team in the 2017 [NCAA](http://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association) tournament, health insurance for a minimum of 10 years after graduation, irrevocable scholarships, and the student/athlete’s ownership of his or her own likeness and name, in perpetuity, plus the right to market them.
 
 The story includes reactions from the all over the web and twitterverse, including:
+
+![](/media/70yt/the-mr-mikey-show-review-16-04-05/2.jpg)
 
 He went to sleep without finishing the article, which was nearly 1500 words long. So did I.
 

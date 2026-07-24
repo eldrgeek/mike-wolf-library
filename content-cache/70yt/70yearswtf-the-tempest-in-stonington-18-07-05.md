@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/the-tempest-in-stonington-18-07-05/1.jpg)
+
 Nearly every summer, the [Stonington Opera House](http://www.operahousearts.org/) stages a play by William Shakespeare. According to a local legend, which I just made up, Shakespeare used to spend his summers in Stonington.
 
 This year Opera House Arts staged "[The Tempest](http://www.operahousearts.org/the-tempest)" in the open air at Ames Farm. This is my homage to Bill S, to the Opera House, to the artists, to iambic pentameter, to my computer, to Blogger, the internet, and to everything else that helped this bit of writing force itself out of my brain and onto your browser or wherever you might be consuming it.

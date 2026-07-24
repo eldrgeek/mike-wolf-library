@@ -6,10 +6,13 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *mindscapes-and-mindtravel*; *applied-mindtravel*; SRMW safe place."
 source: "70yt *mindscapes-and-mindtravel*; *applied-mindtravel*; SRMW safe place."
-related: []
+related:
+  - "safe-place"
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Minds as navigable landscape; viewpoint = location. Mindtravel = instantaneous jump to a different place/time in mental space — trauma can force it; practice makes intentional. Catalog destinations; chain until snap-back unlikely. Kin to SRMW <em>safe place</em>.</p>

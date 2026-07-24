@@ -6,18 +6,21 @@ order: 0
 date: "2023-04-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-afraid-of-being-afraid-and-im"
-excerpt: "By Dramstudio (Stable Diffusion) I’m afraid of being afraid, and I’m afraid that I’m afraid to admit it. Not exactly. But close. I’m sitting here typing this right now. (And editing it right now.) I don’t feel afraid. But I predict that I…"
-word_count: 573
+excerpt: "![By Dramstudio (Stable Diffusion)](/media/70yt/im-afraid-of-being-afraid-and-im/1.jpg) By Dramstudio (Stable Diffusion) I’m afraid of being afraid, and I’m afraid that I’m afraid to admit it. Not exactly. But close. I’m sitting here…"
+word_count: 588
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-really-im-supposed-to-save-the-world"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-99-subscribers-are-here-on-my-blog"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
-  - "70yearswtf-even-aholes-can-get-missions-from"
 ---
+
+![By Dramstudio (Stable Diffusion)](/media/70yt/im-afraid-of-being-afraid-and-im/1.jpg)
 
 *By Dramstudio (Stable Diffusion)*
 

@@ -10,7 +10,10 @@ excerpt: "I've been an [Evernote](https://evernote.com/) user for a long time. O
 word_count: 486
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

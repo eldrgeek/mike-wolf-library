@@ -10,7 +10,8 @@ excerpt: "Because I’m not dead yet, I can describe how I would like to live th
 word_count: 367
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

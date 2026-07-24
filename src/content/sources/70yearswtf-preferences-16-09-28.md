@@ -10,7 +10,7 @@ excerpt: "It took me a long time to realize that a lot of things that I took to 
 word_count: 1135
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

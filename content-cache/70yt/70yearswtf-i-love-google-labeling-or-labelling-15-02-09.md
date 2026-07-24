@@ -20,7 +20,11 @@ In a [previous post](http://70yearsoldwtf.blogspot.com/2015/03/post-labelling-pa
 
 That last 'here' is this post, wherein I present the evidence to back up the assertion, courtesy of Google. Google can grovel over its collection of scanned and otherwise electronified books and tells us the relative use of the alternative spellings.
 
+![](/media/70yt/i-love-google-labeling-or-labelling-15-02-09/1.jpg)
+
 [Labeling and Labelling, American Style](https://books.google.com/ngrams/graph?content=labeling%2Clabelling&year_start=1800&year_end=2000&corpus=18&smoothing=3&share=&direct_url=t1%3B%2Clabeling%3B%2Cc0%3B.t1%3B%2Clabelling%3B%2Cc0)
+
+![](/media/70yt/i-love-google-labeling-or-labelling-15-02-09/2.jpg)
 
 [Labeling and Labelling, UK style](https://books.google.com/ngrams/graph?content=labeling%2Clabelling&year_start=1800&year_end=2000&corpus=18&smoothing=3&share=&direct_url=t1%3B%2Clabeling%3B%2Cc0%3B.t1%3B%2Clabelling%3B%2Cc0)
 

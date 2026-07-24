@@ -10,7 +10,8 @@ excerpt: "Next week's topic in our local discussion group, [Beyond Labels](http:
 word_count: 1158
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

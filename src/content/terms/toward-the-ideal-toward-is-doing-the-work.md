@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-07 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Ideal-scene rubric: given what we can do now and soon, what’s best? Horizon moves as you do. Artifact with no <em>toward</em> is dead in the self-improvement sense.</p>

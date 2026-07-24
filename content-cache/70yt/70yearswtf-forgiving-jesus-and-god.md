@@ -7,12 +7,14 @@ date: "2021-07-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/forgiving-jesus-and-god"
 excerpt: "TL;DR I realized I was mad at Jesus. So I forgave Jesus. And Jesus thanked me. And while I was at it, I thanked God, too. She thanked me as well. And She told me to invite Her and Jesus…"
-word_count: 1117
+word_count: 1122
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/forgiving-jesus-and-god/1.jpg)
 
 # TL;DR
 
@@ -127,3 +129,5 @@ I felt lighter. I was forgiven. For that, at least.
 ---
 
 You might want to subscribe. Or you might not. Either way, you are forgiven.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

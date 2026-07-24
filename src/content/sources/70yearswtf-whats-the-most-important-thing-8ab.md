@@ -6,11 +6,12 @@ order: 0
 date: "2025-11-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/whats-the-most-important-thing-8ab"
-excerpt: "“Not another fucking War and Peace!” Shouted a reader. Not just one reader. All of them. OK, maybe ten. “Wasn’t one epic enough!” “I’m going to keep this one short,” I promised. “You’d better,” said some readers. “Stop adding words,” I…"
-word_count: 315
+excerpt: "![](/media/70yt/whats-the-most-important-thing-8ab/1.jpg) “Not another fucking War and Peace!” Shouted a reader. Not just one reader. All of them. OK, maybe ten. “Wasn’t one epic enough!” “I’m going to keep this one short,” I promised.…"
+word_count: 325
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-even-more-like-heaven-and-the-internet"
   - "70yearswtf-fill-the-world-with-love-scientifically"
 ---
+
+![](/media/70yt/whats-the-most-important-thing-8ab/1.jpg)
 
 “Not another fucking War and Peace!” Shouted a reader. Not just one reader. All of them. OK, maybe ten. “Wasn’t one epic enough!”
 

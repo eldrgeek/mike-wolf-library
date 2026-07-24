@@ -10,7 +10,8 @@ excerpt: "Family Jeopardy. Our three girls are standing in front of their buzzer
 word_count: 281
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "Bobbi"
 related:
   - "70yearswtf-fifi-and-raul-and-soledad-and-santiago"
   - "70yearswtf-modems-and-memories-19-08-27"

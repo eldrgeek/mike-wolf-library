@@ -10,7 +10,8 @@ excerpt: "I’m always looking for ways to improve myself and the world. Easy wa
 word_count: 741
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

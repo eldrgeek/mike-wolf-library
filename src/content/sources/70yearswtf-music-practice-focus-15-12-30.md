@@ -6,11 +6,11 @@ order: 0
 date: "2015-12-30"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/music-practice-focus-15-12-30"
-excerpt: "Finally! Studio Mike 1.0Travelling the road of life I learned how to play guitar and piano, neither very well. I endured piano lessons and hated practicing. I could not wait, could not wait, could not wait for the time to be up. Finally my…"
-word_count: 1325
+excerpt: "Finally! ![](/media/70yt/music-practice-focus-15-12-30/1.jpg) Studio Mike 1.0Travelling the road of life I learned how to play guitar and piano, neither very well. I endured piano lessons and hated practicing. I could not wait, could not…"
+word_count: 1335
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -20,6 +20,8 @@ related:
 ---
 
 Finally!
+
+![](/media/70yt/music-practice-focus-15-12-30/1.jpg)
 
 Studio Mike 1.0Travelling the road of life I learned how to play guitar and piano, neither very well. I endured piano lessons and hated practicing. I could not wait, could not wait, could not wait for the time to be up. Finally my mother surrendered and told me I didn't have to keep playing. She also told me that I'd be a social failure if I couldn't play the piano, but it was my choice.
 

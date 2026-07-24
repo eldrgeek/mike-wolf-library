@@ -9,7 +9,8 @@ source: "70yt *we-are-all-avatars* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Choice is not whether but which ideas — and whether knowing or unknowing avatars.</p>

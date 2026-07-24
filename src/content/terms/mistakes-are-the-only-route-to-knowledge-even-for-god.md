@@ -6,11 +6,14 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt July 2021 post; Wall #6."
 source: "70yt July 2021 post; Wall #6."
-related: []
+related:
+  - "no-failed-experiments"
 provenance:
   - "70yearswtf-mistakes-are-the-only-route-to-knowledge"
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Knowledge is not downloaded clean; it is walked through error. “Even for God” blocks the omniscient shortcut. Parent of low-cost mistakes, no failed experiments, RSI descendants.</p>

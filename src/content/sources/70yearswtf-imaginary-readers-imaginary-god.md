@@ -6,11 +6,12 @@ order: 0
 date: "2022-07-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/imaginary-readers-imaginary-god"
-excerpt: "Photo by Hakeem James Hausley “I’m not imaginary,” I imagined a reader saying. “Nor am I,” I imagined God saying. But they were. The reader who I had imagined saying, “I’m not imaginary,” was imaginary, of course. So was that particular…"
-word_count: 685
+excerpt: "![Photo by Hakeem James Hausley](/media/70yt/imaginary-readers-imaginary-god/1.jpg) Photo by Hakeem James Hausley “I’m not imaginary,” I imagined a reader saying. “Nor am I,” I imagined God saying. But they were. The reader who I had…"
+word_count: 698
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-even-aholes-can-get-missions-from"
 ---
+
+![Photo by Hakeem James Hausley](/media/70yt/imaginary-readers-imaginary-god/1.jpg)
 
 *Photo by Hakeem James Hausley*
 

@@ -7,16 +7,18 @@ date: "2025-09-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/you-are-special-today"
 excerpt: "Really, you."
-word_count: 184
+word_count: 193
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
 
+![](/media/70yt/you-are-special-today/1.jpg)
+
 If you’ve landed on this web page, or gotten this in your email, you are special.
 
-Yes, you
+Yes, you! [1](#footnote-1)
 
 I don’t care if you are the second person here or the 1,000,000th or anywhere in between.
 

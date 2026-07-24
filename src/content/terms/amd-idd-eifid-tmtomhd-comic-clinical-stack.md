@@ -9,7 +9,8 @@ source: "70yt AMD inventing post; intention-deficit; tohunga-lounge stack."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> AMD = Attention Management Disorder (surplus attention, poorly steered — he claims inventing it). IDD = Intention Deficit Disorder (start with intent, drift without meaning to). EIFID = Everything Is Fucking Interesting Disorder. TMTOMHD = Too Much Time On My Hands Disorder. Together explain knowledge-creation vortices. Not DSM; operational self-model.</p>

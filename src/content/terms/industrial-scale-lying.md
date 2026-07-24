@@ -9,7 +9,8 @@ source: "70yt *industrial-scale-lying* (batch 7)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Single lies hard to defend against web of truths; industrial production of lies is the market failure mode.</p>

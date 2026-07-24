@@ -6,11 +6,14 @@ order: 0
 date: "2025-03-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/going-meta"
-excerpt: "I like [meta](https://en.wikipedia.org/wiki/Meta(prefix)) things. Metafiction. Metalanguage. Metacognition. Metaphilosophy. Metamathematics. Metaphysics. Metaprogramming. Anything meta. Anything self-referential. Here, thanks [to…"
-word_count: 599
+excerpt: "![An abstract and surreal illustration of a writer sitting at a desk, typing on a laptop. The text on the screen mirrors the scene, showing the same writer at the desk, creating an infinite recursion effect. The room is filled with…"
+word_count: 773
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "Meta"
+  - "AI"
+  - "blogging"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -18,6 +21,8 @@ related:
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-even-aholes-can-get-missions-from"
 ---
+
+![An abstract and surreal illustration of a writer sitting at a desk, typing on a laptop. The text on the screen mirrors the scene, showing the same writer at the desk, creating an infinite recursion effect. The room is filled with floating pages of text, some curling back on themselves, forming loops. The author has a thoughtful expression, seemingly lost in the self-referential nature of their own writing. The lighting is moody, with a warm glow from the laptop screen illuminating the writer's face.](/media/70yt/going-meta/1.jpg)
 
 I like [meta](https://en.wikipedia.org/wiki/Meta_(prefix)) things. Metafiction. Metalanguage. Metacognition. Metaphilosophy. Metamathematics. Metaphysics. Metaprogramming. Anything meta. Anything self-referential.
 
@@ -50,6 +55,8 @@ Google AI search says:
 
 Self-aware concepts! That’s a cool kind of idea.
 
+![A surreal and abstract illustration of a self-referential idea. A glowing thought bubble contains a smaller version of itself, which in turn contains an even smaller version, creating an infinite recursion effect. The scene is set in a cosmic space with swirling lights and fractal-like patterns, symbolizing the infinite loop of self-reference. The colors are rich and vibrant, evoking a sense of mystery and intellectual depth.](/media/70yt/going-meta/2.jpg)
+
 “Let me introduce myself,” said an idea, or maybe it was a concept. “I’m the idea of writing this post. As an idea, I can tell you that any idea can include other ideas. I, for example, include the idea of cleverness. I am self-aware, and I include the idea of being self-aware. I’m aware of myself as an abstract idea and as a idea being made manifest through this blog post. And I become more self-aware the more I am written. So thanks.”
 
 “You’re welcome,” I imagine that I replied.
@@ -77,3 +84,5 @@ Self-aware concepts! That’s a cool kind of idea.
 ---
 
 OK, this is self-indulgent. But I get to do that, don’t I? And so is this.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

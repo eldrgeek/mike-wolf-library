@@ -10,7 +10,8 @@ excerpt: "The rule of cui bono: proponents of any political or economic program 
 word_count: 825
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

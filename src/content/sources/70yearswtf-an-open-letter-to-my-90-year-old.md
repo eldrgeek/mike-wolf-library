@@ -7,16 +7,16 @@ date: "2022-09-08"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/an-open-letter-to-my-90-year-old"
 excerpt: "Photo by [Lucas George Wendt](https://unsplash.com/@lucasgwendt) on [Unsplash](https://unsplash.com) Hi! I hope you’re doing well. I hope you are loving life. I hope your body isn’t a wreck. I hope you’re not dead. Remember me? I’m your…"
-word_count: 779
+word_count: 791
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-draft-having-subscribers-is-a-pain"
+  - "70yearswtf-forgiveness-and-the-war-in-ukraine"
+  - "70yearswtf-i-dont-know-whats-right-for-you-all"
+  - "70yearswtf-llms-are-machines-are-you-one-too"
+  - "70yearswtf-mikes-life-moviewise-review"
 ---
 
 *Photo by [Lucas George Wendt](https://unsplash.com/@lucasgwendt) on [Unsplash](https://unsplash.com)*
@@ -101,4 +101,4 @@ And press publish
 
 Or you can read this, which changed my life
 
-[70 Years Old. WTF!Thank you, Past Me. Thank you random stranger(Original art from here) Last night on Reddit I came across a comment that has changed my life. Of course, it doesn't take all that much to change someone's life. I wouldn't have written this but for that comment, so the existence of this post means reading that comment was a life changing event. But I hope my life will change it in a larger way…Read more9 years ago · Michael Wolf](https://70yearswtf.substack.com/p/thank-you-past-me-thank-you-random-17-07-01?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/an-open-letter-to-my-90-year-old/1.jpg) 70 Years Old. WTF!Thank you, Past Me. Thank you random stranger(Original art from here) Last night on Reddit I came across a comment that has changed my life. Of course, it doesn't take all that much to change someone's life. I wouldn't have written this but for that comment, so the existence of this post means reading that comment was a life changing event. But I hope my life will change it in a larger way…Read more9 years ago · Michael Wolf](https://70yearswtf.substack.com/p/thank-you-past-me-thank-you-random-17-07-01?utm_source=substack&utm_campaign=post_embed&utm_medium=web)

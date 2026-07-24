@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-blog-retrospective-2015-guilty-of-16-01-03"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Courtroom skit; charge explicitly made up mid-post for abandoned intentions.</p>

@@ -10,7 +10,9 @@ excerpt: "I like knowing things. Part of the process of knowing is discovering w
 word_count: 1007
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

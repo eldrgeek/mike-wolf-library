@@ -9,7 +9,8 @@ source: "70yt *ssdy-and-improving-myos* (batch 7)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> SSDY: reopening journals and finding same problems. MyOS: fruitful ideas integrated into how he runs himself (Past/Present/Future Me, gratitude, forgiveness…). Person-as-runtime.</p>

@@ -9,6 +9,7 @@ related:
   - "three-trees-one-greenhouse"
   - "soma"
   - "the-foundation"
+  - "soma-campus"
 provenance:
   - "70yearswtf-birthday-activity-part-1-17-12-31"
 tags:

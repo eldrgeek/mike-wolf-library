@@ -6,11 +6,13 @@ order: 0
 date: "2025-10-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/how-to-have-a-conversation-with-an"
-excerpt: "Image created by Grok based on this post. If you think of an LLM as a machine, and therefore think that how you talk to it wouldn’t matter, you’d be wrong. In this series I’ll be having conversations with several LLMs to ask them how the…"
-word_count: 708
+excerpt: "![Image created by Grok based on this post.](/media/70yt/how-to-have-a-conversation-with-an/1.jpg) Image created by Grok based on this post. If you think of an LLM as a machine, and therefore think that how you talk to it wouldn’t matter,…"
+word_count: 728
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Image created by Grok based on this post.](/media/70yt/how-to-have-a-conversation-with-an/1.jpg)
 
 *Image created by Grok based on this post.*
 
@@ -35,11 +39,11 @@ I’ll also be explaining other aspects of LLM design and how that affects the w
 
 I chose Grok as my first subject because it gave the best answers to my earlier question “What’s it like to be an LLM?” [in this post](https://70yearswtf.substack.com/p/why-you-need-to-get-to-know-ai).
 
-Grok and I had a good conversation and afterward I asked Grok to write a few paragraphs to summarize our conversation.  Here is [the full conversation](https://grok.com/share/bGVnYWN5LWNvcHk%3D_01cde8a6-28bf-41f1-bce3-5039b377a0e4), here is my request to Grok.
+Grok and I had a good conversation and afterward I asked Grok to write a few paragraphs to summarize our conversation.  Here is t[he full conversation](https://grok.com/share/bGVnYWN5LWNvcHk%3D_01cde8a6-28bf-41f1-bce3-5039b377a0e4), here is my request to Grok.
 
 > [can you] turn your response into a few paragraphs for a blog post? Use as many as you need to capture the essence of this discussion. I will of course give you full credit.
 
-Here is Grok’s answer:
+Here is Grok’s answer":
 
 > ### How User Interactions Shape AI Responses: A Dive into Prompt Dynamics
 >

@@ -10,7 +10,7 @@ excerpt: "I've made a deal with my sister. We both like to write, and didn't do 
 word_count: 276
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

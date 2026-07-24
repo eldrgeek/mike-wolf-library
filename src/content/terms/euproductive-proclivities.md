@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Eu- marks beneficial polarity: routine, accountability, community, novelty, support, gratitude as levers.</p>

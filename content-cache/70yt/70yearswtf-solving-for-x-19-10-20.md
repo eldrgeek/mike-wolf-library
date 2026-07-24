@@ -7,11 +7,13 @@ date: "2019-10-20"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/solving-for-x-19-10-20"
 excerpt: "Photo by Taylor on Unsplash When you are discontent with your life’s conditions, you can follow one of three strategies: You can change your mind so that you don’t remain discontent—or the dissatisfaction becomes less severe. You can change your…"
-word_count: 835
+word_count: 834
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/solving-for-x-19-10-20/1.jpg)
 
 *Photo by [Taylor](https://unsplash.com/@xoutcastx?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/x?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

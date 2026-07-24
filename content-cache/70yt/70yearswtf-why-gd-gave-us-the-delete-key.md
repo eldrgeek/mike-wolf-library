@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/why-gd-gave-us-the-delete-key/1.jpg)
+
 I’m grateful for the many gifts of [the G*d I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utm_source=publication-search).
 
 And I am grateful today for the DELETE key.

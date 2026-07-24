@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/modern-monetary-theory-and-why-it-16-02-27/1.jpg)
+
 Photo credit: [free pictures of money](http://www.flickr.com/photos/126278138@N03/) via [Foter.com](http://foter.com/photo/money-92/) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 
 A while ago I tripped over an economic theory called "[Modern Monetary Theory](http://en.wikipedia.org/wiki/Chartalism) (MMT)." I thought is was interesting, and talked about it a bit, because, you know, weird ideas.

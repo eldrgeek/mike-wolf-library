@@ -11,7 +11,8 @@ provenance:
   - "70yearswtf-i-dont-believe-in-death-and-you-dont"
   - "70yearswtf-who-is-fafkag"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Character-handle for God under banished/renamed name; anti-symbol-fight theology (God/Allah/TAFKAG/YMMV same One).</p>

@@ -10,7 +10,8 @@ excerpt: "This morning I woke up and practiced what [I had posted](https://70yea
 word_count: 729
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

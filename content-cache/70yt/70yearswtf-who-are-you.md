@@ -7,12 +7,14 @@ date: "2021-07-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/who-are-you"
 excerpt: "Photo by Marta Dzedyshko from Pexels “Who are you?” I asked. “I’m God,” said the character that says it’s God. “No, you’re not,” someone said. “You can’t be.” I think it was a reader. “Really,” said God. “So God isn’t…"
-word_count: 1446
+word_count: 1471
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Photo by **Marta Dzedyshko(https://www.pexels.com/@marta-dzedyshko-1042863?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/plate-with-different-eggs-for-easter-holiday-6341568/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/who-are-you/1.jpg)
 
 *Photo by **[Marta Dzedyshko](https://www.pexels.com/@marta-dzedyshko-1042863?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/plate-with-different-eggs-for-easter-holiday-6341568/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 
@@ -166,7 +168,9 @@ God spoke again. “I am God. I can not only be anything, I must be everything�
 
 ---
 
-And in the end, was the Button. And the Button said, “.” And God saw the Button and said it was good.
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
+
+And in the end, was the Button. And the Button said, “[Subscribe now](https://70yearswtf.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2F70yearswtf.substack.com%2Fp%2Fdo-ideas-exist).” And God saw the Button and said it was good.
 
 ---
 

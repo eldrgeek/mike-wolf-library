@@ -6,11 +6,12 @@ order: 0
 date: "2016-01-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/blog-retrospective-2015-guilty-of-16-01-03"
-excerpt: "Photo credit: [orangesparrow](http://www.flickr.com/photos/38409127@N08/) via [Foter.com](http://foter.com/photo/104-365-a-little-justice/) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) Your honor, ladies and gentlemen…"
-word_count: 653
+excerpt: "![](/media/70yt/blog-retrospective-2015-guilty-of-16-01-03/1.jpg) Photo credit: [orangesparrow](http://www.flickr.com/photos/38409127@N08/) via [Foter.com](http://foter.com/photo/104-365-a-little-justice/) / [CC…"
+word_count: 665
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/blog-retrospective-2015-guilty-of-16-01-03/1.jpg)
 
 Photo credit: [orangesparrow](http://www.flickr.com/photos/38409127@N08/) via [Foter.com](http://foter.com/photo/104-365-a-little-justice/) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 

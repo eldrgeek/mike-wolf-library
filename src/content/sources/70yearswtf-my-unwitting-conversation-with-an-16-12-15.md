@@ -10,7 +10,9 @@ excerpt: "Kismet, a robot with rudimentary social skills (Photo credit: [Wikiped
 word_count: 751
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

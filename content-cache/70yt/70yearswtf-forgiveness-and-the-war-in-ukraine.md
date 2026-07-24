@@ -7,11 +7,13 @@ date: "2022-03-21"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/forgiveness-and-the-war-in-ukraine"
 excerpt: "If you want to see peace in Ukraine, start by making peace with brothers, sisters, children, cousins, friends, and neighbors. We are never, never, never, ever going to end the war in distant places as long as we ever, ever,…"
-word_count: 849
+word_count: 910
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/forgiveness-and-the-war-in-ukraine/1.png)
 
 If you want to see peace in Ukraine, start by making peace with brothers, sisters, children, cousins, friends, and neighbors.
 
@@ -67,6 +69,8 @@ And I did.
 
 (Memory is flawed. I didn’t have a mobile phone until some years later. (h/t [Zorina](https://www.villageheartbeat.com/)) My first mobile phone was a bag phone, like this one. I must have called her from a payphone.)
 
+![Vintage Motorola Cell Star Cellular Bag Phone | eBay](/media/70yt/forgiveness-and-the-war-in-ukraine/2.jpg)
+
 *Motorola Bag Phone circa 1988*
 
 I resolved that I would never, ever go near that place again.  (Not the shopping center. The place of anger.)
@@ -99,6 +103,6 @@ We’re all trying to do our best.
 
 I’ve [learned some things about love](https://70yearswtf.substack.com/p/some-things-ive-learned-about-love-16-10-05?s=w). I wrote about some of them five years ago. You may already know many of them. But a reminder is always good.
 
-[70 Years Old. WTF!Some things I've learned about loveI’d been loving my wife, Bobbi, for nearly 50 years when I originally wrote this, my daughters a few years less. Add friends, sons-by-marriage, and a few grandchildren, and I’ve been getting lots of practice. And I’ve learned a thing or two. Love is a choice…Read more10 years ago · Michael Wolf](https://70yearswtf.substack.com/p/some-things-ive-learned-about-love-16-10-05?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/forgiveness-and-the-war-in-ukraine/3.jpg) 70 Years Old. WTF!Some things I've learned about loveI’d been loving my wife, Bobbi, for nearly 50 years when I originally wrote this, my daughters a few years less. Add friends, sons-by-marriage, and a few grandchildren, and I’ve been getting lots of practice. And I’ve learned a thing or two. Love is a choice…Read more10 years ago · Michael Wolf](https://70yearswtf.substack.com/p/some-things-ive-learned-about-love-16-10-05?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 .

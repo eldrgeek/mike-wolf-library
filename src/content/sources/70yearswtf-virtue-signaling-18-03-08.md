@@ -7,10 +7,11 @@ date: "2018-03-08"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/virtue-signaling-18-03-08"
 excerpt: "Bobbi and I are planning on attending the March March. That's the [March 24th \"NeverAgain\" March for Our Lives](https://marchforourlives.com/) in Washington, and a ton of other places, including Boston. What motivates me to do that?…"
-word_count: 1173
+word_count: 1182
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -48,6 +49,8 @@ Afterward, Rockwell gave a surprisingly (to me) thoughtful speech articulating h
 My attending the event was virtue signaling. I was not signaling support for the American Nazi party. I was signaling the virtues of civic engagement, polite discourse, and facing the enemy. And supporting your friends. Also the virtue of having a good story to tell. It's a good story.
 
 So if it's a nice day, and you're my friend, and you care about something and you want me to show up with you at an event, and it that looks as though the event will be interesting, hell, yes, I'm there, no matter what I think of your cause. Want me to come with you to church to hear your minister talk about--whatever he wants to talk about? No problem. No probs with your minister. I'd even go here if I had a friend to take me. I showed up to see an actual Nazi, FFS.
+
+![](/media/70yt/virtue-signaling-18-03-08/1.jpg)
 
 If I go to an event whose cause I do not support, do I feel the need to wear a button that signals "I'm against this shit"? Like my star-of-David stunt? No. I'm willing to show up to support you and to learn something. I'm willing to have people who I don't know think I'm with them when I'm not. Especially if they have guns. Who cares? Not me.
 

@@ -7,12 +7,14 @@ date: "2015-11-13"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/getting-old-is-not-for-sissies-15-11-13"
 excerpt: "Structure of ibuprofen (Photo credit: Wikipedia) I thought that getting old would be easy to the extent that I thought about it at all. I imagined the “old me” would be just like the “young me” only with gray hair…"
-word_count: 531
+word_count: 533
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Structure of ibuprofen](/media/70yt/getting-old-is-not-for-sissies-15-11-13/1.png)
 
 Structure of ibuprofen (Photo credit: [Wikipedia](https://draft.blogger.com/blog/post/edit/809323243837962619/1626079643177034630#))
 

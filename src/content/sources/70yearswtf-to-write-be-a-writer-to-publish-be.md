@@ -6,11 +6,12 @@ order: 0
 date: "2022-03-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/to-write-be-a-writer-to-publish-be"
-excerpt: "“I want to be published,” I said. By “I,” I mean “me,” the Daily Pages I had once been, and that would become this blog post. I didn’t know that being published would be my destiny back then. Back then, I was just Daily Pages. “You’re not…"
-word_count: 882
+excerpt: "![](/media/70yt/to-write-be-a-writer-to-publish-be/1.jpg) “I want to be published,” I said. By “I,” I mean “me,” the Daily Pages I had once been, and that would become this blog post. I didn’t know that being published would be my destiny…"
+word_count: 894
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/to-write-be-a-writer-to-publish-be/1.jpg)
 
 “I want to be published,” I said. By “I,” I mean “me,” the Daily Pages I had once been, and that would become this blog post. I didn’t know that being published would be my destiny back then. Back then, I was just Daily Pages.
 

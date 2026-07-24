@@ -6,11 +6,12 @@ order: 0
 date: "2021-07-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/love-or-fear"
-excerpt: "Photo by [How Far From Home](https://www.pexels.com/@how-far-from-home-3341908?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
-word_count: 729
+excerpt: "![Photo by How Far From Home(https://www.pexels.com/@how-far-from-home-3341908?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
+word_count: 783
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by **How Far From Home(https://www.pexels.com/@how-far-from-home-3341908?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/red-flower-on-white-sand-6788862/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/love-or-fear/1.jpg)
 
 *Photo by **[How Far From Home](https://www.pexels.com/@how-far-from-home-3341908?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/red-flower-on-white-sand-6788862/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 
@@ -96,5 +99,7 @@ The point of this post is love, I decided. The point of this blog is love, I dec
 “You choose,” God said.
 
 ---
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 “Love, or fear. Those are your choices.”

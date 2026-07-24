@@ -10,7 +10,11 @@ excerpt: "Today is (or was) Day 46 of Sam Harris’s Waking Up Course. I suppose
 word_count: 1709
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
+  - "economics"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

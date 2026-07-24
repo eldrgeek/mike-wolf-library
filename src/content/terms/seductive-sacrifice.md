@@ -9,7 +9,8 @@ source: "70yt *the-slippery-slope-of-sacrifice*; *the-illusion-of-sacrifice* (ba
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Seductive sacrifice: no natural stop. Later retraction: true shortfall balanced by resentment; love balances without resentment.</p>

@@ -9,7 +9,9 @@ source: "70yt *at-the-request-of-the-book-of-michael*; *waking-up-with-my-person
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not manuscript-as-object: a character with authority that <em>writes</em> Mike, vanishes, returns, invents personal coach because Mike can’t structure himself. Metanovel physics on the blog. Heir to SRMW self-aware book.</p>

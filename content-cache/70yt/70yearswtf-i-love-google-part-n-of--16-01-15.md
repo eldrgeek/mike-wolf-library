@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/i-love-google-part-n-of--16-01-15/1.jpg)
+
 My Chromebook touchpad was not working right. Yes, it was working, but it was laggy. I had to try a dozen times to move the cursor from here to there. Sometimes it would move part way. Sometimes it wouldn't move at all. Suck!
 
 When in doubt, ask Google. The image at the top shows what happened when I typed "chromebook touchpad not working"
@@ -20,6 +22,8 @@ When in doubt, ask Google. The image at the top shows what happened when I typed
 When plugged in? I wonder? So I pull the plug. And my touchpad works. Yay!
 
 For comparison I tried bing. And below is what I got:
+
+![](/media/70yt/i-love-google-part-n-of--16-01-15/2.jpg)
 
 More results. More noise. No help.
 

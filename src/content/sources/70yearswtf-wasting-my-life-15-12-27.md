@@ -10,7 +10,7 @@ excerpt: "An hourglass (Photo credit: [Wikipedia](http://commons.wikipedia.org/w
 word_count: 456
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

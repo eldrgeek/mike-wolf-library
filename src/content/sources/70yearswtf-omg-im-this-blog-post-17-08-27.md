@@ -10,7 +10,8 @@ excerpt: "“Write me,” said a blog post. It wasn’t actually a post at the t
 word_count: 669
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -6,11 +6,12 @@ order: 0
 date: "2016-06-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/here-there-and-everywhere-16-06-04"
-excerpt: "There's exactly one thing that we know cannot be an illusion: one thing, and one thing only -- consciousness. We can be fooled about everything else. We can see mirages, hear ringing in our ears, be tricked by magicians. We can take drugs…"
-word_count: 612
+excerpt: "![](/media/70yt/here-there-and-everywhere-16-06-04/1.jpg) There's exactly one thing that we know cannot be an illusion: one thing, and one thing only -- consciousness. We can be fooled about everything else. We can see mirages, hear…"
+word_count: 623
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/here-there-and-everywhere-16-06-04/1.jpg)
 
 There's exactly one thing that we know cannot be an illusion: one thing, and one thing only -- consciousness. We can be fooled about everything else. We can see mirages, hear ringing in our ears, be tricked by magicians. We can take drugs that cause us to see things that violate all the laws of physics. But we can't be tricked into believing we are conscious: to be tricked we must first be conscious. We can be tricked into believing we are not conscious, but we can't be tricked into believing that we are.
 

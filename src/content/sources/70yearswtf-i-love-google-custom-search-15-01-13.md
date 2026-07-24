@@ -10,7 +10,8 @@ excerpt: "Logical yesterday I discovered The Famous Writers' blog, and [wrote ab
 word_count: 278
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

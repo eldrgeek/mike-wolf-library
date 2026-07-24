@@ -7,11 +7,13 @@ date: "2021-07-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-first-thing-to-know"
 excerpt: "Photo by Efe Kurnaz on Unsplash I’d gotten up this morning determined to stop ignoring God, and determined to learn from Her mistakes. I was walking around the living room thinking and mumbling to myself and listening. I remembered what…"
-word_count: 911
+word_count: 934
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![Photo by Efe Kurnaz(https://unsplash.com/@efekurnaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/first-thing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/the-first-thing-to-know/1.jpg)
 
 *Photo by [Efe Kurnaz](https://unsplash.com/@efekurnaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/first-thing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -108,6 +110,8 @@ But something had changed.
 Maybe, God said.
 
 ---
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 Maybe the first thing to know about not subscribing is that you really don’t want to not subscribe.
 

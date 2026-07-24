@@ -6,11 +6,12 @@ order: 0
 date: "2015-01-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/could-i-possibly-be-stupider-i-dont-15-01-24"
-excerpt: "Yesterday I wrote a post about an epiphany that I had. Well, maybe it wasn't an epiphany. Maybe a mipiphany, a word I just made up. I means a miniature epiphany. Whatever we call it, it was an idea. For those who don't have time to read…"
-word_count: 599
+excerpt: "![](/media/70yt/could-i-possibly-be-stupider-i-dont-15-01-24/1.png) Yesterday I wrote a post about an epiphany that I had. Well, maybe it wasn't an epiphany. Maybe a mipiphany, a word I just made up. I means a miniature epiphany. Whatever…"
+word_count: 613
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/could-i-possibly-be-stupider-i-dont-15-01-24/1.png)
 
 Yesterday I wrote a post about an epiphany that I had. Well, maybe it wasn't an epiphany. Maybe a mipiphany, a word I just made up. I means a miniature epiphany. Whatever we call it, it was an idea.
 

@@ -6,11 +6,11 @@ order: 0
 date: "2023-07-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/finding-things"
-excerpt: "Finding things I sat down in front of my computer. I put my fingers on the keyboard And after a while, I found what you are reading. And now you’ve found it, too. Amazing, the things we find. The prompt At the writers’ group the other…"
-word_count: 422
+excerpt: "![](/media/70yt/finding-things/1.jpg) Finding things I sat down in front of my computer. I put my fingers on the keyboard And after a while, I found what you are reading. And now you’ve found it, too. Amazing, the things we find. The…"
+word_count: 428
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-even-aholes-can-get-missions-from"
 ---
+
+![](/media/70yt/finding-things/1.jpg)
 
 ## Finding things
 

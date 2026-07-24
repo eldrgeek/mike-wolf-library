@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-recovering-the-dream-19-01-19"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> retired → unretired → re-retired → re-unretired. Refusal to stay on either side of work/rest.</p>

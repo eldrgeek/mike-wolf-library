@@ -9,7 +9,8 @@ source: "CDC session *Prenaptual agreement draft* (4d4b8e.json)."
 related: []
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Formal-looking written agreement entered before a nap — blanket allocation, snore thresholds, etc. A.K.A. prenap. Legal formality applied to horizontal repose.</p>

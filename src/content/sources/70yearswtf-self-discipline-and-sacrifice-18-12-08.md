@@ -10,7 +10,8 @@ excerpt: "This morning I realized that self-discipline was my ego’s attempt to
 word_count: 1157
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

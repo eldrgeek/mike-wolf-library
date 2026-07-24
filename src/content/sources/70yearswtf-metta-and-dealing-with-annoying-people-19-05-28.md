@@ -10,7 +10,9 @@ excerpt: "Lovingkindness is the goal of [metta meditation.](https://www.mettains
 word_count: 553
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

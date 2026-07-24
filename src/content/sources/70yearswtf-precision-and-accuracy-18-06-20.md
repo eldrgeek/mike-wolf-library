@@ -6,11 +6,11 @@ order: 0
 date: "2018-06-20"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/precision-and-accuracy-18-06-20"
-excerpt: "Precision and accuracy in measurement are different, and often confused. From [here](https://sites.google.com/a/apaches.k12.in.us/mr-evans-science-website/accuracy-vs-precision) Let's assume that we are trying to measure a property that…"
-word_count: 189
+excerpt: "Precision and accuracy in measurement are different, and often confused. ![](/media/70yt/precision-and-accuracy-18-06-20/1.png) From [here](https://sites.google.com/a/apaches.k12.in.us/mr-evans-science-website/accuracy-vs-precision) Let's…"
+word_count: 199
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -20,6 +20,8 @@ related:
 ---
 
 Precision and accuracy in measurement are different, and often confused.
+
+![](/media/70yt/precision-and-accuracy-18-06-20/1.png)
 
 From [here](https://sites.google.com/a/apaches.k12.in.us/mr-evans-science-website/accuracy-vs-precision)
 Let's assume that we are trying to measure a property that has a value that is stable and that can be measured.

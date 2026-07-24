@@ -6,12 +6,14 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
 source: "SRMW."
-related: []
+related:
+  - "safe-place"
 provenance:
   - "srmw-part-ii-the-metanovel"
   - "srmw-part-vii-imagination"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Chapter title and metaphysics: changing the imagined part <em>is</em> changing most of lived reality. Underwrites en-joy, safe place, imagine→write→exists ladder.</p>

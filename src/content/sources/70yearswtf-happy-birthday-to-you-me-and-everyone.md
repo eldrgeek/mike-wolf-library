@@ -6,11 +6,11 @@ order: 0
 date: "2023-01-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/happy-birthday-to-you-me-and-everyone"
-excerpt: "THIS IS A DRAFT It’s my birthday today. And yours. And everyone else’s. “Technically, it’s not your birthday,” said one of the nit-picking voices in my head. “It’s your birthday anniversary. Your birthday was 80 years ago.” “And it’s not…"
-word_count: 247
+excerpt: "![](/media/70yt/happy-birthday-to-you-me-and-everyone/1.jpg) THIS IS A DRAFT It’s my birthday today. And yours. And everyone else’s. “Technically, it’s not your birthday,” said one of the nit-picking voices in my head. “It’s your birthday…"
+word_count: 258
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-even-aholes-can-get-missions-from"
 ---
+
+![](/media/70yt/happy-birthday-to-you-me-and-everyone/1.jpg)
 
 ## THIS IS A DRAFT
 

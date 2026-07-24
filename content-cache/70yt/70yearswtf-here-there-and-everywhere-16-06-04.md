@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/here-there-and-everywhere-16-06-04/1.jpg)
+
 There's exactly one thing that we know cannot be an illusion: one thing, and one thing only -- consciousness. We can be fooled about everything else. We can see mirages, hear ringing in our ears, be tricked by magicians. We can take drugs that cause us to see things that violate all the laws of physics. But we can't be tricked into believing we are conscious: to be tricked we must first be conscious. We can be tricked into believing we are not conscious, but we can't be tricked into believing that we are.
 
 So our own consciousness can't be an illusion. But everything can be an illusion. And indeed everything else must be an illusion. Stronger, or weaker, but still an illusion.

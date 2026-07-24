@@ -9,7 +9,8 @@ source: "70yt *decision-intention-prediction* (batch 5)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> If you can’t predict success, change the plan. Used live to ship “good enough” in minutes.</p>

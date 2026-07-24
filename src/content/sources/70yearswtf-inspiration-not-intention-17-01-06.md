@@ -10,13 +10,15 @@ excerpt: "For years I've said that what I want to do is to \"live an intentional
 word_count: 922
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
+  - "70yearswtf-being-doing-having-19-09-09"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 For years I've said that what I want to do is to "live an intentional life." I want to decide what to do, form an intention, and follow through. That's it.

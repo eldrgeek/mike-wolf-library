@@ -7,12 +7,14 @@ date: "2022-07-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/imaginary-readers-imaginary-god"
 excerpt: "Photo by Hakeem James Hausley “I’m not imaginary,” I imagined a reader saying. “Nor am I,” I imagined God saying. But they were. The reader who I had imagined saying, “I’m not imaginary,” was imaginary, of course. So was that…"
-word_count: 593
+word_count: 598
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Photo by Hakeem James Hausley](/media/70yt/imaginary-readers-imaginary-god/1.jpg)
 
 *Photo by Hakeem James Hausley*
 

@@ -9,7 +9,8 @@ source: "SRMW."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Beliefs plus beliefs about those beliefs that reinforce. Try to change a belief and metabeliefs push back. Self-help core is change the stack that rewrites the thought.</p>

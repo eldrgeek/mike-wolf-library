@@ -9,7 +9,8 @@ source: "70yt *predictive-meditation*; *predictive-posting* (batches 6–7)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Predict next ten breaths; check; re-predict. For posting: schedule self-emails; revise until remaining risk is residual.</p>

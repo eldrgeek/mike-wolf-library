@@ -7,16 +7,19 @@ date: "2018-03-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/get-out-of-your-head-and-into-your-18-03-11"
 excerpt: "A blank page. Discomfort. Isn't that the point? I've written a series of posts about discomfort. Recently (like February) I realized (with some shock) the degree to which my personal narrative was inconsistent with the facts of my life and…"
-word_count: 1733
+word_count: 1748
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
+  - "economics"
 related:
+  - "70yearswtf-the-last-barrier-to-change-18-07-21"
+  - "70yearswtf-family-of-mind-internal-family-systems-15-03-14"
+  - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
+  - "70yearswtf-working-hurts-less-than-procrastinating-15-01-31"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 A blank page. Discomfort. Isn't that the point?
@@ -53,6 +56,8 @@ And part of the reason that we suffer more is language. We connect words to expe
 Sure.
 
 Then he dropped the bomb:
+
+![](/media/70yt/get-out-of-your-head-and-into-your-18-03-11/1.jpg)
 
 Alright, it's words. Just words on the page. But he did ask for active engagement. And he did ask for total honesty. So without thinking through the terms of the contract, my brain responded. I'm not sure which of the shameful things that I have done is the most shameful. I'm not even sure that a single shameful act came to mind. All I know is that I read it and burst into tears. In the Starbucks where I was reading it.
 

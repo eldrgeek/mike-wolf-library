@@ -7,7 +7,7 @@ date: "2013-05-21"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/pot-odds-13-05-21"
 excerpt: "People make two kinds mistakes when faced with decisions under uncertainty. Sometimes they stay the course when they really should quit, because they'll lose their investment if they drop out: \"In for a penny, in for a pound\" as they…"
-word_count: 697
+word_count: 706
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -18,6 +18,8 @@ related: []
 People make two kinds mistakes when faced with decisions under uncertainty. Sometimes they stay the course when they really should quit, because they'll lose their investment if they drop out: "In for a penny, in for a pound" as they say. The other is to quit, because the odds say they won't succeed. Don't throw good money after bad."
 
 Both are wrong, as I was reminded while I wrote an email to a poker-playing friend, John Piacente, today.
+
+![Ben Affleck playing poker at the annual Ante U...](/media/70yt/pot-odds-13-05-21/1.jpg)
 
 Ben Affleck playing poker at the annual Ante Up For Africa event in Las Vegas during the World Series of Poker. (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:BenAffleckAUFA2009.jpg))The starting point for a rational investment strategy is what hey call, in poker, and on Wikipedia, [pot odds](http://en.wikipedia.org/wiki/Pot_odds).
 

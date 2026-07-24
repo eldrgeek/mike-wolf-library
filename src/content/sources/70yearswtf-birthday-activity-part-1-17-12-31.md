@@ -10,7 +10,9 @@ excerpt: "Today I'm seventy-five. I started writing this at 4:51 PM. And by that
 word_count: 1442
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

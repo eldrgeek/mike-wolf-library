@@ -10,7 +10,7 @@ excerpt: "I’m pretty good at writing and reviewing resumes, and when someone p
 word_count: 1264
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

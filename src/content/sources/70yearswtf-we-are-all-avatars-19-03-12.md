@@ -10,7 +10,8 @@ excerpt: "Avatar: an incarnation, embodiment, or manifestation of a person or id
 word_count: 323
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

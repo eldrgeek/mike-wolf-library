@@ -10,13 +10,13 @@ excerpt: "Alyssa and Kon went to see [Rockapella](https://www.rockapella.com/), 
 word_count: 304
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
+  - "70yearswtf-m-is-for-music-19-12-13"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Alyssa and Kon went to see [Rockapella](https://www.rockapella.com/), an acapella group, and I wanted to hear their sound.

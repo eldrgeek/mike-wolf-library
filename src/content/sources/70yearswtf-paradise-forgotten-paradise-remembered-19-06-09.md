@@ -6,11 +6,12 @@ order: 0
 date: "2019-06-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/paradise-forgotten-paradise-remembered-19-06-09"
-excerpt: "Photo: [Davide Cantelli](https://unsplash.com/@cant89) Paradise forgotten, paradise remembered I ended May with a flurry of writing activity: seven posts in this blog in five days. And several posts in others, too. That’s the way that I…"
-word_count: 237
+excerpt: "![](/media/70yt/paradise-forgotten-paradise-remembered-19-06-09/1.jpg) Photo: [Davide Cantelli](https://unsplash.com/@cant89) Paradise forgotten, paradise remembered I ended May with a flurry of writing activity: seven posts in this blog…"
+word_count: 248
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/paradise-forgotten-paradise-remembered-19-06-09/1.jpg)
 
 *Photo: [Davide Cantelli](https://unsplash.com/@cant89)*
 

@@ -6,20 +6,23 @@ order: 0
 date: "2021-03-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/finding-my-voice"
-excerpt: "Back in the day, I wrote a satirical news blog called [“The Wolf Report.”](http://thewolfreport.blogspot.com/2011/09/study-larks-clams-far-happier-than-pigs.html) It was kind of like the Onion, only better. Okay, not better. But mine. I’ve…"
-word_count: 829
+excerpt: "Back in the day, I wrote a satirical news blog called [“The Wolf Report.”](http://thewolfreport.blogspot.com/2011/09/study-larks-clams-far-happier-than-pigs.html) It was kind of like the Onion, only better. Okay, not better. But mine.…"
+word_count: 850
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-i-am-a-cyborg-and-google-helps-me-16-01-11"
+  - "70yearswtf-predictions-16-01-09"
+  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Back in the day, I wrote a satirical news blog called [“The Wolf Report.”](http://thewolfreport.blogspot.com/2011/09/study-larks-clams-far-happier-than-pigs.html) It was kind of like the Onion, only better. Okay, not better. But mine.
+
+![](/media/70yt/finding-my-voice/1.jpg)
 
 I’ve got a good sense of humor—at least according to everyone who is not my wife. I’ve learned the trick to writing stuff that makes people laugh.
 
@@ -67,6 +70,8 @@ I’d been having a WhatsApp chat with Jonathan, the [BFINM](https://70yearswtf.
 
 So instead of a no, I got:
 
+![](/media/70yt/finding-my-voice/2.jpg)
+
 I should have expected it. It’s a cult classic, and who but my BFINM would be in that cult with me?
 
 The next morning he’d replied to the last thing I’d written in the chat. I was off and running.
@@ -104,3 +109,5 @@ For now, I’ve found my medium.
 ---
 
 If this turns out to be your medium, you might want to subscribe. You can probably figure out how to do it.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

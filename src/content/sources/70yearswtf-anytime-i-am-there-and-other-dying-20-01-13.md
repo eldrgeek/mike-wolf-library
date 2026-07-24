@@ -10,7 +10,7 @@ excerpt: "The memory of a song that I’d heard arose in my mind a few days ago.
 word_count: 647
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

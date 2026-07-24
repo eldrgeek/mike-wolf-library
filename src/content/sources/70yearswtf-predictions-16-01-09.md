@@ -6,18 +6,21 @@ order: 0
 date: "2016-01-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/predictions-16-01-09"
-excerpt: "I have several predictions to make. First prediction: Three days from now, on January 11, 2016, I will write a post that has, at the top, the same image as I have at the top of this one. I predict that on that day I will have started…"
-word_count: 423
+excerpt: "![save image](/media/70yt/predictions-16-01-09/1.jpg) I have several predictions to make. First prediction: Three days from now, on January 11, 2016, I will write a post that has, at the top, the same image as I have at the top of this…"
+word_count: 433
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-finding-my-voice"
+  - "70yearswtf-i-am-a-cyborg-and-google-helps-me-16-01-11"
+  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![save image](/media/70yt/predictions-16-01-09/1.jpg)
 
 I have several predictions to make. First prediction: Three days from now, on January 11, 2016, I will write a post that has, at the top, the same image as I have at the top of this one.
 

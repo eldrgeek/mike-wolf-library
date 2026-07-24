@@ -10,7 +10,8 @@ excerpt: "I've written about my interest in meditation. I've launched a couple o
 word_count: 536
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -10,7 +10,7 @@ excerpt: "Someone who calls himself David R. Kendrick sometime prior to 2004 wro
 word_count: 972
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

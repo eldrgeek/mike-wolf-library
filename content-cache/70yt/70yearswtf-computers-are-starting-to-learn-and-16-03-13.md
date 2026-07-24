@@ -15,6 +15,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/computers-are-starting-to-learn-and-16-03-13/1.jpg)
+
 The breakthroughs are coming faster and faster. Last night (as I started this post) Google's go-playing computer system, called AlphaGo, beat one of the the world's best go players, [Lee Sedol](http://en.wikipedia.org/wiki/Lee_Sedol) of Korea. Tonight (as I continue it) AlphaGo has won the second match in a five game series. This morning (as I work on it) AlphaGo has won the third.
 
 This is a big, big deal because AlphaGo wasn't programmed to win at go. It was programmed to learn how to win at go.

@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *down-the-intellectual-rabithole* (batch 5)."
 source: "70yt *down-the-intellectual-rabithole* (batch 5)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-down-the-intellectual-rabithole-18-07-29"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Learning A spawns E–M; writing A blocks B–D. Embrace discomfort instead of fleeing.</p>

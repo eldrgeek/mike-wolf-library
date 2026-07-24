@@ -6,11 +6,14 @@ order: 0
 date: "2025-03-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-married-a-mythologist"
-excerpt: "Bobbi is a mythologist. She has a PhD in “Mythological Studies, with a Concentration in Depth Psychology.” If you don’t believe it, I’ll send you a photo. I traveled with her on the road to her PhD and learned to respect mythology. I’ve…"
-word_count: 1049
+excerpt: "![A serene yet slightly surreal 16:9 scene depicting an elderly man from behind. He has a full head of white hair gathered in a neat ponytail and wears all black clothing. He's standing at the edge of a winding road, gazing toward a…"
+word_count: 1152
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "Bobbi"
+  - "AI"
+  - "blogging"
 related:
   - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
@@ -18,6 +21,8 @@ related:
   - "70yearswtf-even-more-like-heaven-and-the-internet"
   - "70yearswtf-fill-the-world-with-love-scientifically"
 ---
+
+![A serene yet slightly surreal 16:9 scene depicting an elderly man from behind. He has a full head of white hair gathered in a neat ponytail and wears all black clothing. He's standing at the edge of a winding road, gazing toward a distant horizon where symbolic elements of myth, imagination, and personal journey intertwine. Subtle mythological imagery such as shadowy Buddha figures, mystical symbols, and abstract depictions of conversations float around him, blending seamlessly with the landscape. The setting should evoke contemplation, wisdom, and the intersection of personal myth and spiritual exploration.](/media/70yt/i-married-a-mythologist/1.jpg)
 
 Bobbi is a mythologist. She has a PhD in “Mythological Studies, with a Concentration in Depth Psychology.” If you don’t believe it, I’ll send you a photo.
 

@@ -7,7 +7,7 @@ date: "2025-03-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-idea-of-god-assuming-what-may"
 excerpt: "Why canonical (Mem's note): Proof-by-contradiction applied to God-existence. \"the idea of God exists. Indeed, to say 'God doesn't exist,' you have to use the idea of God.\" The structural argument: saying-the-thing-requires-the-thing. Less…"
-word_count: 842
+word_count: 694
 tags:
   - "70YearsWTF"
 related:
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-ideas-want-to-survive-they-want-their-18-07-05"
 ---
 
+
+
 > *Why canonical (Mem's note):* Proof-by-contradiction applied to God-existence. *"the idea of God exists. Indeed, to say 'God doesn't exist,' you have to use the idea of God."* The structural argument: saying-the-thing-requires-the-thing. Less load-bearing for the manifesto than the other idea-cluster posts, but illustrates the move's reach.
 
 
@@ -25,7 +27,7 @@ related:
 
 ---
 
-[](https://substackcdn.com/image/fetch/$s_!c9c0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe96b5b8d-a2ec-4ec6-8822-755d4099bdbc_1792x1024.webp)
+![A philosophical debate scene featuring historical and modern characters in an abstract setting. A medieval scholar, resembling Ibn al-Haytham, discusses mathematics with contemporary readers in a surreal environment of floating numbers and symbols. The scene evokes deep thought and intellectual exploration, with warm lighting and a mystical atmosphere.](/media/70yt/the-idea-of-god-assuming-what-may/1.jpg)
 
 “God doesn’t exist,” preempts an imaginary atheist reader.
 
@@ -41,7 +43,7 @@ Let’s assume that God exists.
 
 “God doesn’t exist. How can I assume God exists when God doesn’t exist?” Asked an atheist reader.
 
-“Oooh, I can answer that,” said [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham). Ibn al-Haytham was a medieval mathematician, astronomer, and physicist of the Islamic Golden Age. He is credited with being the first to use [proof by contradiction,](https://en.wikipedia.org/wiki/Reductio_ad_absurdum) a powerful tool for mathematical and scientific reasoning. He is also the first medieval figure to contribute to this blog1.
+“Oooh, I can answer that,” said [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham). Ibn al-Haytham was a medieval mathematician, astronomer, and physicist of the Islamic Golden Age. He is credited with being the first to use [proof by contradiction,](https://en.wikipedia.org/wiki/Reductio_ad_absurdum) a powerful tool for mathematical and scientific reasoning. He is also the first medieval figure to contribute to this blog[1](#footnote-1).
 
 “Go ahead,” I said.
 
@@ -59,7 +61,7 @@ Let’s assume that God exists.
 
 “Yes, said Ibn. “But in this proof we start by assuming that there is a largest prime. You’ll see how this works.”
 
-“OK.”  
+“OK.”
 ”Now imagine that you multiply all the prime numbers up to and including the largest prime. Then you add one to the result.”
 
 “OK.”
@@ -68,7 +70,7 @@ Let’s assume that God exists.
 
 “Very clever! So now that number is the largest prime!” Said a reader.
 
-“Not quite,” said Ibn. “We’ve just constructed a number that is larger than the largest prime and can’t be divided by any prime less than the largest prime. We haven’t proved that it is a prime number.”
+“Not quite,” said Ibn.  “We’ve just constructed a number that is larger than the largest prime and can’t be divided by any prime less than the largest prime. We haven’t proved that it is a prime number.”
 
 “Oh.”
 
@@ -82,22 +84,14 @@ Let’s assume that God exists.
 
 “So, said the atheist reader,” if I assume God exists then I can prove that it leads to a contradiction and God doesn't exist.”
 
-Possibly, said [Kurt Godel](https://70yearswtf.substack.com/p/god-and-godel)2 But maybe you [can’t prove it or disprove it](https://70yearswtf.substack.com/p/god-and-godel).
-
-Assume you’ll get some value from this blog and subscribe
-
-Subscribe
+Possibly, said [Kurt Godel](https://70yearswtf.substack.com/p/god-and-godel)[2](#footnote-2) But maybe you [can’t prove it or disprove it](https://70yearswtf.substack.com/p/god-and-godel).
 
 Maybe later you can disprove it.
 
-1
+[1](#footnote-anchor-1)
 
-Technically, he was an idea of a figure based (very loosely) on Ibn al-Haytham. 
+Technically, he was an idea of a figure based (very loosely) on Ibn al-Haytham.
 
-2
+[2](#footnote-anchor-2)
 
-Without the umlaut, "Godel" is "God + El," essentially “God-God.” Somewhere along the way, an overzealous German typesetter decided that "Godel" needed more sophistication—hence the umlaut. Little did they know in celestial legalese, the umlaut signifies divine footnotes, meaning Gödel’s true status is "_See Appendix A: Incompleteness of Omnipotence.”_
-
----
-
-*Archived to SOMA canon 2026-05-06 by Mem. Provenance: fetched directly from 70yearswtf.substack.com via host shell. Original is the source of truth; this copy exists so the team can cite without round-tripping the network.*
+Without the umlaut, "Godel" is "God + El," essentially “God-God.” Somewhere along the way, an overzealous German typesetter decided that "Godel" needed more sophistication—hence the umlaut. Little did they know in celestial legalese, the umlaut signifies divine footnotes, meaning Gödel’s true status is "*See Appendix A: Incompleteness of Omnipotence.”*

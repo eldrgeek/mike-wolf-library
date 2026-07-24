@@ -8,9 +8,11 @@ origin: "70yt *hanukkapella* (batch 4)."
 source: "70yt *hanukkapella* (batch 4)."
 related: []
 provenance:
+  - "70yearswtf-hanukkapella-19-12-11"
   - "70yearswtf-m-is-for-music-19-12-13"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Portmanteau Hanukkah + a cappella (via Rockapella).</p>

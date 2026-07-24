@@ -10,7 +10,8 @@ excerpt: "What I do, I teach A while ago I wrote about making ([a request for mi
 word_count: 1188
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

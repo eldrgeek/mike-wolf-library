@@ -10,7 +10,9 @@ excerpt: "After I wrote the first draft of [my ranty blog post on how it is to b
 word_count: 1077
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-a-series-of-strokes-19-03-11"
   - "70yearswtf-what-problem-are-you-trying-to-solve-18-11-13"

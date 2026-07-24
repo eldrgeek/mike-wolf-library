@@ -6,11 +6,13 @@ order: 0
 date: "2025-12-15"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/economics-and-lovenomics"
-excerpt: "When love is scarce When love is scarce, you have to portion it out carefully. You can’t afford to give it to strangers. You may not even have enough for yourself. You may allocate some for yourself and people you care about. Or allocate…"
-word_count: 334
+excerpt: "![](/media/70yt/economics-and-lovenomics/1.jpg) When love is scarce When love is scarce, you have to portion it out carefully. You can’t afford to give it to strangers. You may not even have enough for yourself. You may allocate some for…"
+word_count: 348
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/economics-and-lovenomics/1.jpg)
 
 ## When love is scarce
 
@@ -82,3 +86,5 @@ Practice giving more love to the people you already love.
 See if you don’t have more to give.
 
 Then keep giving it to have more.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

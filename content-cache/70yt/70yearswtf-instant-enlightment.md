@@ -7,7 +7,7 @@ date: "2023-09-06"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/instant-enlightment"
 excerpt: "Today I sat down to meditate. And instantly, I was enlightened. At least, that’s what the Buddha said. He said it clearly. He said: “You are enlightened.” He also said he was the Buddha. “You’re not enlightened,” said a voice.…"
-word_count: 353
+word_count: 347
 tags:
   - "70YearsWTF"
   - "Meditation"
@@ -15,6 +15,8 @@ tags:
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/instant-enlightment/1.jpg)
 
 Today I sat down to meditate. And instantly, I was enlightened.
 

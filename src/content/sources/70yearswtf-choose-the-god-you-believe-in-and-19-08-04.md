@@ -6,11 +6,11 @@ order: 0
 date: "2019-08-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/choose-the-god-you-believe-in-and-19-08-04"
-excerpt: "You can choose the God you believe in. Or you can choose to believe there’s no God. It’s your choice. There is a fact of the matter. There may be a God. There may be many Gods. There may be no God. What you choose may be correct…"
-word_count: 871
+excerpt: "![](/media/70yt/choose-the-god-you-believe-in-and-19-08-04/1.jpg) You can choose the God you believe in. Or you can choose to believe there’s no God. It’s your choice. There is a fact of the matter. There may be a God. There may be many…"
+word_count: 892
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/choose-the-god-you-believe-in-and-19-08-04/1.jpg)
 
 You can choose the God you believe in. Or you can choose to believe there’s no God. It’s your choice.
 
@@ -102,3 +104,5 @@ That God may exist only in my imagination, but that’s real enough and good eno
 And it’s good enough for God.
 
 PS: I believe that God helped me write this. I am confident that any errors are my own.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

@@ -6,11 +6,12 @@ order: 0
 date: "2025-11-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/why-i-dont-want-subscribers"
-excerpt: "An image suitable to this post, 16x9. I started writing this blog when I hit age 70. “70 Years Old? WTF?” I said. And then I said “That’s a great name for a blog that nobody will read.” For the first five years, nobody read it. And by…"
-word_count: 473
+excerpt: "![An image suitable to this post, 16x9.](/media/70yt/why-i-dont-want-subscribers/1.jpg) An image suitable to this post, 16x9. I started writing this blog when I hit age 70. “70 Years Old? WTF?” I said. And then I said “That’s a great name…"
+word_count: 544
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![An image suitable to this post, 16x9.](/media/70yt/why-i-dont-want-subscribers/1.jpg)
 
 *An image suitable to this post, 16x9.*
 
@@ -34,6 +37,8 @@ Including me.
 It was a WOB--a Write Only Blog.
 
 It was like [Bobbi](https://70yearswtf.substack.com/p/the-idea-of-bobbi?utm_source=publication-search) giving herself permission to not publish her books so that she could write them.
+
+![You can buy them on Amazon(https://www.amazon.com/dp/B0BWYSKKV7?binding=paperback&qid=1763143867&sr=1-2&ref=dbs_dp_rwt_sb_pc_tpbk)](/media/70yt/why-i-dont-want-subscribers/2.jpg)
 
 *[You can buy them on Amazon](https://www.amazon.com/dp/B0BWYSKKV7?binding=paperback&qid=1763143867&sr=1-2&ref=dbs_dp_rwt_sb_pc_tpbk)*
 
@@ -78,6 +83,8 @@ Anyway, I eventually got over it, I started boldly putting “Subscribe” butto
 Writing this blog is part of my plan to [save the world](https://70yearswtf.substack.com/p/saving-the-world?utm_source=publication-search).
 
 And now I’m risking disappointment (yours) and fear (mine) by intentionally trying to build a readership.
+
+![A whimsical book-shaped ship on water, featuring open book cover, scroll mast, and cluttered deck.](/media/70yt/why-i-dont-want-subscribers/3.jpg)
 
 *this looks like a readership to me.*
 

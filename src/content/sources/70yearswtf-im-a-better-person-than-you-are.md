@@ -6,11 +6,11 @@ order: 0
 date: "2021-08-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-a-better-person-than-you-are"
-excerpt: "Photo by [Jon Tyson](https://unsplash.com/@jontyson?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/best?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) I’m a…"
-word_count: 548
+excerpt: "![Photo by Jon Tyson(https://unsplash.com/@jontyson?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 587
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by Jon Tyson(https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/best?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/im-a-better-person-than-you-are/1.jpg)
 
 *Photo by [Jon Tyson](https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/best?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

@@ -10,7 +10,7 @@ excerpt: "I am willing to do whatever it takes to do as little as possible to se
 word_count: 391
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

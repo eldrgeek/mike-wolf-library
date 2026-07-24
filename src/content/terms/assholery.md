@@ -13,7 +13,8 @@ provenance:
   - "70yearswtf-hey-liberals-want-to-help-trump-then-16-10-25"
   - "70yearswtf-hooponopono-20-01-08"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Mass noun for the pattern including meta-assholery of writing a charming post about it.</p>

@@ -9,7 +9,8 @@ source: "SRMW."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Literary device that helps the author pretend something other than himself is blocking the work. Unspiration is self-declared made-up word: semi-magical power maintaining the fiction that external forces, not fear, stall the draft.</p>

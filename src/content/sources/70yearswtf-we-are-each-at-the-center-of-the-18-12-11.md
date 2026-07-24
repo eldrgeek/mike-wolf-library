@@ -10,13 +10,14 @@ excerpt: "We are each at the center of a universe. We are each made of knowledge
 word_count: 543
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-quantum-computinga-universe-in-a-19-07-01"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 We are each at the center of a universe. We are each made of knowledge incorporated in bodies made from once-living stars. We and the world around us are full of potential.

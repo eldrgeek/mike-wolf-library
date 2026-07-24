@@ -10,7 +10,8 @@ excerpt: "I woke up. I could not get back to sleep. I thought about doing someth
 word_count: 470
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

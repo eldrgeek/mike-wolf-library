@@ -7,11 +7,13 @@ date: "2016-02-25"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/prediction-markets-have-trump-at-16-02-25"
 excerpt: "Donald Trump. PredicitIt Presidential Market 2/25 Really? Really? Of course the prediction markets don't choose the nominee, but still. Who would have thought that? Actually, Matt Taibi, of Rolling Stone did in August, here, in an article title \"Donald Trump…"
-word_count: 450
+word_count: 456
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![Donald Trump. Presidential Market at 2/25](/media/70yt/prediction-markets-have-trump-at-16-02-25/1.png)
 
 *Donald Trump. PredicitIt Presidential Market 2/25*
 
@@ -42,3 +44,5 @@ The first PJ book I read was called "Republican Party Reptiles." He described hi
 The book contained an essay that I still think has the funniest title ever written: "How Drive Fast on Drugs While Getting Your Wing-Wang Squeezed and Not Spill Your Drink", reproduced [here](http://www.heretical.com/miscella/reptile.html).
 
 Anyway, Trump at 71%? Holy crap!
+
+![](/media/70yt/prediction-markets-have-trump-at-16-02-25/2.png)

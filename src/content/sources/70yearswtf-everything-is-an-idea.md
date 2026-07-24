@@ -11,11 +11,11 @@ word_count: 1163
 tags:
   - "70YearsWTF"
 related:
-  - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-ideas-want-to-survive-they-want-their-18-07-05"
-  - "70yearswtf-mistakes-are-the-only-route-to-knowledge"
+  - "70yearswtf-the-idea-of-bobbi"
+  - "70yearswtf-the-ideas-of-intelligence-this-post"
+  - "70yearswtf-do-ideas-exist"
 ---
 
 > *Why canonical (Mem's note):* The foundational post for Mike's "everything is an idea" frame. First articulation of the move that licenses Mike's 2026-05-06 self-statement on the Wall ("Everything is an idea. I see myself speaking for and embodying a growing and evolving set of ideas."). Contains the seed of substrate-independence: *"Some ideas are too big to fit in a particular mind or other substrate for ideas. But you can always convert an idea into a lower-rez idea and make it fit. And you can also extend your substrate."* Also coins "idea mode" — a viewpoint change from world-of-form to world-of-ideas. This is the upstream of upstream.

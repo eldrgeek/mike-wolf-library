@@ -6,11 +6,11 @@ order: 0
 date: "2015-01-10"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-homesman-and-the-writist-15-01-10"
-excerpt: "Last night we saw a film, [The Homesman](http://www.imdb.com/title/tt2398231/), at the [Stonington Opera House](http://www.operahousearts.org/). Hilary Swank and Tommy Lee Jones star, with cameo performances by John Lithgow, Meryl Streep,…"
-word_count: 315
+excerpt: "![](/media/70yt/the-homesman-and-the-writist-15-01-10/1.jpg) Last night we saw a film, [The Homesman](http://www.imdb.com/title/tt2398231/), at the [Stonington Opera House](http://www.operahousearts.org/). Hilary Swank and Tommy Lee Jones…"
+word_count: 327
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/the-homesman-and-the-writist-15-01-10/1.jpg)
 
 Last night we saw a film, [The Homesman](http://www.imdb.com/title/tt2398231/), at the [Stonington Opera House](http://www.operahousearts.org/). Hilary Swank and Tommy Lee Jones star, with cameo performances by John Lithgow, Meryl Streep, and the always entertaining James Spader.
 

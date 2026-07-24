@@ -10,7 +10,8 @@ excerpt: "Awake (Godsmack album) (Photo credit: [Wikipedia](http://en.wikipedia.
 word_count: 747
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

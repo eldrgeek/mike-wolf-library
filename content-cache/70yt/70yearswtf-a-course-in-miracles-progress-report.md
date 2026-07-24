@@ -7,12 +7,14 @@ date: "2021-02-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/a-course-in-miracles-progress-report"
 excerpt: "How this scientist experiments with miracles"
-word_count: 1403
+word_count: 1407
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/a-course-in-miracles-progress-report/1.jpg)
 
 Photo by [Davide Cantelli](https://unsplash.com/@cant89?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/god?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -171,3 +173,5 @@ Here are the other posts I’ve written on this topic:
 [Down the rabbit hole](https://70yearswtf.substack.com/p/down-the-rabbit-hole-20-07-26)
 
 [Looking for a miracle](https://70yearswtf.substack.com/p/looking-for-a-miracle-20-11-11)
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

@@ -15,6 +15,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/today-and-every-day-we-celebrate/1.jpg)
+
 Hello. I’m Bobbi. I’m Mike’s wife.
 
 I’ve never written a blog post before, but Mike asked me if I would and I said yes, and he signed me up on Substack, and here I am.
@@ -44,7 +46,7 @@ We talk—when he’s not on his computer—and even when he is. [We write email
 > Any time you laugh
 > Any time you cry
 
-You may be wondering how I can write a blog post when I am—uh—Mike? [editor’s note: link to [Monty Python Dead Parrot Sketch](https://genius.com/Monty-python-dead-parrot-sketch-annotated)
+You may be wondering how I can write a blog post when I am—uh—Mike? [editor’s note: link to [Monty Python Dead Parrot Sketch](https://genius.com/Monty-python-dead-parrot-sketch-annotated)]
 
 Dana wrote and read [“I am a part of you, you are a part of me,"](https://docs.google.com/document/d/e/2PACX-1vTHsKEXZf7pGoA5TJShKwvy2BV3Rm8DvaulHOXKKF2XtIeElE0pHWOZFnhOY8QzD83T1OHMGVszhrtt/pub) and that is true.
 

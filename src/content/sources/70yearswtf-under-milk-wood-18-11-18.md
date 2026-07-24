@@ -10,7 +10,8 @@ excerpt: "“To begin at the beginning…” Dylan Thomas “play for voices,”
 word_count: 745
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -6,11 +6,14 @@ order: 0
 date: "2024-09-15"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-world-changes-in-an-instant"
-excerpt: "“Will you tell our story?” she asks me. “Sure,” I say. And I start to write it. It’s February 2. I write it and rewrite it and rewrite it. And on February 3, I abandon it. It sits in my blog drafts for months. Finally, on September 15th,…"
-word_count: 1459
+excerpt: "![](/media/70yt/the-world-changes-in-an-instant/1.jpg) “Will you tell our story?” she asks me. “Sure,” I say. And I start to write it. It’s February 2. I write it and rewrite it and rewrite it. And on February 3, I abandon it. It sits in…"
+word_count: 1479
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "Bobbi"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +21,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/the-world-changes-in-an-instant/1.jpg)
 
 “Will you tell our story?” she asks me.
 
@@ -116,6 +121,8 @@ She was friends with Liz Ausley, whom she’d met at Goucher College. She was in
 “I remember all kinds of things,” I answer.
 
 (But just to be sure, I did a little Internet research and found [Issue 33 of “The Auditor”](http://iapsop.com/archive/materials/auditor/auditor_33.pdf) which confirmed my recollection.)
+
+![](/media/70yt/the-world-changes-in-an-instant/2.jpg)
 
 “I remember the moment I first saw you,” I tell her.
 

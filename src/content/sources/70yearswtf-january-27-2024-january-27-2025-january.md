@@ -6,11 +6,13 @@ order: 0
 date: "2026-01-28"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/january-27-2024-january-27-2025-january"
-excerpt: "Prompt by Claude, image by NanoBanana Pro January 27, 2024, Bobbi left her body. [I wrote about it.](https://70yearswtf.substack.com/p/january-27-2024) January 27, 2025 I attended a [Modern Elder Academy](https://www.meawisdom.com/) (MEA)…"
-word_count: 332
+excerpt: "![Prompt by Claude, image by NanoBanana Pro](/media/70yt/january-27-2024-january-27-2025-january/1.jpg) Prompt by Claude, image by NanoBanana Pro January 27, 2024, Bobbi left her body. [I wrote about…"
+word_count: 368
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "Bobbi"
+  - "AI"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Prompt by Claude, image by NanoBanana Pro](/media/70yt/january-27-2024-january-27-2025-january/1.jpg)
 
 *Prompt by Claude, image by NanoBanana Pro*
 
@@ -69,3 +73,7 @@ It’s called “I’m done crying at least for a while.”
 > (go on...)
 
 And now there’s a video version
+
+![](/media/70yt/january-27-2024-january-27-2025-january/2.jpg)
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

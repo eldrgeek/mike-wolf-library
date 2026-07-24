@@ -9,7 +9,8 @@ source: "70yt *inspiration-not-intention* (batch 2)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> “Intentional life” collapses to do-what-I-want; inspirational is outward models for kids/grandkids/readers.</p>

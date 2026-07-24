@@ -7,12 +7,14 @@ date: "2025-11-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/whats-the-most-important-thing-8ab"
 excerpt: "I promise you, a shorter post"
-word_count: 224
+word_count: 254
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/whats-the-most-important-thing-8ab/1.jpg)
 
 “Not another fucking War and Peace!” Shouted a reader. Not just one reader. All of them. OK, maybe ten. “Wasn’t one epic enough!”
 

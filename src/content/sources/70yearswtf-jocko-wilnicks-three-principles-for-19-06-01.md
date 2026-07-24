@@ -6,11 +6,14 @@ order: 0
 date: "2019-06-01"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/jocko-wilnicks-three-principles-for-19-06-01"
-excerpt: "In [this video](https://www.youtube.com/watch?v=eBmVv2P-v2s), (transcript [here](https://otter.ai/s/6MrzAGCWSReEGDvMRF73tw) and embedded video at the bottom of the page) [Jocko Wilnick](http://jockopodcast.com/) describes his three…"
-word_count: 1384
+excerpt: "![](/media/70yt/jocko-wilnicks-three-principles-for-19-06-01/1.jpg) In [this video](https://www.youtube.com/watch?v=eBmVv2P-v2s), (transcript [here](https://otter.ai/s/6MrzAGCWSReEGDvMRF73tw) and embedded video at the bottom of the page)…"
+word_count: 1396
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +21,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/jocko-wilnicks-three-principles-for-19-06-01/1.jpg)
 
 In [this video](https://www.youtube.com/watch?v=eBmVv2P-v2s), (transcript [here](https://otter.ai/s/6MrzAGCWSReEGDvMRF73tw) and embedded video at the bottom of the page) [Jocko Wilnick](http://jockopodcast.com/) describes his three principles for success.
 

@@ -6,11 +6,11 @@ order: 0
 date: "2017-06-23"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/do-your-job-17-06-23"
-excerpt: "From: The Universe To: All my conscious parts Dear conscious parts, I made you for a reason. Your job is to carry out my purpose. My purpose is to become self-aware. I am becoming self-aware by making parts of myself aware and capable of…"
-word_count: 201
+excerpt: "![](/media/70yt/do-your-job-17-06-23/1.jpg) From: The Universe To: All my conscious parts Dear conscious parts, I made you for a reason. Your job is to carry out my purpose. My purpose is to become self-aware. I am becoming self-aware by…"
+word_count: 211
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/do-your-job-17-06-23/1.jpg)
 
 From: The Universe
 

@@ -10,7 +10,8 @@ excerpt: "Here’s a summary of some of the things I have learned through medita
 word_count: 439
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

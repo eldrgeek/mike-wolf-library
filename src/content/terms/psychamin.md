@@ -9,7 +9,8 @@ source: "70yt *m-is-for-music* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Portmanteau psyche + vitamin. ~30 psychamins; MDD is starving the psyche of music without noticing until one song unlocks need.</p>

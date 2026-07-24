@@ -6,18 +6,21 @@ order: 0
 date: "2019-10-19"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/applied-mindtravel-a-how-to-guide-19-10-19"
-excerpt: "Photo by [Daniela Cuevas](https://unsplash.com/@danielacuevas?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
-word_count: 362
+excerpt: "![](/media/70yt/applied-mindtravel-a-how-to-guide-19-10-19/1.jpg) Photo by [Daniela Cuevas](https://unsplash.com/@danielacuevas?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 375
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-celebrate-every-success-19-10-18"
+  - "70yearswtf-victory-laps-complete-it-or-delete-19-10-16"
   - "70yearswtf-i-imagine-that-this-will-be-one-of"
   - "70yearswtf-quality-19-10-17"
-  - "70yearswtf-victory-laps-complete-it-or-delete-19-10-16"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
 ---
+
+![](/media/70yt/applied-mindtravel-a-how-to-guide-19-10-19/1.jpg)
 
 *Photo by [Daniela Cuevas](https://unsplash.com/@danielacuevas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/landscape?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

@@ -6,10 +6,12 @@ theme: "Architecture & Roles"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-06 (Wall)."
 source: "Mike with Dee 2026-05-06 (Wall)."
-related: []
+related:
+  - "handoff"
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "architecture"
 ---
 
 <p><strong>What we mean.</strong> Orchestrator must not become lossy codec at every handoff. Specialists talk peer-to-peer; orchestrator routes meta-process only.</p>

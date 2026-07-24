@@ -11,6 +11,9 @@ provenance: []
 tags:
   - "chats"
   - "rituals"
+link: "https://condommints.lovable.app"
+link_label: "condommints.lovable.app"
+
 ---
 <p><strong>What we mean.</strong> Second pun layer on the Ready product: <em>condom mints</em> ≈ <em>condiments</em>. Source chats state product shape/use; the condiments sound-alike is asserted here as the intended double meaning for dictionary gloss.</p>
 <blockquote><p>“condom mints” — also heard as “condiments” (dictionary double-meaning layer) — vault-puns / DICT-MERGE instruction.</p></blockquote>

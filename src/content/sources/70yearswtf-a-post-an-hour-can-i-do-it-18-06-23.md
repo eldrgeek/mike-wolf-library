@@ -6,11 +6,12 @@ order: 0
 date: "2018-06-23"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/a-post-an-hour-can-i-do-it-18-06-23"
-excerpt: "Here's what I want to do. I want to write. A lot. I'd like to knock out an essay each hour for the rest of the day. Can I do it? I think it's possible. I certainly want to try. And I've got my wonderful new [high productivity…"
-word_count: 395
+excerpt: "![](/media/70yt/a-post-an-hour-can-i-do-it-18-06-23/1.jpg) Here's what I want to do. I want to write. A lot. I'd like to knock out an essay each hour for the rest of the day. Can I do it? I think it's possible. I certainly want to try. And…"
+word_count: 410
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/a-post-an-hour-can-i-do-it-18-06-23/1.jpg)
 
 Here's what I want to do. I want to write. A lot. I'd like to knock out an essay each hour for the rest of the day. Can I do it?
 

@@ -15,6 +15,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/how-the-worst-possible-plan-made-16-05-05/1.png)
+
 In a [previous post](http://70yearsoldwtf.blogspot.com/2016/05/surprising-us-historical-growth-rate.html) I analyzed real [per capita GDP](http://en.wikipedia.org/wiki/Gross_domestic_product) of the United States and found -- to my surprise -- that the economy prior to the [Great Depression](http://en.wikipedia.org/wiki/Great_Depression) and WW II grew at a roughly constant rate; that the economy afterward, grew at a different roughly constant rate; and to my even greater surprise the post-depression-and-war economy grew faster than the pre.
 
 Huh?

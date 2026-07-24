@@ -10,7 +10,8 @@ excerpt: "Every year for Thanksgiving we have what is technically called a shitl
 word_count: 265
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

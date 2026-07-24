@@ -6,11 +6,12 @@ order: 0
 date: "2020-07-26"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/down-the-rabbit-hole-20-07-26"
-excerpt: "Quantum physics and woo? Really? Is anyone interested in taking a trip down a rabbit hole with me? The journey started with [A Course in Miracles (ACIM)](https://70yearsoldwtf.blogspot.com/2019/12/a-course-in-miracles.html), which led to a…"
-word_count: 1133
+excerpt: "![A visually stunning 16:9 cover image that embodies the theme of a journey into deep ideas, blending quantum physics and spirituality. The scene showcases a vibrant rabbit hole in the foreground, its edges glowing with ethereal blue and…"
+word_count: 1248
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![A visually stunning 16:9 cover image that embodies the theme of a journey into deep ideas, blending quantum physics and spirituality. The scene showcases a vibrant rabbit hole in the foreground, its edges glowing with ethereal blue and green light, leading into an infinite cosmos. The rabbit hole opens into a swirling galaxy filled with shimmering stars, mathematical symbols, and waveforms. Subtle elements like the Schrödinger equation and abstract representations of quantum particles blend seamlessly with a mystical glow, creating a bridge between science and metaphysical wonder. The atmosphere should evoke curiosity, discovery, and awe.](/media/70yt/down-the-rabbit-hole-20-07-26/1.jpg)
 
 Quantum physics and woo? Really?
 
@@ -110,4 +113,4 @@ In case I die before I finish this research, here’s a sketch of where I am goi
 7. So the knowledge contained within the UWF is complete knowledge of the internal self-reference. Is that the same as saying the UWF has knowledge of itself? It might be. Is that the same as saying the UWF knows itself? It might be. Is that the same as saying the UWF is conscious? It might be.
 8. If the UWF is conscious, then the UWF is also omnipotent and omniscient. It’s a pretty good approximation of the idea of God. Not God as defined by holy scripture, but God as implied by quantum physics.
 9. If this is true, would the UWF “want” anything? Does a bacterium want to move? Does a bird want to feed its young? Does a ball want to roll downhill? They do those things. But do they want to? Does “wanting to” matter?
-10. The behavioral implications of that idea are very much in line with those of A Course in Miracles.
+10. The behavioral implications of that idea are very much in line with those of A Course in Miracles.[Subscribe now](https://70yearswtf.substack.com/subscribe?)

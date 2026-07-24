@@ -10,7 +10,8 @@ excerpt: "[Arete](https://draft.blogger.com/blog/post/edit/809323243837962619/78
 word_count: 1154
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

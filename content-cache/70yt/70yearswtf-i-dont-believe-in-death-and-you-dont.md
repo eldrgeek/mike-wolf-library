@@ -7,12 +7,14 @@ date: "2023-02-01"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-believe-in-death-and-you-dont"
 excerpt: "Keep the Fun in Funeral"
-word_count: 496
+word_count: 484
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/i-dont-believe-in-death-and-you-dont/1.jpg)
 
 I’m past 80 years old.
 

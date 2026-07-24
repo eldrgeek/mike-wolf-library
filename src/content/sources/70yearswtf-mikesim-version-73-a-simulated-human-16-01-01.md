@@ -10,13 +10,15 @@ excerpt: "A lot of my recent posts have been about the experience of \"waking up
 word_count: 905
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
+  - "70yearswtf-my-100-latte-15-12-22"
+  - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 A lot of my recent posts have been about the experience of "waking up." For those of you who are new to this blog or who have bad memories and short attention spans, here's what I mean:

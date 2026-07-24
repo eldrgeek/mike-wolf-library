@@ -10,7 +10,7 @@ excerpt: "Alexey Guzey wrote a post that had some interesting ideas in it: [Ever
 word_count: 550
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

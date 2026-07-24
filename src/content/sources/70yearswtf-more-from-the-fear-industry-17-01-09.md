@@ -10,7 +10,8 @@ excerpt: "The business of the media is making people pay attention. One of the b
 word_count: 721
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

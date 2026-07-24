@@ -9,7 +9,8 @@ source: "70yt *a-scale-of-awakenessitude* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> 0–13 personal nomenclature of consciousness levels. Auto-Mike at level 7 does everything “I do.”</p>

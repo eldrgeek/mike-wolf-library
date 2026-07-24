@@ -10,7 +10,8 @@ excerpt: "Dear Future Mike, (my next post [after this one](https://70yearsoldwtf
 word_count: 706
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

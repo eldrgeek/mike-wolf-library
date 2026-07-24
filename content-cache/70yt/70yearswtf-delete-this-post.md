@@ -7,7 +7,7 @@ date: "2025-10-28"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/delete-this-post"
 excerpt: "Get your practice in, NOW!! ␡␡␡␡␡"
-word_count: 179
+word_count: 163
 tags:
   - "70YearsWTF"
   - "AI"
@@ -23,6 +23,8 @@ I’m serious practice deleting. Not now. Not yet. Read, then DELETE.
 There’s a lot of shit coming your way, and most of it won’t be from me.
 
 This morning a friend sent me this article.
+
+![](/media/70yt/delete-this-post/1.jpg)
 
 He didn’t give me a link, so I’m not going to give you a link, but if you care, what are Google and ChatGPT and Gemini for but getting you links?
 

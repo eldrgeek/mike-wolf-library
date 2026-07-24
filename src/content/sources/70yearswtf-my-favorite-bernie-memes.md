@@ -7,10 +7,11 @@ date: "2021-02-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/my-favorite-bernie-memes"
 excerpt: "For those people who aren’t plugged into the memosphere, here’s a collection of my favorite Bernie memes. For those who aren’t plugged into the blogosphere, I’m trying out [Substack](https://substack.com/) as my new blogging platform. I…"
-word_count: 240
+word_count: 371
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -25,6 +26,8 @@ If you’ve got some cool Bernie Memes of you own you can leave them in the comm
 
 If you want to subscribe to this blog, it’s easy, just click the button below, the one that says “Subscribe now.”
 
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
+
 That one. Up there. Or maybe you want to read this, or some other stuff first. I’m fine with that. Just trying stuff out.
 
 Now to the main event:
@@ -33,7 +36,11 @@ Now to the main event:
 
 It all began with this image of Bernie Sanders at the inauguration.
 
+![Bernie Sanders at the inauguration, in the pose that started it all.](/media/70yt/my-favorite-bernie-memes/1.jpg)
+
 People started sharing it on social media. Like this:
+
+![](/media/70yt/my-favorite-bernie-memes/2.jpg)
 
 And then people started meming.
 
@@ -41,8 +48,32 @@ And then people started meming.
 
 Here are some of my favorites. There are some great ones in the video with a music track at the end. I snarfed it from TikTok and transferred it to YouTube
 
+![](/media/70yt/my-favorite-bernie-memes/3.jpg)
+
+![](/media/70yt/my-favorite-bernie-memes/4.jpg)
+
+![](/media/70yt/my-favorite-bernie-memes/5.jpg)
+
+![](/media/70yt/my-favorite-bernie-memes/6.jpg)
+
+![](/media/70yt/my-favorite-bernie-memes/7.jpg)
+
+![](/media/70yt/my-favorite-bernie-memes/8.jpg)
+
+![Image](/media/70yt/my-favorite-bernie-memes/9.jpg)
+
+![](/media/70yt/my-favorite-bernie-memes/10.jpg)
+
+![](/media/70yt/my-favorite-bernie-memes/11.jpg)
+
+![](/media/70yt/my-favorite-bernie-memes/12.jpg)
+
+![](/media/70yt/my-favorite-bernie-memes/13.jpg)
+
 # And finally…
 
 This came from Tik/Tok and is best watched full screen with the sound up.
 
 And oh, yeah, you can:
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

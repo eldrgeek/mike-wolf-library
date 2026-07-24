@@ -9,7 +9,8 @@ source: "70yt *you-are-my-favorite-reader-yamfr* (batch 2)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Every addressee is the favorite; total-order favoriteness is the epistemological error. Could equally be called turtlesoup.</p>

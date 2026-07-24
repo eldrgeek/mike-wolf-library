@@ -6,11 +6,13 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
 source: "SRMW."
-related: []
+related:
+  - "not-quite-omniscient-narrator"
 provenance:
   - "srmw-part-xiii-endgame"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> First Principle of Not Quite Omniscient Narrator’s own metanovel: narrate yourself into fuller knowledge. Agency through telling your own story.</p>

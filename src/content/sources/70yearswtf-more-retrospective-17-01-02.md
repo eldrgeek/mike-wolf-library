@@ -10,7 +10,9 @@ excerpt: "I've continued reading old posts. It's a slow process because I'm not 
 word_count: 338
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

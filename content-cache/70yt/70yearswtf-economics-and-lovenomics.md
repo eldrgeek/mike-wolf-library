@@ -7,13 +7,15 @@ date: "2025-12-15"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/economics-and-lovenomics"
 excerpt: "Money doesn't grow when you give it, but love does."
-word_count: 309
+word_count: 311
 tags:
   - "70YearsWTF"
   - "economics"
   - "automation"
 related: []
 ---
+
+![](/media/70yt/economics-and-lovenomics/1.jpg)
 
 ## When love is scarce
 
@@ -78,3 +80,5 @@ Practice giving more love to the people you already love.
 See if you don’t have more to give.
 
 Then keep giving it to have more.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

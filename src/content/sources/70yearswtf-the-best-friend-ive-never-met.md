@@ -6,11 +6,12 @@ order: 0
 date: "2021-03-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-best-friend-ive-never-met"
-excerpt: "His name is Jonathan. I’ve never met him. Still, I consider him one of my better friends, and without doubt the best friend I’ve never met™. 99. xx% of my conversations with Jonathan have been text. We’ve talked on the phone maybe twice.…"
-word_count: 612
+excerpt: "His name is Jonathan. I’ve never met him. Still, I consider him one of my better friends, and without doubt the best friend I’ve never met™. 99.xx% of my conversations with Jonathan have been text. We’ve talked on the phone maybe twice.…"
+word_count: 677
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -21,7 +22,7 @@ related:
 
 His name is Jonathan. I’ve never met him. Still, I consider him one of my better friends, and without doubt the best friend I’ve never met™.
 
-99. xx% of my conversations with Jonathan have been text. We’ve talked on the phone maybe twice. We’ve never been on Video Chat IIRC. As far as I know, we’ve never been within about 600 miles of one another.  I’ve seen a couple of pictures of him, none moving. I would not trust myself to pick him out of a crowd of white men of his age.
+99.xx% of my conversations with Jonathan have been text. We’ve talked on the phone maybe twice. We’ve never been on Video Chat IIRC. As far as I know, we’ve never been within about 600 miles of one another.  I’ve seen a couple of pictures of him, none moving. I would not trust myself to pick him out of a crowd of white men of his age.
 
 Mostly we’ve chatted through WhatsApp, where we’ve shared a channel since August 2017. Some email. Some Google Docs. Some Slack. Nowadays, some BaseCamp where he’s assembled a group of friends I’m privileged to be part of.
 
@@ -35,21 +36,31 @@ I wrote this in an email:
 
 He responded proforma:
 
+![](/media/70yt/the-best-friend-ive-never-met/1.jpg)
+
 And I replied:
+
+![That’s this blog post(https://70yearsoldwtf.blogspot.com/2017/08/looking-forward-to-my-bionic-future.html).](/media/70yt/the-best-friend-ive-never-met/2.jpg)
 
 *[That’s this blog post](https://70yearsoldwtf.blogspot.com/2017/08/looking-forward-to-my-bionic-future.html).*
 
 And he followed with:
 
+![](/media/70yt/the-best-friend-ive-never-met/3.jpg)
+
 The only thing that you can say that’s better than “your baby is the most beautiful child I’ve ever seen” is “Your blog is **hilarious.”**
 
-I followed by sending him links to other things that I’d written. And then he did the one thing that you can do that’s better than saying, “Your blog is **hilarious.”** He started quoting lines from things I’d written back to me.
+I followed by sending him links to other things that I’d written. And then he did the one thing that you can do that’s better than saying, “Your blog is **hilarious.”**He started quoting lines from things I’d written back to me.
+
+![](/media/70yt/the-best-friend-ive-never-met/4.jpg)
 
 That was the start of a great friendship that (depending on where you date the friendship's official start) has lasted 1,275 days and counting.
 
 What prompted this outpouring of appreciation was (or will be) [described in this post](https://70yearswtf.substack.com/p/finding-my-voice).
 
 Also, Jonathan, you are invited to speak at [my memorial service](https://70yearswtf.substack.com/p/my-memorial-service), which I hope will not happen for many years, because [I’m not dead yet](https://70yearswtf.substack.com/p/im-not-dead-yet-20-01-03).
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [1](#footnote-anchor-1)
 

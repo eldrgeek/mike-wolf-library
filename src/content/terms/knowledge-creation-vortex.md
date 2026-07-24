@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Interesting content pulls acquisition; remix rarely reached; exit via bigger vortex or actual post. Failure mode of “productive” rabbit holes.</p>

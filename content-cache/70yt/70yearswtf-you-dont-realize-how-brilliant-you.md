@@ -7,13 +7,15 @@ date: "2023-04-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/you-dont-realize-how-brilliant-you"
 excerpt: "“You don’t realize how brilliant you are,” God said in the last blog post. And as I predicted, that was the title of this next blog post that I started to write yesterday and will be the title of it…"
-word_count: 406
+word_count: 393
 tags:
   - "70YearsWTF"
   - "AI"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/you-dont-realize-how-brilliant-you/1.jpg)
 
 “You don’t realize how brilliant you are,” God said [in the last blog post](https://70yearswtf.substack.com/p/im-afraid-of-being-afraid-and-im).  And as I predicted, that was the title of this next blog post that I started to write yesterday and will be the title of it when I finish writing it, maybe today, and it gets auto-published, maybe tomorrow.
 

@@ -36,3 +36,5 @@ The war was on again!
 But man is not to be overcome by squirrel. At least this particular man is not to be overcome by those particular squirrels. I repurposed the roof-rake that I bought to clear our porch skylight and other roof surfaces as a temporary feeder holder. It sits in the yard, stuck in the deep snow. The plastic shield that eventually replaced the upside-down bowl and which used to be on top of the feeder has been moved so that it prevents assault from below.
 
 But soon the snow will melt and the rake will no longer stand. What then?
+
+![](/media/70yt/man-vs-squirrel-part-n-15-03-06/1.jpg)

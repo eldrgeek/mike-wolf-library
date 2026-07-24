@@ -10,7 +10,8 @@ excerpt: "Today is our 47th wedding anniversary. We’re in countdown territory.
 word_count: 702
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-even-more-like-heaven-and-the-internet"
   - "70yearswtf-happy-cohabiversary-to-us-15-03-08"

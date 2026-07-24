@@ -7,13 +7,15 @@ date: "2019-04-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/passover-journey-19-04-22"
 excerpt: "Maybe it was just a coincidence, and what happened today had nothing to do with my conversation with the imaginary God who I don’t believe in this morning. “I don’t do coincidence,” God says OK, so maybe it wasn’t a…"
-word_count: 682
+word_count: 797
 tags:
   - "70YearsWTF"
   - "meditation"
   - "blogging"
 related: []
 ---
+
+![Create an image that symbolizes a spiritual journey connecting ancient wisdom with modern responsibility. In the foreground, feature symbols representing the concepts of agape and chesed, such as a heart and a pair of open hands, to depict love, kindness, and charity. In the background, illustrate a diverse group of people together holding a globe, symbolizing the idea of tikkun olam - repairing the world through collective action. The overall mood should be one of hope and unity, with a backdrop that transitions from ancient symbols to a vision of a harmonious world. Keep the design simple but meaningful, with a focus on the interconnectedness of all people in the pursuit of a better future.](/media/70yt/passover-journey-19-04-22/1.jpg)
 
 Maybe it was just a coincidence, and what happened today had nothing to do with my conversation with [the imaginary God](https://70yearswtf.substack.com/p/imaginary-readers-imaginary-god) who [I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in) this morning.
 

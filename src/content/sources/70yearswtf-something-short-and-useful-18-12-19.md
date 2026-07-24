@@ -10,7 +10,8 @@ excerpt: "“I love you,” says my imaginary daughter in the imaginary conversa
 word_count: 330
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"

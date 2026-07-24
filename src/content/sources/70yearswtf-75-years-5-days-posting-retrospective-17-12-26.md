@@ -10,7 +10,9 @@ excerpt: "I've published 272 posts since I started this blog. When I thought abo
 word_count: 311
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-lapses-and-fubar-13-01-03"
   - "70yearswtf-lowering-the-bar-a-technique-for-13-01-05"

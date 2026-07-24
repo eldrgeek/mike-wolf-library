@@ -6,11 +6,13 @@ order: 0
 date: "2021-08-19"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/what-its-like-to-be-like-us"
-excerpt: "Photo by [Adi Goldstein](https://unsplash.com/@adigold1?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/together?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)…"
-word_count: 497
+excerpt: "![Photo by Adi Goldstein(https://unsplash.com/@adigold1?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 543
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by Adi Goldstein(https://unsplash.com/@adigold1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/together?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/what-its-like-to-be-like-us/1.jpg)
 
 *Photo by [Adi Goldstein](https://unsplash.com/@adigold1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/together?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -68,3 +72,5 @@ If you’re not a subscriber, then you’re not quite like the rest of us.
 But unlike many other defects, you can quickly correct your deficiency.
 
 Just click on the button below, and you’ll soon have that fixed.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

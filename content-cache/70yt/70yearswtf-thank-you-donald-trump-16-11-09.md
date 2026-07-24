@@ -7,13 +7,15 @@ date: "2016-11-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/thank-you-donald-trump-16-11-09"
 excerpt: "I am grateful for Donald Trump. No, really. Hear me out. I really am grateful. I don’t want him to be president. In fact, I hate the idea. I hate the idea that this is even something that has a…"
-word_count: 2183
+word_count: 2182
 tags:
   - "70YearsWTF"
   - "blogging"
   - "economics"
 related: []
 ---
+
+![](/media/70yt/thank-you-donald-trump-16-11-09/1.jpg)
 
 I am grateful for Donald Trump.
 

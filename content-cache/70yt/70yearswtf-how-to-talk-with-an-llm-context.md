@@ -7,13 +7,15 @@ date: "2025-11-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/how-to-talk-with-an-llm-context"
 excerpt: "Each chat with an LLM is a conversation with a context. Same for people. When two people start a conversation, context is established even before the first word is spoken. It’s based on where they are, what is going on…"
-word_count: 1904
+word_count: 1949
 tags:
   - "70YearsWTF"
   - "AI"
   - "automation"
 related: []
 ---
+
+![](/media/70yt/how-to-talk-with-an-llm-context/1.jpg)
 
 Each chat with an LLM is a conversation with a context. Same for people.
 

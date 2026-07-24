@@ -9,7 +9,8 @@ source: "70yt *winning-losing-grace* (batch 3)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Take her hand and declare “I win” — winning becomes cooperative. Conditioned self’s win was the wrong game.</p>

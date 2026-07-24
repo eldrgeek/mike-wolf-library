@@ -7,7 +7,7 @@ date: "2015-01-08"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/hello-world-15-01-08"
 excerpt: "I was working on this post tomorrow (if you consider that I've back-dated this one) when I realized I had an answer to the question I asked in a still earlier post: WyTF am I writing this blog It's kind…"
-word_count: 1338
+word_count: 1363
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -31,6 +31,8 @@ My origin story, the story that anchors me, starts 14+ billion years ago. It sta
 Those conditions I believe are inevitable, but I don't believe that life is inevitable. It is accidently and evitable.
 [The Drake equation](http://en.wikipedia.org/wiki/Drake_equation) calculates the number of civilizations in our galaxy that can release detectable signals into space. If N is the number of such civilizations then:
 
+> ![N = R_{\ast} \cdot f_p \cdot n_e \cdot f_{\ell} \cdot f_i \cdot f_c \cdot L](/media/70yt/hello-world-15-01-08/1.png)
+>
 > where:
 > *N* = the number of [civilizations](http://en.wikipedia.org/wiki/Civilization) in our galaxy with which radio-communication might be possible (i.e. which are on our current past [light cone](http://en.wikipedia.org/wiki/Light_cone));
 > and

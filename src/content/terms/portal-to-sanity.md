@@ -9,7 +9,8 @@ source: "70yt *my-portal-to-sanity*; *a-shitty-start-to-a-new-decade*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Portal to Sanity: named practice informed by IFS / memory reconsolidation / landscape work — you <em>build</em> one. My Portal: Present Me passes; burdens do not. Related practice family.</p>

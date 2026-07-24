@@ -9,7 +9,8 @@ source: "70yt *age-war*; *delete-this-post* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Age is a word spelled A-G-E. War is the answer depends on the question. G*d gave the DELETE key so publish more.</p>

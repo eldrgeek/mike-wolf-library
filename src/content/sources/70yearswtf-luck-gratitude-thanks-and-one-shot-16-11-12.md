@@ -10,7 +10,7 @@ excerpt: "According to the best science we have, the universe appears to have be
 word_count: 647
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

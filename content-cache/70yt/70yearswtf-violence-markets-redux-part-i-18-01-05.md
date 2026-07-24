@@ -7,12 +7,14 @@ date: "2018-01-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/violence-markets-redux-part-i-18-01-05"
 excerpt: "Scars of a whipped slave (April 2, 1863, Baton Rouge, Louisiana, USA. Original caption: \"Overseer Artayou Carrier whipped me. I was two months in bed sore from the whipping. My master come after I was whipped; he discharged the overseer.…"
-word_count: 881
+word_count: 890
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Scars of a whipped slave (April 2, 1863, Baton...](/media/70yt/violence-markets-redux-part-i-18-01-05/1.jpg)
 
 Scars of a whipped slave (April 2, 1863, Baton Rouge, Louisiana, USA. Original caption: "Overseer Artayou Carrier whipped me. I was two months in bed sore from the whipping. My master come after I was whipped; he discharged the overseer. The very words of poor Peter, taken as he sat for his picture." (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:Cicatrices_de_flagellation_sur_un_esclave.jpg))
 

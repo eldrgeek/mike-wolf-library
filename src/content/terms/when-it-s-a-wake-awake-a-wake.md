@@ -9,7 +9,8 @@ source: "70yt *when-were-a-wake* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Q: When does water reach highest consciousness? A: When it’s a wake. Treated as creation-event, not throwaway.</p>

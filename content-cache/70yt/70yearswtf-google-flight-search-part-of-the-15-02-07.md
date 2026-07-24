@@ -29,16 +29,28 @@ Now enter your departure and destination cities. I enter Bangor, or airport code
 
 Sweet!
 
+![](/media/70yt/google-flight-search-part-of-the-15-02-07/1.png)
+
 So I click the + sign next to Bangor and the drop-down lets me add Portland (and reminds me of the saving).
+
+![](/media/70yt/google-flight-search-part-of-the-15-02-07/2.png)
 
 And it gives me another tip. I can save a few more bucks if I change my departure. Sweeter!
 
+![](/media/70yt/google-flight-search-part-of-the-15-02-07/3.png)
+
 If I want to, I can look at other possible departure days:
 
+![](/media/70yt/google-flight-search-part-of-the-15-02-07/4.png)
+
 Nothing particularly looks better, so I look at the map view to see if there's anything to be found there.
+
+![](/media/70yt/google-flight-search-part-of-the-15-02-07/5.jpg)
 
 The map shows me the best price if I fly into a different city. For this flight there's nothing better. And $425 is pretty good for a coast-to-coast round trip flight.
 
 But if was crazy mad for savings, I could look at the some other departure airports and discover that I could do the trip for $403 from Manchester, NH, or $405 for Boston.
+
+![](/media/70yt/google-flight-search-part-of-the-15-02-07/6.jpg)
 
 Awesome!

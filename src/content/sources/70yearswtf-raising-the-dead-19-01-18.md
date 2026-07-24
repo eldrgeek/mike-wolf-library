@@ -10,13 +10,14 @@ excerpt: "I can remember the feeling. The present was nothing but agony. The fut
 word_count: 749
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-the-slippery-slope-of-sacrifice-18-12-10"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I can remember the feeling. The present was nothing but agony. The future would be no different. Life was awful. I was a failure. There was only one way out: I had to die.

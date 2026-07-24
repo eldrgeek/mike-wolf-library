@@ -10,7 +10,8 @@ excerpt: "I’ve gotten interested in games as a way of understanding some of th
 word_count: 2330
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

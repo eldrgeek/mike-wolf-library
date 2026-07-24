@@ -10,7 +10,9 @@ excerpt: "Today I suffered an episode of mental decompensation. [Decompensation]
 word_count: 1893
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

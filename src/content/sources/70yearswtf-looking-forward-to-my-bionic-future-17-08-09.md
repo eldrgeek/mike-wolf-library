@@ -10,7 +10,8 @@ excerpt: "At nearly 75 I’ve never broken a bone. I still have all my body part
 word_count: 516
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

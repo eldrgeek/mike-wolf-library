@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *superpowers-for-mundane-matters* (batch 5)."
 source: "70yt *superpowers-for-mundane-matters* (batch 5)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-superpowers-for-mundane-matters-18-01-10"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> They strengthen with use. Practice by imagining practice.</p>

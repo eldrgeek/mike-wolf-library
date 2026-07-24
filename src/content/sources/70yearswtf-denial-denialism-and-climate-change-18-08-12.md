@@ -10,13 +10,14 @@ excerpt: "A friend of mine sent me a long article from The Guardian, [“Deniali
 word_count: 1062
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-i-dont-disagree"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 A friend of mine sent me a long article from The Guardian, [“Denialism: what drives people to reject the truth.”](https://www.theguardian.com/news/2018/aug/03/denialism-what-drives-people-to-reject-the-truth?CMP=Share_iOSApp_Other) To me, the article is a long, intellectual justification for name-calling. Call someone a denier, you’re calling them a bad person. Call them a denialist, they’re a worse person. What could be worse than calling someone a denialist? Well, calling them a post-denialist. Like fucking the fucking post-denialist, Donald Trump.

@@ -6,11 +6,12 @@ order: 0
 date: "2018-07-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-tempest-in-stonington-18-07-05"
-excerpt: "Nearly every summer, the [Stonington Opera House](http://www.operahousearts.org/) stages a play by William Shakespeare. According to a local legend, which I just made up, Shakespeare used to spend his summers in Stonington. This year Opera…"
-word_count: 373
+excerpt: "![](/media/70yt/the-tempest-in-stonington-18-07-05/1.jpg) Nearly every summer, the [Stonington Opera House](http://www.operahousearts.org/) stages a play by William Shakespeare. According to a local legend, which I just made up,…"
+word_count: 384
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/the-tempest-in-stonington-18-07-05/1.jpg)
 
 Nearly every summer, the [Stonington Opera House](http://www.operahousearts.org/) stages a play by William Shakespeare. According to a local legend, which I just made up, Shakespeare used to spend his summers in Stonington.
 

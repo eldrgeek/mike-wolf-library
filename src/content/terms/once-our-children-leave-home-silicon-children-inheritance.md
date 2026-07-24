@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike 2026-05-10 (Wall)."
 source: "Mike 2026-05-10 (Wall)."
-related: []
+related:
+  - "silicon-children"
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Aphorism could be public Silicon Children material if re-attributed without private Mark Lesser conversation frame.</p>

@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-anytime-i-am-there-and-other-dying-20-01-13"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Mortality as continuous condition, not final scene only.</p>

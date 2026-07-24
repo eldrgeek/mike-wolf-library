@@ -11,11 +11,11 @@ word_count: 443
 tags:
   - "70YearsWTF"
 related:
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-ideas-want-to-survive-they-want-their-18-07-05"
-  - "70yearswtf-mistakes-are-the-only-route-to-knowledge"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-the-idea-of-bobbi"
+  - "70yearswtf-the-ideas-of-intelligence-this-post"
+  - "70yearswtf-do-ideas-exist"
 ---
 
 > *Why canonical (Mem's note):* Three-and-a-half years after the original "Everything is an idea" post, Mike returns to the idea-of-ideas with a sharpening: *"I will make clear that the ideas are not 'mine.' No one owns an idea—IP law notwithstanding. Ideas are simply themselves."* Names the duty owed to ideas — *"I want to do right by the ideas that arise"* — and the failure mode (perfecting ideas before publishing them, so they never get published). The shift from idea-as-content to idea-as-tenant-Mike-houses.

@@ -6,11 +6,13 @@ order: 0
 date: "2023-07-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/reading-this-one-blog-post-will-make"
-excerpt: "Back in the day, I thought there was only one fucking road to enlightenment. You had to park your ass on a fucking cushion and watch your fucking breath like a boss monk with steel balls until zap! You’re enlightened. Fucking A!! I’ve…"
-word_count: 531
+excerpt: "![](/media/70yt/reading-this-one-blog-post-will-make/1.jpg) Back in the day, I thought there was only one fucking road to enlightenment. You had to park your ass on a fucking cushion and watch your fucking breath like a boss monk with…"
+word_count: 542
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-even-aholes-can-get-missions-from"
 ---
+
+![](/media/70yt/reading-this-one-blog-post-will-make/1.jpg)
 
 Back in the day, I thought there was only one fucking road to enlightenment. You had to park your ass on a fucking cushion and watch your fucking breath like a boss monk with steel balls until zap! You’re enlightened. Fucking A!!
 

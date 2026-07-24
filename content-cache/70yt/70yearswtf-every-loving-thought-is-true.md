@@ -7,12 +7,14 @@ date: "2025-03-15"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/every-loving-thought-is-true"
 excerpt: "I love ideas. “We love you too,” I imagine an idea saying. Maybe even all of them. A Course in Miracles is a book full of ideas. “Like all books,” says an idea, or God, or someone. This book doesn’t…"
-word_count: 392
+word_count: 389
 tags:
   - "70YearsWTF"
   - "ACIM"
 related: []
 ---
+
+![](/media/70yt/every-loving-thought-is-true/1.jpg)
 
 [I love ideas.](https://70yearswtf.substack.com/p/everything-is-an-idea?utm_source=publication-search)
 

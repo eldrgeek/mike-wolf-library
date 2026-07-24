@@ -7,7 +7,7 @@ date: "2021-02-20"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/fifi-and-raul-and-soledad-and-santiago"
 excerpt: "Imagining existence and identity and history"
-word_count: 863
+word_count: 868
 tags:
   - "70YearsWTF"
 related: []
@@ -47,6 +47,8 @@ When I first “retired” from Green Hills, Bobbi and I took a leisurely drive 
 
 I announced to the family that we were changing our names:
 
+![](/media/70yt/fifi-and-raul-and-soledad-and-santiago/1.jpg)
+
 > It all started as we left Santa Barbara. We got up, in no hurry for a change, finished packing the car, and got ready to leave. I took a moment to memorialize the event with a picture, to be provided in a later update.
 >
 > As we were pulling out of the Condo to start our new life I decided that I was going to change my name. There was a guy at the Honda dealership named Santiago, (first name) and I thought that was a really cool name to have, so I took it and explained to Mom (still Bobbi at this time) how to pronounce it: San-tee-AH-go. Strong accent on the AH.
@@ -65,9 +67,13 @@ John replied:
 
 And later, I replied as Santiago.
 
+![](/media/70yt/fifi-and-raul-and-soledad-and-santiago/2.jpg)
+
 # Greenwood and Loblolly.
 
 Later we changed our names again:
+
+![](/media/70yt/fifi-and-raul-and-soledad-and-santiago/3.jpg)
 
 Then finally, we got back home to Maine and turned back into Mike and Bobbi.
 
@@ -80,6 +86,8 @@ A friend wanted me to meet Bobbi’s friend Liz Ausley. I thought Liz was OK, bu
 But there’s another version.
 
 It matches this card that Bobbi gave me this valentine’s day:
+
+![](/media/70yt/fifi-and-raul-and-soledad-and-santiago/4.jpg)
 
 In my imagination, I did find her sooner so that I could love her longer.  I was her first love and lover, and she was mine. We met in grade schools and fell in love. We dated through high school. We first made love the night of the senior prom.
 
@@ -98,5 +106,7 @@ When people say things like that, I always respond: “Don’t brag about your l
 Related: After he was elected, some people said, “I can’t believe Trump was elected President.” But he was! And you are bragging about not being able to believe what’s real?
 
 So I believe that I met Bobbi in two seemingly mutually incompatible ways.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [Leave a comment](https://70yearswtf.substack.com/p/fifi-and-raul-and-soledad-and-santiago/comments)

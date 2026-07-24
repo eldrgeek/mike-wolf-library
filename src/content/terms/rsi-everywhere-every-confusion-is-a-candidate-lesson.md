@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-07 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "architecture"
 ---
 
 <p><strong>What we mean.</strong> Every stumble (user friction, dead-end, permission ask, desync, cron failure) is candidate-lesson. Unified confusion-event stream. Heartbeat multi-source.</p>

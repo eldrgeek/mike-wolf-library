@@ -7,7 +7,7 @@ date: "2020-01-13"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/memento-redux-20-01-13"
 excerpt: "Memento, redux This morning I decided to start my day by reading one of my old blog posts. It led me to recover one of the most important things that I’ve learned. And that I had forgotten. Again. SRSLY. WTF!…"
-word_count: 575
+word_count: 574
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -94,12 +94,22 @@ Memento had the answer. And I had the answer, too. Only I forgot it.
 
 June 30, 2017, from my Hangouts Channel with Elsa: I had the answer.
 
+![](/media/70yt/memento-redux-20-01-13/1.jpg)
+
+![](/media/70yt/memento-redux-20-01-13/2.jpg)
+
+![](/media/70yt/memento-redux-20-01-13/3.jpg)
+
+![](/media/70yt/memento-redux-20-01-13/4.jpg)
+
 It worked for a while.
 
 So here’s today’s reminder:
+
+![](/media/70yt/memento-redux-20-01-13/5.jpg)
 
 Now, where can I get a real tattoo? Or a better fake?
 
 And what do I want it to say?
 
-[Click here to subscribe to 70 Years Old. WTF! by Email](https://feedburner.google.com/fb/a/mailverify?uri=70YearsOldWtf&loc=en_US)
+[Click here to subscribe to 70 Years Old. WTF! by Email](https://feedburner.google.com/fb/a/mailverify?uri=70YearsOldWtf&loc=en_US)]

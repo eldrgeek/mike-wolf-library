@@ -6,18 +6,21 @@ order: 0
 date: "2018-07-21"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-last-barrier-to-change-18-07-21"
-excerpt: "For me, the last barrier to making a change in viewpoint or behavior that removes a barrier to productivity or creativity is this: “I could have done it all along.” And of course, I could have. All I did was change my mind. I could have…"
-word_count: 573
+excerpt: "![](/media/70yt/the-last-barrier-to-change-18-07-21/1.jpg) For me, the last barrier to making a change in viewpoint or behavior that removes a barrier to productivity or creativity is this: “I could have done it all along.” And of course,…"
+word_count: 585
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-get-out-of-your-head-and-into-your-18-03-11"
+  - "70yearswtf-family-of-mind-internal-family-systems-15-03-14"
+  - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
+  - "70yearswtf-working-hurts-less-than-procrastinating-15-01-31"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/the-last-barrier-to-change-18-07-21/1.jpg)
 
 For me, the last barrier to making a change in viewpoint or behavior that removes a barrier to productivity or creativity is this: “I could have done it all along.” And of course, I could have. All I did was change my mind. I could have changed my mind at any time. I just didn’t.
 

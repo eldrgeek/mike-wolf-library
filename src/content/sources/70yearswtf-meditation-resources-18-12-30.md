@@ -10,7 +10,9 @@ excerpt: "Here's my collection of resources and how it came about. Sam Harris ra
 word_count: 867
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

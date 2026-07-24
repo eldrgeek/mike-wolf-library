@@ -12,7 +12,8 @@ provenance:
   - "srmw-part-viii-practice-practice-practice"
   - "srmw-part-xiii-endgame"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> One level up from practice: training the capacity to keep training. Part XII named for it. Foreshadows RSI/Ralph loops.</p>

@@ -10,7 +10,7 @@ excerpt: "This post is inspired by [this talk](https://www.youtube.com/watch?v=S
 word_count: 690
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -10,7 +10,8 @@ excerpt: "Three posts into Project70 and my first lapse. Notwithstanding this po
 word_count: 813
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-75-years-5-days-posting-retrospective-17-12-26"
   - "70yearswtf-lowering-the-bar-a-technique-for-13-01-05"

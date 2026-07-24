@@ -10,7 +10,7 @@ excerpt: "[Andy Weir](http://en.wikipedia.org/wiki/AndyWeir), author of \"[The M
 word_count: 40
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -7,12 +7,14 @@ date: "2021-09-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/more-advice-share-your-gifts"
 excerpt: "Too many days ago, I wrote, “Advice for myself: “Share your work.” So did I share my work? Not much. That’s ok. One day, Future Me, you’ll listen to the wise advice of Past Me. In the meantime, let me…"
-word_count: 541
+word_count: 561
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/more-advice-share-your-gifts/1.jpg)
 
 Too many days ago, I wrote, [“Advice for myself: “Share your work.”](https://70yearswtf.substack.com/p/advice-for-myself-share-your-work)
 
@@ -89,3 +91,5 @@ You might want to subscribe as well.
 ---
 
 Or subscribe to this substack, where I’ll share some more of my gifts. And encourage you to share yours.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

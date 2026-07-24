@@ -10,7 +10,8 @@ excerpt: "Today I took a trip back to 2010, the first year that I used [https://
 word_count: 471
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -7,12 +7,14 @@ date: "2023-04-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-afraid-of-being-afraid-and-im"
 excerpt: "By Dramstudio (Stable Diffusion) I’m afraid of being afraid, and I’m afraid that I’m afraid to admit it. Not exactly. But close. I’m sitting here typing this right now. (And editing it right now.) I don’t feel afraid. But I…"
-word_count: 429
+word_count: 465
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![By Dramstudio (Stable Diffusion)](/media/70yt/im-afraid-of-being-afraid-and-im/1.jpg)
 
 *By Dramstudio (Stable Diffusion)*
 

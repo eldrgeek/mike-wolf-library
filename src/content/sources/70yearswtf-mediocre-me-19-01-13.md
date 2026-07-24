@@ -10,13 +10,14 @@ excerpt: "“Only mediocre people are always at their best.” Mediocre Mike Med
 word_count: 958
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-free-will-maybe-maybe-not-16-01-02"
+  - "70yearswtf-the-mindful-photographic-moments-20-04-13"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 > “Only mediocre people are always at their best.”

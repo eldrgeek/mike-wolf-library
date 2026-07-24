@@ -10,7 +10,7 @@ excerpt: "On March 8, 1968, Bobbi and I started living together. For many years,
 word_count: 165
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-even-more-like-heaven-and-the-internet"
   - "70yearswtf-happy-cohabiversary"

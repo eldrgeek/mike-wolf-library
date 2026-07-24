@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-07 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "architecture"
 ---
 
 <p><strong>What we mean.</strong> Cultural non-separation: every architectural choice traces to a value; every value to operational consequence. Separation itself is the failure mode.</p>

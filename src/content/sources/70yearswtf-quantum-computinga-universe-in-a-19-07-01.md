@@ -10,13 +10,14 @@ excerpt: "In my last post, [From Farnam Street to Quantum Computing](https://70y
 word_count: 626
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-we-are-each-at-the-center-of-the-18-12-11"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 In my last post, [From Farnam Street to Quantum Computing](https://70yearsoldwtf.blogspot.com/2019/06/from-farnam-street-to-quantum-computing.html), I

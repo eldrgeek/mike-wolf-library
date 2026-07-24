@@ -7,12 +7,14 @@ date: "2026-01-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/you-are-making-a-lot-of-mistakes"
 excerpt: "but you can correct them"
-word_count: 745
+word_count: 771
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/you-are-making-a-lot-of-mistakes/1.jpg)
 
 Sorry, that’s a shitty way to start. But I wanted your attention.
 
@@ -109,6 +111,8 @@ And there’s more to be said.[3](#footnote-3)
 Comments appreciated.
 
 [Leave a comment](https://70yearswtf.substack.com/p/you-are-making-a-lot-of-mistakes/comments)
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [1](#footnote-anchor-1)
 

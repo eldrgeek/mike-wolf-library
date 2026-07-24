@@ -1,16 +1,16 @@
 ---
 letter: "M"
-title: "Mediocre Mike · Maximum Mike · Meritorious Mike · Mindful Mike"
-subtitle: "multi-Mike cast: everyday autopilot → ideal asymptotic → achievable worthy → awake-enough"
+title: "Mediocre Mike"
+subtitle: "everyday autopilot self; least he can do"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf"
-origin: "70yt *mediocre-me* (batch 3)."
-source: "70yt *mediocre-me* (batch 3)."
+origin: "70yt *mediocre-me*."
+source: "70yt *mediocre-me*."
 related: []
 provenance: []
 tags:
   - "70yt"
   - "philosophy"
 ---
-<p><strong>What we mean.</strong> Named characters in self-improvement drama. Path through Mindful and Meritorious, not a leap to Maximum. Complements AutoMike family.</p>
-<blockquote><p>“Mediocre Mike is my everyday self.” / “Maximum Mike is an ideal” / “Meritorious Mike is a worthy version of me.” — 70yt *mediocre-me* (batch 3).</p></blockquote>
+<p><strong>What we mean.</strong> Named character: the person on autopilot, reacting with good-enough programs until a challenge forces waking.</p>
+<blockquote><p>“Mediocre Mike is my everyday self.” — 70yt *mediocre-me*</p></blockquote>

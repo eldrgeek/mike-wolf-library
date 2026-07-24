@@ -7,13 +7,15 @@ date: "2023-07-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/reading-this-one-blog-post-will-make"
 excerpt: "Or maybe even a Buddha, who the fuck knows"
-word_count: 480
+word_count: 492
 tags:
   - "70YearsWTF"
   - "meditation"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/reading-this-one-blog-post-will-make/1.jpg)
 
 Back in the day, I thought there was only one fucking road to enlightenment. You had to park your ass on a fucking cushion and watch your fucking breath like a boss monk with steel balls until zap! You’re enlightened. Fucking A!!
 

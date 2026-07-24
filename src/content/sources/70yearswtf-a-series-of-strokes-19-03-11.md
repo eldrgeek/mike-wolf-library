@@ -10,7 +10,9 @@ excerpt: "What’s the difference between losing a memory because of a stroke an
 word_count: 714
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"
   - "70yearswtf-what-problem-are-you-trying-to-solve-18-11-13"

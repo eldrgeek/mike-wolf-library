@@ -9,7 +9,8 @@ source: "70yt *modern-monetary-theory-explained* (batch 7)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Pedagogical coinage so MMT mechanics can be walked without national politics.</p>

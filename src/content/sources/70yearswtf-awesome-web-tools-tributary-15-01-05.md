@@ -10,7 +10,7 @@ excerpt: "Today I found another awesome web tool: [tributary.io](http://tributar
 word_count: 235
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

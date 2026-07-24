@@ -9,7 +9,8 @@ source: "70yt *family-motto*; *the-idea-of-bobbi* (batch 5)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Family-motto post is form-as-content. Kingdom upgrade = biological pun on maiden name Bush → Wolf.</p>

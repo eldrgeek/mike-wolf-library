@@ -11,7 +11,8 @@ provenance:
   - "srmw-part-ii-the-metanovel"
   - "srmw-chapter-6-test-marketing-the-concept"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Chapter title and prosecution: ego running amok / fame fantasy. Names the shame-attack that stalls public creative work.</p>

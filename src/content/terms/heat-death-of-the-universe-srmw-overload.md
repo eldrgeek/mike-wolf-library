@@ -9,7 +9,8 @@ source: "SRMW."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Copyright “through the Heat Death of The Universe.” Cosmic endpoint as comic permanence claim.</p>

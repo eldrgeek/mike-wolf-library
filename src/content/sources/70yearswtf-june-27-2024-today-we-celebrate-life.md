@@ -6,18 +6,20 @@ order: 0
 date: "2024-06-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/june-27-2024-today-we-celebrate-life"
-excerpt: "It’s been six months since [January 27, 2024](https://70yearswtf.substack.com/p/january-27-2024). In [“The Idea of Bobbi,”](https://70yearswtf.substack.com/p/the-idea-of-bobbi) I had a section called [“Celebration of…"
-word_count: 671
+excerpt: "![](/media/70yt/june-27-2024-today-we-celebrate-life/1.jpg) It’s been six months since [January 27, 2024](https://70yearswtf.substack.com/p/january-27-2024). In [“The Idea of Bobbi,”](https://70yearswtf.substack.com/p/the-idea-of-bobbi) I…"
+word_count: 682
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-the-idea-of-bobbi"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/june-27-2024-today-we-celebrate-life/1.jpg)
 
 It’s been six months since [January 27, 2024](https://70yearswtf.substack.com/p/january-27-2024).
 

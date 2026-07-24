@@ -13,10 +13,10 @@ tags:
   - "writing"
 related:
   - "srmw-part-ii-the-metanovel"
+  - "70yearswtf-everything-arises-and-passes-away"
   - "70yearswtf-fifi-and-raul-and-mike-and-bobbi-18-01-13"
+  - "70yearswtf-i-wish-i-was-dead"
   - "70yearswtf-modems-and-memories-19-08-27"
-  - "srmw-part-i-before-the-beginning"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
 ---
 
 If at first you don’t succeed,

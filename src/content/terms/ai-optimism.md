@@ -5,7 +5,8 @@ subtitle: "the stance that smarter AI converges on human flourishing"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 source: ""
-related: []
+related:
+  - "way-way-way-way-back-of-that-frontier"
 provenance: []
 tags:
   - "dialect"

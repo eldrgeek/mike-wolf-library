@@ -6,11 +6,12 @@ order: 0
 date: "2023-02-01"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-believe-in-death-and-you-dont"
-excerpt: "I’m past 80 years old. Those were the first words to appear. But now that they’ve appeared I see that they can’t be true. I’m not 80 years old. I’m a blog post. This one. I’ve been conceived of, but not born. I’ll be born when the publish…"
-word_count: 577
+excerpt: "![](/media/70yt/i-dont-believe-in-death-and-you-dont/1.jpg) I’m past 80 years old. Those were the first words to appear. But now that they’ve appeared I see that they can’t be true. I’m not 80 years old. I’m a blog post. This one. I’ve…"
+word_count: 589
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-even-aholes-can-get-missions-from"
 ---
+
+![](/media/70yt/i-dont-believe-in-death-and-you-dont/1.jpg)
 
 I’m past 80 years old.
 

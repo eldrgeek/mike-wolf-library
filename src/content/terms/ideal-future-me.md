@@ -6,11 +6,13 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *a-shitty-start-to-a-new-decade* (batch 7)."
 source: "70yt *a-shitty-start-to-a-new-decade* (batch 7)."
-related: []
+related:
+  - "past-me-present-me-future-me-ideal-future-me-barely-past-me"
 provenance:
   - "70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Present Me consciously incompetent; Ideal Future Me unconsciously competent. Visualize in detail to increase attractive force. Pairs with My Portal.</p>

@@ -10,13 +10,15 @@ excerpt: "Here is a clip from a routine by comedian [Jeff Dye](https://grokipedi
 word_count: 619
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
+  - "70yearswtf-who-has-been-an-angel-in-your-life"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Here is a clip from a routine by comedian [Jeff Dye](https://grokipedia.com/page/Jeff_Dye)[1](#footnote-1) that expresses my point of view. Plus it’s goddamn funny! [See the clip](https://youtu.be/KX0Jrtta7Ek) on YouTube or [watch the full routine.](https://youtu.be/mI1X6QR3XV8?si=E55i4dviMxu4TQ88)

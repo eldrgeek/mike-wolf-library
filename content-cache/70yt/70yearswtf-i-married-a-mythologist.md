@@ -7,7 +7,7 @@ date: "2025-03-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-married-a-mythologist"
 excerpt: "Bobbi is a mythologist. She has a PhD in “Mythological Studies, with a Concentration in Depth Psychology.” If you don’t believe it, I’ll send you a photo. I traveled with her on the road to her PhD and learned to…"
-word_count: 770
+word_count: 931
 tags:
   - "70YearsWTF"
   - "Bobbi"
@@ -15,6 +15,8 @@ tags:
   - "blogging"
 related: []
 ---
+
+![A serene yet slightly surreal 16:9 scene depicting an elderly man from behind. He has a full head of white hair gathered in a neat ponytail and wears all black clothing. He's standing at the edge of a winding road, gazing toward a distant horizon where symbolic elements of myth, imagination, and personal journey intertwine. Subtle mythological imagery such as shadowy Buddha figures, mystical symbols, and abstract depictions of conversations float around him, blending seamlessly with the landscape. The setting should evoke contemplation, wisdom, and the intersection of personal myth and spiritual exploration.](/media/70yt/i-married-a-mythologist/1.jpg)
 
 Bobbi is a mythologist. She has a PhD in “Mythological Studies, with a Concentration in Depth Psychology.” If you don’t believe it, I’ll send you a photo.
 

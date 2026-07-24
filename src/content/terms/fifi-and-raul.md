@@ -11,7 +11,8 @@ provenance:
   - "70yearswtf-fifi-and-raul-and-mike-and-bobbi-18-01-13"
   - "70yearswtf-fifi-and-raul-and-soledad-and-santiago"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Named imaginary girlfriend/boyfriend the couple jokes about for decades. Shared fiction that makes real fidelity playful.</p>

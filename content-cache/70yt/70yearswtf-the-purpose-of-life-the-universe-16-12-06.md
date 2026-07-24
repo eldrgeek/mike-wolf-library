@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/the-purpose-of-life-the-universe-16-12-06/1.png)
+
 We know that “the ultimate question of life, the universe, and everything” has an answer.
 
 It’s [42](https://www.blogger.com/blog/post/edit/809323243837962619/1515215714507903425#).

@@ -10,7 +10,8 @@ excerpt: "I wrote previously that I am [looking forward to my bionic future](htt
 word_count: 751
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

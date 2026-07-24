@@ -10,7 +10,9 @@ excerpt: "Photo by [taylor](https://unsplash.com/@taychilla) on [Unsplash](https
 word_count: 898
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-a-meditation-on-assholery-18-08-20"
   - "70yearswtf-hey-liberals-want-to-help-trump-then-16-10-25"

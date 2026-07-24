@@ -10,7 +10,9 @@ excerpt: "Today is January 1, 2020. My day started shitty, which means my year s
 word_count: 1046
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

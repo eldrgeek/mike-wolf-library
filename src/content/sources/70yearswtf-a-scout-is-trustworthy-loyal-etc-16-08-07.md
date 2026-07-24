@@ -10,7 +10,7 @@ excerpt: "After reading the transcript of a TED talk by Julia Galeef, \"[Why you
 word_count: 653
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

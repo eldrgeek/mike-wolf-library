@@ -10,7 +10,9 @@ excerpt: "Periodically, I get to thinking (whining) about improving my writing e
 word_count: 1032
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

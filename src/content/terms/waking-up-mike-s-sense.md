@@ -9,7 +9,8 @@ source: "70yt *mikesim-version-73* + cluster (batch 6)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not get-out-of-bed and not only Harris’s title: flip from mindless automaticity to watching it. Awareness without yet steering.</p>

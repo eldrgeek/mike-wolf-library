@@ -10,7 +10,8 @@ excerpt: "I spent some time last night discussing the following proposition: “
 word_count: 679
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

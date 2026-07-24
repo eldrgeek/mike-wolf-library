@@ -7,12 +7,14 @@ date: "2013-01-28"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/my-love-affair-with-software-part-13-01-28"
 excerpt: "Software using software. (Photo credit: Old Shoe Woman) I believe in the power of software. Not just software the way most people think about it--software programs for computers. There are many other kinds of software and I believe in their…"
-word_count: 473
+word_count: 478
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Happy to Use Computer Software](/media/70yt/my-love-affair-with-software-part-13-01-28/1.jpg)
 
 Software using software.
 (Photo credit: [Old Shoe Woman](http://www.flickr.com/photos/83955435@N00/48011834))

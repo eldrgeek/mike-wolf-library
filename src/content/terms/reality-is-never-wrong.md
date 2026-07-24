@@ -9,7 +9,8 @@ source: "70yt *reality-is-never-wrong*; *models-and-sense-making*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> H/T Adam Robinson: saying something “should not have happened” asserts model &gt; universe. Operational twin: respond “my model is wrong” and search for better model.</p>

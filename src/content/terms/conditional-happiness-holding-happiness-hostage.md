@@ -9,7 +9,8 @@ source: "70yt *conditional-happiness-and-conditioned* (batch 2)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Willingness to be happy <em>only if</em>; unhappiness as self-control tool. Path toward unconditional happiness.</p>

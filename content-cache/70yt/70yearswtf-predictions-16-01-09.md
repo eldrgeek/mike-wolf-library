@@ -7,12 +7,14 @@ date: "2016-01-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/predictions-16-01-09"
 excerpt: "I have several predictions to make. First prediction: Three days from now, on January 11, 2016, I will write a post that has, at the top, the same image as I have at the top of this one. I predict…"
-word_count: 399
+word_count: 401
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![save image](/media/70yt/predictions-16-01-09/1.jpg)
 
 I have several predictions to make. First prediction: Three days from now, on January 11, 2016, I will write a post that has, at the top, the same image as I have at the top of this one.
 

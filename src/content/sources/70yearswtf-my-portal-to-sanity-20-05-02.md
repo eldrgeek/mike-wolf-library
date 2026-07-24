@@ -10,7 +10,9 @@ excerpt: "My [quest to find portals](https://70yearswtf.substack.com/p/finding-a
 word_count: 1047
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

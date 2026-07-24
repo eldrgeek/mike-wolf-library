@@ -6,11 +6,12 @@ order: 0
 date: "2016-06-30"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/winning-losing-grace-and-being-there-16-06-30"
-excerpt: "Years ago Bobbi came back from a conference she'd attended and shared this: 1. Show up 2. Pay attention 3. Speak the truth 4. Don't be attached to the outcome She called it \"Grace in action.\" Professor Google tells me this comes from…"
-word_count: 1683
+excerpt: "![](/media/70yt/winning-losing-grace-and-being-there-16-06-30/1.jpg) Years ago Bobbi came back from a conference she'd attended and shared this: 1. Show up 2. Pay attention 3. Speak the truth 4. Don't be attached to the outcome She called…"
+word_count: 1696
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/winning-losing-grace-and-being-there-16-06-30/1.jpg)
 
 Years ago Bobbi came back from a conference she'd attended and shared this:
 

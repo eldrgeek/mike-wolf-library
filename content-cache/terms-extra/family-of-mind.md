@@ -1,16 +1,16 @@
 ---
 letter: "F"
-title: "family of mind · Morpheus · Little Michael · the broken children I’ve abandoned"
-subtitle: "internal cast of parts (IFS); sleep-protector; exile boy; orphaned past selves"
+title: "family of mind"
+subtitle: "internal cast of parts (IFS) that can work or war"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf"
-origin: "70yt *family-of-mind*; *the-broken-children-ive-abandoned* (batch 6)."
-source: "70yt *family-of-mind*; *the-broken-children-ive-abandoned* (batch 6)."
+origin: "70yt *family-of-mind-internal-family-systems*."
+source: "70yt *family-of-mind-internal-family-systems*."
 related: []
 provenance: []
 tags:
   - "70yt"
   - "philosophy"
 ---
-<p><strong>What we mean.</strong> Household of agents that can be named and healed. Morpheus puts everyone to sleep when writing threatens exile. Little Michael = fragile earlier self. Broken children = jettisoned past selves still suffering.</p>
-<blockquote><p>“members of a functional internal "family of mind" can work for the good” / “I named that part of me Little Michael.” / “I saw my past littered with broken, orphaned, abandoned parts” — 70yt *family-of-mind*; *the-broken-children-ive-abandoned* (batch 6).</p></blockquote>
+<p><strong>What we mean.</strong> Household of agents named and healed à la Internal Family Systems. Functional families of mind cooperate; dysfunctional ones harm themselves.</p>
+<blockquote><p>“the members of a functional internal "family of mind" can work for the good of the family.” — 70yt *family-of-mind-internal-family-systems*</p></blockquote>

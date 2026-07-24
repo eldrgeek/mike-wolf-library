@@ -10,7 +10,8 @@ excerpt: "Take a look at a movie from the 1940s or 50s, and compare it with a mo
 word_count: 268
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

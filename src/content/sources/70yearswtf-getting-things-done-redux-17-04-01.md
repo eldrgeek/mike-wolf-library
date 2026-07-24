@@ -10,7 +10,8 @@ excerpt: "Years ago I read David Allen’s book “Getting Things Done” (GTD).
 word_count: 1240
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

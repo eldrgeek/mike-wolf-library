@@ -7,12 +7,14 @@ date: "2023-08-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/everything-arises-and-passes-away"
 excerpt: "But maybe passing away is not the same as dying."
-word_count: 492
+word_count: 497
 tags:
   - "70YearsWTF"
   - "AI"
 related: []
 ---
+
+![ah3-d6d564d86a07.jpeg](/media/70yt/everything-arises-and-passes-away/1.jpg)
 
 *Image machine-generated from [arhub.ai](https://arthub.ai/art/144794)*
 

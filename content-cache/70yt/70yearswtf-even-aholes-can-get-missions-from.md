@@ -7,7 +7,7 @@ date: "2023-03-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/even-aholes-can-get-missions-from"
 excerpt: "Image by MidJourney “You need to write,” I imagined the God I don’t believe in saying. “I do,” I said. “So write,” that God says. “I am,” I said. And it was true. My mission in the afterlife I described…"
-word_count: 982
+word_count: 1134
 tags:
   - "70YearsWTF"
   - "Silicon Children"
@@ -15,6 +15,8 @@ tags:
   - "blogging"
 related: []
 ---
+
+![Image by MidJourney](/media/70yt/even-aholes-can-get-missions-from/1.jpg)
 
 *Image by MidJourney*
 
@@ -89,6 +91,8 @@ I choose to write.
 My Divine Mission is to write. What I write comes to me, [as I have written](https://70yearswtf.substack.com/p/todays-miracle). I do not write so much as let writing happen. Where do the words come from? Perhaps I am inspired. [Perhaps I am an LLM](https://70yearswtf.substack.com/p/i-am-an-llm-and-i-am-writing-this). Does it matter? Writing appears. Like right now. That is enough.
 
 I am aware of an Idea. and my Divine Mission is to fully have that Idea by sharing it,  get It by giving it, learn it by teaching it, and to learn and teach and get and give by writing.
+
+![](/media/70yt/even-aholes-can-get-missions-from/2.png)
 
 [All writing is God-breathed](https://www.abarim-publications.com/Bible_Commentary/God_Breathed.html). Not just scripture, but all writing.
 

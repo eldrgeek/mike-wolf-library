@@ -9,7 +9,8 @@ source: "70yt *between-iraq-and-a-hard-place* (batch 7)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Pure wordplay; Ahardplace is the made-up toponym the joke requires.</p>

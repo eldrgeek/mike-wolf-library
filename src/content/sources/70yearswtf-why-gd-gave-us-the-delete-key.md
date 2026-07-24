@@ -6,11 +6,11 @@ order: 0
 date: "2025-10-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/why-gd-gave-us-the-delete-key"
-excerpt: "I’m grateful for the many gifts of [the Gd I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utmsource=publication-search). And I am grateful today for the DELETE key. Why? Because I have started to [write…"
-word_count: 251
+excerpt: "![](/media/70yt/why-gd-gave-us-the-delete-key/1.jpg) I’m grateful for the many gifts of [the Gd I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utmsource=publication-search). And I am grateful today for the…"
+word_count: 262
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/why-gd-gave-us-the-delete-key/1.jpg)
 
 I’m grateful for the many gifts of [the G*d I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utm_source=publication-search).
 

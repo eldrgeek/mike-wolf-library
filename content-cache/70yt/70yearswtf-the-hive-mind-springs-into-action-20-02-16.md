@@ -7,12 +7,14 @@ date: "2020-02-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-hive-mind-springs-into-action-20-02-16"
 excerpt: "Update: April 8, 2022 This post has worn pretty well in the two years since writing it. Here’s an update with some further thoughts. It’s February 13, 2020 (or was, when I started this), and I’m Not Dead Yet. Though…"
-word_count: 1039
+word_count: 1082
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Food Safety and the Coronavirus Disease 2019 (COVID-19) | FDA](/media/70yt/the-hive-mind-springs-into-action-20-02-16/1.jpg)
 
 Update: April 8, 2022
 
@@ -56,6 +58,8 @@ Actually, it’s not *the* coronavirus. There are, and have been lots of them. S
 
 Here’s a rendering (not actual size):
 
+![Food Safety and the Coronavirus Disease 2019 (COVID-19) | FDA](/media/70yt/the-hive-mind-springs-into-action-20-02-16/2.jpg)
+
 This has been a wake-up call for the noosphere.
 
 ## The right kind of crisis
@@ -94,11 +98,17 @@ Remember the Ebola scare of [a couple of years ago](https://www.cdc.gov/vhf/ebol
 
 That was over years. With this one, in a couple of months, we’ve already got fifteen.
 
+![COVID-19, Feb 14 2020](/media/70yt/the-hive-mind-springs-into-action-20-02-16/3.jpg)
+
 Yeah, there were some cases outside Africa. One here, two there. But Ebola never really left its breeding grounds.
+
+![enter image description here](/media/70yt/the-hive-mind-springs-into-action-20-02-16/4.jpg)
 
 [Here’s the map](https://www.healthmap.org/ebola/#timeline). Outside of Africa, the dots represent single infections, and this is five years after the initial outbreak.
 
 Meanwhile, here’s what COVID-19 looks like,
+
+![enter image description here](/media/70yt/the-hive-mind-springs-into-action-20-02-16/5.jpg)
 
 There are few parts of the world as thoroughly connected to the rest of humanity as China.
 
@@ -146,8 +156,12 @@ Click on some of the links, and you’ll see what people, all over the world, ar
 Here’s another encouraging sign, from [here](https://www.reddit.com/r/China_Flu/comments/f2y297/success_update_petition_to_take_paywalls_down/)
 
 > ### **SUCCESS UPDATE! Petition to take paywalls down during outbreak pushes publishers to release thousands more open-access articles for scientists**
+>
+> ![Post image](/media/70yt/the-hive-mind-springs-into-action-20-02-16/6.jpg)
 
 So, OK, not everything is perfect.
+
+![enter image description here](/media/70yt/the-hive-mind-springs-into-action-20-02-16/7.png)
 
 But cheer up. You’re not dead yet.
 

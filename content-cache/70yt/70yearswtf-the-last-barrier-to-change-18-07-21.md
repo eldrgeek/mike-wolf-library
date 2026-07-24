@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/the-last-barrier-to-change-18-07-21/1.jpg)
+
 For me, the last barrier to making a change in viewpoint or behavior that removes a barrier to productivity or creativity is this: “I could have done it all along.” And of course, I could have. All I did was change my mind. I could have changed my mind at any time. I just didn’t.
 
 That realization leads to this: “By not changing my mind earlier, I’ve been [wasting my life](https://70yearsoldwtf.blogspot.com/2015/12/wasting-my-life.html).” Not my whole life. Just a goddamned big part of it. By being stupid.

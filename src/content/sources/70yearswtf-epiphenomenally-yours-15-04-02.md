@@ -10,7 +10,7 @@ excerpt: "Bill Gosper's Glider Gun in action—a variation of Conway's Game of L
 word_count: 670
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

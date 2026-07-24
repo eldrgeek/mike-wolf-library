@@ -7,10 +7,12 @@ date: "2016-03-18"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/my-political-evolution-part-2-16-03-18"
 excerpt: "[In Part 1](http://70yearsoldwtf.blogspot.com/2016/03/my-political-evolution-part-i.html) I talked about the life experiences that caused me to lean Liberal. I talked about how, as I was growing up, conservatives were always, always on the…"
-word_count: 1929
+word_count: 1941
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -32,6 +34,8 @@ Some Americans spied for the Soviets because they believed that the Soviets were
 I was not much taken with tales the wonderfulness of the Soviet Union, but I was influenced by criticism of the United States and probably a lot of that came from "[fellow travelers](https://en.wikipedia.org/wiki/Fellow_traveller)" and what Lenin called "[useful idiots.](https://en.wikipedia.org/wiki/Fellow_traveller)"
 
 When I got to school one of my classmates, and fraternity house roommates for a while, was [David Nolan](https://en.wikipedia.org/wiki/Fellow_traveller), one of the founders of the Libertarian party. Dave was a great writer attached to an annoying personality. He's known for the [Nolan Chart](https://en.wikipedia.org/wiki/Nolan_Chart), a way of framing the Libertarian view relative to the more familiar conservative and liberal views. American liberals favored more personal freedom, but at some cost of economic freedom; conservatives favored more economic freedom, but were willing to limit personal freedom. [The World's Smallest Political Quiz](https://en.wikipedia.org/wiki/World%27s_Smallest_Political_Quiz), which Dave also came up with, is a ten question quiz that positions you in that political space. You can take it [here](https://www.theadvocates.org/quiz/quiz.php#). My results are below.
+
+![](/media/70yt/my-political-evolution-part-2-16-03-18/1.jpg)
 
 Dave introduced me (and the rest of in the fraternity) to the writings of Ayn Rand. I read the "Fountainhead" and liked it. But when I started the 1200 page "Atlas Shrugged," I could not put it down. I skipped classes and sleep and personal hygiene, and read the whole thing in one marathon session -- something around 48 hours.
 

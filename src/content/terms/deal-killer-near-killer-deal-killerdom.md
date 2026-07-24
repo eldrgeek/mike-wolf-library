@@ -9,7 +9,8 @@ source: "70yt *relationships-and-disagreements* (batch 6)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Relationship ops taxonomy: drop irrelevants; settle details fast; invest in true deal-killers; near-killers stack.</p>

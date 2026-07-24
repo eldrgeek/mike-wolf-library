@@ -10,7 +10,7 @@ excerpt: "The word for the afternoon is the verb \"to shrimp.\" As in: \"If you 
 word_count: 45
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

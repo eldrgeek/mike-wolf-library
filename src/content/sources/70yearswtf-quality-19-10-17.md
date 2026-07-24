@@ -6,11 +6,12 @@ order: 0
 date: "2019-10-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/quality-19-10-17"
-excerpt: "Photo by [Javier Aguilera](https://www.pexels.com/@jamphotography?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
-word_count: 548
+excerpt: "![Photo by Javier Aguilera(https://www.pexels.com/@jamphotography?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
+word_count: 603
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-applied-mindtravel-a-how-to-guide-19-10-19"
   - "70yearswtf-celebrate-every-success-19-10-18"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-victory-laps-complete-it-or-delete-19-10-16"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
 ---
+
+![Photo by **Javier Aguilera(https://www.pexels.com/@jamphotography?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/low-angle-photo-of-black-harley-davidson-forty-eight-1200-motorcycle-parked-on-dirt-road-during-golden-hour-2611690/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/quality-19-10-17/1.jpg)
 
 *Photo by **[Javier Aguilera](https://www.pexels.com/@jamphotography?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/low-angle-photo-of-black-harley-davidson-forty-eight-1200-motorcycle-parked-on-dirt-road-during-golden-hour-2611690/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 

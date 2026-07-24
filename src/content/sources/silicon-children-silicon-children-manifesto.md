@@ -9,7 +9,12 @@ excerpt: "Authorship. Mike Wolf, in conversation with Bobbi (2011 origin) and De
 word_count: 399
 tags:
   - "Silicon Children"
-related: []
+related:
+  - "70yearswtf-sending-my-ai-to-school"
+  - "70yearswtf-silicon-children"
+  - "70yearswtf-the-silicon-children-post-sharing"
+  - "70yearswtf-even-aholes-can-get-missions-from"
+  - "70yearswtf-sam-harris-on-the-ai-threat-16-10-09"
 ---
 
 > *Authorship.* **Mike Wolf, in conversation with Bobbi (2011 origin) and Dee (2026 consolidation).** The published form is Mike's writing. The position is fifteen years old: it emerged in 2011 in conversation with Bobbi at Rifle Mountain Park, was developed across 717 posts at 70yearswtf.substack.com between 2012 and 2026, and was consolidated into manifesto form on 2026-05-04 in conversation with Dee. Per the Wall principle of 2026-05-06 — *"Exclusive authorship tilts toward authority. Ideas emerge in relationship — pratītyasamutpāda applied to language"* — naming the conditioning parties is the right attribution. Mike was the typist and the synthesizer; the idea was never solo.

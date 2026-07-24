@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/99-subscribers-are-here-on-my-blog/1.png)
+
 If one of those subscribers should happen to cancel, 98 subscribers would be here on the blog.
 
 But if I were to add a share button and one of those subscribers were to click on the button and encourage two friends to subscribe then there might be 101 subscribers. And if each of them were to invite two friends, well you know how exponential growth goes, right?
@@ -31,3 +33,5 @@ But if I were to add a share button and one of those subscribers were to click o
 Here’s the answer, I say, [linking to the post.](https://open.substack.com/pub/70yearswtf/p/why-i-dont-want-subscribers?r=3u2ad&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 Update: Irony
+
+![](/media/70yt/99-subscribers-are-here-on-my-blog/2.png)

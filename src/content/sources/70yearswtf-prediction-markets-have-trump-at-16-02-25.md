@@ -6,11 +6,11 @@ order: 0
 date: "2016-02-25"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/prediction-markets-have-trump-at-16-02-25"
-excerpt: "Donald Trump. PredicitIt Presidential Market 2/25 Really? Really? Of course the prediction markets don't choose the nominee, but still. Who would have thought that? Actually, [Matt Taibi](https://en.wikipedia.org/wiki/MattTaibbi), of…"
-word_count: 537
+excerpt: "![Donald Trump. Presidential Market at 2/25](/media/70yt/prediction-markets-have-trump-at-16-02-25/1.png) Donald Trump. PredicitIt Presidential Market 2/25 Really? Really? Of course the prediction markets don't choose the nominee, but…"
+word_count: 568
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Donald Trump. Presidential Market at 2/25](/media/70yt/prediction-markets-have-trump-at-16-02-25/1.png)
 
 *Donald Trump. PredicitIt Presidential Market 2/25*
 
@@ -48,3 +50,5 @@ The first PJ book I read was called "Republican Party Reptiles." He described hi
 The book contained an essay that I still think has the funniest title ever written: "How Drive Fast on Drugs While Getting Your Wing-Wang Squeezed and Not Spill Your Drink", reproduced [here](http://www.heretical.com/miscella/reptile.html).
 
 Anyway, Trump at 71%? Holy crap!
+
+![](/media/70yt/prediction-markets-have-trump-at-16-02-25/2.png)

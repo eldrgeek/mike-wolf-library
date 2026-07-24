@@ -10,7 +10,7 @@ excerpt: "Human communication is a kind of miracle. Think about it. I have an id
 word_count: 509
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

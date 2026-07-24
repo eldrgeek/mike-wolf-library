@@ -9,7 +9,8 @@ source: "70yt *good-conversations* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Opposite of productive conversation. Even inside otherwise productive talk.</p>

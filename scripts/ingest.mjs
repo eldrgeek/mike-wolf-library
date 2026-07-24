@@ -82,12 +82,33 @@ function parseFrontmatter(text) {
   const m = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
   if (!m) return { data: {}, body: text };
   const data = {};
-  const fmText = m[1];
-  const re = /^([a-zA-Z0-9_-]+):\s*(.*)$/gm;
-  let mm;
-  while ((mm = re.exec(fmText)) !== null) {
-    let val = mm[2].trim().replace(/^["']|["']$/g, '');
-    data[mm[1]] = val;
+  const lines = m[1].split('\n');
+  const unquote = s => s.trim().replace(/^["']|["']$/g, '');
+  let i = 0;
+  while (i < lines.length) {
+    const kv = lines[i].match(/^([a-zA-Z0-9_-]+):\s*(.*)$/);
+    if (!kv) { i++; continue; }
+    const key = kv[1];
+    const rest = kv[2].trim();
+    if (rest === '' && i + 1 < lines.length && /^\s*-\s+/.test(lines[i + 1])) {
+      // YAML list form:  key:\n  - a\n  - b
+      const arr = [];
+      i++;
+      while (i < lines.length && /^\s*-\s+/.test(lines[i])) {
+        arr.push(unquote(lines[i].replace(/^\s*-\s+/, '')));
+        i++;
+      }
+      data[key] = arr;
+      continue;
+    }
+    if (rest.startsWith('[') && rest.endsWith(']')) {
+      // inline array:  key: [a, b]
+      data[key] = rest.slice(1, -1).split(',').map(unquote).filter(Boolean);
+      i++;
+      continue;
+    }
+    data[key] = unquote(rest);
+    i++;
   }
   return { data, body: m[2].trim() };
 }
@@ -365,6 +386,8 @@ function parseTermsExtra() {
       relatedNames: Array.isArray(data.related) ? data.related : [],
       tags: Array.isArray(data.tags) ? data.tags : (data.tags ? [data.tags] : []),
       provenance: Array.isArray(data.provenance) ? data.provenance : [],
+      link: data.link || undefined,
+      link_label: data.link_label || undefined,
       bodyHtml,
       bodyText: bodyHtml.replace(/<[^>]+>/g, ' '),
     });
@@ -431,7 +454,12 @@ function wireCrossRefs() {
   const termSlugSet = new Set(termRecords.map(t => t.slug));
   const titleToSlug = new Map(termRecords.map(t => [t.title.toLowerCase(), t.slug]));
 
-  // term <-> term via "See also" names
+  // term <-> term: (a) explicit "See also" names, then (b) mention-matching —
+  // this term's body (or another term's body) references another term's title.
+  const norm = s => s.toLowerCase().replace(/^["'“”]+|["'“”]+$/g, '');
+  const termNeedles = termRecords
+    .filter(t => norm(t.title).length >= 5)
+    .map(t => ({ slug: t.slug, re: new RegExp('\\b' + norm(t.title).replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'i') }));
   for (const t of termRecords) {
     t.related = [];
     for (const name of t.relatedNames) {
@@ -440,7 +468,24 @@ function wireCrossRefs() {
       const byTitle = titleToSlug.get(name.toLowerCase());
       if (byTitle && byTitle !== t.slug) t.related.push(byTitle);
     }
-    t.related = [...new Set(t.related)];
+    // (b) this term's definition body mentions another term's title
+    for (const o of termNeedles) {
+      if (o.slug === t.slug || t.related.includes(o.slug)) continue;
+      if (o.re.test(t.bodyText)) t.related.push(o.slug);
+    }
+    t.related = [...new Set(t.related)].slice(0, 12);
+  }
+  // symmetric backfill: if A links to B, surface A under B too (discovery), capped
+  const backlinks = new Map();
+  for (const t of termRecords) for (const r of t.related) {
+    if (!backlinks.has(r)) backlinks.set(r, []);
+    backlinks.get(r).push(t.slug);
+  }
+  for (const t of termRecords) {
+    for (const b of (backlinks.get(t.slug) || [])) {
+      if (!t.related.includes(b)) t.related.push(b);
+    }
+    t.related = [...new Set(t.related)].slice(0, 12);
   }
 
   // term -> source provenance: a term is "discussed" in a source if the source
@@ -454,7 +499,9 @@ function wireCrossRefs() {
     // avoid extremely common words masquerading as terms
     const re = new RegExp('\\b' + needle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'i');
     for (const s of sourceRecords) {
-      if (re.test(s.bodyText)) {
+      // match the term title in the source body OR its title (title-puns like
+      // "intellectual rabithole" live in the post title, not the prose).
+      if (re.test(s.bodyText) || re.test(s.title)) {
         t.provenance.push(s.slug);
         s.relatedTerms.push(t.slug);
       }
@@ -501,6 +548,8 @@ function writeAll() {
       related: t.related || [],
       provenance: t.provenance || [],
       tags: t.tags || [],
+      link: t.link || undefined,
+      link_label: t.link_label || undefined,
     });
     writeFileSync(join(TERMS_DIR, `${t.slug}.md`), `${front}\n\n${t.bodyHtml}\n`);
   }

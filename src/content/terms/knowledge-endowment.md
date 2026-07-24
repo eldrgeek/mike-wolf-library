@@ -9,7 +9,8 @@ source: "70yt *knowledge-is-the-measure-of-all-things* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Infants arrive with knowledge endowment. Measure of what matters = knowledge moved to other substrates (blog) before death.</p>

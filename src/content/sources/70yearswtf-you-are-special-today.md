@@ -6,11 +6,12 @@ order: 0
 date: "2025-09-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/you-are-special-today"
-excerpt: "If you’ve landed on this web page, or gotten this in your email, you are special. Yes, you I don’t care if you are the second person here or the 1,000,000th or anywhere in between. I don’t care if we know one another or have never met. I…"
-word_count: 223
+excerpt: "![](/media/70yt/you-are-special-today/1.jpg) If you’ve landed on this web page, or gotten this in your email, you are special. Yes, you! [1](footnote-1) I don’t care if you are the second person here or the 1,000,000th or anywhere in…"
+word_count: 234
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -19,9 +20,11 @@ related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
+![](/media/70yt/you-are-special-today/1.jpg)
+
 If you’ve landed on this web page, or gotten this in your email, you are special.
 
-Yes, you
+Yes, you! [1](#footnote-1)
 
 I don’t care if you are the second person here or the 1,000,000th or anywhere in between.
 

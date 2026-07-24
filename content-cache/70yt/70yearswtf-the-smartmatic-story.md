@@ -7,11 +7,13 @@ date: "2021-02-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-smartmatic-story"
 excerpt: "Epic storytelling in a legal brief"
-word_count: 1114
+word_count: 1122
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/the-smartmatic-story/1.jpg)
 
 Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/voting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -75,3 +77,5 @@ Read this—extracted from the court filings, and see what you think—as litera
 9. Defendants’ story was a lie. All of it. And they knew it. But, it was a story that sold. Millions of individuals who saw and read Defendants’ reports believed them to be true. Smartmatic and its officers began to receive hate mail and death threats…
 
 Once again, you can read the whole work [here](https://www.courthousenews.com/wp-content/uploads/2021/02/SMARTMATIC-fox.pdf).
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

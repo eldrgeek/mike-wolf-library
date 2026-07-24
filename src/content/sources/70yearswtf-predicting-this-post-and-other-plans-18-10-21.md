@@ -10,7 +10,8 @@ excerpt: "Instead of deciding to write this, I predicted that I would. I later r
 word_count: 681
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

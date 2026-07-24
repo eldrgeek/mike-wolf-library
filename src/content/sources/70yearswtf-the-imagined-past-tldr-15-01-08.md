@@ -7,10 +7,10 @@ date: "2015-01-08"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-imagined-past-tldr-15-01-08"
 excerpt: "Really, this is too long, and not worth reading. Trust me on that. The only reason I'm posting it is to get it out of my Drafts list because I'm otherwise going to spend another ten hours adding to it, and life's too short, and this topic…"
-word_count: 1981
+word_count: 2034
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -68,7 +68,11 @@ But in summary:
 
 They compare literacy at two points in time, 1992 and 2003, and identify a set of [literacy skills](http://nces.ed.gov/naal/images/sevenkeyskillsets.jpg), which they organize as follows:
 
+![](/media/70yt/the-imagined-past-tldr-15-01-08/1.jpg)
+
 They then produce summaries of three kinds of literacy, which they call Prose, Document, and Quantitative Literacy. The criteria are [here](http://nces.ed.gov/naal/perf_levels.asp).
+
+![Average prose, document and quantative literacy scores of adults: 1992 and 2003](/media/70yt/the-imagined-past-tldr-15-01-08/2.jpg)
 
 The graph shows that Prose and Document are unchanged, and Quantitative is up during the ten year period studied.
 Breaking down Prose Literacy we see that roughly half of today's population is Intermediate or above. The criteria for Intermediate Prose literacy are:
@@ -78,6 +82,8 @@ Breaking down Prose Literacy we see that roughly half of today's population is I
 For Proficient Prose Literacy the criteria are:
 
 - reading lengthy, complex, abstract prose texts as well as synthesizing information and making complex inferences
+
+![Number of Adults in Each Prose Literacy Level](/media/70yt/the-imagined-past-tldr-15-01-08/3.jpg)
 
 While I have not found data
 

@@ -9,7 +9,8 @@ source: "70yt *qfe-our-mom*; *family-motto*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Family honorific for Judith Wolf — joke-teller, force of nature; Motto Superior. Public blog memorial voice.</p>

@@ -7,11 +7,13 @@ date: "2025-11-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-agree-to-disagree"
 excerpt: "And if you disagree with that statement, I don't agree to disagree."
-word_count: 889
+word_count: 890
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/i-dont-agree-to-disagree/1.jpg)
 
 Maybe this sounds like a silly subject for a post.
 

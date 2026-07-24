@@ -9,7 +9,8 @@ source: "SRMW."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not therapy-speak aside: speaking character from page one with explicit job description. Default oppositional OS for the whole book.</p>

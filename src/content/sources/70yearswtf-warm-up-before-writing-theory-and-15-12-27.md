@@ -6,11 +6,12 @@ order: 0
 date: "2015-12-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/warm-up-before-writing-theory-and-15-12-27"
-excerpt: "Photo credit: [NicholasT](https://www.flickr.com/photos/nicholast/6039529153/) via [Foter.com](http://foter.com/photo/stretched-1/) / [CC BY](http://creativecommons.org/licenses/by/2.0/) Today I started out having a crap time writing.…"
-word_count: 738
+excerpt: "![](/media/70yt/warm-up-before-writing-theory-and-15-12-27/1.jpg) Photo credit: [NicholasT](https://www.flickr.com/photos/nicholast/6039529153/) via [Foter.com](http://foter.com/photo/stretched-1/) / [CC…"
+word_count: 751
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/warm-up-before-writing-theory-and-15-12-27/1.jpg)
 
 Photo credit: [Nicholas_T](https://www.flickr.com/photos/nicholas_t/6039529153/) via [Foter.com](http://foter.com/photo/stretched-1/) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 

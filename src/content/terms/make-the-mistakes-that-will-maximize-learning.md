@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-05 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Generative half of RSI-loop pair. Well-chosen novel errors are investment; repeating known errors is waste.</p>

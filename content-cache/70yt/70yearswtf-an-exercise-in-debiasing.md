@@ -7,12 +7,14 @@ date: "2021-02-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/an-exercise-in-debiasing"
 excerpt: "Does framing changes your perception? Or is it just me?"
-word_count: 913
+word_count: 914
 tags:
   - "70YearsWTF"
   - "rationality"
 related: []
 ---
+
+![](/media/70yt/an-exercise-in-debiasing/1.jpg)
 
 Daniel sent [this article published in Time](https://time.com/5936036/secret-2020-election-campaign/) to me and several other people. Some leaned Left and some Right.
 

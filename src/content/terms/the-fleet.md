@@ -9,6 +9,12 @@ related:
   - "dee"
   - "dispatch"
   - "ralph-loop"
+  - "soma"
+  - "substrate-codenames-og-opie-dee-gem"
+  - "specialist-ledger"
+  - "dispatch-dont-micromanage"
+  - "process-my-comments"
+  - "the-board"
 provenance: []
 tags:
   - "dialect"

@@ -9,7 +9,8 @@ source: "70yt *modern-monetary-theory-and-why-it* (batch 6)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Timing is part of correctness. Minimum bar for large-scale economic theory when experiments are impossible.</p>

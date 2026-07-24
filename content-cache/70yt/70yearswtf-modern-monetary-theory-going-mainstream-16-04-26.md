@@ -7,7 +7,7 @@ date: "2016-04-26"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/modern-monetary-theory-going-mainstream-16-04-26"
 excerpt: "English: Portrait of Milton Friedman (Photo credit: Wikipedia) Modern Monetary Theory, operating under other brand names, is starting to gain traction, interest, and legitimacy. Not just me and a couple of crazy academics who think there's something there. From this…"
-word_count: 935
+word_count: 937
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -39,6 +39,8 @@ by Willem Buiter, chief economist for Citibank. Buiter's paper argues that when 
 A 2014 article, "[Send In The Helicopters](http://www.economist.com/blogs/buttonwood/2014/11/reviving-economy)," in the Economist, also discusses it as a legitimate option.
 
 Bernanke has recently published an article at Brookings on the subject. ["What Tools Does the Fed Have Left? Part III Helicopter Money."](http://www.brookings.edu/blogs/ben-bernanke/posts/2016/04/11-helicopter-money) and that seems to have prompted the latest spike in in interest in "helicopter money" as shown [here](https://www.google.com/trends/explore#q=helicopter%20money&date=1%2F2014%2028m&cmpt=q&tz=Etc%2FGMT%2B4) in Google Trends.
+
+![HelicopterMoney](/media/70yt/modern-monetary-theory-going-mainstream-16-04-26/1.png)
 
 Bernanke gives it a new, less stupid name: "Money-financed fiscal actions" or MFFAs and distinguishes between "money financed fiscal policy" policy as distinct from "debt financed fiscal policy."
 

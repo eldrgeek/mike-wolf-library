@@ -47,4 +47,6 @@ So am I done writing this?
 
 Heads, I'm done and I post it. Tails, one more pass. OK, flip [this](https://www.random.org/coins/?num=1&cur=20-novelty.decision-maker).
 
+![](/media/70yt/flip-a-coin-16-11-30/1.jpg)
+
 Done.

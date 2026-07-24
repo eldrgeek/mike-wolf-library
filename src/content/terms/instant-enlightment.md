@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *instant-enlightment* (batch 3)."
 source: "70yt *instant-enlightment* (batch 3)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-instant-enlightment"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Title misspelling as comic doctrine: sit down, Buddha says you’re enlightened.</p>

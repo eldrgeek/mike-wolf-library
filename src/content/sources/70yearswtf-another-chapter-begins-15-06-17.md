@@ -10,7 +10,9 @@ excerpt: "Or maybe it's a bunch of chapters. It should be. I hope it is. A lot h
 word_count: 499
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

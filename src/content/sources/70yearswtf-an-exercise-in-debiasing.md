@@ -6,11 +6,12 @@ order: 0
 date: "2021-02-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/an-exercise-in-debiasing"
-excerpt: "Daniel sent [this article published in Time](https://time.com/5936036/secret-2020-election-campaign/) to me and several other people. Some leaned Left and some Right. The article is about a group of people concerned that Donald Trump would…"
-word_count: 979
+excerpt: "![](/media/70yt/an-exercise-in-debiasing/1.jpg) Daniel sent [this article published in Time](https://time.com/5936036/secret-2020-election-campaign/) to me and several other people. Some leaned Left and some Right. The article is about a…"
+word_count: 987
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/an-exercise-in-debiasing/1.jpg)
 
 Daniel sent [this article published in Time](https://time.com/5936036/secret-2020-election-campaign/) to me and several other people. Some leaned Left and some Right.
 

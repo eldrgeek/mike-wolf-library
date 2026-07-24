@@ -10,7 +10,8 @@ related: []
 provenance:
   - "srmw-part-iv-the-adversary"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Formal physics of the metanovel: chapters out of order, antichapters creating prior chapters. Ordinary chronology is the wrong model.</p>

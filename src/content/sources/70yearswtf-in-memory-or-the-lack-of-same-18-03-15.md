@@ -10,7 +10,9 @@ excerpt: "This morning I woke up, stumbled out of bed, wandered around for a few
 word_count: 509
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

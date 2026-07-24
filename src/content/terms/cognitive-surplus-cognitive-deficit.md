@@ -9,7 +9,8 @@ source: "70yt *cognitive-surplus-cognitive-deficit* (batch 6)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not Shirky’s spare-time sense: speech slower than thought; surplus left after filling speech buffer. WIP inventory makes expression cheaper mid-conversation.</p>

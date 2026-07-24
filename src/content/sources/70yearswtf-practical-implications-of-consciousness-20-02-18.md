@@ -10,7 +10,8 @@ excerpt: "-In [yesterday’s post](https://70yearsoldwtf.blogspot.com/2020/02/co
 word_count: 1566
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

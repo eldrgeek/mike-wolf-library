@@ -7,11 +7,13 @@ date: "2015-01-10"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-homesman-and-the-writist-15-01-10"
 excerpt: "Last night we saw a film, The Homesman, at the Stonington Opera House. Hilary Swank and Tommy Lee Jones star, with cameo performances by John Lithgow, Meryl Streep, and the always entertaining James Spader. Tommy Lee Jones, Wikipedia tells me,…"
-word_count: 267
+word_count: 268
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/the-homesman-and-the-writist-15-01-10/1.jpg)
 
 Last night we saw a film, [The Homesman](http://www.imdb.com/title/tt2398231/), at the [Stonington Opera House](http://www.operahousearts.org/). Hilary Swank and Tommy Lee Jones star, with cameo performances by John Lithgow, Meryl Streep, and the always entertaining James Spader.
 

@@ -10,7 +10,8 @@ excerpt: "The motivating idea: all knowledge already exists. It’s just not in 
 word_count: 1400
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

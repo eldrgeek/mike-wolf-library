@@ -7,12 +7,14 @@ date: "2022-03-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/todays-miracle"
 excerpt: "True fact: I woke up from a dream a couple of nights ago and wrote what’s in the image at the top of this post so I wouldn’t forget it. If there were a God who created a world with…"
-word_count: 858
+word_count: 854
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/todays-miracle/1.jpg)
 
 True fact: I woke up from a dream a couple of nights ago and wrote what’s in the image at the top of this post so I wouldn’t forget it.
 

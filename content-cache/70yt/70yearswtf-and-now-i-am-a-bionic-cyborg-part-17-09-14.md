@@ -7,7 +7,7 @@ date: "2017-09-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/and-now-i-am-a-bionic-cyborg-part-17-09-14"
 excerpt: "Part 1 of this series told the events that led to September, 5. 2017, my Bionic Cyborg Day. This post, complete with pictures, tells the story of my operation and continues to the point when I’m walking—about four hours after…"
-word_count: 1381
+word_count: 1380
 tags:
   - "70YearsWTF"
 related: []
@@ -34,29 +34,47 @@ Wednesday:
 
 We arrive at the Faulkner at 9 AM. I register and go up to 6th floor orthopedic surgery. There I get checked in, they make a chart for me.
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/1.jpg)
+
 And after a brief stay in the waiting room, and a near-miss on my pre op protocol (Me: “Is there a water fountain around? I’m dehydrated.” Them: “Did you forget? Not even water for three hours before the operation.” Me: “Just testing you.” Not) I’m off to be prepped in pre op/recovery.
 
 # Prep
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/2.jpg)
+
 They issue me a bag for my stuff, a jolly blue johnny, and a pair of white boxer shorts to keep my dingaling from dangling. All jewelry comes off. My ring made off it at home with help from a little olive oil but I forgot the silver chain that I wear. Bobbi gave it to me (otherwise I’d never wear it.) That came off in the hospital and went in a bag.
+
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/3.jpg)
 
 They put in plumbing for an IV line. The red “Alergies” band is because once upon a time Vyvanse gave me an an erratic heartbeat. So careful.
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/4.jpg)
+
 And after I’m all prepped. Or maybe they put the magic anti-DVT leggings on me. They’ll be attached to an annyoning machine that has been my companion since. It flows air into little bladders that circle my legs and keep the blood flowing, so no blood clots. We hope. They let Bobbi and Mira come in and stay with me.
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/5.jpg)
+
 Everyone who talks to me starts by asking me my name and my date of birth. Except Mira and Bobbi. I’m at the top of my cognitive game and I get it right every time. Every single time.
+
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/6.jpg)
 
 And which knee, they ask? Right knee, right? A couple of days before the operation I went to a site that sells temporary tatoos and thought of getting one that says, “This knee!” and another that says “Not this knee, dummy” but I worried that the ink would have some bad effect. Or Dr. Fitz would be so not-amused that he’d cancel the operation. Good imagination. Low liklihood. Very high penalty. So no tattoo.
 
 My anesthesiologist, comes in and introduces himself: Dr. Jong. Jason, he says. He checks name, date, and knee. Dr Fitz comes in and checks name, date, and knee. And he autographs the knee and puts some brackets on it. Somewhere along the line I get my knee shaved.
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/7.jpg)
+
 I meet the surgical nurse who will be attending me and several other staffers. I wish I’d written down their names so that I could acknowledge them individually. Everyone is terrific. Very friendly. Obviously intelligent and on top of their job. It’s hard to imagine how Bangor could have delivered more personal service than the Faulkner did. These guys were all great.
 
 I got droidy back (Mira’s name for my Android) and took pictures and sent messages in the family Hangout. They’re all date stamped and from the painless real-time record I was able to construct the timeline for the procedure. Next time I have an operation, pictures of all the staff, along with releases so that I can use them in publication.
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/8.jpg)
+
 # **Off to the OR**
 
 The picture below is time-stamped 11:56 AM. I’m wheeled off to the OR, Dr. Yong at my head. Sadly, they won’t let drody in there.
+
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/9.jpg)
 
 Whee! Once I’m in the OR they move me from the gurney to an operating table. The table is narrower than I would have thought, but it makes sense. They want to get right at the patient, so minimal obstruction. A table next to mine is loaded with stuff. I see my very own Conformis kit, rows and rows of metal instruments, and…”Oh, look!” I say, pointing “There’s the drill. And there’s the saw.” I’m referring to the instruments that were featured in the [video of a Conformis total knee replacement.](http://conformis.orlive.com/videos/the-conformis-itotal-g2-patient-specific-knee-replacement-system) Here’s a [PDF of the surgical guide](http://www.conformis.com/wp-content/uploads/2016/10/MK-02543-AE_iDuo-TF-STG1.pdf) for anyone who wants a guide.
 
@@ -72,13 +90,21 @@ Next, I’m awake and in recovery. Not wide awake and chirpy, but not groggy eit
 
 After a while Bobbi and Mira show up. With droidy! And there’s my knee. There’s a plastic square over the area and a tire patch over the kneecap, and that’s it. No dressings to change. No redness. Some inflamation. But it’s done.
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/10.jpg)
+
 And there’s me, at 2:22. Remember, I went in to the OR at about noon. So this is just an hour post surgery, doing fine.
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/11.jpg)
+
 And then at 3:19, just a little sleepy.
+
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/12.jpg)
 
 # **To room 702**
 
 And then, just a bit later, awake, droidy in hand, I’m ready to go to my room
+
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/13.jpg)
 
 They wheel me off to my room on the 7th floor. Room 702. Whee! ([Part 1](https://photos.google.com/share/AF1QipNomupt7TaG5JCYfe_SIlgSGiIRMRbt7D-cFbrRGasXaNpVyj4ovS6N4i0keHdqYQ/photo/AF1QipMs5m9MWpEQQwTkpX4lJLjk8z97wL1PzfccdQlf?key=Wng3aVpZSWtBbUZyWDEtYnJkYkNGVDBDZkZwb1FR); [Part 2](https://photos.google.com/share/AF1QipNomupt7TaG5JCYfe_SIlgSGiIRMRbt7D-cFbrRGasXaNpVyj4ovS6N4i0keHdqYQ/photo/AF1QipPonu8qLa2dg2Whnx3CKGitppCmN5tYhO1LI1jo?key=Wng3aVpZSWtBbUZyWDEtYnJkYkNGVDBDZkZwb1FR)) that would be my home for the next 26 hours, or so.
 
@@ -86,17 +112,27 @@ They wheel me off to my room on the 7th floor. Room 702. Whee! ([Part 1](https:/
 
 And then at 5:30 PM, just four hours after surgery, in comes one of the physiotherapists to take me for a walk.
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/14.jpg)
+
 “Will it bend,” Alyssa wonders. It does. You can see the ant-DVT stockings in this photo, fine.
+
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/15.jpg)
 
 And I’m off on my first walk at 5:32 PM
 
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/16.jpg)
+
 Then exhausted by my triumph, I crash. Watch cap on my head and over my eyes. Sleep mask to make sure no light gets in. CPAP for breathing. I’m folded up and sleeping, at 8:24 PM.
+
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/17.jpg)
 
 # **Pee achievements**
 
 Later I wake up. And at 8:50 PM, I unlock an achievement. I pee in a jar! I am beside myself with excitement. Not.
 
 At 10:21, I’ve got the hang of peeing. I unlock another achievement: 250 ml of pee.
+
+![](/media/70yt/and-now-i-am-a-bionic-cyborg-part-17-09-14/18.gif)
 
 Daniel sends me a series of celebratory gifs. This is the best of the lot.
 

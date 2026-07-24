@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/could-i-possibly-be-stupider-i-dont-15-01-24/1.png)
+
 Yesterday I wrote a post about an epiphany that I had. Well, maybe it wasn't an epiphany. Maybe a mipiphany, a word I just made up. I means a miniature epiphany. Whatever we call it, it was an idea.
 
 For those who don't have time to read [the original post](http://70yearsoldwtf.blogspot.com/2015/01/lying-experiment.html), here's the Classic Comic version: Mental Broadcast News strongly influences public opinion. What a voice in my head says, if true, gives that voice, or the faction that it represents more power. Because survival.

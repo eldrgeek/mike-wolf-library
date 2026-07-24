@@ -10,7 +10,9 @@ excerpt: "In the world of science, we've come to agree on the way we reason. Our
 word_count: 3335
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

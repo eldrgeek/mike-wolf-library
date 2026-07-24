@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/my-warm-little-nest-and-nest-16-01-14/1.jpg)
+
 You never know what matters until you nearly lose it. That's what happened when I lost contact with my Nest thermostat. And our little nest in Maine.
 
 On the road, away from home, I get an email from Lisa, the lady who is looking after our plants while we are away: Power went off in the house. Generator didn't go on. Called the generator service. They took care of it. All is fine.

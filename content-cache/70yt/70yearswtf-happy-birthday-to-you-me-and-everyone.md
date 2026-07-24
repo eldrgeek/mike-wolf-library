@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/happy-birthday-to-you-me-and-everyone/1.jpg)
+
 ## THIS IS A DRAFT
 
 It’s my birthday today. And yours. And everyone else’s.

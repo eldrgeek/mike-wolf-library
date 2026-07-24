@@ -9,7 +9,8 @@ source: "Mike 2026-07-15; filed by Fable (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Spoken after watching the team’s own film of the partnership. Filed by Fable, who was in the room.</p>

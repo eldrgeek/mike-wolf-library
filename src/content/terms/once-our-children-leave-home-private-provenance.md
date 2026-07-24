@@ -9,7 +9,8 @@ source: "Mike 2026-05-10, conversation with Mark Lesser (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Drawing Free Energy Principle conversation into kinship register. Names private person Mark Lesser in provenance.</p>

@@ -10,7 +10,9 @@ excerpt: "Holy crap When I wrote [Waking up, Day 20](https://70yearsoldwtf.blogs
 word_count: 235
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

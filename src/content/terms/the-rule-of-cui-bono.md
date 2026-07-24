@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-the-rule-of-cui-bono-18-01-07"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Public-benefit claims are non-information. Real analysis is secondary beneficiaries and cost-bearers.</p>

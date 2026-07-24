@@ -10,7 +10,9 @@ excerpt: "A friend said this in a forum we both post to: The stock market is beh
 word_count: 579
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

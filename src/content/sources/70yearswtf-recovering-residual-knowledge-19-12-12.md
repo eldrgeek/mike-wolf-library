@@ -10,7 +10,9 @@ excerpt: "Occasionally someone reminds me of a fascinating idea that I discovere
 word_count: 627
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

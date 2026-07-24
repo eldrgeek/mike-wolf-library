@@ -10,7 +10,8 @@ excerpt: "The other day, frustrated, confused, I sat down to try and clarify wha
 word_count: 208
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

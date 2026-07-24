@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/do-you-believe-in-love-or-forests/1.jpg)
+
 Do you believe in love? Or forests? Or sunlight? Or God?
 
 If you're in love right now, "Do you believe in love?" is a laughable question. You don't *believe in* love. You're *in* love. You live in love. Love fills everything around you.

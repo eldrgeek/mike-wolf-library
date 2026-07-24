@@ -10,7 +10,9 @@ excerpt: "Daniel and I have been talking about meditation since roughly foreverâ
 word_count: 1647
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-the-goal-part-ii-19-05-17"

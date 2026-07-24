@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/the-piano-artistry-of-jonathan-edwards-15-08-29/1.jpg)
+
 Conversation with a friend reminded me of "[The Piano Artistry of Jonathan Edwards](http://en.wikipedia.org/wiki/The_Piano_Artistry_of_Jonathan_Edwards)," an album long forgotten. The Wikipedia article provides details and links.
 Released in 1957, it featured [Jo Stafford](http://en.wikipedia.org/wiki/Jo_Stafford), then a popular singer, and her husband [Paul Weston](http://en.wikipedia.org/wiki/Paul_Weston) on piano, the two pretending to be Jonathan and Darlene Edwards.
 A high-school friend of mine, Wylie Crawford, had it, and our family got a copy. Check out the album cover. There's a clue there.

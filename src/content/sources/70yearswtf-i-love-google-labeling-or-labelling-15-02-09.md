@@ -7,10 +7,11 @@ date: "2015-02-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-love-google-labeling-or-labelling-15-02-09"
 excerpt: "In a [previous post](http://70yearsoldwtf.blogspot.com/2015/03/post-labelling-paralysis.html), I said: Note: PLP is Post Labeling Paralysis and FLT is Fuck Labeling Paralysis in the United States. In Canada and the rest of the English…"
-word_count: 254
+word_count: 280
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -25,7 +26,11 @@ In a [previous post](http://70yearsoldwtf.blogspot.com/2015/03/post-labelling-pa
 
 That last 'here' is this post, wherein I present the evidence to back up the assertion, courtesy of Google. Google can grovel over its collection of scanned and otherwise electronified books and tells us the relative use of the alternative spellings.
 
+![](/media/70yt/i-love-google-labeling-or-labelling-15-02-09/1.jpg)
+
 [Labeling and Labelling, American Style](https://books.google.com/ngrams/graph?content=labeling%2Clabelling&year_start=1800&year_end=2000&corpus=18&smoothing=3&share=&direct_url=t1%3B%2Clabeling%3B%2Cc0%3B.t1%3B%2Clabelling%3B%2Cc0)
+
+![](/media/70yt/i-love-google-labeling-or-labelling-15-02-09/2.jpg)
 
 [Labeling and Labelling, UK style](https://books.google.com/ngrams/graph?content=labeling%2Clabelling&year_start=1800&year_end=2000&corpus=18&smoothing=3&share=&direct_url=t1%3B%2Clabeling%3B%2Cc0%3B.t1%3B%2Clabelling%3B%2Cc0)
 

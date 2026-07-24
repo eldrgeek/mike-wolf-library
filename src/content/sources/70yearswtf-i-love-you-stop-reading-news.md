@@ -6,11 +6,13 @@ order: 0
 date: "2021-10-19"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-love-you-stop-reading-news"
-excerpt: "Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/news?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)…"
-word_count: 886
+excerpt: "![Photo by Jeremy Bishop(https://unsplash.com/@jeremybishop?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 931
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "best of"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by Jeremy Bishop(https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/news?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/i-love-you-stop-reading-news/1.jpg)
 
 *Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/news?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -104,3 +108,5 @@ Please.
 ---
 
 Note. This is not news. You can safely read it. And even subscribe.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

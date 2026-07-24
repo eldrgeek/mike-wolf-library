@@ -6,11 +6,11 @@ order: 0
 date: "2015-01-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/blue-apron-dinnerma-drama-15-01-17"
-excerpt: "Prepping before the power went For Christmas one of our daughters gave us a gift coupon for [Blue Apron](http://www.blueapron.com/). Blue Apron is a company that is commoditising gourmet cooking. Sign up and each week (if you opt-in for…"
-word_count: 436
+excerpt: "![](/media/70yt/blue-apron-dinnerma-drama-15-01-17/1.jpg) Prepping before the power went For Christmas one of our daughters gave us a gift coupon for [Blue Apron](http://www.blueapron.com/). Blue Apron is a company that is commoditising…"
+word_count: 447
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/blue-apron-dinnerma-drama-15-01-17/1.jpg)
 
 Prepping before the power went
 

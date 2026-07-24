@@ -7,16 +7,17 @@ date: "2020-04-13"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-mindful-photographic-moments-20-04-13"
 excerpt: "Let’s get back to first principles. On February 26, 2016, Daniel created a hangouts channel for the two of us called “Mindful Photographic Moments.” With Daniel’s agreement, I invited Justin to join—though they had never met. Daniel Feb…"
-word_count: 753
+word_count: 768
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-mediocre-me-19-01-13"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Let’s get back to first principles.
@@ -30,6 +31,8 @@ On February 26, 2016, Daniel created a hangouts channel for the two of us called
 > It’s reminding each other to wake up and be mindful — through the medium of photography, or not. Theory is that we need to be re-minded.
 
 Justin’s first contribution to the group was a perfectly Zen image of a nearly cloudless sky. Still one of the most memorable photos.
+
+![enter image description here](/media/70yt/the-mindful-photographic-moments-20-04-13/1.jpg)
 
 Daniel and Justin got to know one another:
 

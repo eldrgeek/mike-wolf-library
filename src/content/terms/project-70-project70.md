@@ -9,7 +9,8 @@ source: "70yt *lapses-and-fubar* (batch 6)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Founding frame of 70YearsWTF: identity, social renaissance, daily posting, anti-lapse discipline.</p>

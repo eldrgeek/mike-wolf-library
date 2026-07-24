@@ -6,11 +6,11 @@ order: 0
 date: "2019-12-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/a-request-for-miracles-19-12-14"
-excerpt: "It started with a conversation at the Stonington Opera House. A young woman told me about her miracle—her child. The next day, I asked for a miracle—and got one. That led to me remembering a quotation I’d heard. That led me to find the…"
-word_count: 634
+excerpt: "![A tranquil 16:9 cover image that fills the entire frame and reflects the theme of miracles and discovery. The scene features a serene landscape with vibrant shades of blue and green, showcasing a peaceful ocean meeting the horizon under…"
+word_count: 737
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![A tranquil 16:9 cover image that fills the entire frame and reflects the theme of miracles and discovery. The scene features a serene landscape with vibrant shades of blue and green, showcasing a peaceful ocean meeting the horizon under a soft blue sky. A lush, green forest frames the sides, and a winding path leads through the greenery toward the ocean. In the center of the path, a glowing, ethereal light symbolizes connection and wonder. The composition fully fills the frame, emphasizing nature's beauty, calmness, and a sense of awe.](/media/70yt/a-request-for-miracles-19-12-14/1.jpg)
 
 It started with a conversation at the Stonington Opera House. A young woman told me about her miracle—her child.
 

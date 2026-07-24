@@ -6,18 +6,22 @@ order: 0
 date: "2018-11-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/waking-up-with-my-personal-coach-18-11-03"
-excerpt: "[My Book](https://thebook.mike-wolf.com/) told me to write this. Well, indirectly. It was my personal coach who directly told to write this. What is “this”? And who is my personal coach? “This” is this post is about [Sam…"
-word_count: 2125
+excerpt: "![Waking Up Course](/media/70yt/waking-up-with-my-personal-coach-18-11-03/1.jpg) [My Book](https://thebook.mike-wolf.com/) told me to write this. Well, indirectly. It was my personal coach who directly told to write this. What is “this”?…"
+word_count: 2141
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-an-experiment-not-a-resolution-16-01-05"
+  - "70yearswtf-family-of-mind-internal-family-systems-15-03-14"
+  - "70yearswtf-get-out-of-your-head-and-into-your-18-03-11"
+  - "70yearswtf-mikesim-version-73-a-simulated-human-16-01-01"
+  - "70yearswtf-my-100-latte-15-12-22"
 ---
+
+![Waking Up Course](/media/70yt/waking-up-with-my-personal-coach-18-11-03/1.jpg)
 
 [My Book](https://thebook.mike-wolf.com/) told me to write this. Well, indirectly. It was my personal coach who directly told to write this. What is “this”? And who is my personal coach?
 

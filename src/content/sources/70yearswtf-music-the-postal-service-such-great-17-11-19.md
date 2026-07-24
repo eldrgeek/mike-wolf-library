@@ -10,7 +10,7 @@ excerpt: "A friend of mine sent me the video embedded below. It's a great song w
 word_count: 97
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

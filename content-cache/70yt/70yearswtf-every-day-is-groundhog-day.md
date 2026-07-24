@@ -7,11 +7,13 @@ date: "2025-12-10"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/every-day-is-groundhog-day"
 excerpt: "Why not take advantage of it?"
-word_count: 448
+word_count: 395
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/every-day-is-groundhog-day/1.jpg)
 
 I watched “[Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film))” the other night. I think I’ve watched it 50 times.
 

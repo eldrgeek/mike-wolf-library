@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-birthday-activity-part-2-18-01-01"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Bias-management: still biased, but not fused to the fight.</p>

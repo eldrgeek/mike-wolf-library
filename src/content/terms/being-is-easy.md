@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-being-is-easy-and-when-youre-being-19-09-02"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Decide “I am a writer” without yet requiring output. Anti-akrasia identity move. Packaged with “This One Simple Trick (TM).”</p>

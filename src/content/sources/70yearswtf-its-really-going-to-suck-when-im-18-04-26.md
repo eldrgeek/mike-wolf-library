@@ -10,7 +10,7 @@ excerpt: "It's going to suck when I'm dead. But not for me. I'll be dead. Things
 word_count: 348
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

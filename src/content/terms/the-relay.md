@@ -8,6 +8,9 @@ source: ""
 related:
   - "hermes"
   - "dispatch"
+  - "yeshie"
+  - "pulse-pulse-core"
+  - "the-vps"
 provenance:
   - "70yearswtf-pricing-lessons-learned"
 tags:

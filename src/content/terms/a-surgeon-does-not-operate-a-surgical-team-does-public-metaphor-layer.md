@@ -9,7 +9,8 @@ source: "Mike 2026-05-06 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Surgical metaphor is publicly tellable; Wall’s application is fleet ops (INTERNAL). Publish stripped version?</p>

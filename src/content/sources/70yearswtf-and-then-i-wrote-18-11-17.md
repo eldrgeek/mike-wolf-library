@@ -10,7 +10,9 @@ excerpt: "“So,” I thought to myself, “what am I going to write first?” �
 word_count: 258
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

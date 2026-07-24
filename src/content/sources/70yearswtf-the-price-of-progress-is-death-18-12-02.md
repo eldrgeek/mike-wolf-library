@@ -10,7 +10,8 @@ excerpt: "Nature is cruel. For something to grow, something else must wither. Fo
 word_count: 529
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

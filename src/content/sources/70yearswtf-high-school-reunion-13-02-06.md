@@ -10,7 +10,7 @@ excerpt: "Another joke remembered from the past, today, May 21, despite the back
 word_count: 156
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

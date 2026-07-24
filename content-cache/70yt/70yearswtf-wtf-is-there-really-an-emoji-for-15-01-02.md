@@ -7,7 +7,7 @@ date: "2015-01-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/wtf-is-there-really-an-emoji-for-15-01-02"
 excerpt: "Yes, poop lovers, there is an emoji for poop. Yes emoji lovers, there really is an emoji for poop. And especially, yes, poop emoji lovers there really, really is an emoji for poop. Check it out - That's not really…"
-word_count: 376
+word_count: 345
 tags:
   - "70YearsWTF"
 related: []
@@ -20,6 +20,8 @@ Yes emoji lovers, there really is an emoji for poop.
 And especially, yes, poop emoji lovers there really, really is an emoji for poop.
 
 Check it out ->
+
+![poop](/media/70yt/wtf-is-there-really-an-emoji-for-15-01-02/1.gif)
 
 That's not really it. Emoji appear in chat applications, not in web posts. This is a pseudo emoji animation (technically a pseudomojination) which I got from [this article](http://www.fastcompany.com/3037803/the-oral-history-of-the-poop-emoji-or-how-google-brought-poop-to-america), "How Google Broght Poop to America", h/t to FastCompany.com
 

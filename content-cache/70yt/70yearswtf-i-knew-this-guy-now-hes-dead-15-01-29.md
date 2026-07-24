@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/i-knew-this-guy-now-hes-dead-15-01-29/1.jpg)
+
 Strange reading an article written by someone you don't know about the death of someone else you don't know, and then discover that you do know the person who died. That's what happened when I read [this piece](https://medium.com/message/deathhacks-b767903b7c15).
 
 People that I knew keep dying. Or keep having died.

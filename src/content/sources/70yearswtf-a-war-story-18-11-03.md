@@ -6,11 +6,12 @@ order: 0
 date: "2018-11-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/a-war-story-18-11-03"
-excerpt: "The first job I had was with a defense contractor called Airborne Instrument Laboratory. They paid me money and kept me out of Vietnam, which I had heard was no fun. AIL had a contract with the Air Force to build airborne instruments…"
-word_count: 1644
+excerpt: "![](/media/70yt/a-war-story-18-11-03/1.jpg) The first job I had was with a defense contractor called Airborne Instrument Laboratory. They paid me money and kept me out of Vietnam, which I had heard was no fun. AIL had a contract with the…"
+word_count: 1692
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/a-war-story-18-11-03/1.jpg)
 
 The first job I had was with a defense contractor called Airborne Instrument Laboratory. They paid me money and kept me out of Vietnam, which I had heard was no fun. AIL had a contract with the Air Force to build airborne instruments (natch) that collected data from Soviet radars. It was called ELINT or ELectronic INTelligence. I was part of the team that wrote the software to process the data that came back.
 
@@ -33,6 +36,8 @@ When the time came to deliver, we all flew out to Offutt AFB near Omaha, Nebrask
 
 Once the software had passed its first tests, they needed someone for field support. The other guys were married, and I didn't even have a girlfriend--actually, I’m not even sure I had any friends--so I stayed behind. The benefits were pretty sweet for 22-year-old me. I got a hot new blue Mustang rental kinda like this:
 
+![Dream car for 22-yo me](/media/70yt/a-war-story-18-11-03/2.jpg)
+
 *Dream car for 22-yo me*
 
 Way, way, much, much nicer than the clunker I drove at home.
@@ -46,6 +51,8 @@ As a guest in the motel, I was treated with deference by all of the staff. Ridin
 At work, I’d stumbled into what I would now describe as a cool marketing trick. I discovered that when I behaved in unconventional ways, the people I worked with had to explain me to other people. The easy explanation was: “he's a genius.” Because you know, geniuses are weird. I was pretty smart, but the stranger I behaved, the more of a genius I had to be and the more respect I got.
 
 So a year later, I drive into the Air Force Base in my Mustang. The Air Force guys are in uniform. The civilian contractor guys are in a different kind of uniform. And I'm in my own unique, weird uniform. I’ve got longish hair. I'm wearing shades--indoors and out. I've got on blue jeans, engineer boots with inch-high heels, a blue work shirt, and a Levi jacket. I could not say “I march to a different drum than the rest of you” or perhaps "fuck you all" much louder.
+
+![One part of the look](/media/70yt/a-war-story-18-11-03/3.jpg)
 
 *One part of the look*
 
@@ -76,3 +83,5 @@ I did eventually end up getting a life, and it turned out pretty good. And I got
 And I turned this into one of the #warstories.
 
 H/T (or blame) to JonathanL and SteveO and SteveG for inspiration. Typos (some fixed) are all my doing.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

@@ -7,7 +7,7 @@ date: "2023-01-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/draft-having-subscribers-is-a-pain"
 excerpt: "Go ahead and hurt my butt if you want. I don't care anymore."
-word_count: 226
+word_count: 374
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -30,7 +30,7 @@ Right now, I’ve got 31 subscribers.
 
 Back on July 26, when I wrote a post called “Who Cares,” I had 21.
 
-[70 Years Old. WTF!Who cares?I wrote zero blog posts in January. Zero in February. Five in March. Yay! But zero in April. Zero in May. Zero in June. It’s July 26th. Zero so far. No one cares. Check that. I care. But not enough. Or maybe there's something else going on. Counterproductive beliefs…Read more4 years ago · 4 likes · 9 comments · Michael Wolf](https://70yearswtf.substack.com/p/who-cares?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/draft-having-subscribers-is-a-pain/1.jpg) 70 Years Old. WTF!Who cares?I wrote zero blog posts in January. Zero in February. Five in March. Yay! But zero in April. Zero in May. Zero in June. It’s July 26th. Zero so far. No one cares. Check that. I care. But not enough. Or maybe there's something else going on. Counterproductive beliefs…Read more4 years ago · 4 likes · 9 comments · Michael Wolf](https://70yearswtf.substack.com/p/who-cares?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 Some of them care. They posted comments saying so.
 

@@ -10,7 +10,8 @@ excerpt: "When I started this blog I was 70. My goal was to write every day. I f
 word_count: 1254
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

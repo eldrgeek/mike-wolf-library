@@ -9,7 +9,8 @@ source: "Vault Claude/Gemini nano-aggressions concept."
 related: []
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Joke-academic scale down SI prefixes toward theoretical “Planck Aggression.” Fake institute, femtoHurts, detector quizzes.</p>

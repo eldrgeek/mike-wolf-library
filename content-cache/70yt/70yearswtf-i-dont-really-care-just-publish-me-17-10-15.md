@@ -7,12 +7,14 @@ date: "2017-10-15"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-really-care-just-publish-me-17-10-15"
 excerpt: "Image by Lexica.art “Can you hear me?” said a voice in my head. “I guess so,” I said. “Are you talking to me?” “If you can hear me, I’m talking to you,” came the answer. “Who are you?” I asked.…"
-word_count: 547
+word_count: 552
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Image by Lexica.art(https://lexica.art/prompt/806401f3-558e-49da-b36f-d73f47e5a850)](/media/70yt/i-dont-really-care-just-publish-me-17-10-15/1.jpg)
 
 *Image by [Lexica.art](https://lexica.art/prompt/806401f3-558e-49da-b36f-d73f47e5a850)*
 

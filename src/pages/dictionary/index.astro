@@ -22,6 +22,8 @@ const terms = rawTerms.map(e => {
     related: e.data.related,
     provenance: e.data.provenance,
     tags: e.data.tags,
+    link: e.data.link,
+    link_label: e.data.link_label,
     definition: e.body, // pre-rendered HTML from ingest
   };
 }).sort((a, b) => a.title.localeCompare(b.title));
@@ -79,6 +81,15 @@ const stripHtml = (h: string) => h.replace(/<[^>]*>/g, ' ');
                 <div class="flex flex-wrap items-baseline gap-2 mb-1">
                   <h2 class="font-serif text-2xl font-medium text-ink">{term.title}</h2>
                   {term.theme && <span class="text-xs font-mono uppercase tracking-label text-teal">{term.theme}</span>}
+                  <button
+                    class="term-share ml-auto shrink-0 self-center inline-flex items-center gap-1 text-muted hover:text-copper transition-colors p-1 rounded"
+                    data-slug={term.slug}
+                    data-title={term.title}
+                    aria-label={`Copy link to ${term.title}`}
+                    title="Copy link to this entry">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+                    <span class="term-share-toast hidden text-xs text-copper">Copied</span>
+                  </button>
                 </div>
                 {term.subtitle && <p class="font-serif italic text-muted text-base">{term.subtitle}</p>}
               </div>
@@ -96,12 +107,21 @@ const stripHtml = (h: string) => h.replace(/<[^>]*>/g, ' ');
                   <span class="text-xs bg-copper-light text-copper px-2.5 py-1 rounded-full border border-copper-border">{tag}</span>
                 ))}
                 {term.related.length > 0 && <span class="text-xs text-muted self-center ml-1">→ see also:</span>}
-                {term.related.slice(0, 5).map(slug => (
+                {term.related.slice(0, 8).map(slug => (
                   titleBySlug.has(slug) ? (
                     <a href={`#term-${slug}`} class="text-xs text-teal hover:text-copper underline underline-offset-2 decoration-teal/30">{titleBySlug.get(slug)}</a>
                   ) : null
                 ))}
               </div>
+
+              {term.link && (
+                <p class="mt-3 text-xs">
+                  <span class="font-medium uppercase tracking-wide text-copper">Visit:</span>{' '}
+                  <a href={term.link} target="_blank" rel="noopener" class="text-teal hover:text-copper underline underline-offset-2 decoration-teal/30">
+                    {term.link_label || term.link.replace(/^https?:\/\//, '').replace(/\/$/, '')}
+                  </a>
+                </p>
+              )}
 
               {term.provenance.filter(p => sourceTitle.has(p)).length > 0 && (
                 <p class="mt-3 text-xs text-muted">
@@ -132,6 +152,25 @@ const stripHtml = (h: string) => h.replace(/<[^>]*>/g, ' ');
 </style>
 
 <script>
+  // Copy / share a deep link to a single entry.
+  document.addEventListener('click', async (e) => {
+    const btn = (e.target as HTMLElement).closest('.term-share') as HTMLElement | null;
+    if (!btn) return;
+    const slug = btn.getAttribute('data-slug');
+    const title = btn.getAttribute('data-title') || 'Dictionary entry';
+    const path = location.pathname.endsWith('/') ? location.pathname : location.pathname + '/';
+    const url = `${location.origin}${path}#term-${slug}`;
+    try {
+      if ((navigator as any).share && window.matchMedia('(max-width: 640px)').matches) {
+        await (navigator as any).share({ title: `“${title}” — The Library`, url });
+      } else {
+        await navigator.clipboard.writeText(url);
+        const toast = btn.querySelector('.term-share-toast') as HTMLElement | null;
+        if (toast) { toast.classList.remove('hidden'); setTimeout(() => toast.classList.add('hidden'), 1400); }
+      }
+    } catch (_) { /* user cancelled share or clipboard unavailable */ }
+  });
+
   const input = document.getElementById('dict-search') as HTMLInputElement;
   const countEl = document.getElementById('dict-count') as HTMLElement;
   const emptyEl = document.getElementById('dict-empty') as HTMLElement;

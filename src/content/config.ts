@@ -14,6 +14,8 @@ const terms = defineCollection({
     related: z.array(z.string()).default([]),      // other term slugs
     provenance: z.array(z.string()).default([]),   // source slugs where the term is discussed
     tags: z.array(z.string()).default([]),
+    link: z.string().url().optional(),             // external site the term names (e.g. Macho Glue)
+    link_label: z.string().optional(),             // link text (defaults to the domain)
   }),
 });
 

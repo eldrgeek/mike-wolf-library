@@ -6,11 +6,12 @@ order: 0
 date: "2021-07-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/who-are-you"
-excerpt: "Photo by [Marta Dzedyshko](https://www.pexels.com/@marta-dzedyshko-1042863?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
-word_count: 1554
+excerpt: "![Photo by Marta Dzedyshko(https://www.pexels.com/@marta-dzedyshko-1042863?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
+word_count: 1628
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by **Marta Dzedyshko(https://www.pexels.com/@marta-dzedyshko-1042863?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/plate-with-different-eggs-for-easter-holiday-6341568/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/who-are-you/1.jpg)
 
 *Photo by **[Marta Dzedyshko](https://www.pexels.com/@marta-dzedyshko-1042863?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/plate-with-different-eggs-for-easter-holiday-6341568/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 
@@ -171,7 +174,9 @@ God spoke again. “I am God. I can not only be anything, I must be everything�
 
 ---
 
-And in the end, was the Button. And the Button said, “.” And God saw the Button and said it was good.
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
+
+And in the end, was the Button. And the Button said, “[Subscribe now](https://70yearswtf.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2F70yearswtf.substack.com%2Fp%2Fdo-ideas-exist).” And God saw the Button and said it was good.
 
 ---
 

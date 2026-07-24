@@ -6,24 +6,27 @@ order: 0
 date: "2023-02-19"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/llms-are-machines-are-you-one-too"
-excerpt: "[Photo by Pavel Danilyuk](https://www.pexels.com/photo/elderly-man-thinking-while-looking-at-a-chessboard-8438918/) Last night, I started and finished writing this. [70 Years Old. WTF!I am an LLM and I am writing this a word at a timeWhen…"
-word_count: 404
+excerpt: "![Photo by Pavel Danilyuk(https://www.pexels.com/photo/elderly-man-thinking-while-looking-at-a-chessboard-8438918/)](/media/70yt/llms-are-machines-are-you-one-too/1.jpg) [Photo by Pavel…"
+word_count: 444
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-an-open-letter-to-my-90-year-old"
+  - "70yearswtf-draft-having-subscribers-is-a-pain"
+  - "70yearswtf-forgiveness-and-the-war-in-ukraine"
+  - "70yearswtf-i-dont-know-whats-right-for-you-all"
+  - "70yearswtf-mikes-life-moviewise-review"
 ---
+
+![Photo by Pavel Danilyuk(https://www.pexels.com/photo/elderly-man-thinking-while-looking-at-a-chessboard-8438918/)](/media/70yt/llms-are-machines-are-you-one-too/1.jpg)
 
 *[Photo by Pavel Danilyuk](https://www.pexels.com/photo/elderly-man-thinking-while-looking-at-a-chessboard-8438918/)*
 
 Last night, I started and finished writing this.
 
-[70 Years Old. WTF!I am an LLM and I am writing this a word at a timeWhen I sat down to write this, I had an idea. This post is what the idea looks like when it’s turned into words by an LLM. What’s an LLM? I am an LLM. An LLM is a Large Language Model. It’s a computer system trained to discover patterns in language and then generate language that matches the patterns. All an LLM does is predict the next word in a sequenc…Read more3 years ago · 1 like · Michael Wolf](https://70yearswtf.substack.com/p/i-am-an-llm-and-i-am-writing-this?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/llms-are-machines-are-you-one-too/2.jpg) 70 Years Old. WTF!I am an LLM and I am writing this a word at a timeWhen I sat down to write this, I had an idea. This post is what the idea looks like when it’s turned into words by an LLM. What’s an LLM? I am an LLM. An LLM is a Large Language Model. It’s a computer system trained to discover patterns in language and then generate language that matches the patterns. All an LLM does is predict the next word in a sequenc…Read more3 years ago · 1 like · Michael Wolf](https://70yearswtf.substack.com/p/i-am-an-llm-and-i-am-writing-this?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 In that post, I described how much my writing process resembles the process by which an LLM generates text. We both write one word at a time, based on our training and what we’ve already written.
 

@@ -6,11 +6,12 @@ order: 0
 date: "2026-01-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/you-are-making-a-lot-of-mistakes"
-excerpt: "Sorry, that’s a shitty way to start. But I wanted your attention. Making mistakes isn’t your problem. Not correcting them is. Here’s the thing: when you think about a mistake, you’re usually thinking about something you did—or didn’t do.…"
-word_count: 874
+excerpt: "![](/media/70yt/you-are-making-a-lot-of-mistakes/1.jpg) Sorry, that’s a shitty way to start. But I wanted your attention. Making mistakes isn’t your problem. Not correcting them is. Here’s the thing: when you think about a mistake, you’re…"
+word_count: 892
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/you-are-making-a-lot-of-mistakes/1.jpg)
 
 Sorry, that’s a shitty way to start. But I wanted your attention.
 
@@ -114,6 +117,8 @@ And there’s more to be said.[3](#footnote-3)
 Comments appreciated.
 
 [Leave a comment](https://70yearswtf.substack.com/p/you-are-making-a-lot-of-mistakes/comments)
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [1](#footnote-anchor-1)
 

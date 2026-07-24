@@ -7,11 +7,13 @@ date: "2025-10-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-story-of-the-perfect-spheres"
 excerpt: "Or something"
-word_count: 902
+word_count: 989
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/the-story-of-the-perfect-spheres/1.jpg)
 
 In a far-off land lived a king and his beautiful daughter, as they do in fairy-tales.[1](#footnote-1) Like all such fairy-tale kings, he wanted the best husband for his daughter, as kings with daughters do in fairy-tales. And so, he set a test, as is usual in fairy-tales.
 

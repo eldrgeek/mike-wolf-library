@@ -10,7 +10,9 @@ excerpt: "This post is a follow-up to [an earlier blog post](https://70yearsoldw
 word_count: 1535
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-intention-lost-intention-regained-19-02-22"

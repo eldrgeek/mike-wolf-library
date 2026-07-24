@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-finding-my-voice"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Deep intellectual friendship primarily in chat/cloud, never co-located. Acronym as honorific.</p>

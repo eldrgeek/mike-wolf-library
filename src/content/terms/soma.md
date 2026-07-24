@@ -8,6 +8,8 @@ source: ""
 related:
   - "the-foundation"
   - "the-fleet"
+  - "the-greenhouse"
+  - "were-aligned"
 provenance:
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"

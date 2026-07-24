@@ -9,7 +9,8 @@ source: "Vault Grok/ChatGPT Oktholm / Joke Technology Systems cluster."
 related: []
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Satirical “mental illness” of IT pros loyal to Okta despite pain. YeshID framed as the cure. Core of Joke Technology Systems family.</p>

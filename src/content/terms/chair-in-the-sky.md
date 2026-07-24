@@ -14,7 +14,8 @@ provenance:
   - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
   - "70yearswtf-yesterdays-waste-of-time-18-11-13"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Standing metaphor for perfect tools Future Selves deserve — and yak-shave sink. Overloaded with Louis CK punchline: first-world tool rage while already in a chair in the sky.</p>

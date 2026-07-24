@@ -6,11 +6,11 @@ order: 0
 date: "2021-12-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-love-you-despite-your-shortcomings"
-excerpt: "Photo by [Steve Johnson](https://www.pexels.com/@steve?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
-word_count: 257
+excerpt: "![Photo by Steve Johnson(https://www.pexels.com/@steve?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
+word_count: 302
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by **Steve Johnson(https://www.pexels.com/@steve?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/photo-of-abstract-painting-on-canvass-1484760/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/i-love-you-despite-your-shortcomings/1.jpg)
 
 *Photo by **[Steve Johnson](https://www.pexels.com/@steve?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/photo-of-abstract-painting-on-canvass-1484760/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 

@@ -9,7 +9,8 @@ source: "70yt *self-discipline-a-mistake* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Rejects self-discipline-as-punishment. Inspiration = filled with spirit. Operational antonym of Jocko-style discipline.</p>

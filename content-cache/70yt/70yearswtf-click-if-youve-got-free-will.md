@@ -7,12 +7,14 @@ date: "2025-11-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/click-if-youve-got-free-will"
 excerpt: "The world's first scientific test for the existence of something that doesn't exist"
-word_count: 149
+word_count: 138
 tags:
   - "70YearsWTF"
   - "AI"
 related: []
 ---
+
+![](/media/70yt/click-if-youve-got-free-will/1.jpg)
 
 ## Does free will exist?
 

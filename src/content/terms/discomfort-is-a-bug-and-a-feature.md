@@ -9,7 +9,8 @@ source: "70yt *discomfort-is-a-bug-and-a-feature*; *fast-talkers-of-america*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Dual diagnostic: feature (not on automatic) and bug (not fully present). Later: good discomfort = growth/plasticity — don’t immediately change. Pairs with hard-way doctrine.</p>

@@ -6,11 +6,12 @@ order: 0
 date: "2017-07-01"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/thank-you-past-me-thank-you-random-17-07-01"
-excerpt: "(Original art from [here](http://i.imgur.com/7xsp7hJ.png)) Last night, on Reddit, I came across a comment that has changed my life. Of course, it doesn't take all that much to change someone's life. I wouldn't have written this if not for…"
-word_count: 1432
+excerpt: "![](/media/70yt/thank-you-past-me-thank-you-random-17-07-01/1.png) (Original art from [here](http://i.imgur.com/7xsp7hJ.png)) Last night, on Reddit, I came across a comment that has changed my life. Of course, it doesn't take all that much…"
+word_count: 1446
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/thank-you-past-me-thank-you-random-17-07-01/1.png)
 
 (Original art from [here](http://i.imgur.com/7xsp7hJ.png))
 

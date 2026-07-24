@@ -16,7 +16,7 @@ related:
   - "srmw-part-vii-imagination"
   - "srmw-part-viii-practice-practice-practice"
   - "srmw-part-xiii-endgame"
-  - "srmw-chapter-2-what-is-nanowrimo"
+  - "srmw-part-i-before-the-beginning"
 ---
 
 If at first you don’t succeed,

@@ -7,10 +7,11 @@ date: "2019-08-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/modems-and-memories-19-08-27"
 excerpt: "A few days ago, a friend mentioned Galacticomm and their [bulletin board system](https://en.wikipedia.org/wiki/Bulletinboardsystem) the [Major Bulletin Board System](https://en.wikipedia.org/wiki/TheMajorBBS). From the depths of memory, my…"
-word_count: 654
+word_count: 664
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-fifi-and-raul-and-mike-and-bobbi-18-01-13"
   - "srmw-part-vi-fear-and-procrastination"
@@ -50,6 +51,8 @@ But here’s the CompuServe story.
 You connected with CompuServe by dialing a local access number, sticking your phone’s handset in your modem’s acoustic coupler.
 
 Acoustic coupler? Don’t know what that is? Acoustic couplers looked like this:
+
+![](/media/70yt/modems-and-memories-19-08-27/1.jpg)
 
 I was an early adopter. I think my first modem was 110 [baud](https://en.wikipedia.org/wiki/Baud). What’s a baud? A baud is roughly a bit per second. At higher baud rates, you can transmit more than one bit per baud, but we never reached them. DSL modems today might.
 

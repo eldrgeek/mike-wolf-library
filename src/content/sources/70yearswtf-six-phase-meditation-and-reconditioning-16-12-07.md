@@ -10,7 +10,8 @@ excerpt: "I've tried meditation. And I hope one day I can do it. Evidence of the
 word_count: 398
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

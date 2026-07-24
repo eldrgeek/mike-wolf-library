@@ -6,11 +6,11 @@ order: 0
 date: "2019-10-23"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/keep-the-fun-in-funeral-19-10-23"
-excerpt: "Today Bobbi’s writing group got together in memory of one of their group who—to [paraphrase Monty Python](http://montypython.50webs.com/scripts/Series1/53.htm) ——had died, passed on, was no more, ceased to be, expired and gone to meet her…"
-word_count: 821
+excerpt: "![](/media/70yt/keep-the-fun-in-funeral-19-10-23/1.jpg) Today Bobbi’s writing group got together in memory of one of their group who—to [paraphrase Monty Python](http://montypython.50webs.com/scripts/Series1/53.htm) ——had died, passed on,…"
+word_count: 833
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/keep-the-fun-in-funeral-19-10-23/1.jpg)
 
 Today Bobbi’s writing group got together in memory of one of their group who—to [paraphrase Monty Python](http://montypython.50webs.com/scripts/Series_1/53.htm) ——had died, passed on, was no more, ceased to be, expired and gone to meet her maker, was a stiff, bereft of life, resting in peace, pushing up the daisies, kicked the bucket, shuffled off this mortal coil, run down the curtain and joined the choir invisible.
 

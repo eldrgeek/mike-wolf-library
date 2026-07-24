@@ -6,11 +6,12 @@ order: 0
 date: "2013-02-01"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/more-humor-13-02-01"
-excerpt: "Notifies people of a joke. (SVG version) (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:JokeAlert.svg)) \"If you tell a joke in a forest, and nobody laughs, was it a joke? --Steven Wright. (p16) That's it. The whole joke,…"
-word_count: 134
+excerpt: "![Notifies people of a joke. (SVG version)](/media/70yt/more-humor-13-02-01/1.png) Notifies people of a joke. (SVG version) (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:JokeAlert.svg)) \"If you tell a joke in a forest,…"
+word_count: 150
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Notifies people of a joke. (SVG version)](/media/70yt/more-humor-13-02-01/1.png)
 
 Notifies people of a joke. (SVG version) (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:Joke_Alert.svg))
 

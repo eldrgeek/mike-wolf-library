@@ -6,11 +6,12 @@ order: 0
 date: "2019-07-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/when-were-a-wake-19-07-04"
-excerpt: "Photo by [Zbysiu Rodak](https://unsplash.com/@zbigniew?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/wake?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)…"
-word_count: 757
+excerpt: "![](/media/70yt/when-were-a-wake-19-07-04/1.jpg) Photo by [Zbysiu Rodak](https://unsplash.com/@zbigniew?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 768
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/when-were-a-wake-19-07-04/1.jpg)
 
 *Photo by [Zbysiu Rodak](https://unsplash.com/@zbigniew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/wake?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) Pun by Mike Wolf on Hangouts*
 

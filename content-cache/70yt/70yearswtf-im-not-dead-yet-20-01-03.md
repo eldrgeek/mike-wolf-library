@@ -7,13 +7,15 @@ date: "2020-01-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-not-dead-yet-20-01-03"
 excerpt: "Photo by Alonso Reyes on Unsplash It’s January 1st, 2020, and I’m not dead yet. That’s a lie. Or at least a partial lie. And eventually, it might be a total lie. The part that’s a lie is this: it’s…"
-word_count: 1058
+word_count: 1092
 tags:
   - "70YearsWTF"
   - "AI"
   - "economics"
 related: []
 ---
+
+![Photo by Alonso Reyes(https://unsplash.com/@alonsoreyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/not-dead-yet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/im-not-dead-yet-20-01-03/1.jpg)
 
 *Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/not-dead-yet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -173,8 +175,6 @@ We’ll find out tomorrow.
 What’s next for you?
 
 That’s up to you.
-
-
 
 [1](#footnote-anchor-1)
 

@@ -9,7 +9,8 @@ source: "70yt *adyb-always-doing-your-best* (batch 7)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> ADYB: everyone always doing best subject to reality/knowledge/skill — remove constraints and teach. NDYB: people are lazy/not trying. Doctrine for parenting, self-talk, coaching without shame.</p>

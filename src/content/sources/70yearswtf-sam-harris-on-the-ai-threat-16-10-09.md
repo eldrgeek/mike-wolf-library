@@ -6,11 +6,14 @@ order: 0
 date: "2016-10-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/sam-harris-on-the-ai-threat-16-10-09"
-excerpt: "As promised (or threatened) in [this post](http://70yearsoldwtf.blogspot.com/2016/10/sam-harris-thinking-in-public.html), here's my next article on Sam Harris. Sam recently gave a [TED talk on…"
-word_count: 606
+excerpt: "![](/media/70yt/sam-harris-on-the-ai-threat-16-10-09/1.jpg) As promised (or threatened) in [this post](http://70yearsoldwtf.blogspot.com/2016/10/sam-harris-thinking-in-public.html), here's my next article on Sam Harris. Sam recently gave a…"
+word_count: 619
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "Silicon Children"
+  - "blogging"
 related:
   - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-silicon-children"
@@ -18,6 +21,8 @@ related:
   - "70yearswtf-even-aholes-can-get-missions-from"
   - "ai-wtf-2026-05-06-creativity"
 ---
+
+![](/media/70yt/sam-harris-on-the-ai-threat-16-10-09/1.jpg)
 
 As promised (or threatened) in [this post](http://70yearsoldwtf.blogspot.com/2016/10/sam-harris-thinking-in-public.html), here's my next article on Sam Harris.
 

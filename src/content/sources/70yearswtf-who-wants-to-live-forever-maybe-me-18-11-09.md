@@ -6,11 +6,12 @@ order: 0
 date: "2018-11-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/who-wants-to-live-forever-maybe-me-18-11-09"
-excerpt: "Eternime ([www.eterni.me](http://www.eterni.me/)) is a company offering digital immortality—of a sort. Their website says: Eternime collects your thoughts, stories and memories, curates them and creates an intelligent avatar that looks…"
-word_count: 369
+excerpt: "![Who wants to live forever](/media/70yt/who-wants-to-live-forever-maybe-me-18-11-09/1.jpg) Eternime ([www.eterni.me](http://www.eterni.me/)) is a company offering digital immortality—of a sort. Their website says: Eternime collects your…"
+word_count: 388
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Who wants to live forever](/media/70yt/who-wants-to-live-forever-maybe-me-18-11-09/1.jpg)
 
 Eternime ([www.eterni.me](http://www.eterni.me/)) is a company offering digital immortality—of a sort. Their website says:
 

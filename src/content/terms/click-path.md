@@ -8,6 +8,7 @@ origin: "Coined while implementing the Bottleneck principle."
 source: "Coined while implementing the Bottleneck principle."
 related:
   - "the-bottleneck"
+  - "pulse-pulse-core"
 provenance: []
 tags:
   - "dialect"

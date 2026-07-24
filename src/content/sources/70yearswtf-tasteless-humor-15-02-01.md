@@ -10,7 +10,8 @@ excerpt: "No political correctness (Photo credit: [Wikipedia](http://commons.wik
 word_count: 703
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

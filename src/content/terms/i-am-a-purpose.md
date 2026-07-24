@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-an-open-letter-to-my-90-year-old"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Correction of “I need/have a purpose” into identity-statement. Needing implies lack; having splits having from being.</p>

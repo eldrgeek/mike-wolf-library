@@ -6,11 +6,11 @@ order: 0
 date: "2021-07-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-first-thing-to-know"
-excerpt: "Photo by [Efe Kurnaz](https://unsplash.com/@efekurnaz?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/first-thing?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)…"
-word_count: 1063
+excerpt: "![Photo by Efe Kurnaz(https://unsplash.com/@efekurnaz?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 1108
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by Efe Kurnaz(https://unsplash.com/@efekurnaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/first-thing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/the-first-thing-to-know/1.jpg)
 
 *Photo by [Efe Kurnaz](https://unsplash.com/@efekurnaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/first-thing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -114,6 +116,8 @@ But something had changed.
 Maybe, God said.
 
 ---
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 Maybe the first thing to know about not subscribing is that you really don’t want to not subscribe.
 

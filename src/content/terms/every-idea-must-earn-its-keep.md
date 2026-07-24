@@ -9,7 +9,8 @@ source: "Mike 2026-05-04 with Deutsch/*Beginning of Infinity* (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Deutsch-adjacent: knowledge is information the environment causes to persist. Vigilance is selection pressure; platitudes that never touch practice die.</p>

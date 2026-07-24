@@ -10,7 +10,8 @@ excerpt: "[Here](https://www.youtube.com/watch?v=yqaHXKLRKzg), we are at Notre D
 word_count: 1658
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

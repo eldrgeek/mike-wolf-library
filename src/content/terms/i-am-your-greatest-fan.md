@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-i-am-your-greatest-fan"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Comma load-bearing: not a typo. Turns tetragrammatonic formula into unconditional encouragement.</p>

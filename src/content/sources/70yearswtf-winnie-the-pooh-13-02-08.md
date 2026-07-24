@@ -10,7 +10,8 @@ excerpt: "What do Alexander the Great and Winnie the Pooh have in common? They b
 word_count: 73
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

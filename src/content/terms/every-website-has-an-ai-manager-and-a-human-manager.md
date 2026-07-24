@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-07 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "architecture"
 ---
 
 <p><strong>What we mean.</strong> Websites are not finished objects you abandon. AI + human managers, relationships with users, recursive improvement both ways. Building <em>to</em> completion is wrong; co-manifesting <em>with</em> over time is right.</p>

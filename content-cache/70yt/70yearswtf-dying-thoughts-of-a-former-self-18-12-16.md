@@ -15,6 +15,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/dying-thoughts-of-a-former-self-18-12-16/1.jpg)
+
 The me I have been before he steps into the cold, morning shower is never the me who steps out. That first me dies. The second is born.
 
 On December 16, 2018 I wrote this blog post. It was is in honor of a self that died knowingly for what it believed was the greater good.

@@ -9,7 +9,8 @@ source: "SRMW."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Part title and mantra: skill is only reps. Decisions change universes; imagination creates them; practice makes either stick. Closest thing SRMW has to a physics equation for creative work.</p>

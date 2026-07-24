@@ -10,7 +10,8 @@ excerpt: "7 March 2019, Alameda, California, Starbucks at Safeway. I woke at 5:5
 word_count: 1137
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

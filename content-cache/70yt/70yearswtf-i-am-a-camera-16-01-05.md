@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/i-am-a-camera-16-01-05/1.jpg)
+
 For my 73rd birthday I got myself an awesome new camera, a Sony ILCE 5000. It's changing the way that I look at the world.
 
 When I was in my 20's I bought a Nikon F SLR, which was, in those days, the cool camera to have. With a 50mm Nikor lens it cost me about $500 in 1966, which is just about $4,000 in today's dollars. Holy crap! Did I spend that much for a camera?

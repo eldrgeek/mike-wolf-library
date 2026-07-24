@@ -6,11 +6,11 @@ order: 0
 date: "2017-01-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-tree-of-life-its-span-and-its-17-01-09"
-excerpt: "People worry about us destroying life on this planet by our activity. But that's not likely. We might fuck ourselves up, our family--the family of life is just too tough. Just take a look at our family tree, the tree of life, taken from…"
-word_count: 1208
+excerpt: "![](/media/70yt/the-tree-of-life-its-span-and-its-17-01-09/1.jpg) People worry about us destroying life on this planet by our activity. But that's not likely. We might fuck ourselves up, our family--the family of life is just too tough.…"
+word_count: 1253
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/the-tree-of-life-its-span-and-its-17-01-09/1.jpg)
 
 People worry about us destroying life on this planet by our activity. But that's not likely. We might fuck ourselves up, our family--the family of life is just too tough.
 
@@ -33,11 +35,15 @@ The site makes clear a couple of things. First: this is OUR family tree. It show
 
 Notice what happens during the Cambrian explosion, which happens about 500 million years ago. (It starts when the purple band appears and ends around where the blue band appears.
 
+![](/media/70yt/the-tree-of-life-its-span-and-its-17-01-09/2.jpg)
+
 For the first 3 billion years, not all that much diversity. We go from bacteria, through plants to sponges and corals. [Wikipedia says](https://en.wikipedia.org/wiki/Cambrian_explosion):
 
 > Prior to the Cambrian explosion most organisms were simple, composed of individual cells occasionally organized into colonies. Over the following 70 to 80 million years, the rate of diversification accelerated by an order of magnitude[note 3] and the diversity of life began to resemble that of today.
 
 Now look at what happens in the "mass extinctions."
+
+![](/media/70yt/the-tree-of-life-its-span-and-its-17-01-09/3.jpg)
 
 Now look at what happens in the "mass extinctions." A lot of those branching lines are broken, meaning that a species died out. But in short order, in geologic time short order that is, as you can see in the inset above, or the tree of life that heads this article or on the interactive site, diversity is restored. Life is pretty hard to shut down.
 

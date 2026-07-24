@@ -7,11 +7,13 @@ date: "2021-08-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-a-better-person-than-you-are"
 excerpt: "Photo by Jon Tyson on Unsplash I’m a better person than you are. I know it’s not polite to say that, but if we are going to have an honest relationship, we can’t keep ignoring it. It’s the metaphorical elephant…"
-word_count: 479
+word_count: 497
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![Photo by Jon Tyson(https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/best?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/im-a-better-person-than-you-are/1.jpg)
 
 *Photo by [Jon Tyson](https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/best?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

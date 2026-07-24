@@ -7,10 +7,11 @@ date: "2018-01-25"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/an-excursion-around-the-internet-18-01-25"
 excerpt: "Here's an interesting post: \"[Data Science of the Facebook World](http://blog.stephenwolfram.com/2013/04/data-science-of-the-facebook-world/)\" by Steven Wolfram of Mathematica fame. I read it this morning as I ambled around the internet.…"
-word_count: 593
+word_count: 605
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -30,6 +31,8 @@ The Quantum Game site leads to [the site of its author,](http://p.migdal.pl/) Pi
 One of the Dating for Nerds posts leads to the Wolfram post. So there you are.
 
 The image below shows the Quantum Game. I'm using a lab mode, accessed by clicking the infinity sign on the left, and carrying out a series of experiments to help me understand the behavior of photons better so that I can solve the puzzles with less trial-and-error and more understanding.
+
+![](/media/70yt/an-excursion-around-the-internet-18-01-25/1.jpg)
 
 In the upper right is a palette of experimental equipment. In the center is my lab. Leftmost in the lab is a laser that will fire a photon into a beam splitter. On each beam path, I've put two glass slabs, each of which changes the phase by half a wavelength, and a sugar solution, which changes polarization. I've put a photon detector on each path. If I click on the run button (triangle in lower right) the laser fires a single photon. It will be detected by one or the other of the detectors. The game will show whch one, and what percentage of the time each detector would see a photon.
 

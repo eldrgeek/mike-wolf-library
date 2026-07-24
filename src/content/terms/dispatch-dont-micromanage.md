@@ -9,6 +9,7 @@ related:
   - "dispatch"
   - "the-fleet"
   - "ralph-loop"
+  - "tnta"
 provenance: []
 tags:
   - "dialect"

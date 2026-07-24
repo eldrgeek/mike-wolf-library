@@ -7,10 +7,10 @@ date: "2021-04-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/predictive-posting"
 excerpt: "Once upon a time, I was having trouble getting stuff done. I worked with Elsa, who helped me make a plan. We thought about possible problems and accounted for them in the plan. I thought it was a good plan. But it failed. But when the plan…"
-word_count: 667
+word_count: 673
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -87,6 +87,6 @@ So here’s my plan:
   Love,Past Mike
 3. Done
 4. If you see this, it’s done.
-5. Done (update) And done again. With some typos fixed.
+5. Done (update) And done again. With some typos fixed.![](/media/70yt/predictive-posting/1.jpg)
 6. Update April 25:I’ve managed to keep the daily email going. I had one one-day lapse but the next day, when the backup email came in, I recovered. So that worked. And today it’s Sunday and I’ve scheduled my Sunday reminder for next week. Life is good.
 7. Update May 10We traveled to Denver and in the process, the process fell apart. Or would have. Fortunately, the weekly reminder email was in my inbox, unhandled, until now, when I rebooted the process.

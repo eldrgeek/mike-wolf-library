@@ -10,7 +10,8 @@ excerpt: "Tomorrow is my birthday, assuming that I publish this today–and I pr
 word_count: 445
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

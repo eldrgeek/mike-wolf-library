@@ -6,11 +6,13 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *christmas-pun* (batch 7)."
 source: "70yt *christmas-pun* (batch 7)."
-related: []
+related:
+  - "macho-glue"
 provenance:
   - "70yearswtf-christmas-pun-20-01-13"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Classic sex/socks sound-alike left half-implicit. Wordplay family of Macho Glue / prenaptual.</p>

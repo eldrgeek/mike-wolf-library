@@ -6,18 +6,21 @@ order: 0
 date: "2023-08-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-wish-i-was-dead"
-excerpt: "AI image from Lexica.art Not now, but then. I wish I was dead. “It’s ‘I wish I were dead,’” says a voice in my head. “Hey! Let’s look it up,” says another voice. “Was or were. The internet has to have an answer.”[1](footnote-1) “Shut the…"
-word_count: 649
+excerpt: "![AI image from Lexica.art](/media/70yt/i-wish-i-was-dead/1.jpg) AI image from Lexica.art Not now, but then. I wish I was dead. “It’s ‘I wish I were dead,’” says a voice in my head. “Hey! Let’s look it up,” says another voice. “Was or…"
+word_count: 663
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
+  - "70yearswtf-everything-arises-and-passes-away"
+  - "srmw-part-vi-fear-and-procrastination"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![AI image from Lexica.art](/media/70yt/i-wish-i-was-dead/1.jpg)
 
 *AI image from Lexica.art*
 

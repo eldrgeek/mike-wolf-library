@@ -15,6 +15,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/my-new-writing-process/1.jpg)
+
 I wake up early. 5:00 ideally. 6:00 is fine.
 
 I pull out my notebook and start writing my daily page. Yesterday I wrote three. Today, five and a half.
@@ -43,6 +45,8 @@ I ask Claude for an image prompt for Nano Banano Pro.
 
 Claude gives me two
 
-[The convo with Google Gemini [lives here](https://docs.google.com/document/d/12J5eHRhykPD7FKqSNwVY_4nXLEBaKvaxEsTiZE9c-dk/edit?usp=sharing)
+[The convo with Google Gemini [lives here](https://docs.google.com/document/d/12J5eHRhykPD7FKqSNwVY_4nXLEBaKvaxEsTiZE9c-dk/edit?usp=sharing)]
 
 *[The full conversation with Claude that made this post lives [here](https://claude.ai/share/64cc488c-c530-40b2-ae5c-10c0dd8440b3).]*
+
+![](/media/70yt/my-new-writing-process/2.jpg)

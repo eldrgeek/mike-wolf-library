@@ -9,7 +9,8 @@ source: "Mike 2026-05-06 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Applied to AI specialist organization: unit of work is the team. (Public metaphor also in NEEDS-MIKE.)</p>

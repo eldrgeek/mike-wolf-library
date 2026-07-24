@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/finding-things/1.jpg)
+
 ## Finding things
 
 I sat down in front of my computer.

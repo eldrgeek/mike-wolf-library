@@ -7,10 +7,14 @@ date: "2018-01-01"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/birthday-activity-part-2-18-01-01"
 excerpt: "I the [earlier post in this series](https://70yearsoldwtf.blogspot.com/2017/12/birthday-activity-part-1.html) I started to describe what I did on my 75th birthday. But I ran out of time, energy, or brain power before I completed it, so I…"
-word_count: 1691
+word_count: 1702
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "blogging"
+  - "economics"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -66,6 +70,8 @@ So I step back from my hard "you are the enemy because..." position and instead 
 After dinner we return home and watch the movie "While you were sleeping," with Bill Pullman and Sandra Bullock. After the movie I go back to work on my blog post, take a hot bath, decide I'm not going to finish. label it Part 1 and eventually post it.
 
 So: that was my day. In between times, I started reading Michael Lewis' book, "The Undoing Project," which I'd gotten for Christmas. And I read some things on my phone that were interesting, as well. One was an article titled "[Your company's culture is who you hire, fire, and promote](https://medium.com/goactualize/your-companys-culture-is-who-you-hire-fire-and-promote-c69f84902983)" which featured this "Performace/Values Matrix." Note the lower right corner: "Incompetent Assholes." He's got several follow-up posts about assholes--how they're made and how they behave whe they become managers.
+
+![](/media/70yt/birthday-activity-part-2-18-01-01/1.jpg)
 
 I also read a couple of posts by James Kwak, who has written a book called "Economism" that I want to read. I've read a few posts from his blog [The Baseline Scenario](https://baselinescenario.com/) that convinces me that there has important things to say about economics.
 

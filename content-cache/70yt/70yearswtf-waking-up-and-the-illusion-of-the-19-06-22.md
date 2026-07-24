@@ -7,13 +7,15 @@ date: "2019-06-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/waking-up-and-the-illusion-of-the-19-06-22"
 excerpt: "Robin Schreiner Dana asked me some questions about The Waking Up Course. Daniel asked some questions about the practice. Their questions led me to clarify my understanding. So I’ve written this for them. But really for me, because it’s too…"
-word_count: 2298
+word_count: 2300
 tags:
   - "70YearsWTF"
   - "meditation"
   - "blogging"
 related: []
 ---
+
+![Robin Screiner(https://unsplash.com/@robin_schreiner)](/media/70yt/waking-up-and-the-illusion-of-the-19-06-22/1.jpg)
 
 *[Robin Schreiner](https://unsplash.com/@robin_schreiner)*
 

@@ -6,11 +6,11 @@ order: 0
 date: "2021-10-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-love-you-heres-why"
-excerpt: "I love you. I mean it. I have reasons. Many. And I will explain them. Because it would be weird for you to believe that I love you without enough reasons. About me Let’s start with me (because everything in my universe starts with me, just…"
-word_count: 796
+excerpt: "![](/media/70yt/i-love-you-heres-why/1.jpg) I love you. I mean it. I have reasons. Many. And I will explain them. Because it would be weird for you to believe that I love you without enough reasons. About me Let’s start with me (because…"
+word_count: 805
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/i-love-you-heres-why/1.jpg)
 
 I love you.
 

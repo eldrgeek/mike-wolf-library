@@ -9,7 +9,9 @@ source: "SRMW full text; 70yt *at-the-request-of-the-book-of-michael*."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not metafictional flourishes: a work whose cast, plot, and publishing apparatus exist because the author writes them into existence while arguing with them. Metauniverse is the necessary container — “Let there be a metauniverse.” Load-bearing genre of SRMW; named on the blog when the Book of Michael demanded finishing.</p>

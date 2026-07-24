@@ -6,11 +6,12 @@ order: 0
 date: "2021-05-13"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/arete-redux"
-excerpt: "About five months ago I wrote a post about [arete](https://70yearswtf.substack.com/p/vote-arete-20-12-12). This morning I reread that post and several related others. Why read them? Why write this? Arete. Excellence. Arete, redux My post…"
-word_count: 622
+excerpt: "![person in white long sleeve shirt doing thumbs up sign](/media/70yt/arete-redux/1.jpg) About five months ago I wrote a post about [arete](https://70yearswtf.substack.com/p/vote-arete-20-12-12). This morning I reread that post and several…"
+word_count: 638
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![person in white long sleeve shirt doing thumbs up sign](/media/70yt/arete-redux/1.jpg)
 
 About five months ago I wrote a post about [arete](https://70yearswtf.substack.com/p/vote-arete-20-12-12).
 

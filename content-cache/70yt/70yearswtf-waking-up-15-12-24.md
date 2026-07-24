@@ -15,6 +15,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/waking-up-15-12-24/1.jpg)
+
 I've made reference in [another post](http://70yearsoldwtf.blogspot.com/2015/09/writing-miindfully.html) to [Sam Harris](http://www.samharris.org/)' book, "[Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636024)," and to some of what I learned from that book [here](http://70yearsoldwtf.blogspot.com/2015/12/my-100-latte.html). I recommend reading it. (The book, not just the posts.)
 
  I got several BIG insights from his book. That's BIG WITH CAPITAL LETTERS. I've read mindfulness literature over the years, so the bar is pretty high for new insights that I would call BIG.

@@ -9,7 +9,8 @@ source: "70yt *the-hard-way-is-the-easy-way*; *pay-the-price* (batch 7)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Looking for easy way is usually avoidance. Pay the price = Kipling-via-Robinson mantra for imperfect drafts and publish risk.</p>

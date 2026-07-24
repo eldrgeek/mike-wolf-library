@@ -10,7 +10,7 @@ excerpt: "So many things to do. So little time. What are my priorities? And how 
 word_count: 580
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

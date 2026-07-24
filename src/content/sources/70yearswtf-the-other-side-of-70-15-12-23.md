@@ -10,7 +10,8 @@ excerpt: "70 years old? Really? Inconceivable. I started this blog a few days sh
 word_count: 624
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

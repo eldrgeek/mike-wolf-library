@@ -10,7 +10,8 @@ excerpt: "I believe that what I believe determines what I do. I believe that if 
 word_count: 284
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

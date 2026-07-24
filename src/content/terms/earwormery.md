@@ -6,11 +6,13 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *earworms* (batch 6)."
 source: "70yt *earworms* (batch 6)."
-related: []
+related:
+  - "earworms-title"
 provenance:
   - "70yearswtf-earworms-13-01-27"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not one sticky song — a regime of them. -ery nouning.</p>

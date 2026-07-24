@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *new-chromebook-and-my-chromunity* (batch 7)."
 source: "70yt *new-chromebook-and-my-chromunity* (batch 7)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-new-chromebook-and-my-chromunity-17-01-08"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Title portmanteau: teaching a town how cheap Chromebooks empower people.</p>

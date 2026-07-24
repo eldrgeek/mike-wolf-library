@@ -7,10 +7,10 @@ date: "2013-05-20"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/not-an-optimist-not-a-pessimist-a-13-05-20"
 excerpt: "In a world that's filled with bad news, a constant barrage of current outrages, and coming disasters, I am generally unworried. People who listen to these reports and believe them are pessimistic, and it's easy to see why. When I tell them…"
-word_count: 631
+word_count: 672
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -22,6 +22,8 @@ related:
 In a world that's filled with bad news, a constant barrage of current outrages, and coming disasters, I am generally unworried.
 
 People who listen to these reports and believe them are pessimistic, and it's easy to see why. When I tell them that I am not pessimistic also, they accuse me of optimism, as though this was some sort of character defect. But, I explain, the fact that I'm not pessimistic does not mean I'm optimistic.
+
+![Is the glass half empty or half full? The pess...](/media/70yt/not-an-optimist-not-a-pessimist-a-13-05-20/1.jpg)
 
 *(Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:Glass-of-water.jpg))*
 
@@ -44,3 +46,5 @@ The "ask the expert" prediction technique is testable: see what that has expert 
 The world is uncertain.
 
 But as long as it's possible, even if improbable, that things will work out I will remain hopeful.
+
+![Enhanced by Zemanta](/media/70yt/not-an-optimist-not-a-pessimist-a-13-05-20/2.png)

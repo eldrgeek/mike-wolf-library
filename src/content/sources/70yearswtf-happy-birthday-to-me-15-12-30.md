@@ -10,7 +10,9 @@ excerpt: "Photo credit: [brunkfordbraun](http://www.flickr.com/photos/67961268@N
 word_count: 704
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

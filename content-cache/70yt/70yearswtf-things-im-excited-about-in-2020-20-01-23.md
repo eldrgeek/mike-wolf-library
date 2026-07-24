@@ -7,7 +7,7 @@ date: "2020-01-23"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/things-im-excited-about-in-2020-20-01-23"
 excerpt: "Mira asked our extended family group to say what we’re excited about in 2020. What are we looking forward to? Holy crap! What am I not excited about? What am I not looking forward to? (Fuck you, Grammarly. I like…"
-word_count: 1117
+word_count: 1120
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -143,5 +143,7 @@ Remember: you’re not dead yet. And neither am I.
 (Bonus: Here’s Moby in his studio around the time he produced [“Play,”](https://en.wikipedia.org/wiki/Play_%28Moby_album%29) one of my favorite albums. ([YouTube](https://www.youtube.com/playlist?list=PLoVG1q_aFZqajrNlC-0JPRurpg16zWpdz))The reason there’s so little tech around him is: it was around 30 years ago, and it’s his apartment, and there’s not much room.
 
 Enough!
+
+![enter image description here](/media/70yt/things-im-excited-about-in-2020-20-01-23/1.jpg)
 
 [Click here to subscribe to 70 Years Old. WTF! by Email](https://feedburner.google.com/fb/a/mailverify?uri=70YearsOldWtf&loc=en_US)

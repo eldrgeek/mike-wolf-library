@@ -10,7 +10,8 @@ excerpt: "The brilliant video above mixes the sound track from an ASPCA advert w
 word_count: 599
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

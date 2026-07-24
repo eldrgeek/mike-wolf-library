@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/fill-the-world-with-love-scientifically/1.jpg)
+
 Hello Reader.
 
 Yes, you.
@@ -29,6 +31,8 @@ I am not crazy for writing or saying this.
 
 ## The Science of Love
 
+![](/media/70yt/fill-the-world-with-love-scientifically/2.png)
+
 There is a Science of Love. It is an applied science. An experimental science.
 
 We can study and apply it and change the world.
@@ -44,6 +48,8 @@ Starting with a little love, by applying the Science of Love we can bootstrap lo
 This is the fundamental insight of the Science of Love: if you give love to another, you will have more love, not less.
 
 ## The first experiment
+
+![](/media/70yt/fill-the-world-with-love-scientifically/3.jpg)
 
 Notice how much love you have.
 
@@ -65,6 +71,8 @@ That’s love in action.
 
 ## **The laws of physics and love**
 
+![](/media/70yt/fill-the-world-with-love-scientifically/4.jpg)
+
 The laws of physics say that when you give something away you have less.
 
 The Laws of Love say that when you give love you have more love.
@@ -78,6 +86,8 @@ The Laws of Love, properly applied will lead to miracles.
 But miracles are an advanced move. We’ll get to them later. Let’s start with the basics.
 
 ## **Let’s continue the practice**
+
+![](/media/70yt/fill-the-world-with-love-scientifically/5.jpg)
 
 Find someone else to give love to.
 
@@ -101,6 +111,8 @@ Keep doing it, and your store of love will grow without bound.
 
 ## **What about people who do unloving things**
 
+![](/media/70yt/fill-the-world-with-love-scientifically/6.jpg)
+
 Some people do unloving things. Some are angry; some are resentful; some are spiteful. Some are assholes.
 
 You might say they do not deserve your love. And you may be right. But this does not matter.
@@ -121,6 +133,8 @@ Give them love because only love will heal them.
 
 ## You don’t need to be naive
 
+![](/media/70yt/fill-the-world-with-love-scientifically/7.jpg)
+
 Giving love to the unloving does not require that you turn your back and let them do harm.
 
 You do not help the unloving when you give them a chance to harm.
@@ -132,6 +146,8 @@ Anger leads to anger.
 Love leads to love.
 
 ## The process
+
+![](/media/70yt/fill-the-world-with-love-scientifically/8.jpg)
 
 This is the process we will use to bootstrap love.
 
@@ -149,6 +165,8 @@ And so love will fill the world.
 
 ## Why I write
 
+![](/media/70yt/fill-the-world-with-love-scientifically/9.jpg)
+
 I write because of love. Love of Truth. Love of the God I don’t believe in. Love of writing.  Love of you, known and unknown readers.
 
 And having written with love, I have more love.
@@ -160,6 +178,8 @@ And reading it, perhaps, your love has grown.
 If you love this idea, make it your own, and practice.
 
 Practice, practice, practice.
+
+![](/media/70yt/fill-the-world-with-love-scientifically/10.jpg)
 
 Send someone you love a text message and tell them you love them.
 

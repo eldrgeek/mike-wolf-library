@@ -7,11 +7,13 @@ date: "2021-02-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/knock-knock-with-gd"
 excerpt: "G*d came to me in a dream and here's the joke that She told me"
-word_count: 111
+word_count: 114
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/knock-knock-with-gd/1.jpg)
 
 G*d: knock knock
 Me: Who's there?.

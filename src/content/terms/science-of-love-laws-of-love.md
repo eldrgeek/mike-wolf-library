@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *fill-the-world-with-love-scientifically* (batch 4)."
 source: "70yt *fill-the-world-with-love-scientifically* (batch 4)."
-related: []
+related:
+  - "lovenomics"
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Physics says giving depletes; Laws of Love say giving multiplies. Bootstrap from a little love.</p>

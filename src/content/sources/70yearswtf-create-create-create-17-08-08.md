@@ -10,7 +10,8 @@ excerpt: "In [this podcast](https://www.samharris.org/podcast/item/finding-our-w
 word_count: 762
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

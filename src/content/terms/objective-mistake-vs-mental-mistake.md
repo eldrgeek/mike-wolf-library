@@ -9,7 +9,8 @@ source: "70yt *you-are-making-a-lot-of-mistakes* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Objective mistake can’t be undone; mental mistake is still running until acknowledged — acknowledgment <em>is</em> the correction. Mistakes-are-route lineage.</p>

@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/writing-plan-2016-16-01-05/1.jpg)
+
 Photo credit: [dmelchordiaz](https://www.flickr.com/photos/dmelchordiaz/6198533837/) via [Foter.com](http://foter.com/photo/starting-to-write/) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 Until yesterday I thought the biggest writing problem that I had was sitting my ass in the chair and starting. Now I realize it's much different than that. And I think I know what I need to do.

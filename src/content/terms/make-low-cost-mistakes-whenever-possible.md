@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-07 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Under mistakes-as-route and no-failed-experiments. “Whenever possible” is load-bearing: reversibility is the gate; cost-of-being-wrong is the budget.</p>

@@ -6,11 +6,12 @@ order: 0
 date: "2025-03-15"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/every-loving-thought-is-true"
-excerpt: "[I love ideas.](https://70yearswtf.substack.com/p/everything-is-an-idea?utmsource=publication-search) “We love you too,” I imagine an idea saying. Maybe even all of them. [A Course in…"
-word_count: 495
+excerpt: "![](/media/70yt/every-loving-thought-is-true/1.jpg) [I love ideas.](https://70yearswtf.substack.com/p/everything-is-an-idea?utmsource=publication-search) “We love you too,” I imagine an idea saying. Maybe even all of them. [A Course in…"
+word_count: 504
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "ACIM"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/every-loving-thought-is-true/1.jpg)
 
 [I love ideas.](https://70yearswtf.substack.com/p/everything-is-an-idea?utm_source=publication-search)
 

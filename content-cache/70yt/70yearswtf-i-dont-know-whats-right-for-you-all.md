@@ -7,7 +7,7 @@ date: "2022-09-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-know-whats-right-for-you-all"
 excerpt: "Photo by Jamie Street on Unsplash I’ve spent my life looking for answers to “life’s big questions.” Like the purpose of life, the universe, and everything. 70 Years Old. WTF!The purpose of life, the universe, and everythingWe know that “the…"
-word_count: 653
+word_count: 711
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -18,7 +18,7 @@ related: []
 
 I’ve spent my life looking for answers to “life’s big questions.” Like [the purpose of life, the universe, and everything](https://70yearswtf.substack.com/p/the-purpose-of-life-the-universe-16-12-06).
 
-[70 Years Old. WTF!The purpose of life, the universe, and everythingWe know that “the ultimate question of life, the universe, and everything” has an answer. It’s 42. Wikipedia says so. But is there a purpose to life, the universe, and everything? If so, what is it? 1. What’s a purpose? Oxford Dictionaries defines purpose…Read more10 years ago · Michael Wolf](https://70yearswtf.substack.com/p/the-purpose-of-life-the-universe-16-12-06?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/i-dont-know-whats-right-for-you-all/1.jpg) 70 Years Old. WTF!The purpose of life, the universe, and everythingWe know that “the ultimate question of life, the universe, and everything” has an answer. It’s 42. Wikipedia says so. But is there a purpose to life, the universe, and everything? If so, what is it? 1. What’s a purpose? Oxford Dictionaries defines purpose…Read more10 years ago · Michael Wolf](https://70yearswtf.substack.com/p/the-purpose-of-life-the-universe-16-12-06?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 I’ve always been happy to share what I’ve learned.
 

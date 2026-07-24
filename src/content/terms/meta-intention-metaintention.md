@@ -9,7 +9,8 @@ source: "70yt intention-meditation; *intentional-failure*; *attention-on-intenti
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> One level up: when hijacked, standing meta-intention resumes. Forensic: publish failure is often intentional because intention only specified start, not finish. Fix intention stack, not willpower slogans.</p>

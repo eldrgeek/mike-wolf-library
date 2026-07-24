@@ -7,13 +7,15 @@ date: "2019-07-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-tohunga-lounge-and-the-writers-19-07-31"
 excerpt: "Photo by Aaron Burden on Unsplash The Tohunga Lounge and the Writers Nook A while back, my friend JL ran an experiment in community building. He’s a wicked smaht guy (as they say in Boston) and he knows other really…"
-word_count: 923
+word_count: 922
 tags:
   - "70YearsWTF"
   - "blogging"
   - "automation"
 related: []
 ---
+
+![](/media/70yt/the-tohunga-lounge-and-the-writers-19-07-31/1.jpg)
 
 *Photo by [Aaron Burden](https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/writing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

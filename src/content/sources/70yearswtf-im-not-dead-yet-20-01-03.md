@@ -6,11 +6,13 @@ order: 0
 date: "2020-01-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-not-dead-yet-20-01-03"
-excerpt: "Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
-word_count: 1214
+excerpt: "![Photo by Alonso Reyes(https://unsplash.com/@alonsoreyes?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 1255
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by Alonso Reyes(https://unsplash.com/@alonsoreyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/not-dead-yet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/im-not-dead-yet-20-01-03/1.jpg)
 
 *Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/not-dead-yet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -177,8 +181,6 @@ We’ll find out tomorrow.
 What’s next for you?
 
 That’s up to you.
-
-
 
 [1](#footnote-anchor-1)
 

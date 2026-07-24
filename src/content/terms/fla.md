@@ -9,7 +9,8 @@ source: "70yt *tdcs-better-cognition* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Standing joke-register for expanding technical abbreviations.</p>

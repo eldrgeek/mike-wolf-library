@@ -11,7 +11,8 @@ provenance:
   - "srmw-part-ii-the-metanovel"
   - "srmw-chapter-4-an-idea"
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Creativity as dialogue with a demanding concept-creature. Inner critic mocks; author insists this one talks.</p>

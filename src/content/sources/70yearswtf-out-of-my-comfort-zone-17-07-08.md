@@ -10,7 +10,7 @@ excerpt: "I am too comfortable. Said differently, I do not push myself out of my
 word_count: 370
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

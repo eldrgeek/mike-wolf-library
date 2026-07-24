@@ -6,11 +6,12 @@ order: 0
 date: "2025-01-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/even-more-like-heaven-and-the-internet"
-excerpt: "Photo by [Johannes Plenio](https://unsplash.com/@jplenio?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) Edited, improved…"
-word_count: 2402
+excerpt: "![Photo by Johannes Plenio(https://unsplash.com/@jplenio?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 2438
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-my-life-is-over-and-thats-a-good"
   - "70yearswtf-self-promotion"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-conversations-with-god-19-04-21"
 ---
+
+![Photo by Johannes Plenio(https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/even-more-like-heaven-and-the-internet/1.jpg)
 
 *Photo by [Johannes Plenio](https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

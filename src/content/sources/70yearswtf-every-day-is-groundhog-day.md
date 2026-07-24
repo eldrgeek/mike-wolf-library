@@ -6,11 +6,11 @@ order: 0
 date: "2025-12-10"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/every-day-is-groundhog-day"
-excerpt: "I watched “[Groundhog Day](https://en.wikipedia.org/wiki/GroundhogDay(film))” the other night. I think I’ve watched it 50 times. Watching it that time was different. I realized that the story was about me. And you and everyone. In case you…"
-word_count: 454
+excerpt: "![](/media/70yt/every-day-is-groundhog-day/1.jpg) I watched “[Groundhog Day](https://en.wikipedia.org/wiki/GroundhogDay(film))” the other night. I think I’ve watched it 50 times. Watching it that time was different. I realized that the…"
+word_count: 463
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/every-day-is-groundhog-day/1.jpg)
 
 I watched “[Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film))” the other night. I think I’ve watched it 50 times.
 

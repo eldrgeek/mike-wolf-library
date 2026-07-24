@@ -10,7 +10,11 @@ excerpt: "I do a crappy job of finishing posts to my blogs. Here's one reason: I
 word_count: 532
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
+  - "economics"
+  - "rationality"
 related:
   - "70yearswtf-pot-odds-13-05-21"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"

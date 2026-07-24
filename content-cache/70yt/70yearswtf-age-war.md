@@ -7,11 +7,13 @@ date: "2025-11-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/age-war"
 excerpt: "Words are strange"
-word_count: 173
+word_count: 153
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/age-war/1.jpg)
 
 ## Age is just a number
 

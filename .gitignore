@@ -11,3 +11,6 @@ __pycache__/
 
 # scratch: fetch logs, corpus backups, task briefs
 _grok/
+
+# local re-fetch cache (raw Substack HTML) — not needed for build
+content-cache/70yt-raw/

@@ -9,7 +9,8 @@ source: "Dee 2026-05-04 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Aphorisms compress essays. Without conversational archive, they degrade into platitudes. Reading Wall in five years requires archive.</p>

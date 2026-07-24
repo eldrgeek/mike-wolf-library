@@ -9,6 +9,7 @@ source: "Mike, July 2026."
 related:
   - "soma"
   - "i-wish-i-had-said-that"
+  - "the-board"
 provenance: []
 tags:
   - "dialect"

@@ -6,11 +6,11 @@ order: 0
 date: "2025-12-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/on-the-way"
-excerpt: "Today on the way to Writer’s Group, you returned to me. Or maybe you were always there, and I didn’t see you. It’s not that I haven’t felt your presence before. I have. But the presence I have felt was the presence of the woman with whom I…"
-word_count: 292
+excerpt: "![](/media/70yt/on-the-way/1.jpg) Today on the way to Writer’s Group, you returned to me. Or maybe you were always there, and I didn’t see you. It’s not that I haven’t felt your presence before. I have. But the presence I have felt was the…"
+word_count: 306
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/on-the-way/1.jpg)
 
 Today on the way to Writer’s Group, you returned to me.
 
@@ -66,3 +68,5 @@ More to recover, to remember, to recreate.
 But for now, I will rest in love.
 
 And share this,
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

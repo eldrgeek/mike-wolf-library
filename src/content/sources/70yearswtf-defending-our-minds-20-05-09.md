@@ -10,7 +10,7 @@ excerpt: "Your mind is a delicate device, evolved over nearly 14 billion years. 
 word_count: 471
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

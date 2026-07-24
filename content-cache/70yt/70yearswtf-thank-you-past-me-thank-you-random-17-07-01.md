@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/thank-you-past-me-thank-you-random-17-07-01/1.png)
+
 (Original art from [here](http://i.imgur.com/7xsp7hJ.png))
 
 Last night, on Reddit, I came across a comment that has changed my life. Of course, it doesn't take all that much to change someone's life. I wouldn't have written this if not for that comment, so the existence of this post means reading that comment was a life-changing event. But I hope my life will change in a larger way.

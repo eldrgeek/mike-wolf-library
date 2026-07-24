@@ -10,7 +10,8 @@ excerpt: "Linkus clickbaitus, the common clickbait link, was unknown forty years
 word_count: 664
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

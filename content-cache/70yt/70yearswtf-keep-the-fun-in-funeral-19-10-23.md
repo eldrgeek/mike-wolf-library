@@ -7,11 +7,13 @@ date: "2019-10-23"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/keep-the-fun-in-funeral-19-10-23"
 excerpt: "Today Bobbi’s writing group got together in memory of one of their group who—to paraphrase Monty Python ——had died, passed on, was no more, ceased to be, expired and gone to meet her maker, was a stiff, bereft of life,…"
-word_count: 763
+word_count: 762
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/keep-the-fun-in-funeral-19-10-23/1.jpg)
 
 Today Bobbi’s writing group got together in memory of one of their group who—to [paraphrase Monty Python](http://montypython.50webs.com/scripts/Series_1/53.htm) ——had died, passed on, was no more, ceased to be, expired and gone to meet her maker, was a stiff, bereft of life, resting in peace, pushing up the daisies, kicked the bucket, shuffled off this mortal coil, run down the curtain and joined the choir invisible.
 

@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-premortems-19-01-06"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Why premortems belong <em>inside</em> the plan. Mike didn’t invent premortems; plan rot is his failure-mode name.</p>

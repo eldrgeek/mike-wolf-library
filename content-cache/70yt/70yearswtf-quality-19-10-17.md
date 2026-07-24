@@ -7,12 +7,14 @@ date: "2019-10-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/quality-19-10-17"
 excerpt: "Photo by Javier Aguilera from Pexels In this post, Being, doing, having, I wrote about what happens when writing appears: Then, after the writing appears, I read what has appeared. And then I judge its quality. Quality! That’s what it…"
-word_count: 434
+word_count: 451
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Photo by **Javier Aguilera(https://www.pexels.com/@jamphotography?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/low-angle-photo-of-black-harley-davidson-forty-eight-1200-motorcycle-parked-on-dirt-road-during-golden-hour-2611690/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/quality-19-10-17/1.jpg)
 
 *Photo by **[Javier Aguilera](https://www.pexels.com/@jamphotography?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/low-angle-photo-of-black-harley-davidson-forty-eight-1200-motorcycle-parked-on-dirt-road-during-golden-hour-2611690/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 

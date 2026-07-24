@@ -9,7 +9,8 @@ source: "70yt *mikes-life-moviewise-review* (batch 5)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Moviewise-style review of existence. Meditation on waking up <em>in</em> the movie of your life.</p>

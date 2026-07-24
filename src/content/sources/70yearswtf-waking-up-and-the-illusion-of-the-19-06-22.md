@@ -6,18 +6,22 @@ order: 0
 date: "2019-06-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/waking-up-and-the-illusion-of-the-19-06-22"
-excerpt: "[Robin Schreiner](https://unsplash.com/@robinschreiner) Dana asked me some questions about The Waking Up Course. Daniel asked some questions about the practice. Their questions led me to clarify my understanding. So I’ve written this for…"
-word_count: 2444
+excerpt: "![Robin Screiner(https://unsplash.com/@robinschreiner)](/media/70yt/waking-up-and-the-illusion-of-the-19-06-22/1.jpg) [Robin Schreiner](https://unsplash.com/@robinschreiner) Dana asked me some questions about The Waking Up Course. Daniel…"
+word_count: 2464
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-from-farnam-street-to-quantum-computing-19-06-30"
   - "70yearswtf-more-advice-share-your-gifts"
+  - "70yearswtf-nearly-75-years-old-wtaf-17-11-09"
   - "70yearswtf-the-heros-journey-continues"
   - "srmw-chapter-40-how-to-practice"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
 ---
+
+![Robin Screiner(https://unsplash.com/@robin_schreiner)](/media/70yt/waking-up-and-the-illusion-of-the-19-06-22/1.jpg)
 
 *[Robin Schreiner](https://unsplash.com/@robin_schreiner)*
 

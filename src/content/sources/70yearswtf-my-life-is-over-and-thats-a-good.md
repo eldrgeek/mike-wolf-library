@@ -6,11 +6,12 @@ order: 0
 date: "2021-07-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/my-life-is-over-and-thats-a-good"
-excerpt: "Photo by [Johannes Plenio](https://unsplash.com/@jplenio?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) I wrote this…"
-word_count: 2118
+excerpt: "![Photo by Johannes Plenio(https://unsplash.com/@jplenio?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 2155
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-even-more-like-heaven-and-the-internet"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-conversations-with-god-19-04-21"
   - "70yearswtf-fill-the-world-with-love-scientifically"
 ---
+
+![Photo by Johannes Plenio(https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/my-life-is-over-and-thats-a-good/1.jpg)
 
 *Photo by [Johannes Plenio](https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

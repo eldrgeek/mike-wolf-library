@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-actions-that-match-intentions"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Plumbing metaphor for writing hygiene on the daily intention list.</p>

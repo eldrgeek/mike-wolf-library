@@ -6,11 +6,12 @@ order: 0
 date: "2021-02-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/a-course-in-miracles-progress-report"
-excerpt: "Photo by [Davide Cantelli](https://unsplash.com/@cant89?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/god?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) I…"
-word_count: 1624
+excerpt: "![](/media/70yt/a-course-in-miracles-progress-report/1.jpg) Photo by [Davide Cantelli](https://unsplash.com/@cant89?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 1641
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/a-course-in-miracles-progress-report/1.jpg)
 
 Photo by [Davide Cantelli](https://unsplash.com/@cant89?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/god?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -176,3 +179,5 @@ Here are the other posts I’ve written on this topic:
 [Down the rabbit hole](https://70yearswtf.substack.com/p/down-the-rabbit-hole-20-07-26)
 
 [Looking for a miracle](https://70yearswtf.substack.com/p/looking-for-a-miracle-20-11-11)
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

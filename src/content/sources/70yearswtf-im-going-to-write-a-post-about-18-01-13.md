@@ -10,7 +10,8 @@ excerpt: "I'm going to write the second part of my post about slavery. But it's 
 word_count: 253
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

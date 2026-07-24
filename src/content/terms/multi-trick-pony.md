@@ -9,7 +9,8 @@ source: "70yt *multi-trick-pony* (batch 6)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Title coinage for rediscovering Substack features while re-rebooting.</p>

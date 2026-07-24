@@ -7,7 +7,7 @@ date: "2023-01-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/ask-and-i-will-answer"
 excerpt: "A grab bag of issues and postlets for the new year and beyond. Happy birthday to me and everyone else December 30, 2022 was my 80th birthday anniversary. I started writing a post and didn’t finish it or publish it.…"
-word_count: 687
+word_count: 683
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -41,6 +41,8 @@ Here’s [a link to the first post I wrote](https://70yearswtf.substack.com/p/70
 > One of the things I’ve told our kids repeatedly: “If you don’t look back on what you were doing five years ago and think that a lot of it was stupid, then you haven’t learned much in the last five years.”
 
 Here’s a screenshot of the photo of Nana, from that post. The one on the post is better.
+
+![](/media/70yt/ask-and-i-will-answer/1.jpg)
 
 ## What do you want me to write about?
 

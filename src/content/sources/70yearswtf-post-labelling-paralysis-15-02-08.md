@@ -10,7 +10,8 @@ excerpt: "I've found myself unable to post regularly for all sorts of stupid rea
 word_count: 351
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

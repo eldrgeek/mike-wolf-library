@@ -9,7 +9,8 @@ source: "70yt *practice-what-you-post* (batch 6)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Attention practice applied to language — stop not-seeing the worlds inside the wording.</p>

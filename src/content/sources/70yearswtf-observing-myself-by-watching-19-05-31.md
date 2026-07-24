@@ -6,11 +6,14 @@ order: 0
 date: "2019-05-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/observing-myself-by-watching-19-05-31"
-excerpt: "[Yogi Berra](https://en.wikipedia.org/wiki/YogiBerra) said it. “You can observe a lot by just watching.” And you can learn a lot about yourself just by observing. I’ve been watching and observing and learning some things about myself…"
-word_count: 1139
+excerpt: "![](/media/70yt/observing-myself-by-watching-19-05-31/1.jpg) [Yogi Berra](https://en.wikipedia.org/wiki/YogiBerra) said it. “You can observe a lot by just watching.” And you can learn a lot about yourself just by observing. I’ve been…"
+word_count: 1150
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +21,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/observing-myself-by-watching-19-05-31/1.jpg)
 
 [Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra) said it. “You can observe a lot by just watching.”
 

@@ -7,13 +7,15 @@ date: "2017-10-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/avoiding-the-core-teachings-of-the-17-10-24"
 excerpt: "Photo by amit kumar on Unsplash Scott Alexander wrote a review of a book called “Mastering the Core Teachings of the Buddha.” by Daniel Ingram. I got a copy from Amazon using the link at the end of Scott’s post,…"
-word_count: 1680
+word_count: 1691
 tags:
   - "70YearsWTF"
   - "meditation"
   - "blogging"
 related: []
 ---
+
+![Photo by amit kumar(https://unsplash.com/@amitkumar23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/buddha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/avoiding-the-core-teachings-of-the-17-10-24/1.jpg)
 
 *Photo by [amit kumar](https://unsplash.com/@amitkumar23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/buddha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

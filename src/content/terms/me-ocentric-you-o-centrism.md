@@ -9,7 +9,8 @@ source: "70yt MMT post + *im-mike-from-right-here* (batches 6–7)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Physics allows any origin; Mike claims me-ocentric view and grants you-o-centrism. CMB isotropy gag: <em>here</em> is the center — and so is everyone else’s.</p>

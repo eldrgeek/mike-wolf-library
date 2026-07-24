@@ -10,7 +10,9 @@ excerpt: "We are [made of knowledge](https://70yearsoldwtf.blogspot.com/2018/12/
 word_count: 943
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -7,13 +7,15 @@ date: "2025-04-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/god-derangement-syndrome-is-a-serious"
 excerpt: "“God Derangement Syndrome is a serious problem,” says the God I don’t believe in, reading the title I’d written for the post. “God doesn’t exist,” said a reader. Or one will say it as soon as the read it. “See…"
-word_count: 524
+word_count: 532
 tags:
   - "70YearsWTF"
   - "God"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/god-derangement-syndrome-is-a-serious/1.jpg)
 
 “God Derangement Syndrome is a serious problem,” says [the God I don’t believe in](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in?utm_source=publication-search), reading the title I’d written for the post.
 
@@ -52,5 +54,7 @@ related: []
 “And as I said in the beginning, just after I made the heavens and the earth, God Derangement Syndrome is a serious problem.”
 
 [Leave a comment](https://70yearswtf.substack.com/p/god-derangement-syndrome-is-a-serious/comments)
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [Do something else](https://theuselessweb.com/)

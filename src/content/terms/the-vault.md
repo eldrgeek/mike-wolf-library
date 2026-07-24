@@ -7,6 +7,7 @@ authored_by: "Mike Wolf & the SOMA fleet"
 source: ""
 related:
   - "locatedness"
+  - "ship-it"
 provenance: []
 tags:
   - "dialect"

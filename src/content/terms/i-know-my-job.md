@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-i-know-my-job-19-01-03"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Mission statement: purpose chosen; universe forces weaker purpose if you don’t.</p>

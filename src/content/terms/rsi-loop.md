@@ -10,6 +10,7 @@ related:
   - "specialist-ledger"
   - "two-kinds-rule"
   - "process-my-comments"
+  - "we-are-seeking-to-do-but-also-to-learn-at-every-opportunity"
 provenance:
   - "ai-wtf-post-001-raw-mike-mission-articulation"
 tags:

@@ -6,11 +6,12 @@ order: 0
 date: "2013-01-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/cognitive-decline-13-01-02"
-excerpt: "Note: I wrote this in 2013 and used [Grammarly](https://www.grammarly.com/) to spell-check and improve its low. Man! Grammarly is good. Man! Did I make a lot of errors. --- The signs were all around me. I just had to look. Which I didn't…"
-word_count: 1814
+excerpt: "![](/media/70yt/cognitive-decline-13-01-02/1.jpg) Note: I wrote this in 2013 and used [Grammarly](https://www.grammarly.com/) to spell-check and improve its low. Man! Grammarly is good. Man! Did I make a lot of errors. --- The signs were…"
+word_count: 1823
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/cognitive-decline-13-01-02/1.jpg)
 
 Note: I wrote this in 2013 and used [Grammarly](https://www.grammarly.com/) to spell-check and improve its low. Man! Grammarly is good. Man! Did I make a lot of errors.
 

@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Affectionate hive-mind pun for grandchildren.</p>

@@ -9,7 +9,8 @@ source: "70yt *post-labelling-paralysis* (batch 2)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Mock-clinical stack: PLP freezes at label field; FLT is the intervention. Comic taxonomy of real blog failure mode.</p>

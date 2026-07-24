@@ -6,7 +6,8 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *can-god-create-a-rock* + cluster (batch 5)."
 source: "70yt *can-god-create-a-rock* + cluster (batch 5)."
-related: []
+related:
+  - "god-derangement-syndrome-gds"
 provenance:
   - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
@@ -24,7 +25,8 @@ provenance:
   - "70yearswtf-whats-the-most-important-thing-8ab"
   - "70yearswtf-you-dont-realize-how-brilliant-you"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Third position: neither atheist mockery nor faith commitment. Imaginary partner who inspires writing. Recurs across theology posts.</p>

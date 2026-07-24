@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-an-intentional-meditation-on-intention-18-12-13"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> You intend; mind/body system acts. Writing becomes observation of intention → appearance of text.</p>

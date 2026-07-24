@@ -10,7 +10,8 @@ excerpt: "Rewards and punishment modify behavior. I knew that. Everyone knows th
 word_count: 792
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

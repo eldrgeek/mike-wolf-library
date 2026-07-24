@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/personal-journeys-and-jew-overflow-15-01-30/1.png)
+
 In an [earlier post](http://70yearsoldwtf.blogspot.com/2015/01/the-problem-with-problem-with-god-lost.html) I wrote about the book we were using for [this course](http://www.acadiaseniorcollege.org/education/WI2015/Journeys_Myers.html). Now let me tell you about the course, and the change it's catalyzed. There will be more posts to follow on this topic
 
 Anyhow.

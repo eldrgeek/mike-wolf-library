@@ -6,11 +6,12 @@ order: 0
 date: "2017-10-15"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-really-care-just-publish-me-17-10-15"
-excerpt: "Image by [Lexica.art](https://lexica.art/prompt/806401f3-558e-49da-b36f-d73f47e5a850) “Can you hear me?” said a voice in my head. “I guess so,” I said. “Are you talking to me?” “If you can hear me, I’m talking to you,” came the answer.…"
-word_count: 583
+excerpt: "![Image by Lexica.art(https://lexica.art/prompt/806401f3-558e-49da-b36f-d73f47e5a850)](/media/70yt/i-dont-really-care-just-publish-me-17-10-15/1.jpg) Image by [Lexica.art](https://lexica.art/prompt/806401f3-558e-49da-b36f-d73f47e5a850)…"
+word_count: 610
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Image by Lexica.art(https://lexica.art/prompt/806401f3-558e-49da-b36f-d73f47e5a850)](/media/70yt/i-dont-really-care-just-publish-me-17-10-15/1.jpg)
 
 *Image by [Lexica.art](https://lexica.art/prompt/806401f3-558e-49da-b36f-d73f47e5a850)*
 

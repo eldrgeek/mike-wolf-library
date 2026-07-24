@@ -6,11 +6,11 @@ order: 0
 date: "2021-09-08"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/whatever-it-takes-redux"
-excerpt: "Photo by [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
-word_count: 481
+excerpt: "![Photo by Nataliya Vaitkevich(https://www.pexels.com/@n-voitkevich?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
+word_count: 530
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by **Nataliya Vaitkevich(https://www.pexels.com/@n-voitkevich?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/healthy-sky-man-hand-6120398/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/whatever-it-takes-redux/1.jpg)
 
 *Photo by **[Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/healthy-sky-man-hand-6120398/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 
@@ -64,3 +66,5 @@ I wrote [an earlier version of this post](https://70yearswtf.substack.com/p/what
 And to make sure everyone knows how serious I am, I’m going to edit it and repost it every three and a half years or so.
 
 This version is from September 2021.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

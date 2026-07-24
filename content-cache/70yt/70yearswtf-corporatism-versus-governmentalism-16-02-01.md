@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/corporatism-versus-governmentalism-16-02-01/1.jpg)
+
 Photo credit: [Alan Cleaver](http://www.flickr.com/photos/11121568@N06/) via [Foter.com](http://foter.com/photo/tax-by-definition/) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 
 **Summary**

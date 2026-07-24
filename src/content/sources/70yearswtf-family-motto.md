@@ -6,11 +6,11 @@ order: 0
 date: "2023-10-26"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/family-motto"
-excerpt: "Here I am, at the Deer Isle (Maine) Writers’ group, with a bunch of other 70- and 80-year-old and maybe even 90-year-old retired white people. [Just like last time.](https://70yearswtf.substack.com/p/indian-summers-i-have-known-and-loved)…"
-word_count: 335
+excerpt: "![Photo of a heartwarming living room, where the walls are decorated with cherished family photographs encased in wooden borders. A central chalkboard showcases the word 'Whatevah' written beautifully in cursive. Beside it, an ornate chair…"
+word_count: 411
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo of a heartwarming living room, where the walls are decorated with cherished family photographs encased in wooden borders. A central chalkboard showcases the word 'Whatevah' written beautifully in cursive. Beside it, an ornate chair with 'QFE' embroidered on its seating area and a crown positioned on its backrest signifies the Queen of Everything. The room is awash in the gentle light of candles, casting a nostalgic and inviting atmosphere.](/media/70yt/family-motto/1.jpg)
 
 Here I am, at the Deer Isle (Maine) Writers’ group, with a bunch of other 70- and 80-year-old and maybe even 90-year-old retired white people. [Just like last time.](https://70yearswtf.substack.com/p/indian-summers-i-have-known-and-loved)
 

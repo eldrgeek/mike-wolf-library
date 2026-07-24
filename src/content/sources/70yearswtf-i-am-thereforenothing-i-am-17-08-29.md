@@ -10,13 +10,13 @@ excerpt: "“Write about me,” I typed. “And you are?” I asked. “I’m a 
 word_count: 925
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 “Write about me,” I typed.

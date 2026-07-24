@@ -15,6 +15,8 @@ related: []
 
 Finally!
 
+![](/media/70yt/music-practice-focus-15-12-30/1.jpg)
+
 Studio Mike 1.0Travelling the road of life I learned how to play guitar and piano, neither very well. I endured piano lessons and hated practicing. I could not wait, could not wait, could not wait for the time to be up. Finally my mother surrendered and told me I didn't have to keep playing. She also told me that I'd be a social failure if I couldn't play the piano, but it was my choice.
 
 When I got to college there were two groups of cool guys I set out to emulate. One group drank. A lot. Wow! How cool! I decided that I'd be one of the cool guys and learn to hold my liquor. And so I went to work. Within a few months I was able to kill a fifth of whiskey in a night. Mission accomplished! I pretty much stopped my serious drinking after that. Pretty much. There were some exceptions. Stories for another time.

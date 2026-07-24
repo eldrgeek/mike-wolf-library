@@ -9,7 +9,8 @@ source: "SRMW."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Taxonomy: simply stupid accept they might be and compensate; metastupid don’t know; chronic think they’re smart. Law of Relative Stupidity: always stupider than you think. Moral-epistemic humility, not taunt.</p>

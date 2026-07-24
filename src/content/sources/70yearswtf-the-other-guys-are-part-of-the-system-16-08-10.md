@@ -10,7 +10,7 @@ excerpt: "I self-identify as liberal when I’m not, more accurately, a [bleedin
 word_count: 324
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -14,11 +14,17 @@ tags:
 related: []
 ---
 
+![](/media/70yt/another-10000-miles-to-our-total-16-02-23/1.jpg)
+
 Here's a summary of our travels over the past month, courtesy of Google Maps Timeline feature, [which I wrote about previously](http://70yearsoldwtf.blogspot.com/2016/01/i-am-cyborg-and-google-helps-me.html).
 
 Not sure why the great gap in the timeline between Atlanta and Amarillo. It's possible I accidentally disabled the feature that reports my position to Google. Too bad. Next time, I'll check daily.
 
 Meanwhile I have some photos to upload to fill in some of the gaps in my memory. And some things to write. You can do a lot of thinking while driving ... how far...
+
+![](/media/70yt/another-10000-miles-to-our-total-16-02-23/2.jpg)
+
+![](/media/70yt/another-10000-miles-to-our-total-16-02-23/3.jpg)
 
 Not counting random trips within the cities we stayed in, it's pretty close to 9,000 miles. Based on what I think our odometer read at the beginning, I'd guess it's a little closer to 10,000.
 

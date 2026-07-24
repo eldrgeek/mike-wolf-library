@@ -13,6 +13,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/i-love-you-heres-why/1.jpg)
+
 I love you.
 
 I mean it. I have reasons. Many. And I will explain them. Because it would be weird for you to believe that I love you without enough reasons.

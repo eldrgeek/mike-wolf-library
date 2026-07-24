@@ -6,11 +6,12 @@ order: 0
 date: "2021-06-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/is-spirituality-practical"
-excerpt: "Photo by [Prince Kumar](https://www.pexels.com/@prince-kumar-781937?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
-word_count: 626
+excerpt: "![Photo by Prince Kumar(https://www.pexels.com/@prince-kumar-781937?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
+word_count: 678
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by **Prince Kumar(https://www.pexels.com/@prince-kumar-781937?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/selective-focus-photography-of-monk-during-meditation-2421467/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/is-spirituality-practical/1.jpg)
 
 *Photo by **[Prince Kumar](https://www.pexels.com/@prince-kumar-781937?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/selective-focus-photography-of-monk-during-meditation-2421467/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 
@@ -136,4 +139,4 @@ Good question! Thanks for asking that!
 1. Spend more time practicing, studying what you have learned that has been effective, and looking for new things to learn.
 2. Spend less time on shit that does not matter.
 3. Look for coaches.
-4. Write more
+4. Write more![Subscribe now](https://70yearswtf.substack.com/subscribe?)

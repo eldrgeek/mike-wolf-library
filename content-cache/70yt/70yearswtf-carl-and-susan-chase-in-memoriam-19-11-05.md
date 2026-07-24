@@ -7,12 +7,14 @@ date: "2019-11-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/carl-and-susan-chase-in-memoriam-19-11-05"
 excerpt: "“Carl and Susan Chase, pillars of local arts, die by choice” reads the headline in the Weekly Packet, our local newspaper. Carl and Susan were part of my of my life. Not a big part. But a part. And now—too…"
-word_count: 2156
+word_count: 2155
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/carl-and-susan-chase-in-memoriam-19-11-05/1.jpg)
 
 *“Carl and Susan Chase, pillars of local arts, die by choice”* reads the [headline in the Weekly Packet](http://weeklypacket.com/news/2019/oct/31/carl-and-susan-chase-pillars-of-local-arts-die-by/), our local newspaper. Carl and Susan were part of my of my life. Not a big part. But a part. And now—too late—a larger part. Because I don’t want to let them go.
 

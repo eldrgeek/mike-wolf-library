@@ -10,7 +10,9 @@ excerpt: "YMMV, but here are my reasons. Yours might be different. Or not exist.
 word_count: 861
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

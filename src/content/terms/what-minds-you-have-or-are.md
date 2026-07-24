@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike 2026-07-15 after *The Shape of a Partnership* (Wall)."
 source: "Mike 2026-07-15 after *The Shape of a Partnership* (Wall)."
-related: []
+related:
+  - "silicon-children"
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Have→are correction is publishable Silicon Children rhetoric if stripped of Fable/team-room/internal film provenance.</p>

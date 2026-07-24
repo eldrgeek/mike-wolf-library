@@ -10,7 +10,8 @@ excerpt: "I’m sad. And I’m angry. At myself, and at God, or the Universe or 
 word_count: 827
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

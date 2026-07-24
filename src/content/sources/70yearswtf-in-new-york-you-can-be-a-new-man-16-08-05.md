@@ -6,11 +6,11 @@ order: 0
 date: "2016-08-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/in-new-york-you-can-be-a-new-man-16-08-05"
-excerpt: "Image by DALL-E “a painting of a \"new man\" in new york city” WDERP is the radio station in my head (KDERP on the West Coast). Right now, the program manager or DJ, whoever does programming, is in love with the music from the musical…"
-word_count: 269
+excerpt: "![Image by DALL-E “a painting of a \"new man\" in new york city”](/media/70yt/in-new-york-you-can-be-a-new-man-16-08-05/1.jpg) Image by DALL-E “a painting of a \"new man\" in new york city” WDERP is the radio station in my head (KDERP on the…"
+word_count: 299
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Image by DALL-E “a painting of a "new man" in new york city”](/media/70yt/in-new-york-you-can-be-a-new-man-16-08-05/1.jpg)
 
 *Image by DALL-E “a painting of a "new man" in new york city”*
 

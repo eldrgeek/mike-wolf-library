@@ -7,12 +7,14 @@ date: "2013-02-01"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/more-humor-13-02-01"
 excerpt: "Notifies people of a joke. (SVG version) (Photo credit: Wikipedia) \"If you tell a joke in a forest, and nobody laughs, was it a joke? --Steven Wright. (p16) That's it. The whole joke, created in accordance with this plan. It…"
-word_count: 107
+word_count: 114
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Notifies people of a joke. (SVG version)](/media/70yt/more-humor-13-02-01/1.png)
 
 Notifies people of a joke. (SVG version) (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:Joke_Alert.svg))
 

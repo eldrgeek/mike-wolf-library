@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-more-debugging-16-12-23"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Distraction and intention-drift are cognitive bugs. Forgetting intention to debug is itself the bug.</p>

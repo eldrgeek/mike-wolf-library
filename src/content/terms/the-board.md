@@ -9,6 +9,9 @@ related:
   - "ralph-loop"
   - "process-my-comments"
   - "the-queue"
+  - "the-fleet"
+  - "were-aligned"
+  - "machine-room"
 provenance:
   - "srmw-part-vi-fear-and-procrastination"
   - "70yearswtf-fifi-and-raul-and-mike-and-bobbi-18-01-13"

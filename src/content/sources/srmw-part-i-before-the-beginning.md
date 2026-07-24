@@ -13,10 +13,10 @@ tags:
   - "writing"
 related:
   - "srmw-part-ii-the-metanovel"
+  - "srmw-part-iii-memories"
   - "srmw-chapter-1-starting-out-the-first-chapter"
   - "srmw-chapter-2-what-is-nanowrimo"
   - "srmw-chapter-3-the-worst-day-of-my-life"
-  - "srmw-chapter-4-an-idea"
 ---
 
 If at first you don’t succeed,

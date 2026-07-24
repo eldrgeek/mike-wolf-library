@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *a-theory-of-strategic-unawareness* (batch 2)."
 source: "70yt *a-theory-of-strategic-unawareness* (batch 2)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-a-theory-of-strategic-unawareness-20-02-03"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Running on automatic is sometimes a <em>solution</em>: more awareness multiplies Parts-in-conflict. Names the tradeoff mindfulness rhetoric skips.</p>

@@ -10,13 +10,14 @@ excerpt: "Daniel turned me on to Eric Weinstein and I’ve been mainlining his i
 word_count: 725
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-epistemic-learned-helplessness-18-01-06"
+  - "70yearswtf-epistemic-learned-helplessness-so-18-07-13"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Daniel turned me on to Eric Weinstein and I’ve been mainlining his ideas for the past dozen hours. The guy is brilliant. See note at bottom of the post.

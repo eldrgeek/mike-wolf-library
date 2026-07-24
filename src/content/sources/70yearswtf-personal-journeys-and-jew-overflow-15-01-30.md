@@ -6,11 +6,12 @@ order: 0
 date: "2015-01-30"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/personal-journeys-and-jew-overflow-15-01-30"
-excerpt: "In an [earlier post](http://70yearsoldwtf.blogspot.com/2015/01/the-problem-with-problem-with-god-lost.html) I wrote about the book we were using for [this course](http://www.acadiaseniorcollege.org/education/WI2015/JourneysMyers.html). Now…"
-word_count: 628
+excerpt: "![](/media/70yt/personal-journeys-and-jew-overflow-15-01-30/1.png) In an [earlier post](http://70yearsoldwtf.blogspot.com/2015/01/the-problem-with-problem-with-god-lost.html) I wrote about the book we were using for [this…"
+word_count: 640
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/personal-journeys-and-jew-overflow-15-01-30/1.png)
 
 In an [earlier post](http://70yearsoldwtf.blogspot.com/2015/01/the-problem-with-problem-with-god-lost.html) I wrote about the book we were using for [this course](http://www.acadiaseniorcollege.org/education/WI2015/Journeys_Myers.html). Now let me tell you about the course, and the change it's catalyzed. There will be more posts to follow on this topic
 

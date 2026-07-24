@@ -10,7 +10,8 @@ excerpt: "It’s not a shock that I can’t remember everything. No one can. And
 word_count: 613
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

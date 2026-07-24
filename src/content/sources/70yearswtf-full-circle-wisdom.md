@@ -6,11 +6,13 @@ order: 0
 date: "2025-11-20"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/full-circle-wisdom"
-excerpt: "I don’t know she wanted a picture of me for her blog post, but that’s what she wanted. Editor’s note: This is the first guest post by Mira Greenland. She is [CRO at INTOO](https://www.intoo.com/us/). Here’s her…"
-word_count: 756
+excerpt: "![I don’t know she wanted a picture of me for her blog post, but that’s what she wanted.](/media/70yt/full-circle-wisdom/1.jpg) I don’t know she wanted a picture of me for her blog post, but that’s what she wanted. Editor’s note: This is…"
+word_count: 783
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![I don’t know she wanted a picture of me for her blog post, but that’s what she wanted.](/media/70yt/full-circle-wisdom/1.jpg)
 
 *I don’t know she wanted a picture of me for her blog post, but that’s what she wanted.*
 

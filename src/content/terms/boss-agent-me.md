@@ -9,7 +9,8 @@ source: "70yt *whine-sob-i-cant-write* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Minsky-flavored: limited continuous control that fatigues so other agents seize the body. “I can’t write” as power-seeking sub-agent slogan.</p>

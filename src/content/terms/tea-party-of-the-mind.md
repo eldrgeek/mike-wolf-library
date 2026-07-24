@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-dysfunction-in-the-society-of-mind-14-12-09"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Minsky society of mind politicized: disruptive minority forces inaction.</p>

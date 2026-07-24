@@ -6,11 +6,12 @@ order: 0
 date: "2016-03-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-illusion-of-liberal-failure-part-16-03-29"
-excerpt: "Pittsburgh \"air\" 1941 You don't have to be a genius to find an example of a law, regulation, or practice, put in place by liberals that's resulted in a ridiculous outcome, or corrupt behavior, or unintended consequences. This is fortunate,…"
-word_count: 1823
+excerpt: "![Corner of Liberty and Fifth Avenues](/media/70yt/the-illusion-of-liberal-failure-part-16-03-29/1.jpg) Pittsburgh \"air\" 1941 You don't have to be a genius to find an example of a law, regulation, or practice, put in place by liberals…"
+word_count: 1842
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Corner of Liberty and Fifth Avenues](/media/70yt/the-illusion-of-liberal-failure-part-16-03-29/1.jpg)
 
 Pittsburgh "air" 1941
 

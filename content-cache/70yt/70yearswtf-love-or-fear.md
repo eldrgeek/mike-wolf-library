@@ -7,12 +7,14 @@ date: "2021-07-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/love-or-fear"
 excerpt: "Photo by How Far From Home from Pexels “I wrote that title,” I said. “I don’t know what follows.” “You will,” God said. God had been appearing a lot in my writing, as I had predicted. Here She was again.…"
-word_count: 652
+word_count: 677
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Photo by **How Far From Home(https://www.pexels.com/@how-far-from-home-3341908?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/red-flower-on-white-sand-6788862/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/love-or-fear/1.jpg)
 
 *Photo by **[How Far From Home](https://www.pexels.com/@how-far-from-home-3341908?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/red-flower-on-white-sand-6788862/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 
@@ -91,5 +93,7 @@ The point of this post is love, I decided. The point of this blog is love, I dec
 “You choose,” God said.
 
 ---
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 “Love, or fear. Those are your choices.”

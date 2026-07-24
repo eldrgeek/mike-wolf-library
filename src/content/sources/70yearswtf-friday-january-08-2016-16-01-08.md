@@ -6,11 +6,11 @@ order: 0
 date: "2016-01-08"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/friday-january-08-2016-16-01-08"
-excerpt: "A while ago I came across an article ([here](http://www.motherjones.com/politics/2013/01/pro-gun-myths-fact-check)) that included this graphic: I checked the data and it passed the initial smell test, so I posted it to on the site of a…"
-word_count: 233
+excerpt: "A while ago I came across an article ([here](http://www.motherjones.com/politics/2013/01/pro-gun-myths-fact-check)) that included this graphic: ![](/media/70yt/friday-january-08-2016-16-01-08/1.jpg) I checked the data and it passed the…"
+word_count: 266
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -21,15 +21,21 @@ related:
 
 A while ago I came across an article ([here](http://www.motherjones.com/politics/2013/01/pro-gun-myths-fact-check)) that included this graphic:
 
+![](/media/70yt/friday-january-08-2016-16-01-08/1.jpg)
+
 I checked the data and it passed the initial smell test, so I posted it to on the site of a discussion group that I belong to, [here](http://beyondlabels.ustiger.net/2015/12/maybe-guns-do-kill-people/).
 
 Someone who is smarter and more diligent than me, did a deeper dive, and found out some interesting things.
 
 Gun deaths is "gun suicides" plus "gun homicides." Here's what the gun suicide graph looks like.
 
+![](/media/70yt/friday-january-08-2016-16-01-08/2.png)
+
 Seems like there's a pretty clear correlation between more guns and more gun suicides. And if I was anti-gun (I am not, by the way) and if gun owners are going to off themselves in increasing numbers the more guns, then that's fine with me.
 
 But if you pull the gun suicides out of the gun deaths numbers you end up with this relationship for gun homicides:
+
+![](/media/70yt/friday-january-08-2016-16-01-08/3.png)
 
 To the extent that there's any trend, it's one that shows that more guns implies less murder.
 

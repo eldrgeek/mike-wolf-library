@@ -6,11 +6,11 @@ order: 0
 date: "2019-03-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-goal-part-i-19-03-22"
-excerpt: "[The Goal](https://en.wikipedia.org/wiki/TheGoal%28novel%29) [by Eliyahu Goldratt](https://en.wikipedia.org/wiki/TheGoal%28novel%29) is the best management book ever written. I’ve bought and given copies to everyone who reported to me,…"
-word_count: 1013
+excerpt: "![The Goal](/media/70yt/the-goal-part-i-19-03-22/1.jpg) [The Goal](https://en.wikipedia.org/wiki/TheGoal%28novel%29) [by Eliyahu Goldratt](https://en.wikipedia.org/wiki/TheGoal%28novel%29) is the best management book ever written. I’ve…"
+word_count: 1026
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![The Goal](/media/70yt/the-goal-part-i-19-03-22/1.jpg)
 
 **[The Goal](https://en.wikipedia.org/wiki/The_Goal_%28novel%29)** [by Eliyahu Goldratt](https://en.wikipedia.org/wiki/The_Goal_%28novel%29) is the best management book ever written. I’ve bought and given copies to everyone who reported to me, everyone who I reported to, everyone who worked with me as a peer, and to most of my customers. I’ve given out about a hundred over time.
 

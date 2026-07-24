@@ -10,7 +10,9 @@ excerpt: "I was frustrated. Nothing new. I get frustrated a lot. This time it wa
 word_count: 1125
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

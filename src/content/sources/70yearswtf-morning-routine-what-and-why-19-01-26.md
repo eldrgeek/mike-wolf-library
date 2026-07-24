@@ -6,11 +6,13 @@ order: 0
 date: "2019-01-26"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/morning-routine-what-and-why-19-01-26"
-excerpt: "I started building my morning routine before I took the 30-day Stoic challenge. The challenge added to it. In my year-end retrospective, I wrote about how I’d gotten there. Since the first of the year, I’ve improved my routine and also the…"
-word_count: 644
+excerpt: "![](/media/70yt/morning-routine-what-and-why-19-01-26/1.png) I started building my morning routine before I took the 30-day Stoic challenge. The challenge added to it. In my year-end retrospective, I wrote about how I’d gotten there. Since…"
+word_count: 656
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/morning-routine-what-and-why-19-01-26/1.png)
 
 I started building my morning routine before I took the 30-day Stoic challenge. The challenge added to it. In my year-end retrospective, I wrote about how I’d gotten there.
 

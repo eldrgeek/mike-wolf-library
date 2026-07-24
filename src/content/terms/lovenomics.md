@@ -6,10 +6,13 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *economics-and-lovenomics* (batch 1)."
 source: "70yt *economics-and-lovenomics* (batch 1)."
-related: []
-provenance: []
+related:
+  - "science-of-love-laws-of-love"
+provenance:
+  - "70yearswtf-economics-and-lovenomics"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Love and knowledge grow when given; scarcity models of affection are category error. Kin to Science of Love / Laws of Love.</p>

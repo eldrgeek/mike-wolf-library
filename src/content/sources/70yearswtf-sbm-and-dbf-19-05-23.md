@@ -10,7 +10,7 @@ excerpt: "I have a great family. A wonderful wife of nearly 50 years. Six kids, 
 word_count: 140
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

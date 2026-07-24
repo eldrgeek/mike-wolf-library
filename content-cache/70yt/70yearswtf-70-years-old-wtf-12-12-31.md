@@ -7,7 +7,7 @@ date: "2012-12-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/70-years-old-wtf-12-12-31"
 excerpt: "70 Years Old. WTF! There, I said it again. That's my mood at this moment. I'm here, a computer on my lap, looking out my bedroom window. What I see is gorgeous. What I feel is great. And then I…"
-word_count: 996
+word_count: 1006
 tags:
   - "70YearsWTF"
   - "blogging"
@@ -40,6 +40,8 @@ Now, at 70, I realize my thirty-year-old self was an idiot. And my forty-year-ol
 One of the things I’ve told our kids repeatedly: “If you don’t look back on what you were doing five years ago and think that a lot of it was stupid, then you haven’t learned much in the last five years.”
 
 "I can't believe how stupid I was when I was in my twenties," I said to my grandmother, the redoubtable Nana, about whom you may hear more stories than the one I am about to tell if I ever stop adding qualifying phrases and get on with it.
+
+![My favorite photo of Nana](/media/70yt/70-years-old-wtf-12-12-31/1.jpg)
 
 *My favorite photo of Nana*
 

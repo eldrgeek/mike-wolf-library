@@ -10,7 +10,8 @@ excerpt: "There are only 10 kinds of people in the world: Those who read binary,
 word_count: 144
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -6,11 +6,12 @@ order: 0
 date: "2019-06-30"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/from-farnam-street-to-quantum-computing-19-06-30"
-excerpt: "Photo by [Hal Gatewood](https://unsplash.com/@halgatewood?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
-word_count: 765
+excerpt: "![](/media/70yt/from-farnam-street-to-quantum-computing-19-06-30/1.jpg) Photo by [Hal Gatewood](https://unsplash.com/@halgatewood?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 778
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-more-advice-share-your-gifts"
   - "70yearswtf-the-heros-journey-continues"
@@ -18,6 +19,8 @@ related:
   - "srmw-chapter-40-how-to-practice"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
 ---
+
+![](/media/70yt/from-farnam-street-to-quantum-computing-19-06-30/1.jpg)
 
 *Photo by [Hal Gatewood](https://unsplash.com/@halgatewood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/atom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

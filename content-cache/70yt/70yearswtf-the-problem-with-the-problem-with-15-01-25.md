@@ -7,11 +7,13 @@ date: "2015-01-25"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-problem-with-the-problem-with-15-01-25"
 excerpt: "This is the second time I've written this post, or one a lot like this one. Or it's the first time I've written it after having previously imagined writing it. But I've looked everywhere I can think of and have…"
-word_count: 1250
+word_count: 1253
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/the-problem-with-the-problem-with-15-01-25/1.jpg)
 
 This is the second time I've written this post, or one a lot like this one. Or it's the first time I've written it after having previously imagined writing it. But I've looked everywhere I can think of and have not been able to find it. So if anyone finds the original post, let me know.
 

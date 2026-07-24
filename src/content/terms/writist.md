@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-the-homesman-and-the-writist-15-01-10"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> After <em>The Shootist</em>: same job as writer, elevated/mocked by morphology.</p>

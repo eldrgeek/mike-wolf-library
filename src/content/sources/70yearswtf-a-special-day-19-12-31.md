@@ -6,11 +6,12 @@ order: 0
 date: "2019-12-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/a-special-day-19-12-31"
-excerpt: "Stable Diffusion: A photo in a modern setting of a man (seen from the back) writing a blog post on a computer, and God comes out of the computer and forgives his sins. “Today is a special day,” God said. “Yes, I know,” I answered. “It’s my…"
-word_count: 679
+excerpt: "![Stable Diffusion: A photo in a modern setting of a man (seen from the back) writing a blog post on a computer, and God comes out of the computer and forgives his sins.](/media/70yt/a-special-day-19-12-31/1.jpg) Stable Diffusion: A photo…"
+word_count: 722
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Stable Diffusion: A photo in a modern setting of a man (seen from the back)  writing a blog post on a computer, and God comes out of the computer and forgives his sins.](/media/70yt/a-special-day-19-12-31/1.jpg)
 
 *Stable Diffusion: A photo in a modern setting of a man (seen from the back)  writing a blog post on a computer, and God comes out of the computer and forgives his sins.*
 

@@ -9,7 +9,8 @@ source: "70yt *the-imagined-past-tldr*; *i-love-google-part-n1*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Named pattern: hate something now, invent better before, claim decline. Tool for arguing with nostalgia/decline narratives (literacy, discourse, etc.).</p>

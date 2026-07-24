@@ -51,6 +51,8 @@ Sure.
 
 Then he dropped the bomb:
 
+![](/media/70yt/get-out-of-your-head-and-into-your-18-03-11/1.jpg)
+
 Alright, it's words. Just words on the page. But he did ask for active engagement. And he did ask for total honesty. So without thinking through the terms of the contract, my brain responded. I'm not sure which of the shameful things that I have done is the most shameful. I'm not even sure that a single shameful act came to mind. All I know is that I read it and burst into tears. In the Starbucks where I was reading it.
 
 Fortunately, it was early and no one was around me. And I quickly got myself under control. But the experience shook me. I'd read scenes in novels that had brought me to tears but this was different. This was about me.

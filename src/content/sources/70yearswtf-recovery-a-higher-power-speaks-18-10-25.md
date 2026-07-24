@@ -10,7 +10,9 @@ excerpt: "I score off the charts on the [Big Five personality trait](https://en.
 word_count: 1118
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -9,7 +9,8 @@ source: "Joscha Bach paraphrased/adopted by Mike 2026-05-03 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Humans are not a finished alignment target. Adopted target is “the best possible agent” — excellence standard, not mirror of current preference soup. Joscha Bach framing taken into canon.</p>

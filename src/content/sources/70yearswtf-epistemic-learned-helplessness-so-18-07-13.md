@@ -10,13 +10,14 @@ excerpt: "I wrote [here](https://70yearsoldwtf.blogspot.com/2018/01/epistemic-le
 word_count: 1906
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
+  - "70yearswtf-epistemic-learned-helplessness-18-01-06"
+  - "70yearswtf-russell-conjugation-and-eric-weinstein-18-07-10"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I wrote [here](https://70yearsoldwtf.blogspot.com/2018/01/epistemic-learned-helplessness.html) about Epistemic Learned Helplessness, a super-useful idea based on an essay by [Scott Alexander](http://slatestarcodex.com/about/).

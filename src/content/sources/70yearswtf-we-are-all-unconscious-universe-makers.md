@@ -10,7 +10,7 @@ excerpt: "Photo by [NASA](https://unsplash.com/@nasa) on [Unsplash](https://unsp
 word_count: 667
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-even-aholes-can-get-missions-from"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"

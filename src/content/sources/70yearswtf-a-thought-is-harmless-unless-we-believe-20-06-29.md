@@ -10,7 +10,8 @@ excerpt: "A thought is harmless unless we believe it. It’s not our thoughts, b
 word_count: 918
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -9,6 +9,9 @@ related:
   - "silicon-children"
   - "host-pair"
   - "the-foundation"
+  - "warm-handoff"
+  - "i-am-a-resource-for-claude-not-the-reverse"
+  - "obo-on-behalf-of"
 provenance: []
 tags:
   - "dialect"

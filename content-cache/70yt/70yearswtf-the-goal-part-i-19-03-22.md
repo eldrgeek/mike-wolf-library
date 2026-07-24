@@ -7,11 +7,13 @@ date: "2019-03-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-goal-part-i-19-03-22"
 excerpt: "The Goal by Eliyahu Goldratt is the best management book ever written. I’ve bought and given copies to everyone who reported to me, everyone who I reported to, everyone who worked with me as a peer, and to most of…"
-word_count: 918
+word_count: 907
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![The Goal](/media/70yt/the-goal-part-i-19-03-22/1.jpg)
 
 **[The Goal](https://en.wikipedia.org/wiki/The_Goal_%28novel%29)** [by Eliyahu Goldratt](https://en.wikipedia.org/wiki/The_Goal_%28novel%29) is the best management book ever written. I’ve bought and given copies to everyone who reported to me, everyone who I reported to, everyone who worked with me as a peer, and to most of my customers. I’ve given out about a hundred over time.
 

@@ -7,7 +7,7 @@ date: "2025-03-01"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/self-promotion"
 excerpt: "I can’t “self”-promote because there’s no \"self\". But still..."
-word_count: 442
+word_count: 569
 tags:
   - "70YearsWTF"
   - "AI"
@@ -28,6 +28,8 @@ Now, I’m [living in the afterlife](https://70yearswtf.substack.com/p/even-more
 ## The joys and woes of Substack
 
 I moved from [Google’s Blogspo](https://70yearsoldwtf.blogspot.com)t to Substack in 2021. After several years, I tried adding
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 buttons. I got a few subscribers[4](#footnote-4) You’d think that would be cool. But, as I wrote in [this “draft” blog post](https://70yearswtf.substack.com/p/draft-having-subscribers-is-a-pain?utm_source=publication-search) having subscribers  [was a pain in the ass.](https://70yearswtf.substack.com/p/draft-having-subscribers-is-a-pain?utm_source=publication-search) (same link)
 
@@ -51,6 +53,8 @@ I’m going to write more.
 
 There’s the book I wrote in 2021, “Self-Referential Metanovel Writing for Dummies.”  I’m going to edit it, republish it, and promote it.
 
+![](/media/70yt/self-promotion/1.jpg)
+
 It needs visibility.
 
 - [Link to FREE outrageous AI-generated podcast](https://youtu.be/5mqOZrw-Oho?si=rB1JP8FKKN8Y7gSU)
@@ -65,11 +69,15 @@ And I’ve got another book I’m going to write. A metanovel, of course.
 
 Some people will like what I write. If that’s you, and you’re not a subscriber:
 
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
+
 Or don’t. I love you either way.
 
 Some people won’t like it. If that’s you, go fuck yourself[7](#footnote-7). But I say it with love.
 
 So this is me, coming out in the open. Thanks, [Grok](https://grok.com/), for the images.
+
+![](/media/70yt/self-promotion/2.jpg)
 
 [1](#footnote-anchor-1)
 

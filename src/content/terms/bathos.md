@@ -6,7 +6,10 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike, May 2026."
 source: "Mike, May 2026."
-related: []
+related:
+  - "silicon-children"
+  - "the-riff-bucket"
+  - "100-recycled-words"
 provenance: []
 tags:
   - "dialect"

@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *disinfecting-my-mind* (batch 5)."
 source: "70yt *disinfecting-my-mind* (batch 5)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-disinfecting-my-mind-a-case-study-20-05-09"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> After ZeroHedge shitpost: unlearn so you are not left stupider. Reading can infect; fact-work is disinfectant.</p>

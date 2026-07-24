@@ -7,10 +7,10 @@ date: "2016-11-30"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/flip-a-coin-16-11-30"
 excerpt: "I just read an essay that may turn out to be one of the more important things I've read. The title is: [How To Choose](https://aeon.co/essays/if-you-can-t-choose-wisely-choose-randomly). The subtitle: \"When your reasons are worse than…"
-word_count: 404
+word_count: 414
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -52,5 +52,7 @@ I can argue with myself (and have) but who am I to argue with the wave function?
 So am I done writing this?
 
 Heads, I'm done and I post it. Tails, one more pass. OK, flip [this](https://www.random.org/coins/?num=1&cur=20-novelty.decision-maker).
+
+![](/media/70yt/flip-a-coin-16-11-30/1.jpg)
 
 Done.

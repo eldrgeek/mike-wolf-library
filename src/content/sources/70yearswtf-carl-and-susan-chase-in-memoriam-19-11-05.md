@@ -6,11 +6,12 @@ order: 0
 date: "2019-11-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/carl-and-susan-chase-in-memoriam-19-11-05"
-excerpt: "“Carl and Susan Chase, pillars of local arts, die by choice” reads the [headline in the Weekly Packet](http://weeklypacket.com/news/2019/oct/31/carl-and-susan-chase-pillars-of-local-arts-die-by/), our local newspaper. Carl and Susan were…"
-word_count: 2381
+excerpt: "![](/media/70yt/carl-and-susan-chase-in-memoriam-19-11-05/1.jpg) “Carl and Susan Chase, pillars of local arts, die by choice” reads the [headline in the Weekly…"
+word_count: 2394
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/carl-and-susan-chase-in-memoriam-19-11-05/1.jpg)
 
 *“Carl and Susan Chase, pillars of local arts, die by choice”* reads the [headline in the Weekly Packet](http://weeklypacket.com/news/2019/oct/31/carl-and-susan-chase-pillars-of-local-arts-die-by/), our local newspaper. Carl and Susan were part of my of my life. Not a big part. But a part. And now—too late—a larger part. Because I don’t want to let them go.
 

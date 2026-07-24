@@ -9,7 +9,8 @@ source: "70yt *the-mindful-photographic-moments* (batch 5)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Semi-mindfully coined metric: raise the number — WAKE THE FUCK UP.</p>

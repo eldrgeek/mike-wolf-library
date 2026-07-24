@@ -10,7 +10,8 @@ excerpt: "There's so much interesting stuff on the web that hardly a day passes 
 word_count: 969
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

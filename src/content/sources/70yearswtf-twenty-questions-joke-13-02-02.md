@@ -10,7 +10,8 @@ excerpt: "Here's another post from my catch-up series, [explained here](http://7
 word_count: 181
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -7,13 +7,15 @@ date: "2018-03-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/meditation-experience-a-theory-of-18-03-31"
 excerpt: "Yesterday, I did a 30-minute semi-hardcore meditation and gained insight into the workings of my mind. Here's how I did it, what I observed, the underlying theory, an explanation of what I observed, and what it all means. How I…"
-word_count: 1723
+word_count: 1802
 tags:
   - "70YearsWTF"
   - "Meditation"
   - "meditation"
 related: []
 ---
+
+![A vibrant, untamed garden bathed in golden sunlight, representing the mind. The garden is filled with lush, thriving plants symbolizing creative and fruitful ideas, but also has stubborn weeds representing harmful thoughts and distractions. A gardener, symbolizing introspection and action, is carefully tending to the garden—removing weeds, nurturing the desired plants, and experimenting with new growth strategies. The image should evoke the sense of mental cultivation, with the gardener focused on maintaining balance and harmony in the garden.](/media/70yt/meditation-experience-a-theory-of-18-03-31/1.jpg)
 
 Yesterday, I did a 30-minute semi-hardcore meditation and gained insight into the workings of my mind. Here's how I did it, what I observed, the underlying theory, an explanation of what I observed, and what it all means.
 

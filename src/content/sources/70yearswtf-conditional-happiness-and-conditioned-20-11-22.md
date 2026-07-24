@@ -6,11 +6,12 @@ order: 0
 date: "2020-11-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/conditional-happiness-and-conditioned-20-11-22"
-excerpt: "In “[Awareness: Conversations with the Masters,](https://www.amazon.com/Awareness-Conversations-SJ-Anthony-Mello-ebook/dp/B005GFBP6W)” Anthony De Mello says that the first step toward happiness is to realize that you don’t want to be…"
-word_count: 1571
+excerpt: "![](/media/70yt/conditional-happiness-and-conditioned-20-11-22/1.jpg) In “[Awareness: Conversations with the Masters,](https://www.amazon.com/Awareness-Conversations-SJ-Anthony-Mello-ebook/dp/B005GFBP6W)” Anthony De Mello says that the…"
+word_count: 1582
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/conditional-happiness-and-conditioned-20-11-22/1.jpg)
 
 In “[Awareness: Conversations with the Masters,](https://www.amazon.com/Awareness-Conversations-SJ-Anthony-Mello-ebook/dp/B005GFBP6W)” Anthony De Mello says that the first step toward happiness is to realize that you don’t want to be happy.
 

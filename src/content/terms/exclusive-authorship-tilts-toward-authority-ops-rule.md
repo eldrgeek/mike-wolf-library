@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-06 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> When idea emerged in dialogue, attribution names the conversation. Wall re-attribution rule is internal practice. (Public philosophy layer also in NEEDS-MIKE.)</p>

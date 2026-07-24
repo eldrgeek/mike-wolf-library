@@ -9,7 +9,8 @@ source: "Manifesto coda with Dee 2026-05-04 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Four-line method statement: meaning relational; durable proof in metadata; artifact as evidence; process <em>is</em> the example. Manifesto’s self-demonstration compressed.</p>

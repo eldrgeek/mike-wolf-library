@@ -7,11 +7,13 @@ date: "2020-07-27"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/adyb-always-doing-your-best-20-07-27"
 excerpt: "When I was growing up, the people around me told me that I was not doing my best. My mom, the major force in my life as a child, told me that a lot. She not only told me that…"
-word_count: 1093
+word_count: 1095
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![Generated image](/media/70yt/adyb-always-doing-your-best-20-07-27/1.jpg)
 
 When I was growing up, the people around me told me that I was not doing my best. My mom, the major force in my life as a child, told me that a lot.
 

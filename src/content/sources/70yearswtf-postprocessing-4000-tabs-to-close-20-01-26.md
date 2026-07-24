@@ -10,7 +10,8 @@ excerpt: "For several years I’ve been using a tool called [OneTab](https://www
 word_count: 292
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
   - "70yearswtf-more-advice-share-your-gifts"

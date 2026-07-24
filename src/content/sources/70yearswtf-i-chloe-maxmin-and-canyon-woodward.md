@@ -7,10 +7,11 @@ date: "2021-02-21"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-chloe-maxmin-and-canyon-woodward"
 excerpt: "If you don’t have time to read this whole post, OK. I know you are busy. So here’s the short form. - Chloe Maxmin is a young woman elected to the Maine Senate from District 13 as a Democrat. I have not met her, or seen her, or talked to…"
-word_count: 1090
+word_count: 1238
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -33,6 +34,8 @@ I might be in love with them, or just the idea of them.
 
 A friend of mine sent me a link to this article in The Nation: [How a Climate-Justice Champion Won Office in Rural, Working-Class Maine.”](https://www.thenation.com/article/politics/climate-maine-elections-maxmin/)
 
+![**Link to the article: “How a Climate-Justice Champion Won Office in Rural, Working-Class Maine(https://www.thenation.com/article/politics/climate-maine-elections-maxmin/).”**](/media/70yt/i-chloe-maxmin-and-canyon-woodward/1.jpg)
+
 ***[Link to the article: “How a Climate-Justice Champion Won Office in Rural, Working-Class Maine](https://www.thenation.com/article/politics/climate-maine-elections-maxmin/).”***
 
 Wow! Impressive. Inspiring.
@@ -49,9 +52,13 @@ No, I didn’t interview her. Esther Pew did. I found the interview on the [Main
 
 [Mike Tipping](https://mainebeacon.com/author/mike-tipping/) is the communications director and hosts the podcast.
 
+![Chloe Maxmin on building a movement and what to expect in 2021(https://mainebeacon.com/chloe-maxmin-on-building-a-movement-and-what-to-expect-in-2021/)](/media/70yt/i-chloe-maxmin-and-canyon-woodward/2.jpg)
+
 *[Chloe Maxmin on building a movement and what to expect in 2021](https://mainebeacon.com/chloe-maxmin-on-building-a-movement-and-what-to-expect-in-2021/)*
 
 Wow! Impressive. Impressive enough to inspire me to download the episode, run it through [Descript.com’](https://www.descript.com/)s magic software and produce [this audio excerpt and transcript](https://share.descript.com/view/W9aWqfoxt0p) for your reading, listening, and copy/pasting pleasure.
+
+![Transcript and audio segment(https://share.descript.com/view/W9aWqfoxt0p)](/media/70yt/i-chloe-maxmin-and-canyon-woodward/3.png)
 
 *[Transcript and audio segment](https://share.descript.com/view/W9aWqfoxt0p)*
 
@@ -61,6 +68,8 @@ Wow! Impressive. Impressive enough to inspire me to download the episode, run it
 
 This is an article written by Chloe and her campaign manager Canyon Woodward.
 
+![](/media/70yt/i-chloe-maxmin-and-canyon-woodward/4.jpg)
+
 [What a Rural Maine House Race Can Teach the Left | The Nation](https://www.thenation.com/article/archive/what-a-rural-maine-house-race-can-teach-the-left/)
 
 # The story
@@ -68,6 +77,8 @@ This is an article written by Chloe and her campaign manager Canyon Woodward.
 This is a short documentary about Canyon (mainly) and Chloe (importantly). It gives you a sense of their individual characters and values.
 
 [Rural Runner on Vimeo](https://vimeo.com/473942482)
+
+![Rural Runner on Vimeo(https://vimeo.com/473942482)](/media/70yt/i-chloe-maxmin-and-canyon-woodward/5.jpg)
 
 *[Rural Runner on Vimeo](https://vimeo.com/473942482)*
 
@@ -105,9 +116,13 @@ A snapshot comparison:
 
 ## Chloe’s Instagram
 
+![](/media/70yt/i-chloe-maxmin-and-canyon-woodward/6.jpg)
+
 Chloe’s telling stories about her legislative experience.
 
 ## Jared’s Instagram
+
+![](/media/70yt/i-chloe-maxmin-and-canyon-woodward/7.jpg)
 
 Jared announced that he won.
 
@@ -131,6 +146,8 @@ If you are want to find out more about Chloe and Canyon, here are some resources
 I don’t usually post this kind of stuff. But who knows what the future will bring.
 
 If you want, you can subscribe. Or comment. Or share. Or delete.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [Leave a comment](https://70yearswtf.substack.com/p/i-chloe-maxmin-and-canyon-woodward/comments)
 

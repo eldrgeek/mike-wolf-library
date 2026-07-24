@@ -7,12 +7,14 @@ date: "2025-03-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/im-not-going-to-write-about-occupatio"
 excerpt: "I’m also not going to write about paralepsis. This will be a short post because it will only be about how I’m not going to write about those two words. Today, my friend Jan pointed out that I was using…"
-word_count: 206
+word_count: 294
 tags:
   - "70YearsWTF"
   - "Humor"
 related: []
 ---
+
+![A whimsical, surreal illustration of a writer at a desk, surrounded by floating words and question marks, as if struggling with what to write. The words 'occupatio' and 'paralepsis' are faintly visible in the air, blending into the background. An imaginary reader, depicted as a ghostly or shadowy figure, leans over the writer's shoulder, curiously peeking at the blank page. The scene has a lighthearted, slightly absurd tone, with scattered books and coffee cups adding to the atmosphere. The color palette is warm and inviting, with a hint of vintage literary aesthetics.](/media/70yt/im-not-going-to-write-about-occupatio/1.jpg)
 
 I’m also not going to write about paralepsis.
 

@@ -10,7 +10,8 @@ excerpt: "Bobbi gave me the book [American Nations](https://www.amazon.com/dp/B0
 word_count: 1160
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -7,12 +7,14 @@ date: "2019-10-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/nanowrimo-re-redux-19-10-22"
 excerpt: "It’s almost November. November is National novel writing month. NaNoWriMo. Last year more than 300,000 signed up to write a 50,000 word novel in November. I tried in 2010 and succeeded in 2011. 50,000 words is 1666 words a day.…"
-word_count: 254
+word_count: 253
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/nanowrimo-re-redux-19-10-22/1.jpg)
 
 It’s almost November.
 

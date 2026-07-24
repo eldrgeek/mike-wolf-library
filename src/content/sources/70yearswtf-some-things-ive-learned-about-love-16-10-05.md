@@ -6,11 +6,14 @@ order: 0
 date: "2016-10-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/some-things-ive-learned-about-love-16-10-05"
-excerpt: "I’d loved my wife, Bobbi, for nearly 50 years when I originally wrote this, my daughters, a few years less. Add friends, sons-by-marriage, and a few grandchildren, and I’ve been getting lots of practice. And I’ve learned some things I’d…"
-word_count: 1867
+excerpt: "![](/media/70yt/some-things-ive-learned-about-love-16-10-05/1.jpg) I’d loved my wife, Bobbi, for nearly 50 years when I originally wrote this, my daughters, a few years less. Add friends, sons-by-marriage, and a few grandchildren, and I’ve…"
+word_count: 1880
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +21,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/some-things-ive-learned-about-love-16-10-05/1.jpg)
 
 I’d loved my wife, Bobbi, for nearly 50 years when I originally wrote this, my daughters, a few years less. Add friends, sons-by-marriage, and a few grandchildren, and I’ve been getting lots of practice. And I’ve learned some things I’d like to share.
 

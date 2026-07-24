@@ -10,7 +10,9 @@ excerpt: "Today I came upon this fantastic video: “We Are Star Dust.”. It re
 word_count: 884
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

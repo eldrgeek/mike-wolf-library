@@ -7,10 +7,11 @@ date: "2025-10-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/why-you-need-to-get-to-know-ai"
 excerpt: "AI is changing the world. Whether you like it or not. It’s happening. Whether you like it or not. So you’d better get to know it. Whether you like it or not. How to get to know AI You don’t have to be an computer expert to get to know AI..…"
-word_count: 1850
+word_count: 1869
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -46,6 +47,8 @@ Background knowledge may be helpful. But it is only by you personally interactin
 Large Language Models (LLMs) are the kind of thing that ChatGPT is an example of which. (Note this essay was not written by AI, which would never write such a weird sentence.)
 
 LLMs (also called ChatBots) are designed for interaction. You ask one a question, it gives you an answer.
+
+![](/media/70yt/why-you-need-to-get-to-know-ai/1.jpg)
 
 ChatGPT gives an answer.:“The capitol of France is Paris.” Done.
 
@@ -187,6 +190,8 @@ I’d love it if you’d share what you learn in the comments.
 [Leave a comment](https://70yearswtf.substack.com/p/why-you-need-to-get-to-know-ai/comments)
 
 And if you aren’t a subscriber, you can subscribe and not miss any of the amazing stuff that’s coming
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [1](#footnote-anchor-1)
 

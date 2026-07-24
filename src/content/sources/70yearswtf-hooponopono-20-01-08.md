@@ -10,7 +10,9 @@ excerpt: "In this post [A meditation on assholery](https://70yearsoldwtf.blogspo
 word_count: 579
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-a-meditation-on-assholery-18-08-20"
   - "70yearswtf-frustration-and-forgiveness-19-05-22"

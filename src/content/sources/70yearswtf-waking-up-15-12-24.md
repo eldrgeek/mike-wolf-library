@@ -6,11 +6,13 @@ order: 0
 date: "2015-12-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/waking-up-15-12-24"
-excerpt: "I've made reference in [another post](http://70yearsoldwtf.blogspot.com/2015/09/writing-miindfully.html) to [Sam Harris](http://www.samharris.org/)' book, \"[Waking…"
-word_count: 1052
+excerpt: "![](/media/70yt/waking-up-15-12-24/1.jpg) I've made reference in [another post](http://70yearsoldwtf.blogspot.com/2015/09/writing-miindfully.html) to [Sam Harris](http://www.samharris.org/)' book, \"[Waking…"
+word_count: 1061
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/waking-up-15-12-24/1.jpg)
 
 I've made reference in [another post](http://70yearsoldwtf.blogspot.com/2015/09/writing-miindfully.html) to [Sam Harris](http://www.samharris.org/)' book, "[Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636024)," and to some of what I learned from that book [here](http://70yearsoldwtf.blogspot.com/2015/12/my-100-latte.html). I recommend reading it. (The book, not just the posts.)
 

@@ -6,11 +6,12 @@ order: 0
 date: "2019-02-26"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/arising-and-passing-away-down-memory-19-02-26"
-excerpt: "A few morninga ago, I sat down, closed my eyes and intended that my mind present me with scenes from my past. After a very short delay, my mind complied. Things that matched what I had intended appeared in conciousness. Good mind! Here,…"
-word_count: 1002
+excerpt: "![Image](/media/70yt/arising-and-passing-away-down-memory-19-02-26/1.jpg) A few morninga ago, I sat down, closed my eyes and intended that my mind present me with scenes from my past. After a very short delay, my mind complied. Things that…"
+word_count: 1016
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Image](/media/70yt/arising-and-passing-away-down-memory-19-02-26/1.jpg)
 
 A few morninga ago, I sat down, closed my eyes and intended that my mind present me with scenes from my past. After a very short delay, my mind complied. Things that matched what I had intended appeared in conciousness.
 

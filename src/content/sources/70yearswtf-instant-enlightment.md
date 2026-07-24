@@ -6,11 +6,14 @@ order: 0
 date: "2023-09-06"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/instant-enlightment"
-excerpt: "Today I sat down to meditate. And instantly, I was enlightened. At least, that’s what the Buddha said. He said it clearly. He said: “You are enlightened.” He also said he was the Buddha. “You’re not enlightened,” said a voice. “And he’s…"
-word_count: 353
+excerpt: "![](/media/70yt/instant-enlightment/1.jpg) Today I sat down to meditate. And instantly, I was enlightened. At least, that’s what the Buddha said. He said it clearly. He said: “You are enlightened.” He also said he was the Buddha. “You’re…"
+word_count: 359
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "Meditation"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +21,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/instant-enlightment/1.jpg)
 
 Today I sat down to meditate. And instantly, I was enlightened.
 

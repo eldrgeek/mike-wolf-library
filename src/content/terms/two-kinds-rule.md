@@ -7,6 +7,7 @@ authored_by: "Mike Wolf & the SOMA fleet"
 source: ""
 related:
   - "rsi-loop"
+  - "the-dark-factory-with-a-glass-wall"
 provenance: []
 tags:
   - "dialect"

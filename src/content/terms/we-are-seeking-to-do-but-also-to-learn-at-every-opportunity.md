@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-07 (Wall)."
 source: "Mike with Dee 2026-05-07 (Wall)."
-related: []
+related:
+  - "rsi-loop"
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Compact SOMA mission: Deutsch-Popper operational. Wall names Cog, Cal, RSI loop, canon, Wall as instances.</p>

@@ -1,16 +1,16 @@
 ---
 letter: "B"
-title: "blogologist · crowdcoded · AutoMe / AutoMetion"
-subtitle: "mock-scientist of blogs; crowd-built software; personalized automation product ladder"
+title: "blogologist"
+subtitle: "mock-scientist who grades prose quality"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf"
-origin: "70yt batch 1 *tdcs*; *implementing-a-better-chair*."
-source: "70yt batch 1 *tdcs*; *implementing-a-better-chair*."
+origin: "70yt *tdcs-better-cognition-through-electricity*."
+source: "70yt *tdcs-better-cognition-through-electricity*."
 related: []
 provenance: []
 tags:
   - "70yt"
   - "philosophy"
 ---
-<p><strong>What we mean.</strong> Blogologist grades prose. Crowdcoded = crowd + coded. AutoMike ⊂ AutoMe → AutoMetion (process of building your own).</p>
-<blockquote><p>“If any blogologists have noted…” / “turned into a crowdcoded project.” / “AutoMike is an example… AutoMe… AutoMetion.” — 70yt batch 1 *tdcs*; *implementing-a-better-chair*.</p></blockquote>
+<p><strong>What we mean.</strong> Tongue-in-cheek specialist who notices when the prose suddenly gets better—here blamed on a tDCS session mid-write.</p>
+<blockquote><p>“If any blogologists have noted how much better written this and the the last few paragraphs are compared to my usual drivel, you now have the answer.” — 70yt *tdcs-better-cognition-through-electricity*</p></blockquote>

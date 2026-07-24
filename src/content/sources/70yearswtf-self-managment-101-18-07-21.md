@@ -10,7 +10,8 @@ excerpt: "What would you think about a manager who only shows up during crisesâ€
 word_count: 550
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

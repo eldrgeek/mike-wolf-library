@@ -6,11 +6,11 @@ order: 0
 date: "2013-02-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/another-day-another-fresh-start-13-02-11"
-excerpt: "Salvador Dalí, The Persistence of Memory (1931), Museum of Modern Art (Photo credit: [Wikipedia](http://en.wikipedia.org/wiki/File:ThePersistenceofMemory.jpg)) Consistency has never been my strongest suit. \"You can say that again.\" says…"
-word_count: 531
+excerpt: "![Salvador Dalí, The Persistence of Memory (1931...](/media/70yt/another-day-another-fresh-start-13-02-11/1.jpg) Salvador Dalí, The Persistence of Memory (1931), Museum of Modern Art (Photo credit:…"
+word_count: 550
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Salvador Dalí, The Persistence of Memory (1931...](/media/70yt/another-day-another-fresh-start-13-02-11/1.jpg)
 
 Salvador Dalí, The Persistence of Memory (1931), Museum of Modern Art (Photo credit: [Wikipedia](http://en.wikipedia.org/wiki/File:The_Persistence_of_Memory.jpg))
 

@@ -6,11 +6,11 @@ order: 0
 date: "2023-03-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/who-is-fafkag"
-excerpt: "TAFKAG is a symbol. TAFKAG is a symbol. Not a cymbal. A symbol. So are YMMV and ELELEM. WTF is also a symbol, but for something else. Cymbal with symbols by DALLE 2 A symbol is a representation. A symbol is something that stands for……"
-word_count: 171
+excerpt: "TAFKAG is a symbol. TAFKAG is a symbol. Not a cymbal. A symbol. So are YMMV and ELELEM. WTF is also a symbol, but for something else. ![Cymbal with symbols by DALLE 2](/media/70yt/who-is-fafkag/1.jpg) Cymbal with symbols by DALLE 2 A…"
+word_count: 184
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-i-dont-believe-in-death-and-you-dont"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
@@ -30,6 +30,8 @@ A symbol.
 So are YMMV and ELELEM.
 
 WTF is also a symbol, but for something else.
+
+![Cymbal with symbols by DALL_E 2](/media/70yt/who-is-fafkag/1.jpg)
 
 *Cymbal with symbols by DALL_E 2*
 

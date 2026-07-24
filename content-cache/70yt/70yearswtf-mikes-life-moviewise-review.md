@@ -7,13 +7,15 @@ date: "2022-08-25"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/mikes-life-moviewise-review"
 excerpt: "INTERIOR MIKE’S OFFICE NIGHT MIKE, a nearly 80 year-old man sits in front of his Apple Macbook Air, typing. The POV is where his head would be. As he types the camera moves from the screen to the keyboard, to…"
-word_count: 1551
+word_count: 1619
 tags:
   - "70YearsWTF"
   - "meditation"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/mikes-life-moviewise-review/1.jpg)
 
 ## `INTERIOR MIKE’S OFFICE NIGHT`
 
@@ -25,7 +27,11 @@ related: []
 
 `He new tab opens on the screen and he types `
 
+![](/media/70yt/mikes-life-moviewise-review/2.jpg)
+
 `And the answer appears`
+
+![](/media/70yt/mikes-life-moviewise-review/3.jpg)
 
 `He closes the tab and continues typing`
 
@@ -101,6 +107,8 @@ Movies are illusions. Intellectually, we know that. Still, we fall for the illus
 
 But sometimes, when I wake up in a movie (or TV show), I take another step back and imagine the reality that created the illusion. For example, last night, Bobbi and I were watching [The Fugitive.](https://en.wikipedia.org/wiki/The_Fugitive_(1993_film)) One scene takes place during a keynote session for a medical conference in a large hotel.
 
+![](/media/70yt/mikes-life-moviewise-review/4.jpg)
+
 Someone had to set that up. Someone had to hire the extras, decide what they would wear, organize and position them on set, and give them direction. What unfolds as a minute of the movie took weeks to plan and many hours to shoot, reshoot, re-reshoot, and then hours to edit into its final form.
 
 Once in a while, as I watch a scene, I’m aware of all that.
@@ -110,6 +118,8 @@ And I’m aware of everything that went into this moment, right now. It’s happ
 ## Waking up: the movie of my life
 
 A few days ago, moviewise  wrote a review for [“Pretty in Pink.”](https://moviewise.substack.com/p/a-love-letter-to-pretty-in-pink) It started this way:
+
+![](/media/70yt/mikes-life-moviewise-review/5.jpg)
 
 That inspired me to write:
 
@@ -147,4 +157,4 @@ And here you are in today's episode.
 
 Read more about imaginary things. Or click the button and imagine you’ve subscribed.
 
-[70 Years Old. WTF!Imaginary readers, imaginary God“I’m not imaginary,” I imagined a reader saying. “Nor am I,” I imagined God saying. But they were. The reader who I imagined saying, “I’m not imaginary,” was imaginary. So was that particular God. “Doesn’t the Bible says we were created in the image of God?” asked another imaginary reader…Read more4 years ago · Michael Wolf](https://70yearswtf.substack.com/p/imaginary-readers-imaginary-god?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/mikes-life-moviewise-review/6.jpg) 70 Years Old. WTF!Imaginary readers, imaginary God“I’m not imaginary,” I imagined a reader saying. “Nor am I,” I imagined God saying. But they were. The reader who I imagined saying, “I’m not imaginary,” was imaginary. So was that particular God. “Doesn’t the Bible says we were created in the image of God?” asked another imaginary reader…Read more4 years ago · Michael Wolf](https://70yearswtf.substack.com/p/imaginary-readers-imaginary-god?utm_source=substack&utm_campaign=post_embed&utm_medium=web)

@@ -6,11 +6,13 @@ order: 0
 date: "2018-12-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/dying-thoughts-of-a-former-self-18-12-16"
-excerpt: "The me I have been before he steps into the cold, morning shower is never the me who steps out. That first me dies. The second is born. On December 16, 2018 I wrote this blog post. It was is in honor of a self that died knowingly for what…"
-word_count: 2256
+excerpt: "![](/media/70yt/dying-thoughts-of-a-former-self-18-12-16/1.jpg) The me I have been before he steps into the cold, morning shower is never the me who steps out. That first me dies. The second is born. On December 16, 2018 I wrote this blog…"
+word_count: 2269
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/dying-thoughts-of-a-former-self-18-12-16/1.jpg)
 
 The me I have been before he steps into the cold, morning shower is never the me who steps out. That first me dies. The second is born.
 

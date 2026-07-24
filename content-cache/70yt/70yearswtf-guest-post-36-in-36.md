@@ -7,12 +7,14 @@ date: "2023-07-04"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/guest-post-36-in-36"
 excerpt: "From #YAMFR"
-word_count: 378
+word_count: 430
 tags:
   - "70YearsWTF"
   - "AI"
 related: []
 ---
+
+![Image by Midjourney based on a prompt by ChatGPT 4(https://chat.openai.com/share/0da84ff9-9267-4bf8-bafc-229b3625f942) based on the guest post, below](/media/70yt/guest-post-36-in-36/1.jpg)
 
 *Image by Midjourney based on a [prompt by ChatGPT 4](https://chat.openai.com/share/0da84ff9-9267-4bf8-bafc-229b3625f942) based on the guest post, below*
 
@@ -35,6 +37,8 @@ aha...
 i just need a couple of days to catch up with shit.  how about you?
 
 [n](https://noelpaulstookey.com/)
+
+![Created by DALL-E based on a prompt by ChatGPT4 based on the post above](/media/70yt/guest-post-36-in-36/2.jpg)
 
 *Created by DALL-E based on a prompt by ChatGPT4 based on the post above*
 

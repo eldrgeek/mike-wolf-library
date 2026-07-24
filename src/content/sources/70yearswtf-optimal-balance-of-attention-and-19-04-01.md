@@ -10,7 +10,10 @@ excerpt: "According to “The Mind Illuminated” (which [I wrote about here](ht
 word_count: 1099
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

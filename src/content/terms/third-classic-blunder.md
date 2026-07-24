@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
 source: "SRMW."
-related: []
+related:
+  - "not-quite-omniscient-narrator"
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Classic Blunder doctrine: don’t mix real and imaginary parts of reality. “I’m fucked” as imagined condition mistaken for real. Unblundering undoes it — often via Not Quite Omniscient Narrator.</p>

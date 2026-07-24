@@ -10,7 +10,8 @@ excerpt: "The other night in a book-reading-and-discussing-group that I have bee
 word_count: 1951
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

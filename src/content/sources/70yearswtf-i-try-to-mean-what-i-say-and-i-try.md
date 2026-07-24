@@ -6,11 +6,12 @@ order: 0
 date: "2026-01-29"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-try-to-mean-what-i-say-and-i-try"
-excerpt: "In Through the Looking-Glass, Alice runs into Humpty Dumpty. Well not literally. That might be tragic. Humpty says this: “When I use a word,” Humpty Dumpty said, in rather a scornful tone, “it means just what I choose it to mean—neither…"
-word_count: 1769
+excerpt: "![](/media/70yt/i-try-to-mean-what-i-say-and-i-try/1.jpg) In Through the Looking-Glass, Alice runs into Humpty Dumpty. Well not literally. That might be tragic. Humpty says this: “When I use a word,” Humpty Dumpty said, in rather a…"
+word_count: 1860
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-even-aholes-can-get-missions-from"
 ---
+
+![](/media/70yt/i-try-to-mean-what-i-say-and-i-try/1.jpg)
 
 In *Through the Looking-Glass*, Alice runs into Humpty Dumpty. Well not literally. That might be tragic. Humpty says this:
 
@@ -30,6 +33,8 @@ But I think Humpty is on to something.
 Words don’t have meanings. People have meanings. Words are how people point toward their meanings.
 
 ## Two kinds of writing, two kinds of reading
+
+![](/media/70yt/i-try-to-mean-what-i-say-and-i-try/2.jpg)
 
 Most writing is functional—ordinary words in ordinary ways conveying ordinary information. Words are a shared code. I encode, you decode, communication happens. Yay! This is the language of instructions, news, contracts. We couldn’t do without it.
 
@@ -46,6 +51,8 @@ This takes work on the Reader’s part.
 “Not for me,” says another Reader. “I’m outtie!” And stops reading.
 
 ## New words for old
+
+![](/media/70yt/i-try-to-mean-what-i-say-and-i-try/3.jpg)
 
 When I use the word “God” in my posts, I don’t mean what people ordinarily mean. What do I do about that?
 
@@ -67,6 +74,8 @@ I could say MUDOG means Mike’s Unusual Definition of God. But saying “MUDOG�
 
 ## Claude’s Take
 
+![](/media/70yt/i-try-to-mean-what-i-say-and-i-try/4.jpg)
+
 “I do,” says Claude.
 
 Claude is an AI from Anthropic who helped me write this essay. Here is what Claude said.
@@ -76,6 +85,8 @@ Claude is an AI from Anthropic who helped me write this essay. Here is what Clau
 Thanks, Claude. Back to me.
 
 ## Reading my intimate writing
+
+![](/media/70yt/i-try-to-mean-what-i-say-and-i-try/5.jpg)
 
 If you are reading my functional writing, ask: “What do these words mean?”
 
@@ -98,6 +109,8 @@ What happens when the word is “God”?
 That’s Part 2.
 
 ## Show your work. The original draft, before Claude cut it down
+
+![](/media/70yt/i-try-to-mean-what-i-say-and-i-try/6.jpg)
 
 In *Through the Looking-Glass*, Alice runs into Humpty Dumpty. Well not literally. That might be tragic. Humpty says this:
 
@@ -246,3 +259,5 @@ That’s Part 2.
 Comments appreciated, even if mean-spirited and stupid.
 
 [Leave a comment](https://70yearswtf.substack.com/p/i-try-to-mean-what-i-say-and-i-try/comments)
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

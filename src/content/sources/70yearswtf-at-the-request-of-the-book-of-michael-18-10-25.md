@@ -10,7 +10,8 @@ excerpt: "It’s coming. The book. It’s been coming for a while. And it’s ab
 word_count: 861
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

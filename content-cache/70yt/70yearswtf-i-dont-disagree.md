@@ -7,11 +7,13 @@ date: "2025-11-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-disagree"
 excerpt: "Maybe I don't agree, but I don't disagree"
-word_count: 279
+word_count: 267
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/i-dont-disagree/1.jpg)
 
 A while ago, I wrote a post, “I don’t agree to disagree.”
 

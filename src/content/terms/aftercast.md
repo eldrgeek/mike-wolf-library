@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-too-goddamned-many-ideas-part-i-13-01-07"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Twin of forecast. Economic/political rhetoric sells both; Mike treats aftercasts as untrustworthy when they prop policy.</p>

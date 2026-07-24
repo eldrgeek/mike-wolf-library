@@ -7,12 +7,14 @@ date: "2019-12-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/a-special-day-19-12-31"
 excerpt: "Stable Diffusion: A photo in a modern setting of a man (seen from the back) writing a blog post on a computer, and God comes out of the computer and forgives his sins. “Today is a special day,” God said.…"
-word_count: 603
+word_count: 668
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![Stable Diffusion: A photo in a modern setting of a man (seen from the back)  writing a blog post on a computer, and God comes out of the computer and forgives his sins.](/media/70yt/a-special-day-19-12-31/1.jpg)
 
 *Stable Diffusion: A photo in a modern setting of a man (seen from the back)  writing a blog post on a computer, and God comes out of the computer and forgives his sins.*
 

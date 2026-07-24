@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![Rakotzbrucke](/media/70yt/bucket-list-20-08-05/1.jpg)
+
 > After I die, you kids will each get a small bucket with my ashes and you need to take me here and all the other places I will pick out. It’s my bucket list.
 
 I wrote that in “The Borg channel,” our family’s hangouts chat channel.

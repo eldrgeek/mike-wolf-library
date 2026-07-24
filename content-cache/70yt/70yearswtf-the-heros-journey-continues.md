@@ -7,12 +7,14 @@ date: "2025-02-13"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-heros-journey-continues"
 excerpt: "I spent a week in a workshop run by Modern Elder Academy. It was called “Discovering the Hero’s Journey in Midlife.” I’ll tell you how I got there in a few minutes hours days paragraphs. But first.. I wrote about…"
-word_count: 1103
+word_count: 1309
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![A symbolic and evocative image representing 'The Hero’s Journey and Rebirth.' A lone traveler, an elderly man with a contemplative expression, walks through a mystical landscape. The scene is divided into three sections: on the left, a dark, chaotic storm represents struggle and the call to adventure; in the center, the traveler crosses a glowing threshold, symbolizing transformation; on the right, a serene, golden-hued sunrise over mountains represents rebirth and newfound wisdom. Ethereal figures of past loved ones, including a gentle feminine presence, watch over him. The atmosphere is dreamlike, blending realism with a touch of the mythical.](/media/70yt/the-heros-journey-continues/1.jpg)
 
 I spent a week in a workshop run by Modern Elder Academy. It was called [“Discovering the Hero’s Journey in Midlife.”](https://www.meawisdom.com/workshop/discovering-the-heros-journey-in-midlife-with-chip-conley-ben-katt/) I’ll tell you how I got there in a few minutes hours days paragraphs. But first..
 

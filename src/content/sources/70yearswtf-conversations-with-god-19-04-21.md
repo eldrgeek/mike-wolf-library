@@ -6,11 +6,12 @@ order: 0
 date: "2019-04-21"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/conversations-with-god-19-04-21"
-excerpt: "An image of man talking to God as the man moves through periods of his life from youth to old age. (Courteous ChatGPT) As one of the Chosen People (™) I grew up having a special, personal relationship with God. Or something I called God.…"
-word_count: 1228
+excerpt: "![Imagine a scene stretching across a panoramic canvas, depicting the journey of a man's life from youth to old age, intertwined with his ongoing dialogue with the divine. The left side starts with the vibrant energy of youth, where a…"
+word_count: 1431
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
 related:
   - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-fill-the-world-with-love-scientifically"
   - "70yearswtf-forgiving-jesus-and-god"
 ---
+
+![Imagine a scene stretching across a panoramic canvas, depicting the journey of a man's life from youth to old age, intertwined with his ongoing dialogue with the divine. The left side starts with the vibrant energy of youth, where a young boy, full of dreams and innocence, looks up towards the sky with a mix of curiosity and awe. As the canvas flows towards the center, the man is in his prime, engaged in a deeper, more thoughtful conversation with a celestial presence, symbolized by a warm, guiding light above. This light represents God, a constant throughout the man's life, guiding and listening. The right side of the canvas shows the man in his old age, serene and wise, sitting on a bench in a peaceful garden, reflecting on his life's journey. He's surrounded by the symbols of his life's achievements and memories, looking up with gratitude towards the divine presence that has been with him every step of the way. The entire scene is a blend of realism and ethereal elements, capturing the evolution of the man's relationship with God through the stages of his life.](/media/70yt/conversations-with-god-19-04-21/1.jpg)
 
 *An image of man talking to God as the man moves through periods of his life from youth to old age. (Courteous ChatGPT)*
 

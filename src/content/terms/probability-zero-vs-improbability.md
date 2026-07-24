@@ -9,7 +9,8 @@ source: "SRMW."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Don’t confuse prior odds with posterior fact: once book and reader exist, probability is one. Epistemic slapstick with a real point.</p>

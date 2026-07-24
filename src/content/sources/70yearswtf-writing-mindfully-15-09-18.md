@@ -10,7 +10,8 @@ excerpt: "Repeatedly I say (to anyone who is within range and shows the smallest
 word_count: 607
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

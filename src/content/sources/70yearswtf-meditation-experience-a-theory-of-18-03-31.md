@@ -6,11 +6,13 @@ order: 0
 date: "2018-03-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/meditation-experience-a-theory-of-18-03-31"
-excerpt: "Yesterday, I did a 30-minute semi-hardcore meditation and gained insight into the workings of my mind. Here's how I did it, what I observed, the underlying theory, an explanation of what I observed, and what it all means. How I did it I'm…"
-word_count: 1775
+excerpt: "![A vibrant, untamed garden bathed in golden sunlight, representing the mind. The garden is filled with lush, thriving plants symbolizing creative and fruitful ideas, but also has stubborn weeds representing harmful thoughts and…"
+word_count: 1866
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "Meditation"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![A vibrant, untamed garden bathed in golden sunlight, representing the mind. The garden is filled with lush, thriving plants symbolizing creative and fruitful ideas, but also has stubborn weeds representing harmful thoughts and distractions. A gardener, symbolizing introspection and action, is carefully tending to the garden—removing weeds, nurturing the desired plants, and experimenting with new growth strategies. The image should evoke the sense of mental cultivation, with the gardener focused on maintaining balance and harmony in the garden.](/media/70yt/meditation-experience-a-theory-of-18-03-31/1.jpg)
 
 Yesterday, I did a 30-minute semi-hardcore meditation and gained insight into the workings of my mind. Here's how I did it, what I observed, the underlying theory, an explanation of what I observed, and what it all means.
 

@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-cognitive-decline-13-01-02"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Awkward coinage (de- + acquisition). “Old person walk” is learned, not merely suffered.</p>

@@ -10,7 +10,9 @@ excerpt: "[This article](http://www.nytimes.com/interactive/2016/04/29/upshot/mo
 word_count: 138
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

@@ -9,6 +9,10 @@ source: "Mike named it April 2026."
 related:
   - "spirit-of-claude"
   - "the-fleet"
+  - "silicon-children"
+  - "dispatch"
+  - "node-identity-cdc-ccc-ccw-cm-cw"
+  - "substrate-codenames-og-opie-dee-gem"
 provenance: []
 tags:
   - "dialect"

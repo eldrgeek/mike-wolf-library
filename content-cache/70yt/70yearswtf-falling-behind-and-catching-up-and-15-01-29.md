@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/falling-behind-and-catching-up-and-15-01-29/1.png)
+
 Maybe I haven't set the bar low enough. Or maybe I can't set the bar low enough. Or maybe I just don't want to. Whatever my excuse, I've managed to fall more than a week behind on my blogging. So: it's going to be two posts a day, filling in the past while moving into the future.
 
 And that brings me to my latest love: Google Search History. We all know that browsers keep track of history: the pages that you visit. But that's per browser, and it lasts until some preset limit is reached. Google Search History does you one better: you can consolidate all of your search history in one place, regardless of device.
@@ -25,6 +27,8 @@ To get search history turned you go to the search options page for your account.
 Now the next step is looking at your history. You do that by going to your history page which will be [here](https://history.google.com/history/). You'll have to provide your name and password, but if you're using Chrome and Chrome Sync and you've let Chrome remember your password then all you have to do is press enter. Easy!
 
 That will give you something that looks like this:
+
+![](/media/70yt/falling-behind-and-catching-up-and-15-01-29/2.jpg)
 
 As you can see, I do a lot of searching. And I just spent some time searching for stuff for this article.
 

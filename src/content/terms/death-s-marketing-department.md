@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-everything-arises-and-passes-away"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Comic adversary for anti-death metaphysics: slogan is marketing bullshit from non-existence’s ad agency.</p>

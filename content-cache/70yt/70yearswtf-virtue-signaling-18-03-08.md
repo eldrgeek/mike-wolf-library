@@ -44,6 +44,8 @@ My attending the event was virtue signaling. I was not signaling support for the
 
 So if it's a nice day, and you're my friend, and you care about something and you want me to show up with you at an event, and it that looks as though the event will be interesting, hell, yes, I'm there, no matter what I think of your cause. Want me to come with you to church to hear your minister talk about--whatever he wants to talk about? No problem. No probs with your minister. I'd even go here if I had a friend to take me. I showed up to see an actual Nazi, FFS.
 
+![](/media/70yt/virtue-signaling-18-03-08/1.jpg)
+
 If I go to an event whose cause I do not support, do I feel the need to wear a button that signals "I'm against this shit"? Like my star-of-David stunt? No. I'm willing to show up to support you and to learn something. I'm willing to have people who I don't know think I'm with them when I'm not. Especially if they have guns. Who cares? Not me.
 
 When I was twenty, I would have given a different answer. I would have worn a rude button to signal the virtue of standing up for what I believed in. But that would be my cover story. My twenty-year-old self's real reason would be signaling the virtue of doing whatever the fuck he wanted to do, and not giving a fuck whether he offended you. You bourgeois asshole.

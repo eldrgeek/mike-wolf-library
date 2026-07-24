@@ -10,7 +10,8 @@ excerpt: "A friend of ours forwarded Bobbi an email titled: “This explains eve
 word_count: 1354
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

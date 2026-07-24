@@ -9,7 +9,8 @@ source: "Vault Gemini *ghost pepper…* (+ Claude/Grok twins)."
 related: []
 provenance: []
 tags:
-  - "- \"chats"
+  - "chats"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Mike’s prompt is the concept (ghost pepper and hotter only). Brand name <strong>The Afterlife Grill</strong> appears as model output in first open source — concept is Mike’s; exact brand string ownership unclear. Working title: treat “The Afterlife Grill” as a provisional brand name for the concept (extreme Scoville-only comic chain), not a locked mark.</p>

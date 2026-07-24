@@ -7,12 +7,14 @@ date: "2021-05-13"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/arete-redux"
 excerpt: "Why be excellent? Why encourage others?"
-word_count: 565
+word_count: 581
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![person in white long sleeve shirt doing thumbs up sign](/media/70yt/arete-redux/1.jpg)
 
 About five months ago I wrote a post about [arete](https://70yearswtf.substack.com/p/vote-arete-20-12-12).
 

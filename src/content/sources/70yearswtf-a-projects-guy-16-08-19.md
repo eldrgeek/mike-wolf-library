@@ -6,11 +6,11 @@ order: 0
 date: "2016-08-19"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/a-projects-guy-16-08-19"
-excerpt: "My sister used to tell me she was hurt when I didn't call or write to her. If she called, I might not even call back. “What's up with that?” she'd ask. A few years ago, I figured it out. \"I'm not a stay-in-touch-and-connected guy,\" I told…"
-word_count: 624
+excerpt: "![](/media/70yt/a-projects-guy-16-08-19/1.jpg) My sister used to tell me she was hurt when I didn't call or write to her. If she called, I might not even call back. “What's up with that?” she'd ask. A few years ago, I figured it out. \"I'm…"
+word_count: 634
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/a-projects-guy-16-08-19/1.jpg)
 
 My sister used to tell me she was hurt when I didn't call or write to her. If she called, I might not even call back. “What's up with that?” she'd ask.
 

@@ -10,13 +10,15 @@ excerpt: "Today my random walk around the web reminded me of a post by [Scott Al
 word_count: 679
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "rationality"
 related:
+  - "70yearswtf-epistemic-learned-helplessness-so-18-07-13"
+  - "70yearswtf-russell-conjugation-and-eric-weinstein-18-07-10"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Today my random walk around the web reminded me of a post by [Scott Alexander](http://slatestarcodex.com/about/) of [SlateStarCodex](http://slatestarcodex.com/) before he was Scott Alexander, and even before he was [Yvain](http://lesswrong.com/user/Yvain/) on [LessWrong](http://lesswrong.com/), back when he was [Squid314](https://squid314.livejournal.com/profile) on [LiveJournal](https://www.livejournal.com/).

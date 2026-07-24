@@ -7,11 +7,13 @@ date: "2020-10-19"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/you-are-never-alone-20-10-19"
 excerpt: "“I don’t like working alone,” I said. It was just after midnight. I could not sleep. I was writing my 750 words. I corrected myself. “Sometimes I like working alone, but then the fun runs out. If I accomplish something…"
-word_count: 790
+word_count: 789
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/you-are-never-alone-20-10-19/1.jpg)
 
 “I don’t like working alone,” I said. It was just after midnight. I could not sleep. I was writing my [750 words](https://750words.com/).
 

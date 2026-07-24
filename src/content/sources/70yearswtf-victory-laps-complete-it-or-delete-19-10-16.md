@@ -6,11 +6,12 @@ order: 0
 date: "2019-10-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/victory-laps-complete-it-or-delete-19-10-16"
-excerpt: "Daniel and I have a regular call, once a week, for about an hour. Sometimes there’s some catching up—but most of that happens in the chat channels we’re in. The weekly calls are usually about more substantial stuff. What’s happening in our…"
-word_count: 568
+excerpt: "![](/media/70yt/victory-laps-complete-it-or-delete-19-10-16/1.jpg) Daniel and I have a regular call, once a week, for about an hour. Sometimes there’s some catching up—but most of that happens in the chat channels we’re in. The weekly…"
+word_count: 581
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-applied-mindtravel-a-how-to-guide-19-10-19"
   - "70yearswtf-celebrate-every-success-19-10-18"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-quality-19-10-17"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
 ---
+
+![](/media/70yt/victory-laps-complete-it-or-delete-19-10-16/1.jpg)
 
 Daniel and I have a regular call, once a week, for about an hour.
 

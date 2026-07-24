@@ -7,11 +7,13 @@ date: "2022-03-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/too-good-not-to-share"
 excerpt: "Photo by Dominik Dancs on Unsplash I found the story below in my LiveJournal account which I have not visited in years. It’s one of only three entries. I have no memory of writing it. I’ve tried Googling for phrases.…"
-word_count: 841
+word_count: 861
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![Photo by Dominik Dancs(https://unsplash.com/@dodancs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/grain-sun?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/too-good-not-to-share/1.jpg)
 
 *Photo by [Dominik Dancs](https://unsplash.com/@dodancs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/grain-sun?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

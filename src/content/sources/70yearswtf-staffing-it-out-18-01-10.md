@@ -10,7 +10,8 @@ excerpt: "I started this a while ago, and never published it. How long ago? Fort
 word_count: 1090
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

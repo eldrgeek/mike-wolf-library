@@ -9,7 +9,8 @@ source: "70yt *solve-for-x-xplained*; *solving-for-x*; batch 7 *solve-for-x*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Not algebra homework. When stuck, redefine stuckness as X. Later: change mind, behavior, or world — identify which lever. <em>Xplained</em> is deliberate misspelling echoing the solve. Ideas treated as alive interlocutors.</p>

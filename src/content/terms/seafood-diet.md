@@ -1,16 +1,18 @@
 ---
 letter: "S"
-title: "seafood diet · hyperbole wax · skilz · time travel (timezone streak hack)"
-subtitle: "see-food/eat-it diagnosis; rant-fuel stock; skills undercut pretension; clock TZ hack for streak apps"
+title: "seafood diet"
+subtitle: "see-food / eat-it diagnosis of automatic eating"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
-origin: "70yt batch 2 various."
-source: "70yt batch 2 various."
+origin: "70yt *debugging-and-programming-automike*."
+source: "70yt *debugging-and-programming-automike*."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-debugging-and-programming-automike-18-08-02"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> Wordplay cluster: AutoMike fridge raids; wax hyperbolic; leetspeak competence; “time travel” by changing computer timezone.</p>
-<blockquote><p>“I was on the seafood diet.” / “abundant supply of hyperbole wax” / “you’ll have skilz.” / “Time traveling is when I change my setting” — 70yt batch 2 various.</p></blockquote>
+<p><strong>What we mean.</strong> Wordplay diagnosis of AutoMike fridge raids: whenever he sees food, he eats it; if he doesn’t see food, he goes somewhere he can.</p>
+<blockquote><p>“I was on the seafood diet. Whenever I’d see food, I’d eat it.” — 70yt *debugging-and-programming-automike*</p></blockquote>

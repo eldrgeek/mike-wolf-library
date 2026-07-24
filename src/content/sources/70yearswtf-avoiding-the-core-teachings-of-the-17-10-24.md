@@ -6,11 +6,13 @@ order: 0
 date: "2017-10-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/avoiding-the-core-teachings-of-the-17-10-24"
-excerpt: "Photo by [amit kumar](https://unsplash.com/@amitkumar23?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/buddha?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText)…"
-word_count: 1859
+excerpt: "![Photo by amit kumar(https://unsplash.com/@amitkumar23?utmsource=unsplash&utmmedium=referral&utmcontent=creditCopyText) on…"
+word_count: 1900
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by amit kumar(https://unsplash.com/@amitkumar23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/buddha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/avoiding-the-core-teachings-of-the-17-10-24/1.jpg)
 
 *Photo by [amit kumar](https://unsplash.com/@amitkumar23?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/buddha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

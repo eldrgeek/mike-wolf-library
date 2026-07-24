@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-05 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Defensive half of RSI-loop pair. First mistake is curriculum; second copy another teammate already paid is waste.</p>

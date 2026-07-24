@@ -9,7 +9,8 @@ source: "Mike 2026-05-10 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Friston/FEP content is public-facing if detached from private Mark Lesser conversation credit.</p>

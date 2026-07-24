@@ -9,6 +9,8 @@ source: "Mike, from a May 2026 essay."
 related:
   - "verify-outcomes"
   - "ship-it"
+  - "step-back-and-be-ambitious"
+  - "spec-the-load-bearing-riff-on-the-polish"
 provenance: []
 tags:
   - "dialect"

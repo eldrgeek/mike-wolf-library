@@ -6,11 +6,13 @@ order: 0
 date: "2026-01-31"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/my-new-writing-process"
-excerpt: "I wake up early. 5:00 ideally. 6:00 is fine. I pull out my notebook and start writing my daily page. Yesterday I wrote three. Today, five and a half. I photograph the pages and give them to Claude on mobile, asking it to transcribe and…"
-word_count: 217
+excerpt: "![](/media/70yt/my-new-writing-process/1.jpg) I wake up early. 5:00 ideally. 6:00 is fine. I pull out my notebook and start writing my daily page. Yesterday I wrote three. Today, five and a half. I photograph the pages and give them to…"
+word_count: 233
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +20,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/my-new-writing-process/1.jpg)
 
 I wake up early. 5:00 ideally. 6:00 is fine.
 
@@ -47,6 +51,8 @@ I ask Claude for an image prompt for Nano Banano Pro.
 
 Claude gives me two
 
-[The convo with Google Gemini [lives here](https://docs.google.com/document/d/12J5eHRhykPD7FKqSNwVY_4nXLEBaKvaxEsTiZE9c-dk/edit?usp=sharing)
+[The convo with Google Gemini [lives here](https://docs.google.com/document/d/12J5eHRhykPD7FKqSNwVY_4nXLEBaKvaxEsTiZE9c-dk/edit?usp=sharing)]
 
 *[The full conversation with Claude that made this post lives [here](https://claude.ai/share/64cc488c-c530-40b2-ae5c-10c0dd8440b3).]*
+
+![](/media/70yt/my-new-writing-process/2.jpg)

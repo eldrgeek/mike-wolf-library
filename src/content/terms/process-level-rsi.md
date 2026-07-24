@@ -9,7 +9,8 @@ source: "Mike with Dee 2026-05-06 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "architecture"
 ---
 
 <p><strong>What we mean.</strong> Success at outcome level can be repeated failure at trace level. Dead-ends are lesson ore. Architectural answer: error-corrector specialist mining traces (Cog).</p>

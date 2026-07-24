@@ -10,7 +10,7 @@ excerpt: "A couple of years ago I found a group called Walk Off the Earth ([offi
 word_count: 318
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

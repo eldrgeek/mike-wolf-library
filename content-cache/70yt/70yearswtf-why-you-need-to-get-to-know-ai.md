@@ -7,7 +7,7 @@ date: "2025-10-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/why-you-need-to-get-to-know-ai"
 excerpt: "and how to do it"
-word_count: 1663
+word_count: 1672
 tags:
   - "70YearsWTF"
   - "AI"
@@ -41,6 +41,8 @@ Background knowledge may be helpful. But it is only by you personally interactin
 Large Language Models (LLMs) are the kind of thing that ChatGPT is an example of which. (Note this essay was not written by AI, which would never write such a weird sentence.)
 
 LLMs (also called ChatBots) are designed for interaction. You ask one a question, it gives you an answer.
+
+![](/media/70yt/why-you-need-to-get-to-know-ai/1.jpg)
 
 ChatGPT gives an answer.:“The capitol of France is Paris.” Done.
 
@@ -182,6 +184,8 @@ I’d love it if you’d share what you learn in the comments.
 [Leave a comment](https://70yearswtf.substack.com/p/why-you-need-to-get-to-know-ai/comments)
 
 And if you aren’t a subscriber, you can subscribe and not miss any of the amazing stuff that’s coming
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
 
 [1](#footnote-anchor-1)
 

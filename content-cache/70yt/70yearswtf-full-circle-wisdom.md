@@ -7,13 +7,15 @@ date: "2025-11-20"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/full-circle-wisdom"
 excerpt: "A guest post by Mike's favorite daughter, Mira #DTHS"
-word_count: 713
+word_count: 749
 tags:
   - "70YearsWTF"
   - "blogging"
   - "economics"
 related: []
 ---
+
+![I don’t know she wanted a picture of me for her blog post, but that’s what she wanted.](/media/70yt/full-circle-wisdom/1.jpg)
 
 *I don’t know she wanted a picture of me for her blog post, but that’s what she wanted.*
 

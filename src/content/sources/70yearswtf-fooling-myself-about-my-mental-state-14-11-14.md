@@ -10,7 +10,8 @@ excerpt: "For a while, around the time that I started this blog, I was using [Lu
 word_count: 555
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

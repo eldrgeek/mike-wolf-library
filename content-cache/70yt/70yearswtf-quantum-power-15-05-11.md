@@ -7,11 +7,13 @@ date: "2015-05-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/quantum-power-15-05-11"
 excerpt: "Quantum of the Seas isn't just a floating resort hotel, it's a moveable one. Ignoring all the power needed to run the hotel: to light the rooms and commons areas, cook the food, run the elevators, and spin the slot…"
-word_count: 261
+word_count: 260
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/quantum-power-15-05-11/1.jpg)
 
 Quantum of the Seas isn't just a floating resort hotel, it's a moveable one. Ignoring all the power needed to run the hotel: to light the rooms and commons areas, cook the food, run the elevators, and spin the slot machines, it takes a lot of power to move the ship.
 

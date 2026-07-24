@@ -13,7 +13,8 @@ provenance:
   - "70yearswtf-lowering-the-bar-a-technique-for-13-01-05"
   - "70yearswtf-reality-isnt-optional-13-01-05"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Borrowed from a friend, then owned as brand. Applies Left, Right, North, South.</p>

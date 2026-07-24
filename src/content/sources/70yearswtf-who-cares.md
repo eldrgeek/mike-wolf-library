@@ -6,11 +6,12 @@ order: 0
 date: "2022-07-26"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/who-cares"
-excerpt: "[Photo by Anna Shvets](https://www.pexels.com/photo/person-holding-babys-hand-3845456/): I wrote zero blog posts in January. Zero in February. Five in March. Yay! But zero in April. Zero in May. Zero in June. It’s July 26th. Zero so far.…"
-word_count: 471
+excerpt: "![Photo by Anna Shvets(https://www.pexels.com/photo/person-holding-babys-hand-3845456/):](/media/70yt/who-cares/1.jpg) [Photo by Anna Shvets](https://www.pexels.com/photo/person-holding-babys-hand-3845456/): I wrote zero blog posts in…"
+word_count: 491
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by Anna Shvets(https://www.pexels.com/photo/person-holding-babys-hand-3845456/):](/media/70yt/who-cares/1.jpg)
 
 *[Photo by Anna Shvets](https://www.pexels.com/photo/person-holding-babys-hand-3845456/):*
 

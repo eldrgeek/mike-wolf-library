@@ -7,13 +7,15 @@ date: "2023-04-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/you-are-my-favorite-reader-yamfr"
 excerpt: "Don't tell the others #DTTO"
-word_count: 497
+word_count: 604
 tags:
   - "70YearsWTF"
   - "AI"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/you-are-my-favorite-reader-yamfr/1.jpg)
 
 “Me?” You might ask, but only after
 

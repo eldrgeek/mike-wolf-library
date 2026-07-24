@@ -6,11 +6,12 @@ order: 0
 date: "2025-11-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/whats-the-most-important-thing"
-excerpt: "My [SBM](https://70yearswtf.substack.com/p/sbm-and-dbf-19-05-23?utmsource=publication-search) Daniel has a theory. If you tell him that writing (and publishing) a post in your blog is the most important thing (speaking abstractly and not…"
-word_count: 2557
+excerpt: "![](/media/70yt/whats-the-most-important-thing/1.jpg) My [SBM](https://70yearswtf.substack.com/p/sbm-and-dbf-19-05-23?utmsource=publication-search) Daniel has a theory. If you tell him that writing (and publishing) a post in your blog is…"
+word_count: 2566
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/whats-the-most-important-thing/1.jpg)
 
 My [SBM](https://70yearswtf.substack.com/p/sbm-and-dbf-19-05-23?utm_source=publication-search) Daniel has a theory.
 

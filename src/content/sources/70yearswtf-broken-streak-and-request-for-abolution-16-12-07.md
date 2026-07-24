@@ -10,7 +10,9 @@ excerpt: "Shit shit shit shit shit! My streak is broken! I've been using the web
 word_count: 983
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

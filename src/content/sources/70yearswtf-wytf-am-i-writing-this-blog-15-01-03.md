@@ -10,7 +10,8 @@ excerpt: "Really? Wy? Fact is, I don't know. What I do know, or seem to know is 
 word_count: 381
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

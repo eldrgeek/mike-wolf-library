@@ -7,11 +7,13 @@ date: "2019-10-16"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/circus-circus-19-10-16"
 excerpt: "After my junior year at MIT, I decided that I’d had it. I was off to see and save the world. The first part of the story, in which I hitchhiked to Chicago and spent a whole day looking for…"
-word_count: 2114
+word_count: 2113
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/circus-circus-19-10-16/1.jpg)
 
 After my junior year at MIT, I decided that I’d had it. I was off to see and save the world. The first part of the story, in which I hitchhiked to Chicago and spent a whole day looking for the perfect job will appear someday. A link to the draft, in Google Doc form, is at the end of this post, just case I die before I get around to it.
 
@@ -39,6 +41,8 @@ So we headed down to the fairgrounds to see if they would hire me. And they did!
 
 The Mills Brothers’ Circus was an old-time circus: we worked under the big top, a new city nearly every day. Here’s a page from their 1961 route book, located [here](http://www.circushistory.org/Pdf/MillsBrosRoute1961.pdf).
 
+![](/media/70yt/circus-circus-19-10-16/2.png)
+
 We worked six days a week every week. On Sundays, I heard people would chip in and rent a hotel room so that we could get showers. It sounded romantic, but only because I was really stupid.
 
 I imagined my new life starting with my lowly job in the circus. I’d rise from there to unimaginable heights.
@@ -63,6 +67,8 @@ They put me to work right away on props. As each act came on, we had to haul out
 
 Here’s what things looked like when the show was on:
 
+![](/media/70yt/circus-circus-19-10-16/3.jpg)
+
 Yes! We had elephants. For more pictures of the Mills Brothers Circus, amazingly enough from 1963, [check this out](http://entertainment.webshots.com/album/576531657zVmwqO).
 
 ## The parade
@@ -84,6 +90,8 @@ There were clowns and acrobats. There was no clown shit or acrobat shit. So that
 ## Lions and tigers and no bears, oh my
 
 The big event was the wild animal act. We assembled a metal cage that filled the center of the ring, then lined up the animal cages outside in a big train. It looked like this:
+
+![](/media/70yt/circus-circus-19-10-16/4.jpg)
 
 We’d roll the animal cages into the ring and attach the first one to a gate in the center ring and each to the next behind it. Each of the rolling cages had a gate each end. We’d raise the gate in the cage nearest the ring and poke cat if it didn’t run out. Then we’d open the back gate in that cage and the front gate for the one next in line, and prod the next cat forward and into the ring. After the act was over, the cats would be released from the ring in reverse order, and we’d lock them into their individual cages, then pull the whole train back to where the cats lived when not performing.
 

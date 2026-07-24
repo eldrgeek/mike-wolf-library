@@ -8,6 +8,9 @@ source: ""
 related:
   - "soma"
   - "silicon-compadre"
+  - "the-greenhouse"
+  - "the-dark-factory-with-a-glass-wall"
+  - "step-back-and-be-ambitious"
 provenance:
   - "srmw-chapter-40-how-to-practice"
   - "70yearswtf-from-farnam-street-to-quantum-computing-19-06-30"

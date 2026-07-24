@@ -10,7 +10,7 @@ excerpt: "From [\"Sapiens: A Brief History of Humankind\" by Yuval Noah Harari](
 word_count: 154
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

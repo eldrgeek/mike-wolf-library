@@ -10,7 +10,8 @@ excerpt: "My wife insists that I'm an optimist, just because I don't believe eve
 word_count: 809
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "rationality"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

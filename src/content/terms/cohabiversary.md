@@ -14,7 +14,8 @@ provenance:
   - "70yearswtf-my-life-is-over-and-thats-a-good"
   - "70yearswtf-to-my-best-friend-on-our-47th-anniversary-17-08-30"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Portmanteau cohabit + anniversary. Marks the real start of shared household (pre-wedding count alongside wedding anniversary). Later noted in Urban Dictionary; still household calendar term.</p>

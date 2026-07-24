@@ -6,11 +6,12 @@ order: 0
 date: "2016-01-05"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/writing-plan-2016-16-01-05"
-excerpt: "Photo credit: [dmelchordiaz](https://www.flickr.com/photos/dmelchordiaz/6198533837/) via [Foter.com](http://foter.com/photo/starting-to-write/) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) Until yesterday I thought…"
-word_count: 836
+excerpt: "![](/media/70yt/writing-plan-2016-16-01-05/1.jpg) Photo credit: [dmelchordiaz](https://www.flickr.com/photos/dmelchordiaz/6198533837/) via [Foter.com](http://foter.com/photo/starting-to-write/) / [CC…"
+word_count: 846
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "automation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +19,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/writing-plan-2016-16-01-05/1.jpg)
 
 Photo credit: [dmelchordiaz](https://www.flickr.com/photos/dmelchordiaz/6198533837/) via [Foter.com](http://foter.com/photo/starting-to-write/) / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/)
 

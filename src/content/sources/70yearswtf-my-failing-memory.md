@@ -6,11 +6,11 @@ order: 0
 date: "2021-06-25"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/my-failing-memory"
-excerpt: "Photo by [Tim Gouw](https://www.pexels.com/@punttim?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
-word_count: 222
+excerpt: "![Photo by Tim Gouw(https://www.pexels.com/@punttim?utmcontent=attributionCopyText&utmmedium=referral&utmsource=pexels) from…"
+word_count: 272
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![Photo by **Tim Gouw(https://www.pexels.com/@punttim?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/aerial-view-of-sports-stadium-during-daytime-139762/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/my-failing-memory/1.jpg)
 
 *Photo by **[Tim Gouw](https://www.pexels.com/@punttim?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/aerial-view-of-sports-stadium-during-daytime-139762/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 
@@ -51,3 +53,5 @@ And wait a minute. Pafko played Left Field, not Right. It was Furillo in Right. 
 And Billy Cox played 3rd Base, not 2nd. It was Jackie Robinson who played 2nd. (Although he played 2,000 innings at 3rd.)
 
 Shit! My memory.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

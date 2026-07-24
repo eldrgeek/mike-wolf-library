@@ -7,12 +7,14 @@ date: "2019-10-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/natures-promise-19-10-24"
 excerpt: "Every time I go into Trade Winds Market and see this brand, I think, “What a dumb brand name. Nature’s only got one promise. Sooner or later, we’re going to die. That’s nature’s promise.” Then I think, “I’ll have to…"
-word_count: 91
+word_count: 90
 tags:
   - "70YearsWTF"
   - "blogging"
 related: []
 ---
+
+![](/media/70yt/natures-promise-19-10-24/1.jpg)
 
 Every time I go into Trade Winds Market and see this brand, I think, “What a dumb brand name. Nature’s only got one promise. Sooner or later, we’re going to die. That’s nature’s promise.”
 

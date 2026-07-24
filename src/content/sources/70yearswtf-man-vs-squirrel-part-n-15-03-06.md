@@ -7,10 +7,10 @@ date: "2015-03-06"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/man-vs-squirrel-part-n-15-03-06"
 excerpt: "We like to feed the birds that visit our back yard. Yes, I know. The hard working birds that refuse to accept our handouts are out in the cold working hard to feed their families while lazy birds, willing to go on welfare flock to our…"
-word_count: 654
+word_count: 666
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -42,3 +42,5 @@ The war was on again!
 But man is not to be overcome by squirrel. At least this particular man is not to be overcome by those particular squirrels. I repurposed the roof-rake that I bought to clear our porch skylight and other roof surfaces as a temporary feeder holder. It sits in the yard, stuck in the deep snow. The plastic shield that eventually replaced the upside-down bowl and which used to be on top of the feeder has been moved so that it prevents assault from below.
 
 But soon the snow will melt and the rake will no longer stand. What then?
+
+![](/media/70yt/man-vs-squirrel-part-n-15-03-06/1.jpg)

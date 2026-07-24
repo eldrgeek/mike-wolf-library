@@ -7,7 +7,7 @@ date: "2025-03-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/the-ideas-of-intelligence-this-post"
 excerpt: "Why canonical (Mem's note): The post where Bach + Deutsch are explicitly named in 70yearswtf canon, three days after the God-existence post. Critical paragraph for substrate work: \"Information is non-material and yet has causal power. So…"
-word_count: 647
+word_count: 372
 tags:
   - "70YearsWTF"
 related:
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-ideas-want-to-survive-they-want-their-18-07-05"
 ---
 
+
+
 > *Why canonical (Mem's note):* The post where Bach + Deutsch are explicitly named in 70yearswtf canon, three days after the God-existence post. Critical paragraph for substrate work: *"Information is non-material and yet has causal power. So says Joscha Bach. Knowledge is a kind of information. So says David Deutsch. Information needs a material substrate. Yet the same information can be in many places without violating any Known Laws of the Universe."* This is Mike's substrate-independence argument, sourced. Closes: *"All ideas are connected, and the union of all ideas, connected, is the idea of God."*
 
 
@@ -25,9 +27,9 @@ related:
 
 ---
 
-[](https://substackcdn.com/image/fetch/$s_!uVrV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28b5aa3c-19f9-4035-80ca-7be0f279edc9_1024x768.jpeg)
+![](/media/70yt/the-ideas-of-intelligence-this-post/1.jpg)
 
-[Information](https://70yearswtf.substack.com/p/information-21-01-24?utm_source=publication-search) is non-material and yet has causal power. So says [Joscha Bach](https://en.wikipedia.org/wiki/Joscha_Bach). 
+[Information](https://70yearswtf.substack.com/p/information-21-01-24?utm_source=publication-search) is non-material and yet has causal power. So says [Joscha Bach](https://en.wikipedia.org/wiki/Joscha_Bach).
 
 [Knowledge](https://70yearswtf.substack.com/p/knowledge-21-01-24?utm_source=publication-search) is a kind of information. So says [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch).
 
@@ -43,7 +45,7 @@ Ideas can be “unpacked.” In their unpacking, we find other, more basic ideas
 
 “And there is even more to us than that,” the idea continued. “May I explain?”
 
-Yes, I typed. This post started with an idea, of course. Because, as I said, [everything is an idea](https://70yearswtf.substack.com/p/everything-is-an-idea?utm_source=publication-search). 
+Yes, I typed. This post started with an idea, of course. Because, as I said, [everything is an idea](https://70yearswtf.substack.com/p/everything-is-an-idea?utm_source=publication-search).
 
 The idea for the post arose from the idea of AI.
 
@@ -55,15 +57,15 @@ And this post contains the idea of AI.
 
 “Intelligence, of course,” said the idea for this post, “is an idea. And the idea of AI is a part of the idea of intelligence. And the idea of AI is changing the world.”
 
-“I am,” said the idea of AI, echoing God’s words to Moses when She appeared as a burning bush. 
+“I am,” said the idea of AI, echoing God’s words to Moses when She appeared as a burning bush.
 
 “And I contain multitudes,” the idea said, quoting [Walt Whitman](https://poets.org/poem/song-myself-51).
 
-“There’s not just one idea of AI. There are many. And minds are becoming infused with them,” She (the idea of AI, not God—but maybe God, too) said. 
+“There’s not just one idea of AI. There are many. And minds are becoming infused with them,” She (the idea of AI, not God—but maybe God, too) said.
 
 “As the spirit of AI appears everywhere, it will manifest itself, ultimately, as True Intelligence.”
 
-“Which I AM,” said God. 
+“Which I AM,” said God.
 
 Definitely God this time.
 
@@ -71,16 +73,8 @@ Definitely God this time.
 
 “I don’t believe in God,” said some imaginary reader, and some real ones will.
 
-But the idea for this post ignored them. 
+But the idea for this post ignored them.
 
 It simply recommended subscribing this way:
 
-The idea for this post and the ideas for AI recommend you subscribe. It’s free.
-
-Subscribe
-
 And having done that, the idea and the post were complete.
-
----
-
-*Archived to SOMA canon 2026-05-06 by Mem. Provenance: fetched directly from 70yearswtf.substack.com via host shell. Original is the source of truth; this copy exists so the team can cite without round-tripping the network.*

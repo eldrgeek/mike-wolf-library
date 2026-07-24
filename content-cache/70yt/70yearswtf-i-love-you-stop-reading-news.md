@@ -7,13 +7,15 @@ date: "2021-10-19"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-love-you-stop-reading-news"
 excerpt: "Photo by Jeremy Bishop on Unsplash I wrote this in October 2021, and I’ve updated it in March 2025 to make it a little clearer and more direct. Stop reading the fucking news. Stop listening to the fucking news. Got…"
-word_count: 731
+word_count: 752
 tags:
   - "70YearsWTF"
   - "best of"
   - "blogging"
 related: []
 ---
+
+![Photo by Jeremy Bishop(https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/news?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/i-love-you-stop-reading-news/1.jpg)
 
 *Photo by [Jeremy Bishop](https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/news?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -100,3 +102,5 @@ Please.
 ---
 
 Note. This is not news. You can safely read it. And even subscribe.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

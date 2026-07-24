@@ -10,7 +10,8 @@ excerpt: "Based on a joke created by my 5-year-old grandson, Michael: Knock knoc
 word_count: 757
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

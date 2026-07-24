@@ -10,7 +10,8 @@ excerpt: "Money is not the same as wealth. What is wealth? Farms and food and fa
 word_count: 548
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

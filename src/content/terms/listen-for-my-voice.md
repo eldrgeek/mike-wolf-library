@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *i-love-you-listen-for-my-voice* (batch 3)."
 source: "70yt *i-love-you-listen-for-my-voice* (batch 3)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-i-love-you-listen-for-my-voice"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Listen <em>to</em> (passive) vs listen <em>for</em> (active tuning). Choice is directional.</p>

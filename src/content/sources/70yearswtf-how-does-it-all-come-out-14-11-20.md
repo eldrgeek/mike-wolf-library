@@ -10,7 +10,7 @@ excerpt: "Teenagers, assuming that they think at all, think they are immortal. I
 word_count: 575
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

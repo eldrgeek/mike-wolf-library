@@ -10,7 +10,8 @@ excerpt: "For years I’ve been imagining selling a product I’ve called SuperP
 word_count: 684
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

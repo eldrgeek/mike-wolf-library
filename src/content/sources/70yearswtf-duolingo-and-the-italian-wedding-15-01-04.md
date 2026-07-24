@@ -10,7 +10,9 @@ excerpt: "I'm heading to Italy in May for a wedding. So Italy, and I don't know 
 word_count: 1183
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

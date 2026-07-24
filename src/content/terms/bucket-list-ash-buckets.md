@@ -9,7 +9,8 @@ source: "70yt *bucket-list* (batch 3)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Literalizes bucket list as small buckets of ashes to chosen places. Death-positive family joke.</p>

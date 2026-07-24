@@ -7,13 +7,15 @@ date: "2026-01-28"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/january-27-2024-january-27-2025-january"
 excerpt: "Day by day, year by year"
-word_count: 281
+word_count: 297
 tags:
   - "70YearsWTF"
   - "Bobbi"
   - "AI"
 related: []
 ---
+
+![Prompt by Claude, image by NanoBanana Pro](/media/70yt/january-27-2024-january-27-2025-january/1.jpg)
 
 *Prompt by Claude, image by NanoBanana Pro*
 
@@ -65,3 +67,7 @@ It’s called “I’m done crying at least for a while.”
 > (go on...)
 
 And now there’s a video version
+
+![](/media/70yt/january-27-2024-january-27-2025-january/2.jpg)
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

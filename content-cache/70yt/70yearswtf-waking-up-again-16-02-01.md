@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/waking-up-again-16-02-01/1.jpg)
+
 Photo credit: [naydeeyah](http://www.flickr.com/photos/27524212@N04/) via [Foter.com](http://foter.com/photo/well-hi/) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 
 It’s maddening. Days go by. Perfectly good days. Enjoyable days. And then, one day, I WAKE UP, and I realize that I’ve spent all of those days without awareness, watching my life go by.

@@ -7,23 +7,24 @@ date: "2022-09-02"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-know-whats-right-for-you-all"
 excerpt: "Photo by [Jamie Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com) I’ve spent my life looking for answers to “life’s big questions.” Like [the purpose of life, the universe, and…"
-word_count: 838
+word_count: 850
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-an-open-letter-to-my-90-year-old"
+  - "70yearswtf-draft-having-subscribers-is-a-pain"
+  - "70yearswtf-forgiveness-and-the-war-in-ukraine"
+  - "70yearswtf-llms-are-machines-are-you-one-too"
+  - "70yearswtf-mikes-life-moviewise-review"
 ---
 
 *Photo by [Jamie Street](https://unsplash.com/@jamie452) on [Unsplash](https://unsplash.com)*
 
 I’ve spent my life looking for answers to “life’s big questions.” Like [the purpose of life, the universe, and everything](https://70yearswtf.substack.com/p/the-purpose-of-life-the-universe-16-12-06).
 
-[70 Years Old. WTF!The purpose of life, the universe, and everythingWe know that “the ultimate question of life, the universe, and everything” has an answer. It’s 42. Wikipedia says so. But is there a purpose to life, the universe, and everything? If so, what is it? 1. What’s a purpose? Oxford Dictionaries defines purpose…Read more10 years ago · Michael Wolf](https://70yearswtf.substack.com/p/the-purpose-of-life-the-universe-16-12-06?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/i-dont-know-whats-right-for-you-all/1.jpg) 70 Years Old. WTF!The purpose of life, the universe, and everythingWe know that “the ultimate question of life, the universe, and everything” has an answer. It’s 42. Wikipedia says so. But is there a purpose to life, the universe, and everything? If so, what is it? 1. What’s a purpose? Oxford Dictionaries defines purpose…Read more10 years ago · Michael Wolf](https://70yearswtf.substack.com/p/the-purpose-of-life-the-universe-16-12-06?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 I’ve always been happy to share what I’ve learned.
 

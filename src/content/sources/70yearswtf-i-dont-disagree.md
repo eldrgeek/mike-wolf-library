@@ -6,18 +6,20 @@ order: 0
 date: "2025-11-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-disagree"
-excerpt: "A while ago, I wrote a post, “I don’t agree to disagree.” I’ve decided not only to “not agree to disagree”, but to not disagree in the first place. Does that mean I agree with your silly-ass idea? Not necessarily. I’d have to hear it,…"
-word_count: 289
+excerpt: "![](/media/70yt/i-dont-disagree/1.jpg) A while ago, I wrote a post, “I don’t agree to disagree.” I’ve decided not only to “not agree to disagree”, but to not disagree in the first place. Does that mean I agree with your silly-ass idea? Not…"
+word_count: 296
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-conversations-with-god-19-04-21"
+  - "70yearswtf-denial-denialism-and-climate-change-18-08-12"
   - "70yearswtf-even-more-like-heaven-and-the-internet"
-  - "70yearswtf-fill-the-world-with-love-scientifically"
 ---
+
+![](/media/70yt/i-dont-disagree/1.jpg)
 
 A while ago, I wrote a post, “I don’t agree to disagree.”
 

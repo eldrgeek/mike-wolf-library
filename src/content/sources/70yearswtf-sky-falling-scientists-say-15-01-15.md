@@ -10,7 +10,7 @@ excerpt: "They may disagree on the details, the causes and the timing, but scien
 word_count: 409
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

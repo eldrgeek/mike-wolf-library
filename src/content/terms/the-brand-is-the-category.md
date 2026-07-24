@@ -9,7 +9,8 @@ source: "Mike 2026-05-04 (Wall)."
 related: []
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "architecture"
 ---
 
 <p><strong>What we mean.</strong> Inversion of “the category is the brand.” When first — ai-wtf, Skeptic-as-a-Service — the first instance names the shelf; naming is the moat.</p>

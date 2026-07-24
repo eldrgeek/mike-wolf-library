@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Eliyahu Goldratt via Mike 2026-05-02 (Wall)."
 source: "Eliyahu Goldratt via Mike 2026-05-02 (Wall)."
-related: []
+related:
+  - "mistakes-are-the-only-route-to-knowledge-even-for-god"
 provenance: []
 tags:
-  - "- \"Wall"
+  - "Wall"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Goldratt’s lab ethic: surprising outcome is still data. Failure mode is avoidance. Pairs with mistakes-as-route and low-cost mistakes.</p>

@@ -10,7 +10,8 @@ related: []
 provenance:
   - "70yearswtf-linkus-clickbaitus-is-a-threat-but-19-12-15"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Mock-taxonomy (<em>L. clickbaitus outrageus</em>, <em>memei</em>). Sharing ethic as infection of the noosphere.</p>

@@ -9,7 +9,8 @@ source: "70yt *whatever-it-takes*; *whatever-it-takes-redux*."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Inverts grit cliché: confession of impression-management — work hard at seeming to work hard, including convincing yourself. Ritual of exposure that may still be performance.</p>

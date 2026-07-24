@@ -10,7 +10,9 @@ excerpt: "Yes, it's true. I'm 72. Besides being the sum of the eighth row of Loz
 word_count: 674
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

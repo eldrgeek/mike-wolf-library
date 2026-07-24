@@ -9,7 +9,8 @@ source: "70yt *senior-creativity-inventing-new-words* (batch 2)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Aging-as-systems vocabulary for lived speech/memory bugs.</p>

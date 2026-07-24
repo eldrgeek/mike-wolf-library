@@ -9,7 +9,8 @@ source: "70yt *learning-to-learn-gain-without-pain* (batch 1)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Quantifies why gain-without-pain learning fails when writing becomes chronic unpleasant exertion.</p>

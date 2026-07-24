@@ -9,7 +9,8 @@ source: "70yt *when-your-chair-in-the-sky-is-just* (batch 7)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Comic diagnostic when Slack can’t be figured out: user broken or UI broken. (Distinct from Intention Deficit Disorder.)</p>

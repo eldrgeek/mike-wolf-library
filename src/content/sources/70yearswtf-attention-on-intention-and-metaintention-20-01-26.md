@@ -10,13 +10,15 @@ excerpt: "This morning I woke up with my attention on intention. Still half asle
 word_count: 1325
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "meditation"
+  - "blogging"
 related:
+  - "70yearswtf-consciousness-awareness-attention-19-01-17"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 This morning I woke up with my attention on intention.

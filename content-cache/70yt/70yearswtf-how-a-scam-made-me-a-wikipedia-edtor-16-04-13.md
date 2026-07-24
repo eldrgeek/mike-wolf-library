@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/how-a-scam-made-me-a-wikipedia-edtor-16-04-13/1.png)
+
 I was doing some online research when I found myself on this page. It looks a little bit like the page that Chrome displays when you go to a site that Google deems unsafe. Only it's red.
 
 Danger! Danger!

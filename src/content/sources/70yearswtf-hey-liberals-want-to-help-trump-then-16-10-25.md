@@ -10,7 +10,7 @@ excerpt: "I'm not kidding. Every bit of assholery helps. Call him names. Make ba
 word_count: 694
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-a-meditation-on-assholery-18-08-20"
   - "70yearswtf-frustration-and-forgiveness-19-05-22"

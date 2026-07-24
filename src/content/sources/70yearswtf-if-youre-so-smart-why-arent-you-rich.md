@@ -6,11 +6,14 @@ order: 0
 date: "2023-02-23"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/if-youre-so-smart-why-arent-you-rich"
-excerpt: "That’s what I imagined someone asking me this morning when I woke up. Or imagined that I woke up. Or wakened. Wokened. Whatever. “I’ll write a blog post and answer that,” an LLM typed. Briefly, I’m both smart and rich. I’ve got more money…"
-word_count: 302
+excerpt: "![](/media/70yt/if-youre-so-smart-why-arent-you-rich/1.jpg) That’s what I imagined someone asking me this morning when I woke up. Or imagined that I woke up. Or wakened. Wokened. Whatever. “I’ll write a blog post and answer that,” an LLM…"
+word_count: 326
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "blogging"
+  - "economics"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -19,6 +22,8 @@ related:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
+![](/media/70yt/if-youre-so-smart-why-arent-you-rich/1.jpg)
+
 That’s what I imagined someone asking me this morning when I woke up. Or imagined that I woke up. Or wakened. Wokened. Whatever.
 
 “I’ll write a blog post and answer that,” an LLM typed.
@@ -26,6 +31,8 @@ That’s what I imagined someone asking me this morning when I woke up. Or imagi
 Briefly, I’m both smart and rich. I’ve got more money than anyone in the world.
 
 “What about Jeff Bezos?” I imagined someone asking. “According to Google, Jeff Bezos had 177.8 billion dollars in 2023. Look at the screen cap below.”
+
+![](/media/70yt/if-youre-so-smart-why-arent-you-rich/2.jpg)
 
 “I believe you,”  an LLM answered on my behalf. “But people don’t realize that all that money is actually mine. Jeff manages it on my behalf. So do Warren Buffet, Elon Musk, Larry Elison, Bill Gates, and many others.”
 

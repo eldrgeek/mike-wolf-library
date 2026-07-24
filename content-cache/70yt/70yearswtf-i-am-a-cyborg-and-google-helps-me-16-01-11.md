@@ -7,13 +7,15 @@ date: "2016-01-11"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-am-a-cyborg-and-google-helps-me-16-01-11"
 excerpt: "And cloud services help me remember my life."
-word_count: 1086
+word_count: 1088
 tags:
   - "70YearsWTF"
   - "blogging"
   - "automation"
 related: []
 ---
+
+![](/media/70yt/i-am-a-cyborg-and-google-helps-me-16-01-11/1.jpg)
 
 We live our lives in moments, and as soon as a moment has passed, the memory of the moment begins to fade. That is, assuming we made a memory in the first place.
 
@@ -92,3 +94,5 @@ Yay!
 If you are interested in all the features of Timeline, [you can go here](http://google-latlong.blogspot.com/2015/07/your-timeline-revisiting-world-that.html).
 
 If you are interested in more of the features of me, cyborg or not, you can subscribe. If you click the button below, I will sign up. Or my cyber-half will.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

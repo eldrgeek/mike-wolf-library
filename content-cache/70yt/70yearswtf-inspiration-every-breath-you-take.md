@@ -7,12 +7,14 @@ date: "2022-03-22"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/inspiration-every-breath-you-take"
 excerpt: "\"Notice the next breath,\" said Sam Harris, in this morning's guided meditation in the Waking Up App. I took a deep breath and noticed it. But from where did I take it? And from where did I notice it? I…"
-word_count: 190
+word_count: 180
 tags:
   - "70YearsWTF"
   - "meditation"
 related: []
 ---
+
+![](/media/70yt/inspiration-every-breath-you-take/1.jpg)
 
 "Notice the next breath," said Sam Harris, in this morning's guided meditation in the [Waking Up App.](https://wakingup.com/)
 

@@ -7,12 +7,14 @@ date: "2021-06-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/is-spirituality-practical"
 excerpt: "And WTF is spirituality, anyway?"
-word_count: 549
+word_count: 572
 tags:
   - "70YearsWTF"
   - "meditation"
 related: []
 ---
+
+![Photo by **Prince Kumar(https://www.pexels.com/@prince-kumar-781937?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/selective-focus-photography-of-monk-during-meditation-2421467/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/is-spirituality-practical/1.jpg)
 
 *Photo by **[Prince Kumar](https://www.pexels.com/@prince-kumar-781937?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **[Pexels](https://www.pexels.com/photo/selective-focus-photography-of-monk-during-meditation-2421467/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
 
@@ -131,4 +133,4 @@ Good question! Thanks for asking that!
 1. Spend more time practicing, studying what you have learned that has been effective, and looking for new things to learn.
 2. Spend less time on shit that does not matter.
 3. Look for coaches.
-4. Write more
+4. Write more![Subscribe now](https://70yearswtf.substack.com/subscribe?)

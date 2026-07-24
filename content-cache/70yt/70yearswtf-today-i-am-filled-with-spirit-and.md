@@ -7,7 +7,7 @@ date: "2022-08-24"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/today-i-am-filled-with-spirit-and"
 excerpt: "Photo by Marek Piwnicki on Unsplash Today I woke, and my mind was flooded with Ideas. So many things to write about. So many things to be grateful for. So many things to forgive (not in the usual meaning of…"
-word_count: 512
+word_count: 744
 tags:
   - "70YearsWTF"
 related: []
@@ -72,7 +72,7 @@ It is more like this:
 
 I could say a lot more about this. And I have.
 
-[70 Years Old. WTF!The paradoxes of gratitude and forgivenessLate in my life, I discovered the paradoxical properties and the enormous power of gratitude and forgiveness. Cost and benefit When you tell someone you are grateful, you give them more than it costs you. When you forgive someone, it costs you nothing and relieves them from whatever burden they were carrying…Read more8 years ago · Michael Wolf](https://70yearswtf.substack.com/p/the-paradoxes-of-gratitude-and-forgiveness-18-12-06?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+ [![](/media/70yt/today-i-am-filled-with-spirit-and/1.jpg) 70 Years Old. WTF!The paradoxes of gratitude and forgivenessLate in my life, I discovered the paradoxical properties and the enormous power of gratitude and forgiveness. Cost and benefit When you tell someone you are grateful, you give them more than it costs you. When you forgive someone, it costs you nothing and relieves them from whatever burden they were carrying…Read more8 years ago · Michael Wolf](https://70yearswtf.substack.com/p/the-paradoxes-of-gratitude-and-forgiveness-18-12-06?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 And I have
 

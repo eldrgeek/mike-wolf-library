@@ -6,11 +6,11 @@ order: 0
 date: "2022-03-14"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/do-you-believe-in-love-or-forests"
-excerpt: "Do you believe in love? Or forests? Or sunlight? Or God? If you're in love right now, \"Do you believe in love?\" is a laughable question. You don't believe in love. You're in love. You live in love. Love fills everything around you. If you…"
-word_count: 592
+excerpt: "![](/media/70yt/do-you-believe-in-love-or-forests/1.jpg) Do you believe in love? Or forests? Or sunlight? Or God? If you're in love right now, \"Do you believe in love?\" is a laughable question. You don't believe in love. You're in love.…"
+word_count: 603
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/do-you-believe-in-love-or-forests/1.jpg)
 
 Do you believe in love? Or forests? Or sunlight? Or God?
 

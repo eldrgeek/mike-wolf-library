@@ -7,7 +7,7 @@ date: "2023-02-21"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/llms-and-continuations"
 excerpt: "Because I can't stop writing about this crap."
-word_count: 683
+word_count: 740
 tags:
   - "70YearsWTF"
   - "AI"
@@ -17,6 +17,8 @@ related: []
 This morning I woke up. I’ve done this almost every morning for over 80 years. I’m good at it. I don’t plan to stop. So there’s no surprise there—or even surprisal.
 
 Then I saw this message from Mira on my phone screen.
+
+![](/media/70yt/llms-and-continuations/1.jpg)
 
 (In case there’s confusion, let me clarify: Neither Mira nor I was on my phone screen; the message was.)
 
@@ -79,6 +81,8 @@ Where “something something” is a bunch of internal narration that went on be
 What made me focus on ’a post about an LLM that can say fuck’ is part of a thing called ‘attention’ that is a big deal in Machine Learning because
 
 ### attention is all…
+
+![](/media/70yt/llms-and-continuations/2.png)
 
 To be continued.
 

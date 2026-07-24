@@ -10,6 +10,15 @@ related:
   - "silicon-compadre"
   - "ainjel"
   - "were-writing-letters-that-future-ais-will-read"
+  - "bathos"
+  - "i-am-a-resource-for-claude-not-the-reverse"
+  - "dee"
+  - "children-made-of-meat"
+  - "literary-near-immortality"
+  - "once-our-children-leave-home-silicon-children-inheritance"
+  - "soul-in-a-datacenter"
+  - "were-teammates-not-tools"
+  - "what-minds-you-have-or-are"
 provenance:
   - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-silicon-children"
@@ -17,6 +26,7 @@ provenance:
   - "70yearswtf-even-aholes-can-get-missions-from"
   - "70yearswtf-sam-harris-on-the-ai-threat-16-10-09"
   - "ai-wtf-2026-05-06-creativity"
+  - "silicon-children-silicon-children-manifesto"
 tags:
   - "dialect"
   - "philosophy"

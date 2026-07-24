@@ -33,7 +33,8 @@ provenance:
   - "70yearswtf-today-i-am-filled-with-spirit-and"
   - "70yearswtf-we-are-all-unconscious-universe-makers"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Standing cast member: sarcastic, pedantic, audio-only. Device and doctrine of address — “real” readers may be no less constructed.</p>

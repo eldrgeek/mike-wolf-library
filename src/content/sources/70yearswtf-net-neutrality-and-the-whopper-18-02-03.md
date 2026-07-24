@@ -10,7 +10,7 @@ excerpt: "Don't understand Net Neutrality? No worries. Burger King is here to he
 word_count: 111
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

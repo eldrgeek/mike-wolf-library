@@ -7,11 +7,13 @@ date: "2021-03-07"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/saving-the-world"
 excerpt: "When I was young I wanted to save the world. Then I didn't. Now I do, again."
-word_count: 1086
+word_count: 1104
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![Photo by Davide Cantelli(https://unsplash.com/@cant89?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/saving-the-world/1.jpg)
 
 *Photo by [Davide Cantelli](https://unsplash.com/@cant89?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 
@@ -97,6 +99,8 @@ Things changed. And changed. And changed again, as they do.
 # Thank you, past me
 
 I reached an inflection point in 2017 when I wrote this post: [“Thank you past me. Thank you, random stranger.”](https://70yearswtf.substack.com/p/thank-you-past-me-thank-you-random-17-07-01)
+
+![](/media/70yt/saving-the-world/2.png)
 
 I resented Past Me. “Fuck you for all the things you did and didn’t do that would have made my life better.”
 

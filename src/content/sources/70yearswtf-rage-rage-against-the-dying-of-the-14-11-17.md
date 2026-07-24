@@ -10,7 +10,8 @@ excerpt: "This morning, I remembered Dylan Thomas's poem, \"Do not go gentle int
 word_count: 533
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

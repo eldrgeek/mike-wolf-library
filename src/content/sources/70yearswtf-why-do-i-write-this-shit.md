@@ -7,10 +7,13 @@ date: "2025-10-30"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/why-do-i-write-this-shit"
 excerpt: "I gave NotebookLM the millions of words I’d written in the blog and asked it to generate a “deep dive” podcast. The AI generated Podcast hosts got why I write it. What gets me is how committed he is to using his blog for growth. That’s why…"
-word_count: 750
+word_count: 770
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "AI"
+  - "meditation"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -60,6 +63,8 @@ I’ve done lots of things that have taken me off the track. I’ve wandered in 
 But the pull was the same: to become the best person I could become. Maybe the best ever.
 
 ## My heroes: Jesus, Buddha, Hugh Hefner
+
+![My heroes at the Playboy Mansion as visualized by Grok.](/media/70yt/why-do-i-write-this-shit/1.jpg)
 
 *My heroes at the Playboy Mansion as visualized by Grok.*
 

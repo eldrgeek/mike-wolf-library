@@ -6,10 +6,12 @@ theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *recovering-residual-knowledge* (batch 2)."
 source: "70yt *recovering-residual-knowledge* (batch 2)."
-related: []
+related:
+  - "rsilt"
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Web-wandered insights gone unless written. “Leaving shit in my head is a mistake.” Doctrine for RSILT/blog-as-external-memory.</p>

@@ -10,7 +10,8 @@ excerpt: "The Jewish position on abortion, as I was taught it, is this: \"A fetu
 word_count: 3797
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
+  - "blogging"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"

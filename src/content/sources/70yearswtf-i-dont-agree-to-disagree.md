@@ -6,11 +6,11 @@ order: 0
 date: "2025-11-09"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/i-dont-agree-to-disagree"
-excerpt: "Maybe this sounds like a silly subject for a post. But I think it is establishes an important principle. If your framework is rational atheism, it is kind of irrational to agree to disagree. If your framework is religious it is kind of…"
-word_count: 942
+excerpt: "![](/media/70yt/i-dont-agree-to-disagree/1.jpg) Maybe this sounds like a silly subject for a post. But I think it is establishes an important principle. If your framework is rational atheism, it is kind of irrational to agree to disagree.…"
+word_count: 951
 tags:
   - "70YearsWTF"
-  - "- \"70YearsWTF"
+  - "70YearsWTF"
 related:
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
@@ -18,6 +18,8 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
+
+![](/media/70yt/i-dont-agree-to-disagree/1.jpg)
 
 Maybe this sounds like a silly subject for a post.
 

@@ -7,9 +7,11 @@ authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *not-an-optimist-not-a-pessimist* (batch 3)."
 source: "70yt *not-an-optimist-not-a-pessimist* (batch 3)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-not-an-optimist-not-a-pessimist-a-13-05-20"
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Optimism/pessimism track assessed odds; hope tracks possibility. Named self-identity.</p>

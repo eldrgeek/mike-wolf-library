@@ -9,7 +9,8 @@ source: "70yt *you-are-special-today* (batch 4)."
 related: []
 provenance: []
 tags:
-  - "- \"70yt"
+  - "70yt"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Weaponizes reverse psychology and wet-paint curiosity against the funnel.</p>

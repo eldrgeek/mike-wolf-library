@@ -7,7 +7,7 @@ date: "2021-03-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/pricing-lessons-learned"
 excerpt: "Winning through intimidation What I remember from Robert Ringer’s book “Winning through Intimidation” is different from what I found skimming an online copy (PDF version of the revised edition). My story might be there, but I didn’t want to spend…"
-word_count: 1569
+word_count: 1571
 tags:
   - "70YearsWTF"
   - "economics"
@@ -17,6 +17,8 @@ related: []
 # Winning through intimidation
 
 What I remember from Robert Ringer’s book “Winning through Intimidation” is different from what I found skimming an online copy ([PDF version of the revised edition](http://alexandrosmarinos.com/Winning-through-Intimidation-Ringer.pdf)). My story might be there, but I didn’t want to spend more time looking for it than I already had. So I’ll tell it my way.
+
+![](/media/70yt/pricing-lessons-learned/1.jpg)
 
 Intimidation means getting your way without confrontation. You do this by signaling unmistakable superiority. No one fights when they know they’re going to lose.
 
@@ -123,3 +125,5 @@ Deal.
 Well, it didn’t happen exactly that way in reality. I did get the deal, in reality, by saying something like that—but less polished.
 
 I’m smart enough to improve on reality.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)

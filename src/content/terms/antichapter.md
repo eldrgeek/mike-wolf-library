@@ -9,7 +9,8 @@ source: "SRMW."
 related: []
 provenance: []
 tags:
-  - "- \"SRMW"
+  - "SRMW"
+  - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Antichapters hijack plot or prevent finishing — not deleted scenes. The Adversary is Pressfield’s Resistance with a face and subplot.</p>

@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![Image](/media/70yt/arising-and-passing-away-down-memory-19-02-26/1.jpg)
+
 A few morninga ago, I sat down, closed my eyes and intended that my mind present me with scenes from my past. After a very short delay, my mind complied. Things that matched what I had intended appeared in conciousness.
 
 Good mind! Here, have some gratitude. You deserve it!

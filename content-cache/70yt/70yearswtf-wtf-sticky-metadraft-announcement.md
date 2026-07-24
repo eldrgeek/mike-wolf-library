@@ -7,11 +7,13 @@ date: "2023-01-03"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/wtf-sticky-metadraft-announcement"
 excerpt: "Of course, what else"
-word_count: 35
+word_count: 24
 tags:
   - "70YearsWTF"
 related: []
 ---
+
+![](/media/70yt/wtf-sticky-metadraft-announcement/1.jpg)
 
 This is a draft for the sticky page for the WFT Drafts newsletter.
 

@@ -14,6 +14,8 @@ tags:
 related: []
 ---
 
+![](/media/70yt/warm-up-before-writing-theory-and-15-12-27/1.jpg)
+
 Photo credit: [Nicholas_T](https://www.flickr.com/photos/nicholas_t/6039529153/) via [Foter.com](http://foter.com/photo/stretched-1/) / [CC BY](http://creativecommons.org/licenses/by/2.0/)
 
 Today I started out having a crap time writing. Really crap. I ended up feeling as though I was wasting my life. And I ended up [writing about that feeling](http://70yearsoldwtf.blogspot.com/2015/12/wasting-my-life.html).

@@ -7,12 +7,14 @@ date: "2024-04-12"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/denver-and-the-timberwolves"
 excerpt: "Dana and Daniel took me to Ball Arena for the first basketball game I’ve seen in maybe 20 years. It was a great game. The Nuggets did not disappoint. (Go, Celts!) Denver vs Timberwolves rap Here’s a rap I created…"
-word_count: 550
+word_count: 559
 tags:
   - "70YearsWTF"
   - "AI"
 related: []
 ---
+
+![](/media/70yt/denver-and-the-timberwolves/1.jpg)
 
 Dana and Daniel took me to Ball Arena for the first basketball game I’ve seen in maybe 20 years. It was a great game. The Nuggets did not disappoint. (Go, Celts!)
 
@@ -25,6 +27,8 @@ Here’s how I used AI and other tools to create it.
 ## Writing the lyrics
 
 When I got home from the game report I found a game report online and pasted it into a ChatGPT chat, and asked it to help me write a rap.
+
+![](/media/70yt/denver-and-the-timberwolves/2.jpg)
 
 After getting the first Eminem version and prompting it for a bunch of rhyming words, I asked it for the names of some really good rappers to emulate. It gave me this list:
 
@@ -48,6 +52,8 @@ But it was overwhelming.
 
 Instead, I just took one of the versions and stapled it together with another section I liked, and then spent some time tweaking it in a Google Docs document.
 
+![](/media/70yt/denver-and-the-timberwolves/3.jpg)
+
 Here’s [a link to the Doc](https://docs.google.com/document/d/1nsmsa5pu_LAXqslnx8_WEOgFCXLAqK2FExAtBPAMjYk/edit).
 
 ## Creating the music
@@ -55,6 +61,8 @@ Here’s [a link to the Doc](https://docs.google.com/document/d/1nsmsa5pu_LAXqsl
 Then I turned to [suno.ai](https://suno.com/me), currently my go-to music assistant.
 
 I generated about 20 different versions until I found one that I particularly liked, and spent some time tweaking it.
+
+![](/media/70yt/denver-and-the-timberwolves/4.jpg)
 
 There’s an art to this because Suno only gives you a 2-minute song, and if you want something longer, you’ve got to do tricks and that sometimes creates problems.
 
@@ -68,10 +76,16 @@ I did some editing to get rid of the redundancies and then to tighten things up.
 
 I added captions and a waveform.
 
+![](/media/70yt/denver-and-the-timberwolves/5.jpg)
+
 ## Publishing the video
 
 Then I had Descript render it and upload it to YouTube and did a little fiddling with the Video Details (including getting the URL for this post and putting it in the details)
 
+![](/media/70yt/denver-and-the-timberwolves/6.jpg)
+
 ## Publishing this post
 
 Now, all I have to do is push publish.
+
+[Subscribe now](https://70yearswtf.substack.com/subscribe?)
