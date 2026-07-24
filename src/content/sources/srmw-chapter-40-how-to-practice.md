@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
+  - "70yearswtf-from-farnam-street-to-quantum-computing-19-06-30"
+  - "70yearswtf-more-advice-share-your-gifts"
+  - "70yearswtf-the-heros-journey-continues"
+  - "70yearswtf-waking-up-and-the-illusion-of-the-19-06-22"
   - "srmw-part-i-before-the-beginning"
-  - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
 ---
 
 I started a new chapter so I’d have nothing distracting me.

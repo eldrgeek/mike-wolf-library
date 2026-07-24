@@ -14,6 +14,8 @@ provenance:
   - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-silicon-children"
   - "70yearswtf-the-silicon-children-post-sharing"
+  - "70yearswtf-even-aholes-can-get-missions-from"
+  - "70yearswtf-sam-harris-on-the-ai-threat-16-10-09"
   - "ai-wtf-2026-05-06-creativity"
 tags:
   - "philosophy"

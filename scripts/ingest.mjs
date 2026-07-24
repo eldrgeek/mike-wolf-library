@@ -31,6 +31,10 @@ const P = {
   manifesto: join(HOME, 'Projects/SOMA/canon/silicon-children-manifesto.md'),
   seventy: join(HOME, 'Projects/SOMA/canon/70yearswtf'),
   seventyDraft: join(HOME, 'Projects/yeshie/70yearswtf-writing-for-llms.md'),
+  // Full 70YearsWTF Substack archive, fetched by scripts/fetch-70yt.mjs.
+  // These files are named `70yearswtf-<postslug>.md` and are the canonical
+  // on-disk copy (bodies are NOT re-fetched during ingest — avoids Substack 429s).
+  seventyArchive: join(ROOT, 'content-cache/70yt'),
   aiwtfPosts: join(HOME, 'Projects/SOMA/aiwtf/posts'),
   aiwtfDrafts: join(HOME, 'Projects/SOMA/aiwtf/drafts'),
 };
@@ -269,12 +273,15 @@ function parseSRMW() {
 // PARSER 3 — pre-frontmattered markdown posts (70yt, AI WTF, manifesto)
 // Generic: reads a .md with YAML frontmatter, maps to a source record.
 // ══════════════════════════════════════════════════════════════════════════════
-function ingestMdFile(path, { collection, kind, defaultDate = null }) {
+function ingestMdFile(path, { collection, kind, defaultDate = null, slugOverride = null }) {
   const raw = readFileSync(path, 'utf8');
   const { data, body } = parseFrontmatter(raw);
   const fname = basename(path).replace(/\.md$/, '');
   const title = data.title || fname.replace(/-/g, ' ');
-  const slug = slugify(collection) + '-' + slugify(data.slug || fname);
+  // slugOverride lets callers keep an already-prefixed filename (e.g. the
+  // 70YearsWTF archive files, named `70yearswtf-<slug>.md`) as the record slug,
+  // avoiding a doubled `70yearswtf-70yearswtf-` prefix.
+  const slug = slugOverride || slugify(collection) + '-' + slugify(data.slug || fname);
   // Strip a leading H1 that duplicates the title, and the boilerplate meta lines.
   let md = body
     .replace(/^#\s+.+\n+/, '')
@@ -329,6 +336,26 @@ function parse70yt() {
     n++;
   }
   console.log(`  70YearsWTF → ${n} posts`);
+}
+
+// Full 70YearsWTF archive (688+ posts) fetched to content-cache/70yt/.
+// Read them as canonical source-of-truth; dedupe by slug against the curated
+// posts already pushed by parse70yt() (curated wins on conflict).
+function parse70ytArchive() {
+  if (!existsSync(P.seventyArchive)) { console.log('  70YearsWTF archive → (cache missing, skipped)'); return; }
+  const seen = new Set(sourceRecords.map(r => r.slug));
+  let n = 0, dupes = 0;
+  for (const f of readdirSync(P.seventyArchive)) {
+    if (!f.endsWith('.md') || f.startsWith('_')) continue;
+    const fname = f.replace(/\.md$/, '');            // already `70yearswtf-<postslug>`
+    if (seen.has(fname)) { dupes++; continue; }
+    sourceRecords.push(ingestMdFile(join(P.seventyArchive, f), {
+      collection: '70YearsWTF', kind: 'post', defaultDate: null, slugOverride: fname,
+    }));
+    seen.add(fname);
+    n++;
+  }
+  console.log(`  70YearsWTF archive → ${n} posts (${dupes} dupes skipped)`);
 }
 
 function parseAIWTF() {
@@ -469,6 +496,7 @@ console.log('Ingesting Mike Wolf Library corpus…\n');
 parseLexicon();
 parseSRMW();
 parse70yt();
+parse70ytArchive();
 parseAIWTF();
 parseSiliconChildren();
 wireCrossRefs();

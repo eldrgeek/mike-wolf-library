@@ -8,3 +8,6 @@ venv/
 __pycache__/
 *.pyc
 .env
+
+# scratch: fetch logs, corpus backups, task briefs
+_grok/

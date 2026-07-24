@@ -9,7 +9,8 @@ related:
   - "three-trees-one-greenhouse"
   - "soma"
   - "the-foundation"
-provenance: []
+provenance:
+  - "70yearswtf-birthday-activity-part-1-17-12-31"
 tags:
   - "philosophy"
 ---

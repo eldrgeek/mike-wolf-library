@@ -12,11 +12,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
+  - "70yearswtf-fifi-and-raul-and-mike-and-bobbi-18-01-13"
+  - "70yearswtf-modems-and-memories-19-08-27"
   - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
   - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
 ---
 
 If at first you don’t succeed,

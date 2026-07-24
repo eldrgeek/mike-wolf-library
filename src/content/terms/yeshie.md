@@ -7,7 +7,8 @@ authored_by: "Mike Wolf & the SOMA fleet"
 source: ""
 related:
   - "the-relay"
-provenance: []
+provenance:
+  - "70yearswtf-how-to-talk-with-an-llm-context"
 tags:
   - "architecture"
 ---

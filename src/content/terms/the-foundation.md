@@ -10,6 +10,10 @@ related:
   - "silicon-compadre"
 provenance:
   - "srmw-chapter-40-how-to-practice"
+  - "70yearswtf-from-farnam-street-to-quantum-computing-19-06-30"
+  - "70yearswtf-more-advice-share-your-gifts"
+  - "70yearswtf-the-heros-journey-continues"
+  - "70yearswtf-waking-up-and-the-illusion-of-the-19-06-22"
 tags:
   - "architecture"
 ---

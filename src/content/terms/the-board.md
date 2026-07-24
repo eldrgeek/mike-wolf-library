@@ -11,6 +11,8 @@ related:
   - "the-queue"
 provenance:
   - "srmw-part-vi-fear-and-procrastination"
+  - "70yearswtf-fifi-and-raul-and-mike-and-bobbi-18-01-13"
+  - "70yearswtf-modems-and-memories-19-08-27"
 tags:
   - "places"
 ---

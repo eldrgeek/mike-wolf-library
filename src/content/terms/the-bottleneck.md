@@ -13,6 +13,8 @@ related:
   - "self-obsolescence"
 provenance:
   - "70yearswtf-sending-my-ai-to-school"
+  - "70yearswtf-intention-lost-intention-regained-19-02-22"
+  - "70yearswtf-the-goal-part-ii-19-05-17"
 tags:
   - "rituals"
 ---

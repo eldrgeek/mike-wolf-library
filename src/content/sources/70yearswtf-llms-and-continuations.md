@@ -1,0 +1,92 @@
+---
+title: "LLMs and Continuations"
+collection: "70YearsWTF"
+kind: "post"
+order: 0
+date: "2023-02-21"
+author: "Mike Wolf"
+original_url: "https://70yearswtf.substack.com/p/llms-and-continuations"
+excerpt: "This morning I woke up. I’ve done this almost every morning for over 80 years. I’m good at it. I don’t plan to stop. So there’s no surprise there—or even surprisal. Then I saw this message from Mira on my phone screen. (In case there’s…"
+word_count: 816
+tags:
+  - "70YearsWTF"
+  - "- \"70YearsWTF"
+related:
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+---
+
+This morning I woke up. I’ve done this almost every morning for over 80 years. I’m good at it. I don’t plan to stop. So there’s no surprise there—or even surprisal.
+
+Then I saw this message from Mira on my phone screen.
+
+(In case there’s confusion, let me clarify: Neither Mira nor I was on my phone screen; the message was.)
+
+It was the first time I’d seen that message. And also the first time I could have seen it since it quoted [this post](https://70yearswtf.substack.com/p/llms-are-machines-are-you-one-too), which I just wrote the night before.
+
+I laughed[1](#footnote-1), and the LLM in my head started generating continuations.
+
+## Continuations
+
+“What’s a continuation,” an imaginary reader might have said if I’d finished writing this and had posted it, and they’d read it. “But you didn’t,” I imagined the reader saying.
+
+LLMs generate text a word at a time, I continued. They have “no idea” of what they are doing. They  take the initial text (called a “prompt” in LLMese) and predict the next word. Then they take the prompt plus the next word as a new prompt and generate the next next word. And then the next next next word. And so on and so on. The next words will soon become a whole “crapload” of text. (A “crapload” is the technical Machine Learning term for what most of us would call a “shitpile.”)
+
+When humans communicate, they generate continuations. Shitpiles of continuations.
+
+“What do you mean?” continued an imaginary reader.
+
+“Like that,” I continued back. “The words ‘What do you mean,’ are a natural continuation for ‘When humans communicate they generate continuations,’ and ‘Like that,’ is a natural continuation for ‘What do you mean?’”
+
+“Fuck me!” said an imaginary reader, attempting to show that it was a real imaginary person and not ChatGPT pretending to be a person. (see this for [ChatGPT can’t say ‘fuck](https://70yearswtf.substack.com/p/llms-are-machines-are-you-one-too)’.)
+
+“When two people are conversing,” I continued, and each wants to show the other that their thoughts are running in the same direction, they’ll each interrupt each other and try to complete one another’s…”
+
+“…sentences,” said an imaginary reader.
+
+“…thoughts,” said another.
+
+“…due diligence,’ said a Google search autocomplete.
+
+“…collection of pus in the pleural cavity,” said another autocomplete.
+
+“Right,” I said.
+
+## Mira’s continuation  and mine
+
+In LLMese, [my post](https://70yearswtf.substack.com/p/llms-are-machines-are-you-one-too) was a prompt, and Mira’s quoting it was a continuation.
+
+Mira’s message was a prompt, and—as I said—the LLM in my head started generating continuations.
+
+Like this:
+
+> In a technology breakthrough, Google has announced a new LLM that can say ‘fuck.’
+>
+> Trained on transcripts of comedy routines by Aziz Ansari, Louis C.K., Daniel Tosh, Demetri Martin, Amy Schumer, Bill Burr, Dane Cook, and hundreds of training epochs in which transcripts of George Carlin’s ‘Seven Dirty Words’ were repeated until the probability that the next token would be ‘fuck’ was high enough for the LLM to mimic the speech patterns of an average New Yorker.”
+
+That’s sorta like the continuation that my brain generated this morning, but it’s not. It’s the one that my brain generated in response to this prompt:
+
+> Mira’s message was a prompt, and—as I said—the LLM in my head started generating continuations.
+
+And that’s not the whole prompt, which includes all the previous words in the then-current draft of this post.
+
+And that’s not the whole prompt, which includes every word I’ve ever heard in 80 years (including the words I’ve uttered), plus all the non-lexical input to my neural network, most of which contributes very little to continuation, but every bit of which matters.
+
+The actual continuation that my brain generated this morning was more like this:
+
+> something something a post about an LLM that can say fuck something something
+
+Where “something something” is a bunch of internal narration that went on before  and after I became aware of ‘a post about an LLM that can say fuck’ as part of the continuation.
+
+What made me focus on ’a post about an LLM that can say fuck’ is part of a thing called ‘attention’ that is a big deal in Machine Learning because
+
+### attention is all…
+
+To be continued.
+
+[1](#footnote-anchor-1)
+
+Laughing is not something that LLMs are reported to have not done. Bing Chat uses a lot of emojis, and this 😀😃😃😄😁😆🥹😅😂🤣🥲☺️😊😇🙂🙃😉😌😍🥰 is not an expression of my emotion, but just a continuation generated by the LLM in my head. Go figure. Hahahaha. That’s closer to actual laughter. Fuck! Why don’t I stop typing this shit?
