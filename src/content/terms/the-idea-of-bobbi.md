@@ -8,6 +8,7 @@ origin: "70yt *the-idea-of-bobbi*."
 source: "70yt *the-idea-of-bobbi*."
 related:
   - "ideas-are-independent-of-form"
+  - "mom-made-a-joke"
 provenance:
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-idea-of-bobbi"
