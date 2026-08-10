@@ -112,6 +112,42 @@ body.le-editing [data-user-content]:hover {
 }
 #le-auth button.le-quiet { background: transparent; color: #6b6b7b; border-color: rgba(26, 26, 46, .12); }
 
+/* A sign-in box that had to explain itself — a failed return, a swallowed
+   error. Amber, because it is information the visitor did not ask for. */
+#le-auth .le-notice {
+  background: #f3ece2; border-left: 2px solid #b87333;
+  padding: .45rem .6rem; margin: 0 0 .7rem; color: #3d2c1e; font-size: .76rem;
+}
+
+/* Signed in, but with no admin role here — the state that had no UI at all
+   and left Mike with a sign-in box and no way out. Same shell as #le-auth. */
+#le-noadmin {
+  position: fixed; bottom: 1rem; left: 1rem; z-index: 9998;
+  width: min(21rem, calc(100vw - 2rem));
+  background: #fff; border: 1px solid rgba(26, 26, 46, .12); border-radius: 10px;
+  padding: 1rem; box-shadow: 0 12px 40px rgba(26, 26, 46, .18);
+  font-family: 'Outfit', system-ui, sans-serif;
+}
+#le-noadmin h3 {
+  font-family: 'JetBrains Mono', monospace; font-size: .68rem;
+  text-transform: uppercase; letter-spacing: .15em; color: #b87333; margin: 0 0 .5rem;
+}
+#le-noadmin p { font-size: .78rem; color: #6b6b7b; margin: 0 0 .6rem; line-height: 1.5; }
+#le-noadmin .le-who { color: #1a1a2e; font-weight: 500; }
+#le-noadmin button {
+  width: 100%; font-family: 'JetBrains Mono', monospace; font-size: .68rem;
+  padding: .45rem .7rem; border-radius: 999px; cursor: pointer; margin-bottom: .35rem;
+  background: #b87333; color: #fff; border: 1px solid #b87333;
+}
+#le-noadmin button.le-quiet { background: transparent; color: #6b6b7b; border-color: rgba(26, 26, 46, .12); }
+
+#le-pending {
+  position: fixed; bottom: 1rem; left: 1rem; z-index: 9998;
+  background: #fff; border: 1px solid rgba(26, 26, 46, .12); border-radius: 999px;
+  padding: .5rem 1rem; box-shadow: 0 6px 20px rgba(26, 26, 46, .14);
+  font-family: 'JetBrains Mono', monospace; font-size: .7rem; color: #6b6b7b;
+}
+
 @media (max-width: 480px) {
   #le-bar { bottom: .6rem; left: .6rem; }
   #le-panel { bottom: 3.4rem; left: .6rem; }

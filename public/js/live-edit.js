@@ -243,13 +243,33 @@
   /* ── admin gate ───────────────────────────────────────────────────────────
    * Ask the DB the same question RLS asks. Per ADOPT.md step 4: no client-side
    * email allow-list fallback — a UI that thinks you're an admin while RLS
-   * disagrees just shows you an editor where every save fails. */
+   * disagrees just shows you an editor where every save fails.
+   *
+   * TRI-STATE, and that matters. The first version returned a boolean and
+   * swallowed every failure with `.catch(function(){ return false; })`, which
+   * made "the database says you are not an admin" and "the call never got
+   * there" look identical on screen — so the only symptom of a broken auth
+   * path was a sign-in box that would not go away. It took Mike hitting it to
+   * find. Never collapse those two again.
+   *
+   * Returns 'yes' | 'no' | 'error'. Also 'anon': the RPC succeeded but there
+   * was no session attached, so auth.uid() was NULL and the honest answer is
+   * "nobody asked", not "no". */
   function checkAdmin() {
     var c = client();
-    if (!c) return Promise.resolve(false);
-    return c.rpc('is_app_admin', { target_app: APP })
-      .then(function (res) { return !res.error && res.data === true; })
-      .catch(function () { return false; });
+    if (!c) return Promise.resolve({ state: 'error', why: 'no supabase client' });
+    return c.auth.getSession().then(function (s) {
+      var sess = s && s.data && s.data.session;
+      if (!sess) return { state: 'anon', why: 'no session attached' };
+      return c.rpc('is_app_admin', { target_app: APP }).then(function (res) {
+        if (res.error) {
+          return { state: 'error', why: res.error.message || 'rpc failed' };
+        }
+        return { state: res.data === true ? 'yes' : 'no', email: sess.user && sess.user.email };
+      });
+    })['catch'](function (e) {
+      return { state: 'error', why: (e && e.message) || String(e) };
+    });
   }
 
   /* ── which upstream file does this string live in? ────────────────────────
@@ -585,28 +605,40 @@
       panel.hidden = !panel.hidden;
       if (!panel.hidden) loadDrafts().then(renderPanel);
     };
-    out.onclick = function () {
-      try { localStorage.removeItem('mwl-live-edit'); } catch (e) {}
-      global.SomaAuth.signOut().then(function () { location.reload(); });
-    };
+    out.onclick = doSignOut;
     document.addEventListener('click', onClick, true);
   }
 
   /* ── sign-in ──────────────────────────────────────────────────────────────
    * Deliberately not on the page for readers. It appears only on the admin
-   * path (?edit=1 / #edit, or a session already in this browser). */
-  function mountAuth() {
-    if (document.getElementById('le-auth')) return;
+   * path (?edit=1 / #edit, or a session already in this browser).
+   *
+   * ONLY EVER SHOWN WHEN THERE IS NO SESSION. Showing a sign-in prompt to
+   * somebody who is already signed in is the trap door Mike fell through:
+   * the only Sign out control lived on the admin pill, so a signed-in
+   * non-admin got an editor-less page, a sign-in box, and no way out. */
+  function mountAuth(notice) {
+    var existing = document.getElementById('le-auth');
+    if (existing) {
+      if (notice) {
+        var n = existing.querySelector('.le-notice');
+        if (!n) { n = document.createElement('p'); n.className = 'le-notice'; existing.insertBefore(n, existing.children[2]); }
+        n.textContent = notice;
+      }
+      return;
+    }
     var box = document.createElement('div');
     box.id = 'le-auth';
     box.innerHTML =
       '<h3>Sign in to edit</h3>' +
       '<p>Admins only. Readers never need an account.</p>' +
+      (notice ? '<p class="le-notice"></p>' : '') +
       '<input id="le-email" type="email" placeholder="you@example.com" autocomplete="email">' +
       '<button id="le-magic">Email me a link</button>' +
       '<button id="le-google" class="le-quiet">Continue with Google</button>' +
       '<button id="le-close" class="le-quiet">Not now</button>';
     document.body.appendChild(box);
+    if (notice) box.querySelector('.le-notice').textContent = notice;
 
     // redirectTo MUST carry a path. Supabase's allow-list glob
     // https://library.mike-wolf.com/** does not match the bare origin with no
@@ -633,6 +665,75 @@
     document.getElementById('le-close').onclick = function () { box.remove(); };
   }
 
+  /* ── signed in, but not an admin here ─────────────────────────────────────
+   * The state that had no UI at all. Say who you are, say plainly that this
+   * account has no admin role on this app, and give the way out. Same
+   * reasoning as the archive-refusal toast: a surface that silently does the
+   * wrong thing is how somebody concludes the feature is broken. */
+  function mountNoAdmin(email, why) {
+    var box = document.getElementById('le-noadmin');
+    if (!box) {
+      box = document.createElement('div');
+      box.id = 'le-noadmin';
+      document.body.appendChild(box);
+    }
+    box.innerHTML = '';
+    var h = document.createElement('h3');
+    h.textContent = why ? 'Could not check your access' : 'No editing access';
+    box.appendChild(h);
+
+    var who = document.createElement('p');
+    who.className = 'le-who';
+    who.textContent = 'Signed in as ' + (email || 'an unknown account') + '.';
+    box.appendChild(who);
+
+    var msg = document.createElement('p');
+    msg.textContent = why
+      // An error is NOT a "no". Say which one happened.
+      ? 'The admin check did not complete: ' + why + '. This is not the same as being denied — the answer never arrived.'
+      : 'This account has no admin role on ' + (CFG.appLabel || APP) + ', so in-place editing is off. Nothing else about the site is affected.';
+    box.appendChild(msg);
+
+    if (why) {
+      var retry = document.createElement('button');
+      retry.textContent = 'Try again';
+      retry.onclick = function () { refreshAdmin(); };
+      box.appendChild(retry);
+    }
+
+    var out = document.createElement('button');
+    out.className = 'le-quiet';
+    out.textContent = 'Sign out';
+    out.onclick = doSignOut;
+    box.appendChild(out);
+
+    var close = document.createElement('button');
+    close.className = 'le-quiet';
+    close.textContent = 'Dismiss';
+    close.onclick = function () { box.remove(); };
+    box.appendChild(close);
+  }
+
+  /* One sign-out, reachable from every signed-in state — the pill, the
+   * no-admin panel, the error panel, `?edit=out`, and SomaLiveEdit.signOut().
+   * Clears the sticky admin-path flag too, or the next page load re-arms the
+   * whole machine for somebody who just asked to leave. */
+  function doSignOut() {
+    try { localStorage.removeItem(CFG.stickyKey || 'mwl-live-edit'); } catch (e) {}
+    var done = function () {
+      // Strip auth params so a refresh cannot replay a consumed token.
+      try {
+        var u = new URL(location.href);
+        u.hash = '';
+        ['code', 'edit', 'error', 'error_description'].forEach(function (k) { u.searchParams['delete'](k); });
+        location.replace(u.toString());
+      } catch (e) { location.reload(); }
+    };
+    if (global.SomaAuth && global.SomaAuth.signOut) {
+      global.SomaAuth.signOut().then(done)['catch'](done);
+    } else { done(); }
+  }
+
   /* SomaAuth.init() builds its Supabase client asynchronously, so calling
    * getClient() on the same tick returns null and every load below silently
    * no-ops — the failure mode is an override that exists in the database and
@@ -644,24 +745,191 @@
     setTimeout(function () { whenClient(fn, tries - 1); }, 50);
   }
 
+  /* ── the sign-in return ───────────────────────────────────────────────────
+   *
+   * THE BUG THIS EXISTS TO FIX, reproduced on prod 2026-08-10: Mike clicked a
+   * magic link, landed on /dictionary/?edit=1#access_token=…, and was shown
+   * "Sign in to edit". Eighteen seconds later the token was STILL sitting
+   * unconsumed in the URL and there was no session.
+   *
+   * Cause: `soma-auth.js` sets `flowType: 'pkce'`, and supabase-js in PKCE
+   * mode only ever looks for `?code=` — it ignores an implicit-grant
+   * `#access_token=` fragment completely. Silently. No event, no error. If
+   * the link that reaches the user was minted without a code_challenge (an
+   * admin-generated link, a re-send, anything server-side) it comes back
+   * implicit and `detectSessionInUrl` is a no-op.
+   *
+   * The sibling failure, same symptom: a PKCE `?code=` opened in a DIFFERENT
+   * browser from the one that requested it — a link mailed to a laptop and
+   * tapped on a phone. The code_verifier lives in the requesting browser's
+   * storage, so the exchange cannot succeed, and supabase-js reports that by
+   * doing nothing at all.
+   *
+   * So: do not trust detectSessionInUrl. Look at the URL, and if it carries
+   * credentials that no session has appeared for, consume them here — and if
+   * that fails, SAY SO, with the actual reason, on screen. */
+  function urlAuth() {
+    var out = { kind: null };
+    var hash = (location.hash || '').replace(/^#/, '');
+    var hq = new URLSearchParams(hash);
+    var sq = new URLSearchParams(location.search || '');
+
+    if (sq.get('error') || hq.get('error')) {
+      out.kind = 'error';
+      out.message = hq.get('error_description') || sq.get('error_description') ||
+                    hq.get('error') || sq.get('error');
+      return out;
+    }
+    if (hq.get('access_token')) {
+      out.kind = 'implicit';
+      out.access_token = hq.get('access_token');
+      out.refresh_token = hq.get('refresh_token');
+      return out;
+    }
+    if (sq.get('code')) { out.kind = 'pkce'; out.code = sq.get('code'); return out; }
+    return out;
+  }
+
+  function cleanUrl() {
+    try {
+      var u = new URL(location.href);
+      u.hash = '';
+      ['code', 'error', 'error_description'].forEach(function (k) { u.searchParams['delete'](k); });
+      history.replaceState(null, '', u.toString());
+    } catch (e) {}
+  }
+
+  /* Resolve the URL's credentials into a session. Returns a promise of
+   * {ok:true} | {ok:false, message}. */
+  function consumeUrlAuth(info) {
+    var c = client();
+    if (!c) return Promise.resolve({ ok: false, message: 'no supabase client' });
+
+    if (info.kind === 'implicit') {
+      return c.auth.setSession({
+        access_token: info.access_token, refresh_token: info.refresh_token
+      }).then(function (r) {
+        if (r.error) return { ok: false, message: r.error.message };
+        cleanUrl();
+        return { ok: true };
+      })['catch'](function (e) { return { ok: false, message: (e && e.message) || String(e) }; });
+    }
+
+    if (info.kind === 'pkce') {
+      if (!c.auth.exchangeCodeForSession) {
+        return Promise.resolve({ ok: false, message: 'this supabase build cannot exchange a code' });
+      }
+      return c.auth.exchangeCodeForSession(info.code).then(function (r) {
+        if (r.error) {
+          // Overwhelmingly the cross-device case. Say the useful thing rather
+          // than the literal one ("invalid request: both auth code and code
+          // verifier should be non-empty" helps nobody).
+          var m = r.error.message || 'code exchange failed';
+          if (/verifier/i.test(m)) {
+            m = 'this sign-in link was opened in a different browser from the one that asked for it, so it cannot be completed here. Request a new link below, in THIS browser.';
+          }
+          return { ok: false, message: m };
+        }
+        cleanUrl();
+        return { ok: true };
+      })['catch'](function (e) { return { ok: false, message: (e && e.message) || String(e) }; });
+    }
+
+    return Promise.resolve({ ok: false, message: 'nothing to consume' });
+  }
+
+  var resolving = false;
+
   function refreshAdmin() {
-    return checkAdmin().then(function (ok) {
-      isAdmin = ok;
+    return checkAdmin().then(function (r) {
       var c = client();
-      if (!ok) {
-        var box = document.getElementById('le-bar');
-        if (box) box.remove();
-        mountAuth();
+
+      // ── signed in AND admin ────────────────────────────────────────────
+      if (r.state === 'yes') {
+        isAdmin = true;
+        var a = document.getElementById('le-auth'); if (a) a.remove();
+        var na = document.getElementById('le-noadmin'); if (na) na.remove();
+        mountBar();
+        if (c) c.auth.getUser().then(function (u) {
+          myUid = u && u.data && u.data.user ? u.data.user.id : null;
+        });
+        return loadDrafts().then(renderPanel);
+      }
+
+      isAdmin = false;
+      var bar = document.getElementById('le-bar'); if (bar) bar.remove();
+
+      // ── signed in, NOT an admin ───────────────────────────────────────
+      // Never a sign-in prompt. Identity + a working way out.
+      if (r.state === 'no') {
+        var b1 = document.getElementById('le-auth'); if (b1) b1.remove();
+        mountNoAdmin(r.email, null);
         return;
       }
-      var a = document.getElementById('le-auth');
-      if (a) a.remove();
-      mountBar();
-      if (c) c.auth.getUser().then(function (u) {
-        myUid = u && u.data && u.data.user ? u.data.user.id : null;
-      });
-      return loadDrafts().then(renderPanel);
+
+      // ── the check itself failed ───────────────────────────────────────
+      // Distinct from "no", and it says so.
+      if (r.state === 'error') {
+        var b2 = document.getElementById('le-auth'); if (b2) b2.remove();
+        return (c ? c.auth.getSession() : Promise.resolve(null)).then(function (s) {
+          var sess = s && s.data && s.data.session;
+          if (sess) { mountNoAdmin(sess.user && sess.user.email, r.why); }
+          else { mountAuth('The admin check failed: ' + r.why); }
+        });
+      }
+
+      // ── no session ────────────────────────────────────────────────────
+      // Before concluding "signed out", see whether the URL is carrying
+      // credentials nobody has consumed. This is the whole bug.
+      var info = urlAuth();
+
+      if (info.kind === 'error') {
+        mountAuth('Sign-in failed: ' + info.message);
+        return;
+      }
+      if ((info.kind === 'implicit' || info.kind === 'pkce') && !resolving) {
+        resolving = true;
+        mountPending();
+        // Give supabase-js its own chance first — if detectSessionInUrl works
+        // (the normal PKCE, same-browser case) we must not race it and burn
+        // the code with a second exchange.
+        return waitForSession(2500).then(function (got) {
+          if (got) { resolving = false; cleanUrl(); return refreshAdmin(); }
+          return consumeUrlAuth(info).then(function (res) {
+            resolving = false;
+            var p = document.getElementById('le-pending'); if (p) p.remove();
+            if (res.ok) return refreshAdmin();
+            mountAuth('Could not finish signing you in — ' + res.message);
+          });
+        });
+      }
+
+      var p = document.getElementById('le-pending'); if (p) p.remove();
+      mountAuth();
     });
+  }
+
+  function waitForSession(ms) {
+    var c = client();
+    if (!c) return Promise.resolve(false);
+    var deadline = Date.now() + ms;
+    return new Promise(function (resolve) {
+      (function poll() {
+        c.auth.getSession().then(function (s) {
+          if (s && s.data && s.data.session) return resolve(true);
+          if (Date.now() > deadline) return resolve(false);
+          setTimeout(poll, 150);
+        })['catch'](function () { resolve(false); });
+      })();
+    });
+  }
+
+  function mountPending() {
+    if (document.getElementById('le-pending')) return;
+    var d = document.createElement('div');
+    d.id = 'le-pending';
+    d.textContent = 'Finishing sign-in…';
+    document.body.appendChild(d);
   }
 
   function init() {
@@ -677,10 +945,21 @@
      * onAuthStateChange must be registered BEFORE init() or INITIAL_SESSION —
      * the event that fires for an already-signed-in admin arriving on a cold
      * page load — is missed entirely. SomaAuth documents this at :305. */
-    global.SomaAuth.onAuthStateChange(function () { refreshAdmin(); });
+    global.SomaAuth.onAuthStateChange(function (evt) {
+      // Don't re-enter while we are mid-exchange; refreshAdmin() calls itself
+      // once the session lands.
+      if (resolving && evt !== 'SIGNED_IN') return;
+      refreshAdmin();
+    });
     global.SomaAuth.init();
 
     whenClient(function () {
+      // Escape hatch, reachable without any UI: ?edit=out signs you out and
+      // clears the sticky flag. For anyone already stranded by the trap door
+      // that shipped this morning — and for whatever strands someone next.
+      if (/[?#&]edit=out\b/.test(location.search + location.hash)) {
+        return doSignOut();
+      }
       // Admin state follows auth continuously, never a boot-time snapshot
       // (ADOPT.md step 7) — a magic-link return fires SIGNED_IN after boot.
       refreshAdmin();
@@ -689,6 +968,20 @@
 
   global.SomaLiveEdit = {
     init: init, apply: apply, revertAll: revertAll, sync: sync,
-    route: route, _walk: walk, _skip: SKIP_SELECTOR
+    route: route, _walk: walk, _skip: SKIP_SELECTOR,
+    // Always callable, in any state, from the console — the last resort that
+    // does not depend on any panel having rendered.
+    signOut: doSignOut,
+    whoami: function () {
+      var c = client();
+      if (!c) return Promise.resolve({ session: false, reason: 'no client' });
+      return c.auth.getSession().then(function (s) {
+        var sess = s && s.data && s.data.session;
+        return checkAdmin().then(function (r) {
+          return { session: !!sess, email: sess && sess.user && sess.user.email,
+                   app: APP, admin: r.state, why: r.why || null };
+        });
+      });
+    }
   };
 })(window);

@@ -100,17 +100,28 @@ const nav = [
       var K = 'mwl-live-edit';
       var q = location.search + location.hash;
       var on = false;
+      // ?edit=out must still BOOT (so the engine can sign you out) but must
+      // not re-arm the sticky flag — otherwise leaving re-invites you back in.
+      var wantsOut = /[?#&]edit=out\b/.test(q);
       try {
-        if (/[?#&]edit=0\b/.test(q)) localStorage.removeItem(K);
+        if (/[?#&]edit=0\b/.test(q) || wantsOut) localStorage.removeItem(K);
         else if (/[?#&]edit(=1)?\b/.test(q)) localStorage.setItem(K, '1');
-        on = localStorage.getItem(K) === '1';
-        // A live session counts too, so a signed-in admin keeps the bar
-        // across navigations without carrying ?edit=1 around.
+        on = wantsOut || localStorage.getItem(K) === '1';
+        // A live session counts too, so a signed-in admin keeps the bar across
+        // navigations without carrying ?edit=1 around — and, just as
+        // important, so a signed-in NON-admin still gets a panel with a Sign
+        // out button instead of a site that quietly ignores them.
+        // Both stores: SomaAuth's tab-aware adapter keeps this tab's identity
+        // in sessionStorage and only mirrors to localStorage when there is no
+        // conflict, so scanning localStorage alone can miss a live session.
         if (!on) {
-          for (var i = 0; i < localStorage.length; i++) {
-            var k = localStorage.key(i);
-            if (k && k.indexOf('sb-') === 0 && k.indexOf('-auth-token') > 0) { on = true; break; }
-          }
+          [localStorage, sessionStorage].forEach(function (store) {
+            if (on || !store) return;
+            for (var i = 0; i < store.length; i++) {
+              var k = store.key(i);
+              if (k && k.indexOf('sb-') === 0 && k.indexOf('-auth-token') > 0) { on = true; return; }
+            }
+          });
         }
       } catch (e) { /* private mode: stay off, cost nothing */ }
       if (!on) return;
@@ -131,6 +142,8 @@ const nav = [
       // /js/live-edit.js stays byte-identical to mike-wolf.com's copy.
       window.SOMA_LIVE_EDIT = {
         app: 'mike-wolf-library',
+        appLabel: 'The Library',
+        stickyKey: K,
         api: '/api/copy-canonize',
         // Each dictionary entry renders as <article id="term-<slug>">, which
         // tells canonize which source file to patch. A HINT, never the key.
