@@ -4,7 +4,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "ingest": "node scripts/ingest.mjs",
+    "copy:apply": "node tools/apply-canonical-copy.mjs",
+    "_comment_ingest": "copy:apply runs FIRST on purpose. ingest.mjs wipes and rewrites src/content/terms/ from upstream sources, so without this an admin's canonized live edit would be silently reverted on the next ingest — two sources of truth, the exact failure SOMA/standards/soma-live-edit forbids. Patching upstream before regenerating makes the reverting command the closing one.",
+    "ingest": "node tools/apply-canonical-copy.mjs && node scripts/ingest.mjs",
     "aggregate": "node scripts/aggregate-content.mjs",
     "dev": "astro dev",
     "build": "node scripts/aggregate-content.mjs && astro build",

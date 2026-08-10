@@ -60,9 +60,27 @@ const collLabel: Record<string, string> = {
       </div>
     </div>
 
-    <div class="prose-lib">
+    {/*
+      SOMA §17 safety boundary — the property that outranks the feature.
+
+      This is the ARCHIVE: ~759 imported 70YearsWTF/Substack posts, the SRMW
+      book, the Silicon Children manifesto. Every one of these is a PUBLISHED
+      ORIGINAL. An admin editing a post body in place and canonizing it would
+      silently fork the archive from what Mike actually published — and the
+      fork would be invisible, because the page would still look like the
+      archive. Opt-out, not opt-in: [data-user-content] is what live-edit.js
+      refuses to walk into.
+
+      Dictionary entries, headings, nav and site copy stay editable. That is
+      the whole point of the feature. This is the line.
+    */}
+    <div class="prose-lib" data-user-content>
       <Content />
     </div>
+
+    <p class="mt-8 text-[11px] font-mono text-faint">
+      Archived as published. This text is not edited here.
+    </p>
 
     {(relatedTerms.length > 0 || relatedSources.length > 0) && (
       <div class="mt-14 pt-8 border-t border-rule grid sm:grid-cols-2 gap-8">

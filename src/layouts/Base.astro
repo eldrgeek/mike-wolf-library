@@ -65,5 +65,77 @@ const nav = [
       </p>
     </div>
   </footer>
+
+  <!-- SOMA App Standard §8 — feedback chip. Self-hosted (same origin) rather
+       than pulled from the VPS: one less third party in the read path, and it
+       keeps soma-ship-check's asset-integrity check honest. Google One Tap is
+       off (data-no-google): library.mike-wolf.com is not a registered origin
+       on the chip's GIS client, and an unregistered origin throws in-browser. -->
+  <link rel="stylesheet" href="/vendor/soma-feedback/soma-feedback.css" />
+  <script is:inline defer src="/vendor/soma-feedback/soma-feedback.js"
+          data-app="mike-wolf-library" data-area="library" data-no-google></script>
+
+  <!--
+    SOMA §17 / §17a Live Edit — admin bootstrap.
+
+    THE WHOLE POINT OF THIS BLOCK is that a reader pays nothing for it. The
+    Library is a public archive that is deliberately zero-auth, zero-function,
+    $0/query. So nothing above loads unless the visitor has already declared
+    themselves an admin. No Supabase client, no auth config, no query, no
+    fetch — an anonymous visitor makes exactly the requests they made before
+    this feature existed.
+
+    Canonical copy is not served from the database either. "Make canonical"
+    writes the new wording back into the SOURCE FILE and GitHub redeploys, so
+    a logged-out visitor reads the edit out of static HTML. That is Tier 1 as
+    the standard describes it: the change ships when the fleet applies it.
+
+    Admin path is any of:
+      ?edit=1  or  #edit   — first time, or from a phone
+      a live SOMA Auth session already in this browser
+      the sticky flag this sets once you've opted in (clear with ?edit=0)
+  -->
+  <script is:inline>
+    (function () {
+      var K = 'mwl-live-edit';
+      var q = location.search + location.hash;
+      var on = false;
+      try {
+        if (/[?#&]edit=0\b/.test(q)) localStorage.removeItem(K);
+        else if (/[?#&]edit(=1)?\b/.test(q)) localStorage.setItem(K, '1');
+        on = localStorage.getItem(K) === '1';
+        // A live session counts too, so a signed-in admin keeps the bar
+        // across navigations without carrying ?edit=1 around.
+        if (!on) {
+          for (var i = 0; i < localStorage.length; i++) {
+            var k = localStorage.key(i);
+            if (k && k.indexOf('sb-') === 0 && k.indexOf('-auth-token') > 0) { on = true; break; }
+          }
+        }
+      } catch (e) { /* private mode: stay off, cost nothing */ }
+      if (!on) return;
+
+      function css(href) {
+        var l = document.createElement('link');
+        l.rel = 'stylesheet'; l.href = href; document.head.appendChild(l);
+      }
+      // Sequential, not parallel: soma-auth.js needs window.supabase and the
+      // config object to exist before it runs, and live-edit.js needs
+      // window.SomaAuth. Load order is the contract here.
+      function js(src, next) {
+        var s = document.createElement('script');
+        s.src = src; s.onload = next || null;
+        document.body.appendChild(s);
+      }
+      css('/css/live-edit.css');
+      js('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js', function () {
+        js('/js/soma-auth-config.js', function () {
+          js('/js/soma-auth.js', function () {
+            js('/js/live-edit.js', function () { window.SomaLiveEdit.init(); });
+          });
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

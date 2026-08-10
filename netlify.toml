@@ -5,9 +5,29 @@
 [build.environment]
   NODE_VERSION = "20"
 
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
+# ── The ONE function, and why it does not break the $0 promise ───────────────
+# /api/copy-canonize (netlify/functions/copy-canonize.mjs) is invoked only when
+# an admin clicks "Make canonical". It writes the new wording back into the
+# source file via the GitHub API so the change ships as static HTML. Readers
+# never call it; anonymous visitors make zero function invocations and zero
+# database queries. Per-query cost for the public read path is still $0.
+#
+# The endpoint declares its own path (`export const config = { path: ... }`,
+# Functions 2.0). Function paths are matched BEFORE redirects, so the catch-all
+# below cannot swallow it — no /api/* redirect rule is needed or wanted.
+#
+# LOCAL DEV TRAP (costs an hour every time, see soma-live-edit/README.md):
+# under `netlify dev` the catch-all below swallows Astro's dev module graph —
+# /@vite/client and friends come back as text/html 200 and the page renders
+# blank with no error. Browse the ASTRO port (4321), not 8888.
+
 # SPA-style fallback so hash/anchor deep links resolve.
-# NOTE: v1 is fully static. There are intentionally NO edge functions,
-# no /api/ask, no auth. Per-query cost is $0.
+# NOTE: the read path is fully static. There is intentionally NO /api/ask, no
+# LLM call, no auth for readers.
 [[redirects]]
   from = "/*"
   to = "/index.html"

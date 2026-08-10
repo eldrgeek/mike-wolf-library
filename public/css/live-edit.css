@@ -1,0 +1,118 @@
+/* soma-live-edit chrome — The Library.
+ *
+ * Loaded ONLY on the admin path (see the bootstrap in src/layouts/Base.astro).
+ * A reader never fetches this file, so it costs the public read path nothing.
+ * Palette matches tailwind.config.mjs: copper #b87333, teal #2a9d8f,
+ * ink #1a1a2e, bg #faf8f4.
+ */
+
+#le-bar {
+  position: fixed; bottom: 1rem; left: 1rem; z-index: 9998;
+  display: flex; gap: .4rem; flex-wrap: wrap;
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+}
+#le-bar button {
+  font: inherit; font-size: .72rem; letter-spacing: .04em;
+  padding: .45rem .8rem; border-radius: 999px; cursor: pointer;
+  background: #fff; color: #1a1a2e; border: 1px solid rgba(184, 115, 51, .35);
+  box-shadow: 0 2px 10px rgba(26, 26, 46, .1);
+}
+#le-bar button:hover { border-color: #b87333; color: #b87333; }
+#le-bar button.on { background: #b87333; color: #fff; border-color: #b87333; }
+#le-bar button.le-quiet { color: #9b9bab; border-color: rgba(26, 26, 46, .12); }
+
+/* Edit mode: show what is clickable, and — just as important — show what is
+ * NOT. Archive text gets a "no" cursor rather than silently doing nothing. */
+body.le-editing main :not(#le-panel):not(#le-panel *):hover {
+  outline: 1px dashed rgba(184, 115, 51, .5); outline-offset: 2px; cursor: text;
+}
+body.le-editing [data-user-content],
+body.le-editing [data-user-content] * { cursor: not-allowed; outline: none !important; }
+body.le-editing [data-user-content]:hover {
+  outline: 1px dashed rgba(155, 155, 171, .5) !important; outline-offset: 2px;
+}
+[data-le-editing] {
+  outline: 2px solid #b87333 !important; outline-offset: 3px;
+  background: #f3ece2; border-radius: 2px;
+}
+
+#le-panel {
+  position: fixed; bottom: 4rem; left: 1rem; z-index: 9998;
+  width: min(26rem, calc(100vw - 2rem)); max-height: 70vh; overflow: auto;
+  background: #fff; border: 1px solid rgba(26, 26, 46, .12); border-radius: 10px;
+  padding: 1rem; box-shadow: 0 12px 40px rgba(26, 26, 46, .18);
+  font-family: 'Outfit', system-ui, sans-serif;
+}
+#le-panel h3 {
+  font-family: 'JetBrains Mono', monospace; font-size: .68rem;
+  text-transform: uppercase; letter-spacing: .15em; color: #b87333;
+  margin: 0 0 .8rem;
+}
+.le-none { color: #6b6b7b; font-size: .85rem; margin: 0; line-height: 1.6; }
+.le-row { border-top: 1px solid rgba(26, 26, 46, .08); padding: .8rem 0; }
+.le-meta {
+  font-family: 'JetBrains Mono', monospace; font-size: .62rem; color: #9b9bab;
+  text-transform: uppercase; letter-spacing: .08em; margin-bottom: .4rem;
+}
+.le-canonical .le-meta { color: #2a9d8f; }
+.le-was {
+  font-size: .8rem; color: #9b9bab; text-decoration: line-through;
+  margin-bottom: .4rem; line-height: 1.5;
+}
+.le-now {
+  width: 100%; font: inherit; font-size: .85rem; line-height: 1.5;
+  border: 1px solid rgba(26, 26, 46, .15); border-radius: 5px;
+  padding: .4rem .5rem; margin-bottom: .5rem; resize: vertical; color: #1a1a2e;
+}
+.le-now:focus { outline: none; border-color: #b87333; }
+.le-actions { display: flex; gap: .4rem; flex-wrap: wrap; }
+.le-actions button {
+  font-family: 'JetBrains Mono', monospace; font-size: .66rem; cursor: pointer;
+  padding: .35rem .7rem; border-radius: 999px;
+  background: #2a9d8f; color: #fff; border: 1px solid #2a9d8f;
+}
+.le-actions button:hover { filter: brightness(1.08); }
+.le-actions .le-drop { background: transparent; color: #9b9bab; border-color: rgba(26, 26, 46, .12); }
+.le-actions .le-drop:hover { color: #c0392b; border-color: #c0392b; filter: none; }
+.le-note {
+  font-family: 'JetBrains Mono', monospace; font-size: .6rem;
+  color: #9b9bab; margin-top: .45rem; word-break: break-all;
+}
+
+#le-toast {
+  position: fixed; bottom: 1rem; left: 50%; z-index: 9999;
+  transform: translate(-50%, 200%); transition: transform .25s ease;
+  background: #1a1a2e; color: #faf8f4; padding: .6rem 1rem; border-radius: 999px;
+  font-family: 'JetBrains Mono', monospace; font-size: .72rem;
+  max-width: min(34rem, calc(100vw - 2rem)); text-align: center;
+}
+#le-toast.show { transform: translate(-50%, 0); }
+
+#le-auth {
+  position: fixed; bottom: 1rem; left: 1rem; z-index: 9998;
+  width: min(20rem, calc(100vw - 2rem));
+  background: #fff; border: 1px solid rgba(26, 26, 46, .12); border-radius: 10px;
+  padding: 1rem; box-shadow: 0 12px 40px rgba(26, 26, 46, .18);
+  font-family: 'Outfit', system-ui, sans-serif;
+}
+#le-auth h3 {
+  font-family: 'JetBrains Mono', monospace; font-size: .68rem;
+  text-transform: uppercase; letter-spacing: .15em; color: #b87333; margin: 0 0 .4rem;
+}
+#le-auth p { font-size: .78rem; color: #6b6b7b; margin: 0 0 .7rem; line-height: 1.5; }
+#le-auth input {
+  width: 100%; font: inherit; font-size: .85rem; padding: .45rem .6rem;
+  border: 1px solid rgba(26, 26, 46, .15); border-radius: 5px; margin-bottom: .5rem;
+}
+#le-auth input:focus { outline: none; border-color: #b87333; }
+#le-auth button {
+  width: 100%; font-family: 'JetBrains Mono', monospace; font-size: .68rem;
+  padding: .45rem .7rem; border-radius: 999px; cursor: pointer; margin-bottom: .35rem;
+  background: #b87333; color: #fff; border: 1px solid #b87333;
+}
+#le-auth button.le-quiet { background: transparent; color: #6b6b7b; border-color: rgba(26, 26, 46, .12); }
+
+@media (max-width: 480px) {
+  #le-bar { bottom: .6rem; left: .6rem; }
+  #le-panel { bottom: 3.4rem; left: .6rem; }
+}

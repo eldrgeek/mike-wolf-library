@@ -55,8 +55,11 @@ const total = sources.length;
       </div>
     </div>
 
-    <!-- Search results (hidden until typing) -->
-    <div id="search-results" class="hidden divide-y divide-rule mb-8"></div>
+    <!-- Search results (hidden until typing).
+         data-user-content: these snippets are archive text injected from
+         search-index.json at runtime. Client-rendered content is exactly the
+         case a safety pass forgets, because it isn't in the HTML you read. -->
+    <div id="search-results" class="hidden divide-y divide-rule mb-8" data-user-content></div>
 
     <!-- Browse by collection (default view) -->
     <div id="browse">
@@ -64,9 +67,13 @@ const total = sources.length;
         <section class="mb-12">
           <h2 class="font-serif text-2xl text-ink mb-1">{collLabel[g.name] ?? g.name}</h2>
           <p class="text-xs font-mono text-muted mb-5">{g.items.length} {g.items.length === 1 ? 'piece' : 'pieces'}</p>
+          <!-- data-user-content on each row: titles, subtitles and excerpts
+               here are archive text — the published originals, verbatim. Same
+               boundary as the post body itself (see corpus/[slug].astro).
+               Editing an archive title in place would fork the archive. -->
           <div class="divide-y divide-rule">
             {g.items.map(item => (
-              <a href={`/corpus/${item.slug}/`} class="corpus-row block py-4 group">
+              <a href={`/corpus/${item.slug}/`} class="corpus-row block py-4 group" data-user-content>
                 <div class="flex items-baseline gap-2 flex-wrap">
                   <span class="text-ink font-medium text-base group-hover:text-copper transition-colors font-serif">{item.title}</span>
                   <span class="shrink-0 text-[10px] font-mono uppercase tracking-wide bg-teal-light text-teal border border-teal-border px-1.5 py-0.5 rounded">{item.kind}</span>

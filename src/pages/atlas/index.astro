@@ -22,7 +22,9 @@ import Base from '../../layouts/Base.astro';
       <span id="atlas-stats" style="color:#9b9bab;font-family:'JetBrains Mono',monospace;font-size:11px;"></span>
     </div>
 
-    <div id="atlas-tip" style="position:absolute;pointer-events:none;z-index:20;display:none;max-width:260px;padding:9px 12px;background:#fff;border:1px solid rgba(26,26,46,0.15);border-radius:6px;box-shadow:0 4px 20px rgba(0,0,0,0.08);font-family:'Outfit',sans-serif;font-size:12px;color:#3d2c1e;line-height:1.5;"></div>
+    <!-- data-user-content: the tooltip is filled with archive titles/subtitles
+         from atlas.json at hover time. Not editable copy. -->
+    <div id="atlas-tip" data-user-content style="position:absolute;pointer-events:none;z-index:20;display:none;max-width:260px;padding:9px 12px;background:#fff;border:1px solid rgba(26,26,46,0.15);border-radius:6px;box-shadow:0 4px 20px rgba(0,0,0,0.08);font-family:'Outfit',sans-serif;font-size:12px;color:#3d2c1e;line-height:1.5;"></div>
 
     <div style="position:absolute;bottom:16px;right:16px;z-index:10;padding:10px 13px;background:rgba(255,255,255,0.9);border:1px solid rgba(26,26,46,0.08);border-radius:6px;font-family:'Outfit',sans-serif;font-size:11px;color:#3d2c1e;line-height:1.8;">
       <div style="display:flex;align-items:center;gap:7px;"><span style="width:11px;height:11px;border-radius:50%;background:#b87333;display:inline-block;"></span> Dictionary terms</div>

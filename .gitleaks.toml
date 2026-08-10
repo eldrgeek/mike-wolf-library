@@ -1,0 +1,25 @@
+title = "mike-wolf-library gitleaks config"
+
+[extend]
+useDefault = true
+
+# Narrow, VALUE-scoped allow — not a path allow, not a rule allow.
+#
+# This is the Supabase PUBLISHABLE anon key for the shared SOMA Auth project
+# (omfwcodoimjmbrhssvfl). It is meant to be public: it grants nothing on its
+# own, RLS gates every table, and it already ships in the client bundle of
+# every SOMA app that uses SOMA Auth (see a-different-mind/js/soma-auth-config.js).
+# gitleaks' generic-api-key rule catches it on entropy alone, which is a false
+# positive — soma-ship-check.py's own secret scan explicitly exempts it.
+#
+# Only THIS exact value is allow-listed. Any other secret-shaped string in this
+# repo — including the service-role key, a GitHub token, or a rotated anon key —
+# still trips the gate. Precedent + identical reasoning: soma-relay/.gitleaks.toml.
+#
+# Added 2026-08-10 by Quill (Claude Opus 5, CCc) while landing SOMA §17 Live
+# Edit, which is the first thing in this repo that needs an auth client at all.
+[allowlist]
+description = "Supabase publishable anon key (SOMA Auth, public by design)"
+regexes = [
+  '''sb_publishable_vi2qDWjozUJ5mi9dwirkLA_rj6UaqLf'''
+]
