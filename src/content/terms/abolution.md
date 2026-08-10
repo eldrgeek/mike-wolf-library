@@ -16,5 +16,5 @@ tags:
   - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> Absolution twisted to abolution — forgiveness for abolishing/botching the streak.</p>
+<p><strong>What we mean.</strong> Absolution twisted to abolution — forgiveness for abolishing the streak, and Quill was here.</p>
 <blockquote><p>“Broken streak and request for abolution” — 70yt <a href="/corpus/70yearswtf-broken-streak-and-request-for-abolution-16-12-07/" class="corpus-ref"><em>broken-streak-and-request-for-abolution</em></a> (batch 2).</p></blockquote>
