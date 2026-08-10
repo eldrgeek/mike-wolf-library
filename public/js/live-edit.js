@@ -141,6 +141,10 @@
     var nodes = walk();
     for (var i = 0; i < nodes.length; i++) {
       var item = nodes[i];
+      // Never stomp the node someone is currently typing into. The wrap span
+      // fires mutations of its own, so without this the applier races the
+      // human and the caret jumps.
+      if (item.node.parentElement && item.node.parentElement.closest('[data-le-editing]')) continue;
       for (var j = 0; j < preview.length; j++) {
         var o = preview[j];
         if (o.route !== r) continue;
@@ -231,32 +235,73 @@
 
   /* ── editing ──────────────────────────────────────────────────────────── */
 
+  /* Edit ONE TEXT NODE, never a whole element.
+   *
+   * This is the difference between this port and the a-different-mind one, and
+   * it is not cosmetic. Almost every dictionary entry renders as
+   *
+   *     <p><strong>What we mean.</strong> Absolution twisted to abolution…</p>
+   *
+   * Making the <p> contenteditable — what the precedent does — means the saved
+   * `after` is el.textContent, i.e. "What we mean. Absolution twisted…", while
+   * `before` is only the text node, "Absolution twisted…". The override then
+   * replaces one node with both nodes' text and the page renders "What we
+   * mean. What we mean. Absolution…". The standard names this case ("an
+   * element whose content is more than one node… a structural edit cannot
+   * honestly be expressed as a string swap") but prescribes a popover, which
+   * on this site would mean a popover for essentially every entry.
+   *
+   * So: wrap the clicked text node in a throwaway span, edit that, unwrap. The
+   * edited region is exactly the string that is the match key — before and
+   * after are the same kind of thing — and typing still happens in place. */
   function startEdit(el, item) {
     if (el.isContentEditable) return;
     var before = item.text;
     var hint = termHint(el);
-    el.setAttribute('data-le-editing', '1');
-    el.contentEditable = 'true';
-    el.focus();
+    var node = item.node;
 
+    var span = document.createElement('span');
+    span.setAttribute('data-le-wrap', '1');
+    span.setAttribute('data-le-editing', '1');
+    node.parentNode.replaceChild(span, node);
+    span.appendChild(node);
+    span.contentEditable = 'true';
+    span.focus();
+    // Put the caret in the span rather than leaving it wherever the click
+    // landed in the old node, which the DOM has just moved out from under it.
+    try {
+      var r = document.createRange(); r.selectNodeContents(span);
+      var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(r);
+      sel.collapseToEnd();
+    } catch (e) {}
+
+    var done = false;
+    function unwrap() {
+      var parent = span.parentNode;
+      if (!parent) return;
+      while (span.firstChild) parent.insertBefore(span.firstChild, span);
+      parent.removeChild(span);
+      parent.normalize();
+    }
     function finish(save) {
-      el.contentEditable = 'false';
-      el.removeAttribute('data-le-editing');
-      var after = norm(el.textContent);
-      el.removeEventListener('blur', onBlur);
-      el.removeEventListener('keydown', onKey);
-      if (!save || after === before || !after) { el.textContent = item.node.nodeValue; return; }
+      if (done) return; done = true;
+      span.contentEditable = 'false';
+      span.removeEventListener('blur', onBlur);
+      span.removeEventListener('keydown', onKey);
+      var after = norm(span.textContent);
+      if (!save || after === before || !after) { span.textContent = before; unwrap(); return; }
+      unwrap();
       saveOverride(before, after, item.occurrence, el, hint);
     }
     function onBlur() { finish(true); }
     // One Enter convention across all three editors (in-place, review row,
     // and the sign-in field): Enter saves, Shift+Enter breaks the line.
     function onKey(e) {
-      if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); finish(true); el.blur(); }
-      if (e.key === 'Escape') { e.preventDefault(); finish(false); el.blur(); }
+      if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); finish(true); }
+      if (e.key === 'Escape') { e.preventDefault(); finish(false); }
     }
-    el.addEventListener('blur', onBlur);
-    el.addEventListener('keydown', onKey);
+    span.addEventListener('blur', onBlur);
+    span.addEventListener('keydown', onKey);
   }
 
   function saveOverride(original, next, occurrence, el, hint) {
