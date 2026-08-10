@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-every-day-is-groundhog-day"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Over the weekend I started reading a book called "[Present Perfect"](https://www.amazon.com/dp/B003SNKF9C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) about perfectionism. Not because I'm a perfectionist. Because I'm not. Don't believe me? Go back and read some of my earlier posts and you'll see. A perfectionist wouldn't post anything unless it was perfect, right?

@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
+  - "70yearswtf-even-more-like-heaven-and-the-internet"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![Generated image](/media/70yt/adyb-always-doing-your-best-20-07-27/1.jpg)

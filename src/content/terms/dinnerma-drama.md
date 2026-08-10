@@ -5,6 +5,7 @@ subtitle: "dinner + drama portmanteau for meal-kit meltdown"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *blue-apron-dinnerma-drama-15-01-17* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-blue-apron-dinnerma-drama-15-01-17/\" class=\"corpus-ref\"><em>blue-apron-dinnerma-drama-15-01-17</em></a> (title mine)."
 source: "70yt *blue-apron-dinnerma-drama-15-01-17* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Portmanteau of <em>dinner</em> and <em>drama</em>: the comic crisis of a Blue Apron (or any) meal-kit evening gone sideways. Domestic farce compressed into one word.</p>
-<blockquote><p>“After we signed up for Blue Apron we decided to host a dinnerma--dinner and a movie.” — 70yt *blue-apron-dinnerma-drama-15-01-17* (title mine).</p></blockquote>
+<blockquote><p>“After we signed up for Blue Apron we decided to host a dinnerma--dinner and a movie.” — 70yt <a href="/corpus/70yearswtf-blue-apron-dinnerma-drama-15-01-17/" class="corpus-ref"><em>blue-apron-dinnerma-drama-15-01-17</em></a> (title mine).</p></blockquote>

@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
+  - "srmw-part-viii-practice-practice-practice"
   - "srmw-chapter-7-who-s-in-the-metanovel"
   - "srmw-chapter-10-the-not-quite-omniscient-narrator"
+  - "srmw-chapter-11-the-greatest-publisher-in-the-metauni"
+  - "srmw-part-iv-the-adversary"
 ---
 
 “Where can I find someone to publish my metanovel?” The Not Quite Omniscient Narrator

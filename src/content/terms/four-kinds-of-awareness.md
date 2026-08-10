@@ -5,6 +5,7 @@ subtitle: "awareness taxonomy (fourfold)"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *four-kinds-of-awareness-20-01-05* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-four-kinds-of-awareness-20-01-05/\" class=\"corpus-ref\"><em>four-kinds-of-awareness-20-01-05</em></a> (title mine)."
 source: "70yt *four-kinds-of-awareness-20-01-05* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Taxonomy claim: awareness comes in (at least) four kinds—tool for finer noticing.</p>
-<blockquote><p>“Diana teaches four different styles of meditation, corresponding to four different approaches to awareness.” — 70yt *four-kinds-of-awareness-20-01-05* (title mine).</p></blockquote>
+<blockquote><p>“Diana teaches four different styles of meditation, corresponding to four different approaches to awareness.” — 70yt <a href="/corpus/70yearswtf-four-kinds-of-awareness-20-01-05/" class="corpus-ref"><em>four-kinds-of-awareness-20-01-05</em></a> (title mine).</p></blockquote>

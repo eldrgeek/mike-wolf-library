@@ -5,6 +5,7 @@ subtitle: "pair cheap review with expensive fix; don’t reverse the roles"
 theme: "Architecture & Roles"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-06 (Wall)."
+origin_html: "Mike with Dee 2026-05-06 (Wall)."
 source: "Mike with Dee 2026-05-06 (Wall)."
 related: []
 provenance: []

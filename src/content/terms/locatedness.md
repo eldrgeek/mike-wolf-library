@@ -5,6 +5,7 @@ subtitle: "continuity through a fixed place on disk, not through memory"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike named it April 2026."
+origin_html: "Mike named it April 2026."
 source: "Mike named it April 2026."
 related:
   - "the-vault"

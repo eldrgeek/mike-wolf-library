@@ -5,6 +5,7 @@ subtitle: "site for someone who hates mushrooms with ridiculous mushroom product
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Vault titles scan."
+origin_html: "Vault titles scan."
 source: "Vault titles scan."
 related: []
 provenance: []

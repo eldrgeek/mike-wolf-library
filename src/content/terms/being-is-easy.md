@@ -5,6 +5,7 @@ subtitle: "identity is a decision; doing is the hard part"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *being-is-easy* (batch 3)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-being-is-easy-and-when-youre-being-19-09-02/\" class=\"corpus-ref\"><em>being-is-easy</em></a> (batch 3)."
 source: "70yt *being-is-easy* (batch 3)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Decide “I am a writer” without yet requiring output. Anti-akrasia identity move. Packaged with “This One Simple Trick (TM).”</p>
-<blockquote><p>“being is easy.” — 70yt *being-is-easy* (batch 3).</p></blockquote>
+<blockquote><p>“being is easy.” — 70yt <a href="/corpus/70yearswtf-being-is-easy-and-when-youre-being-19-09-02/" class="corpus-ref"><em>being-is-easy</em></a> (batch 3).</p></blockquote>

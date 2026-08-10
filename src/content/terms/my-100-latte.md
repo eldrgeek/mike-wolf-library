@@ -5,11 +5,12 @@ subtitle: "anecdote coinage: absurd cost as story hook"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *my-100-latte-15-12-22* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-my-100-latte-15-12-22/\" class=\"corpus-ref\"><em>my-100-latte-15-12-22</em></a> (title mine)."
 source: "70yt *my-100-latte-15-12-22* (title mine)."
 related: []
 provenance:
-  - "70yearswtf-mikesim-version-73-a-simulated-human-16-01-01"
   - "70yearswtf-my-100-latte-15-12-22"
+  - "70yearswtf-mikesim-version-73-a-simulated-human-16-01-01"
   - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
 tags:
   - "70yt"
@@ -18,4 +19,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Anecdote-title for absurd price paid—latte as stand-in for mispriced small luxuries and the stories they generate.</p>
-<blockquote><p>“Later, much later, I consider: one latte.” — 70yt *my-100-latte-15-12-22* (title mine).</p></blockquote>
+<blockquote><p>“Later, much later, I consider: one latte.” — 70yt <a href="/corpus/70yearswtf-my-100-latte-15-12-22/" class="corpus-ref"><em>my-100-latte-15-12-22</em></a> (title mine).</p></blockquote>

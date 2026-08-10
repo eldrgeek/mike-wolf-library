@@ -1,5 +1,5 @@
 ---
-title: "At the request of \\\"The Book of Michael\\\""
+title: "At the request of \"The Book of Michael\""
 collection: "70YearsWTF"
 kind: "post"
 order: 0
@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
+  - "srmw-part-i-before-the-beginning"
+  - "srmw-part-ii-the-metanovel"
+  - "srmw-chapter-5-a-metanovel"
 ---
 
 It’s coming. The book. It’s been coming for a while. And it’s about to arrive. Nanowrimo is coming! (There, book, are you happy?)

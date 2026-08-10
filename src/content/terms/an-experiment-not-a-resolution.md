@@ -5,6 +5,7 @@ subtitle: "New-Year frame: try, don’t vow"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *an-experiment-not-a-resolution-16-01-05* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-an-experiment-not-a-resolution-16-01-05/\" class=\"corpus-ref\"><em>an-experiment-not-a-resolution-16-01-05</em></a> (title mine)."
 source: "70yt *an-experiment-not-a-resolution-16-01-05* (title mine)."
 related: []
 provenance:
@@ -17,4 +18,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Anti-resolution frame: run an experiment, don’t swear a vow. Lowers shame, raises learning.</p>
-<blockquote><p>“New Years is the time for resolutions.” — 70yt *an-experiment-not-a-resolution-16-01-05* (title mine).</p></blockquote>
+<blockquote><p>“New Years is the time for resolutions.” — 70yt <a href="/corpus/70yearswtf-an-experiment-not-a-resolution-16-01-05/" class="corpus-ref"><em>an-experiment-not-a-resolution-16-01-05</em></a> (title mine).</p></blockquote>

@@ -15,7 +15,7 @@ related:
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-ideas-want-to-survive-they-want-their-18-07-05"
-  - "70yearswtf-mistakes-are-the-only-route-to-knowledge"
+  - "70yearswtf-silicon-children"
 ---
 
 > *Why canonical (Mem's note):* Earlier (2021) articulation of ideas-as-conversational-partners. *"Every word is full of ideas. Without ideas, words would be just noises or patterns of squiggles."* Establishes the ideas-talk-back voicing trick that Mike uses across the cluster. Less philosophical-load than the 2024 cluster but key voice exemplar.

@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "automation"
 related:
-  - "70yearswtf-my-100-latte-15-12-22"
-  - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-autodriver-in-the-house-16-02-03"
+  - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
+  - "70yearswtf-debugging-and-programming-automike-18-08-02"
+  - "70yearswtf-free-will-maybe-maybe-not-16-01-02"
+  - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"
 ---
 
 A lot of my recent posts have been about the experience of "waking up." For those of you who are new to this blog or who have bad memories and short attention spans, here's what I mean:

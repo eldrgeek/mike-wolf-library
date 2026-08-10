@@ -5,12 +5,13 @@ subtitle: "self-as-idea identity claim"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *i-am-an-idea-part-1-its-all-about* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-i-am-an-idea-part-1-its-all-about/\" class=\"corpus-ref\"><em>i-am-an-idea-part-1-its-all-about</em></a> (title mine)."
 source: "70yt *i-am-an-idea-part-1-its-all-about* (title mine)."
 related:
   - "everything-is-full-of-ideas"
 provenance:
-  - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-thereforenothing-i-am-17-08-29"
 tags:
   - "70yt"
@@ -19,4 +20,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Identity claim in the idea-ontology: the speaker is not first a body or brand but an idea (that can be shared, revised, loved).</p>
-<blockquote><p>““That’s OK,” said the idea.” — 70yt *i-am-an-idea-part-1-its-all-about* (title mine).</p></blockquote>
+<blockquote><p>““That’s OK,” said the idea.” — 70yt <a href="/corpus/70yearswtf-i-am-an-idea-part-1-its-all-about/" class="corpus-ref"><em>i-am-an-idea-part-1-its-all-about</em></a> (title mine).</p></blockquote>

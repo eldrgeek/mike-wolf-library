@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
+  - "srmw-chapter-27-work-practice"
+  - "srmw-chapter-30-outside-space-and-time"
+  - "srmw-part-xiii-endgame"
+  - "70yearswtf-superpowers-for-mundane-matters-18-01-10"
   - "srmw-part-i-before-the-beginning"
-  - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
 ---
 
 And a new one began.

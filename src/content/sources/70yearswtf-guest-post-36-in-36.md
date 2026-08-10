@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "AI"
 related:
+  - "70yearswtf-you-are-my-favorite-reader-yamfr"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![Image by Midjourney based on a prompt by ChatGPT 4(https://chat.openai.com/share/0da84ff9-9267-4bf8-bafc-229b3625f942) based on the guest post, below](/media/70yt/guest-post-36-in-36/1.jpg)

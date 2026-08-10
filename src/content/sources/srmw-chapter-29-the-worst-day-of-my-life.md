@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-xiii-endgame"
-  - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
-  - "srmw-chapter-7-who-s-in-the-metanovel"
+  - "srmw-chapter-9-finding-a-publisher"
+  - "srmw-chapter-11-the-greatest-publisher-in-the-metauni"
+  - "srmw-part-iv-the-adversary"
+  - "srmw-part-viii-practice-practice-practice"
+  - "srmw-part-i-before-the-beginning"
 ---
 
 Suddenly the scene shifted. We stood in the autumn cold in a wooded area near a trail. The

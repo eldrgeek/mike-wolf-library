@@ -5,6 +5,7 @@ subtitle: "aspirational stupidity: room to have been worse"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *how-stupid-can-i-have-been-stupider-18-11-09* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-how-stupid-can-i-have-been-stupider-18-11-09/\" class=\"corpus-ref\"><em>how-stupid-can-i-have-been-stupider-18-11-09</em></a> (title mine)."
 source: "70yt *how-stupid-can-i-have-been-stupider-18-11-09* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Self-roast with a twist: hope that past-you was even stupider—so learning still has headroom. Kin to metastupidity.</p>
-<blockquote><p>“So bring on the stupidity!” — 70yt *how-stupid-can-i-have-been-stupider-18-11-09* (title mine).</p></blockquote>
+<blockquote><p>“So bring on the stupidity!” — 70yt <a href="/corpus/70yearswtf-how-stupid-can-i-have-been-stupider-18-11-09/" class="corpus-ref"><em>how-stupid-can-i-have-been-stupider-18-11-09</em></a> (title mine).</p></blockquote>

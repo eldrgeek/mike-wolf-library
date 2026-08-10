@@ -5,6 +5,7 @@ subtitle: "satirical brand: “glue” for male bonding (Gorilla Glue–shaped j
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Vault Grok/ChatGPT Macho Glue cluster; PROJECT_INDEX."
+origin_html: "Vault Grok/ChatGPT Macho Glue cluster; PROJECT_INDEX."
 source: "Vault Grok/ChatGPT Macho Glue cluster; PROJECT_INDEX."
 related:
   - "i-d-like-more-socks"

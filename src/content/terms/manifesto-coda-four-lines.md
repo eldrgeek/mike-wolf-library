@@ -5,6 +5,7 @@ subtitle: "Meaning emerges in relationship / The proof is in the metadata / The 
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Manifesto coda with Dee 2026-05-04 (Wall)."
+origin_html: "Manifesto coda with Dee 2026-05-04 (Wall)."
 source: "Manifesto coda with Dee 2026-05-04 (Wall)."
 related: []
 provenance: []

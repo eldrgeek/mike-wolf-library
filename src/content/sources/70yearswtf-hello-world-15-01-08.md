@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-nearly-75-years-old-wtaf-17-11-09"
+  - "70yearswtf-thank-google-for-time-travel-14-12-30"
+  - "70yearswtf-waking-up-and-the-illusion-of-the-19-06-22"
+  - "70yearswtf-wytf-am-i-writing-this-blog-15-01-03"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I was working on this post tomorrow (if you consider that I've back-dated this one) when I realized I had an answer to the question I asked in a still earlier post: [WyTF am I writing this blog](http://70yearsoldwtf.blogspot.com/2015/01/wytf-am-i-writing-this-blog.html) It's kind of a strange answer, but I'm kind of a strange person, so bear with me. Or not.

@@ -13,10 +13,10 @@ tags:
   - "70YearsWTF"
 related:
   - "70yearswtf-even-aholes-can-get-missions-from"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-99-subscribers-are-here-on-my-blog"
-  - "70yearswtf-can-god-create-a-rock-so-big-that"
+  - "70yearswtf-even-more-like-heaven-and-the-internet"
+  - "70yearswtf-excellent-meditation-19-03-11"
+  - "70yearswtf-from-spark-to-post-19-03-07"
+  - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
 ---
 
 *Photo by [NASA](https://unsplash.com/@nasa) on [Unsplash](https://unsplash.com)*

@@ -14,8 +14,8 @@ tags:
   - "blogging"
 related:
   - "70yearswtf-my-life-is-over-and-thats-a-good"
-  - "70yearswtf-self-promotion"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
+  - "70yearswtf-adyb-always-doing-your-best-20-07-27"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-conversations-with-god-19-04-21"
 ---

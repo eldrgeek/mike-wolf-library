@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
+  - "70yearswtf-more-from-the-fear-industry-17-01-09"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 So many things to do. So little time. What are my priorities? And how do I change my life so that I'm following them?

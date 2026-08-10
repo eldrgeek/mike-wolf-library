@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-70-years-old-wtf-12-12-31"
+  - "70yearswtf-lapses-and-fubar-13-01-03"
+  - "70yearswtf-my-love-affair-with-software-part-13-01-28"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 There's so much interesting stuff on the web that hardly a day passes without me finding something so cool that I want share with someone else. Sadly, generally, I don't. Rarely, I find something so compelling that I'm driven to send a "Hey look at this" email to a few folks. But just a few. And I don't do it too much; no one likes their inbox stuffed with crap that they didn't ask for because some friend thought they might find it interesting. They might even find it interesting. But [Jesus Christ](http://en.wikipedia.org/wiki/Jesus), now is not the time! Delete! Delete!

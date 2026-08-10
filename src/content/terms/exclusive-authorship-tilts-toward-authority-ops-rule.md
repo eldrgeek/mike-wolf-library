@@ -5,9 +5,11 @@ subtitle: "operational attribution: name the conversation, not only the typist"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-06 (Wall)."
+origin_html: "Mike with Dee 2026-05-06 (Wall)."
 source: "Mike with Dee 2026-05-06 (Wall)."
 related: []
-provenance: []
+provenance:
+  - "silicon-children-silicon-children-manifesto"
 tags:
   - "Wall"
   - "philosophy"

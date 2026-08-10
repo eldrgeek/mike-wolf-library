@@ -14,10 +14,10 @@ tags:
   - "writing"
 related:
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
-  - "srmw-chapter-7-who-s-in-the-metanovel"
-  - "srmw-chapter-9-finding-a-publisher"
+  - "srmw-part-viii-practice-practice-practice"
+  - "srmw-part-i-before-the-beginning"
+  - "srmw-part-iv-the-adversary"
+  - "srmw-chapter-13-evolving-a-muse"
 ---
 
 I give up! He thought.

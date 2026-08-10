@@ -15,9 +15,9 @@ tags:
 related:
   - "70yearswtf-free-will-maybe-maybe-not-16-01-02"
   - "70yearswtf-the-mindful-photographic-moments-20-04-13"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-70-years-old-wtf-12-12-31"
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-a-meditation-on-dullness-20-02-05"
 ---
 
 > “Only mediocre people are always at their best.”

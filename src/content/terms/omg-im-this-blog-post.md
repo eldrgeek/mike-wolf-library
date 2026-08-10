@@ -5,6 +5,7 @@ subtitle: "reader/author collapse into the post itself"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *omg-im-this-blog-post-17-08-27* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-omg-im-this-blog-post-17-08-27/\" class=\"corpus-ref\"><em>omg-im-this-blog-post-17-08-27</em></a> (title mine)."
 source: "70yt *omg-im-this-blog-post-17-08-27* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Meta collapse: the person <em>is</em> the post. Identity fused with the artifact mid-scroll.</p>
-<blockquote><p>““But thanks anyway.”” — 70yt *omg-im-this-blog-post-17-08-27* (title mine).</p></blockquote>
+<blockquote><p>““But thanks anyway.”” — 70yt <a href="/corpus/70yearswtf-omg-im-this-blog-post-17-08-27/" class="corpus-ref"><em>omg-im-this-blog-post-17-08-27</em></a> (title mine).</p></blockquote>

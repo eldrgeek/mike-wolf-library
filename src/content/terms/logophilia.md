@@ -5,6 +5,7 @@ subtitle: "love of words as named orientation"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *logophilia-and-the-oed-blog-15-01-16* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-logophilia-and-the-oed-blog-15-01-16/\" class=\"corpus-ref\"><em>logophilia-and-the-oed-blog-15-01-16</em></a> (title mine)."
 source: "70yt *logophilia-and-the-oed-blog-15-01-16* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Love of words named as orientation—logophilia as identity, not hobby only.</p>
-<blockquote><p>“This one is for August, 2013.” — 70yt *logophilia-and-the-oed-blog-15-01-16* (title mine).</p></blockquote>
+<blockquote><p>“This one is for August, 2013.” — 70yt <a href="/corpus/70yearswtf-logophilia-and-the-oed-blog-15-01-16/" class="corpus-ref"><em>logophilia-and-the-oed-blog-15-01-16</em></a> (title mine).</p></blockquote>

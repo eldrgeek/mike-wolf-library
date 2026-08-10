@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "economics"
 related:
+  - "70yearswtf-70-years-old-wtf-12-12-31"
   - "70yearswtf-75-years-5-days-posting-retrospective-17-12-26"
+  - "70yearswtf-four-years-in-a-retrospective-wtf-16-12-30"
   - "70yearswtf-lowering-the-bar-a-technique-for-13-01-05"
-  - "70yearswtf-reality-isnt-optional-13-01-05"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-my-love-affair-with-software-part-13-01-28"
 ---
 
 Three posts into Project70 and my first lapse. Notwithstanding this post's date, (google has forgivingly let me backdate it) today is January 5th and I've missed two days.

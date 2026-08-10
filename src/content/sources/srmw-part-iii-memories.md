@@ -14,9 +14,9 @@ tags:
 related:
   - "srmw-part-ii-the-metanovel"
   - "srmw-part-i-before-the-beginning"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
-  - "srmw-chapter-7-who-s-in-the-metanovel"
+  - "srmw-chapter-1-starting-out-the-first-chapter"
+  - "srmw-part-vi-fear-and-procrastination"
+  - "srmw-part-viii-practice-practice-practice"
 ---
 
 If at first you don’t succeed,

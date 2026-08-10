@@ -5,6 +5,7 @@ subtitle: "chronic intention to blog that collapses into not posting"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *family-of-mind* (batch 6)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-family-of-mind-internal-family-systems-15-03-14/\" class=\"corpus-ref\"><em>family-of-mind</em></a> (batch 6)."
 source: "70yt *family-of-mind* (batch 6)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Named affliction; IFS work credited with remission; writing about the cure risks reactivation.</p>
-<blockquote><p>“reactivate the dreaded Wannabe Blogger Syndrome” — 70yt *family-of-mind* (batch 6).</p></blockquote>
+<blockquote><p>“reactivate the dreaded Wannabe Blogger Syndrome” — 70yt <a href="/corpus/70yearswtf-family-of-mind-internal-family-systems-15-03-14/" class="corpus-ref"><em>family-of-mind</em></a> (batch 6).</p></blockquote>

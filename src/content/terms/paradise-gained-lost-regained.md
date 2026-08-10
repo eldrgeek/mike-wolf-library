@@ -5,6 +5,7 @@ subtitle: "Miltonic arc applied to personal history"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *paradise-gained-lost-regained-what* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-paradise-gained-lost-regained-what/\" class=\"corpus-ref\"><em>paradise-gained-lost-regained-what</em></a> (title mine)."
 source: "70yt *paradise-gained-lost-regained-what* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Milton arc on a life: paradise gained, lost, regained—then the open “what now?”</p>
-<blockquote><p>“It’s a great thing to have suffered.” — 70yt *paradise-gained-lost-regained-what* (title mine).</p></blockquote>
+<blockquote><p>“It’s a great thing to have suffered.” — 70yt <a href="/corpus/70yearswtf-paradise-gained-lost-regained-what/" class="corpus-ref"><em>paradise-gained-lost-regained-what</em></a> (title mine).</p></blockquote>

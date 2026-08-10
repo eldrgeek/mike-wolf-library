@@ -14,10 +14,10 @@ tags:
   - "blogging"
 related:
   - "70yearswtf-mediocre-me-19-01-13"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-autodriver-in-the-house-16-02-03"
+  - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
+  - "70yearswtf-debugging-and-programming-automike-18-08-02"
+  - "70yearswtf-free-will-maybe-maybe-not-16-01-02"
 ---
 
 Let’s get back to first principles.

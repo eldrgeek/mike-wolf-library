@@ -1,5 +1,5 @@
 ---
-title: "More advice: \\\"Share your gifts.\\\""
+title: "More advice: \"Share your gifts.\""
 collection: "70YearsWTF"
 kind: "post"
 order: 0
@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-from-farnam-street-to-quantum-computing-19-06-30"
-  - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
-  - "70yearswtf-postprocessing-4000-tabs-to-close-20-01-26"
   - "70yearswtf-rsilt-feb-1-20-02-03"
-  - "70yearswtf-the-heros-journey-continues"
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
 ---
 
 ![](/media/70yt/more-advice-share-your-gifts/1.jpg)

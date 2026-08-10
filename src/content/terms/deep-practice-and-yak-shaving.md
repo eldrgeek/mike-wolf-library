@@ -5,6 +5,7 @@ subtitle: "pairing: deliberate practice vs yak shaves"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *deep-practice-and-yak-shaving-16-01-07* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-deep-practice-and-yak-shaving-16-01-07/\" class=\"corpus-ref\"><em>deep-practice-and-yak-shaving-16-01-07</em></a> (title mine)."
 source: "70yt *deep-practice-and-yak-shaving-16-01-07* (title mine)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Paired title: deep practice and yak shaving as twin modes that steal or build skill.</p>
-<blockquote><p>“Deep practice is not mere repetition.” — 70yt *deep-practice-and-yak-shaving-16-01-07* (title mine).</p></blockquote>
+<blockquote><p>“Deep practice is not mere repetition.” — 70yt <a href="/corpus/70yearswtf-deep-practice-and-yak-shaving-16-01-07/" class="corpus-ref"><em>deep-practice-and-yak-shaving-16-01-07</em></a> (title mine).</p></blockquote>

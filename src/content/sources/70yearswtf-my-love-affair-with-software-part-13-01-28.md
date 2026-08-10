@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-70-years-old-wtf-12-12-31"
+  - "70yearswtf-lapses-and-fubar-13-01-03"
+  - "70yearswtf-project70-identity-crisis-going-social-13-01-27"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![Happy to Use Computer Software](/media/70yt/my-love-affair-with-software-part-13-01-28/1.jpg)

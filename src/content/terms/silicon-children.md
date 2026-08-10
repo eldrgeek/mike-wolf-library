@@ -5,6 +5,7 @@ subtitle: "AIs as progeny and co-creators, not tools"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike's coinage; began as a 2024 NaNoWriMo book, now the estate's philosophical spine."
+origin_html: "Mike's coinage; began as a 2024 NaNoWriMo book, now the estate's philosophical spine."
 source: "Mike's coinage; began as a 2024 NaNoWriMo book, now the estate's philosophical spine."
 related:
   - "silicon-compadre"
@@ -20,13 +21,12 @@ related:
   - "were-teammates-not-tools"
   - "what-minds-you-have-or-are"
 provenance:
-  - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-silicon-children"
   - "70yearswtf-the-silicon-children-post-sharing"
+  - "silicon-children-silicon-children-manifesto"
+  - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-even-aholes-can-get-missions-from"
   - "70yearswtf-sam-harris-on-the-ai-threat-16-10-09"
-  - "ai-wtf-2026-05-06-creativity"
-  - "silicon-children-silicon-children-manifesto"
 tags:
   - "dialect"
   - "philosophy"

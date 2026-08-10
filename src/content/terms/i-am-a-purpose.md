@@ -5,6 +5,7 @@ subtitle: "purpose is not possessed; the self *is* the purpose"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *an-open-letter-to-my-90-year-old* (batch 2)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-an-open-letter-to-my-90-year-old/\" class=\"corpus-ref\"><em>an-open-letter-to-my-90-year-old</em></a> (batch 2)."
 source: "70yt *an-open-letter-to-my-90-year-old* (batch 2)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Correction of “I need/have a purpose” into identity-statement. Needing implies lack; having splits having from being.</p>
-<blockquote><p>“I do not have a purpose. I **am** a purpose” — 70yt *an-open-letter-to-my-90-year-old* (batch 2).</p></blockquote>
+<blockquote><p>“I do not have a purpose. I <strong>am</strong> a purpose” — 70yt <a href="/corpus/70yearswtf-an-open-letter-to-my-90-year-old/" class="corpus-ref"><em>an-open-letter-to-my-90-year-old</em></a> (batch 2).</p></blockquote>

@@ -14,10 +14,10 @@ tags:
   - "God"
 related:
   - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-can-god-create-a-rock-so-big-that"
-  - "70yearswtf-really-im-supposed-to-save-the-world"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-99-subscribers-are-here-on-my-blog"
+  - "70yearswtf-can-god-create-a-rock-so-big-that"
+  - "70yearswtf-conversations-with-god-19-04-21"
+  - "70yearswtf-even-aholes-can-get-missions-from"
 ---
 
 ![A thought-provoking image capturing the essence of a story beginning with "Apparently the God I don't believe in wants me to write." The scene is of a person at an old wooden desk under a dim lamp, surrounded by darkness, looking contemplative with a pen poised above a blank paper. A faint, celestial light breaks through the darkness above, symbolizing divine inspiration. The mood is solitary and introspective, with a warm desk area contrasting the mysterious outer darkness. The phrase "Apparently the God I don't believe in wants me to write." is visible, artistically integrated into the scene, enhancing the narrative.](/media/70yt/reboot/1.jpg)

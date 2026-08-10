@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 For the past month or so I've been doing regular tDCS sessions. What's tDCS? The FLA stands for transcranial Direct Current Stimulation. Basically you run an electric current through your brain for a while and it makes you better.

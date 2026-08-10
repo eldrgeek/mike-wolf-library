@@ -1,5 +1,5 @@
 ---
-title: "The early results are in, and the answer is \\\"no.\\\""
+title: "The early results are in, and the answer is \"no.\""
 collection: "70YearsWTF"
 kind: "post"
 order: 0

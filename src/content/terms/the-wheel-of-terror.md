@@ -5,6 +5,7 @@ subtitle: "the spin cycle of fear that freezes the next action"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
+origin_html: "SRMW."
 source: "SRMW."
 related: []
 provenance:
@@ -15,5 +16,5 @@ tags:
   - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> Named chapter in Fear and Procrastination arc. Handle for the panic loop where Third Classic Blunder is felt before defined.</p>
+<p><strong>What we mean.</strong> Named chapter in Fear and Procrastination arc. Handle for the panic loop where <a href="#term-third-classic-blunder" class="term-xref">Third Classic Blunder</a> is felt before defined.</p>
 <blockquote><p>“The Wheel Of Terror I’m not a coward, I thought.” — SRMW.</p></blockquote>

@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
+  - "70yearswtf-predictive-meditation-19-03-29"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Once upon a time, I was having trouble getting stuff done. I worked with Elsa, who helped me make a plan.

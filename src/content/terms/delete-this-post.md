@@ -5,6 +5,7 @@ subtitle: "imperative of the delete-key theology applied to drafts"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *delete-this-post* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-delete-this-post/\" class=\"corpus-ref\"><em>delete-this-post</em></a> (title mine)."
 source: "70yt *delete-this-post* (title mine)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Imperative form of delete-key doctrine: kill the post. Mercy for readers, hygiene for writers.</p>
-<blockquote><p>“I warned you yesterday (“Why Gd gave us the DELETE key”) that I was going to start publishing more stuff, and you should be prepared to delete it.” — 70yt *delete-this-post* (title mine).</p></blockquote>
+<blockquote><p>“I warned you yesterday (“Why Gd gave us the DELETE key”) that I was going to start publishing more stuff, and you should be prepared to delete it.” — 70yt <a href="/corpus/70yearswtf-delete-this-post/" class="corpus-ref"><em>delete-this-post</em></a> (title mine).</p></blockquote>

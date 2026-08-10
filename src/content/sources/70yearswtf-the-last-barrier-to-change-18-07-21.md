@@ -14,10 +14,10 @@ tags:
   - "blogging"
 related:
   - "70yearswtf-get-out-of-your-head-and-into-your-18-03-11"
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02"
+  - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
   - "70yearswtf-family-of-mind-internal-family-systems-15-03-14"
-  - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
-  - "70yearswtf-working-hurts-less-than-procrastinating-15-01-31"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
 ---
 
 ![](/media/70yt/the-last-barrier-to-change-18-07-21/1.jpg)

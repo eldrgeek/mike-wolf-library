@@ -5,6 +5,7 @@ subtitle: "aphorisms are hashes; without the archive they become greeting cards"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Dee 2026-05-04 (Wall)."
+origin_html: "Dee 2026-05-04 (Wall)."
 source: "Dee 2026-05-04 (Wall)."
 related: []
 provenance: []

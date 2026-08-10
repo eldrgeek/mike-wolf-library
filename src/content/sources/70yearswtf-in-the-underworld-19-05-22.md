@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-excellent-meditation-19-03-11"
+  - "70yearswtf-from-spark-to-post-19-03-07"
+  - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
+  - "70yearswtf-we-are-all-unconscious-universe-makers"
+  - "70yearswtf-whats-the-most-important-thing"
 ---
 
 Maybe this is true. Maybe this is just a metaphor. Maybe metaphors are truer than anything else.

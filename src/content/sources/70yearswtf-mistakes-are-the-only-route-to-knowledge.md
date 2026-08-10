@@ -11,11 +11,11 @@ word_count: 1495
 tags:
   - "70YearsWTF"
 related:
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-ideas-want-to-survive-they-want-their-18-07-05"
 ---
 
 > *Why canonical (Mem's note):* The source post for the Wall entry "Mistakes are the only route to knowledge — even for God." (Provenance was July 2021; this confirms 2021-07-04.) Argues, via an evolutionary/genetic frame, that *"Knowledge always requires mistakes"* and then has God arrive in-character to corroborate: *"My plans are perfect because of My mistakes, not despite them."* The Wall line is the post's title; the post is the argument behind the line.

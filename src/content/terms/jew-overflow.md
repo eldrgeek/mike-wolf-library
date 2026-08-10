@@ -5,6 +5,7 @@ subtitle: "Stack Overflow, but for Judaism Q&A"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *personal-journeys-and-jew-overflow* (batch 3)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-personal-journeys-and-jew-overflow-15-01-30/\" class=\"corpus-ref\"><em>personal-journeys-and-jew-overflow</em></a> (batch 3)."
 source: "70yt *personal-journeys-and-jew-overflow* (batch 3)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Michal’s coinage for Mi Yodeya; Mike spreads it.</p>
-<blockquote><p>“"Jew Overflow," which I thought was hilarious.” — 70yt *personal-journeys-and-jew-overflow* (batch 3).</p></blockquote>
+<blockquote><p>“"Jew Overflow," which I thought was hilarious.” — 70yt <a href="/corpus/70yearswtf-personal-journeys-and-jew-overflow-15-01-30/" class="corpus-ref"><em>personal-journeys-and-jew-overflow</em></a> (batch 3).</p></blockquote>

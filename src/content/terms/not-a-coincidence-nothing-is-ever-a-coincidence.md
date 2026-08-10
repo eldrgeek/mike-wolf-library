@@ -5,6 +5,7 @@ subtitle: "the Unsong refrain, adopted"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike Wolf, 2026-07-25 (added by request)."
+origin_html: "Mike Wolf, 2026-07-25 (added by request)."
 source: "Mike Wolf, 2026-07-25 (added by request)."
 related: []
 provenance: []

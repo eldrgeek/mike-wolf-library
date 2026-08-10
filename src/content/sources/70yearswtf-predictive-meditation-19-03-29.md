@@ -14,11 +14,11 @@ tags:
   - "meditation"
   - "blogging"
 related:
+  - "70yearswtf-predictive-posting"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I’ve been combining what I’ve been learning about Predictive Processing with my meditation practice. The result has been awesome so far.

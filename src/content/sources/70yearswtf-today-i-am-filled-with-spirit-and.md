@@ -13,10 +13,10 @@ tags:
   - "70YearsWTF"
 related:
   - "70yearswtf-mikes-life-moviewise-review"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-99-subscribers-are-here-on-my-blog"
-  - "70yearswtf-an-open-letter-to-my-90-year-old"
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
 ---
 
 *Photo by [Marek Piwnicki](https://unsplash.com/@marekpiwnicki) on [Unsplash](https://unsplash.com)*

@@ -5,6 +5,7 @@ subtitle: "Intention Deficit Disorder vs Intuition Deficiency Disorder"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt batches 2/4/6 vs batch 7 interface post."
+origin_html: "70yt batches 2/4/6 vs batch 7 interface post."
 source: "70yt batches 2/4/6 vs batch 7 interface post."
 related: []
 provenance: []

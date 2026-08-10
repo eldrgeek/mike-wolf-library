@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Title coinage for rediscovering Substack features while re-rebooting.</p>
-<blockquote><p>“title “Multi Trick Pony: New stuff at Substack” — 70yt *multi-trick-pony* (batch 6).</p></blockquote>
+<blockquote><p>“Multi Trick Pony: New stuff at Substack” — 70yt *multi-trick-pony* (batch 6).</p></blockquote>

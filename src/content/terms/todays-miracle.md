@@ -5,6 +5,7 @@ subtitle: "daily miracle practice / notice"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *todays-miracle* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-todays-miracle/\" class=\"corpus-ref\"><em>todays-miracle</em></a> (title mine)."
 source: "70yt *todays-miracle* (title mine)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Standing practice: name today’s miracle. Attention training disguised as gratitude.</p>
-<blockquote><p>“No natural or scientific law, so I claim miracles.” — 70yt *todays-miracle* (title mine).</p></blockquote>
+<blockquote><p>“No natural or scientific law, so I claim miracles.” — 70yt <a href="/corpus/70yearswtf-todays-miracle/" class="corpus-ref"><em>todays-miracle</em></a> (title mine).</p></blockquote>

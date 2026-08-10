@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-an-experiment-not-a-resolution-16-01-05"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 P-zombies, or philosophical zombies, are indistinguishable from normal people but lack conscious experience. (See [Wikipedia](http://a%20philosophical%20zombie%20or%20p-zombie%20in%20the%20philosophy%20of%20mind%20and%20perception%20is%20a%20hypothetical%20being%20that%20is%20indistinguishable%20from%20a%20normal%20human%20being%20except%20in%20that%20it%20lacks%20conscious%20experience%2C%20qualia%2C%20or%20sentience./).) I know I am conscious, so I know I am not a p-zombie. But I don't know about you, whoever you are. Not just because I may not know you. It's definitional. P-zombies are indistinguishable.

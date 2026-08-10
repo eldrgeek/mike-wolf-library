@@ -19,6 +19,7 @@ const terms = rawTerms.map(e => {
     subtitle: e.data.subtitle,
     theme: e.data.theme,
     origin: e.data.origin,
+    originHtml: e.data.origin_html || e.data.origin,
     related: e.data.related,
     provenance: e.data.provenance,
     tags: e.data.tags,
@@ -99,7 +100,7 @@ const stripHtml = (h: string) => h.replace(/<[^>]*>/g, ' ');
               </div>
 
               {term.origin && (
-                <p class="text-xs text-muted mb-3"><span class="font-medium uppercase tracking-wide text-copper">Origin.</span> {term.origin}</p>
+                <p class="text-xs text-muted mb-3 dict-origin"><span class="font-medium uppercase tracking-wide text-copper">Origin.</span> <span set:html={term.originHtml} /></p>
               )}
 
               <div class="flex flex-wrap items-center gap-2">
@@ -149,6 +150,43 @@ const stripHtml = (h: string) => h.replace(/<[^>]*>/g, ' ');
   .dict-body p { margin-bottom: 0.9rem; line-height: 1.75; color: #3d2c1e; font-family: 'Literata', Georgia, serif; }
   .dict-body p:last-child { margin-bottom: 0; }
   .dict-body a { color: #2a9d8f; text-decoration: underline; text-underline-offset: 2px; }
+
+  /* Inline cross-links, added by the ingest linking pass. Two kinds, styled
+     apart from a plain body link so the reader can tell where a click goes:
+       .term-xref   → another entry on this page (copper, dotted)
+       .corpus-ref  → a /corpus/ reading page (teal, dashed) */
+  .dict-body a.term-xref,
+  .dict-origin a.term-xref {
+    color: #b06a34;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: rgba(176, 106, 52, 0.55);
+    text-underline-offset: 3px;
+    cursor: pointer;
+  }
+  .dict-body a.term-xref:hover,
+  .dict-origin a.term-xref:hover {
+    color: #8a4f24;
+    text-decoration-style: solid;
+    background: rgba(176, 106, 52, 0.09);
+  }
+  .dict-body a.corpus-ref,
+  .dict-origin a.corpus-ref {
+    color: #2a9d8f;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: rgba(42, 157, 143, 0.5);
+    text-underline-offset: 3px;
+  }
+  .dict-body a.corpus-ref:hover,
+  .dict-origin a.corpus-ref:hover {
+    color: #1d6f66;
+    text-decoration-style: solid;
+    background: rgba(42, 157, 143, 0.09);
+  }
+  .dict-body a.corpus-ref em,
+  .dict-origin a.corpus-ref em { font-style: italic; }
+  .dict-origin a { color: #2a9d8f; }
 </style>
 
 <script>

@@ -4,8 +4,9 @@ title: "Sighence"
 subtitle: "a box-breathing website — sigh + science"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
-origin: "Mike's box-breathing web project (\\\"Sighence\\\" cluster)."
-source: "Mike's box-breathing web project (\\\"Sighence\\\" cluster)."
+origin: "Mike's box-breathing web project (\"Sighence\" cluster)."
+origin_html: "Mike's box-breathing web project (\"Sighence\" cluster)."
+source: "Mike's box-breathing web project (\"Sighence\" cluster)."
 related: []
 provenance: []
 tags:

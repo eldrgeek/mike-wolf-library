@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Love and knowledge grow when given; scarcity models of affection are category error. Kin to Science of Love / Laws of Love.</p>
-<blockquote><p>“title “Economics and lovenomics.” + “Love and knowledge—unlike money—grow when given” — 70yt *economics-and-lovenomics* (batch 1).</p></blockquote>
+<blockquote><p>“Economics and lovenomics.” + “Love and knowledge—unlike money—grow when given” — 70yt *economics-and-lovenomics* (batch 1).</p></blockquote>

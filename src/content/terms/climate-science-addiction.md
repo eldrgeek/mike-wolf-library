@@ -5,6 +5,7 @@ subtitle: "obsessive primary-source climate reading as recovery narrative"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *climate-science-addiction-part-n* (batch 4)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-climate-science-addiction-part-n-19-06-26/\" class=\"corpus-ref\"><em>climate-science-addiction-part-n</em></a> (batch 4)."
 source: "70yt *climate-science-addiction-part-n* (batch 4)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Benders, junkie, Part N of M — serial relapse structure. Not denialism; names the compulsion.</p>
-<blockquote><p>“recovering Climate Science and Climate Policy junkie.” — 70yt *climate-science-addiction-part-n* (batch 4).</p></blockquote>
+<blockquote><p>“recovering Climate Science and Climate Policy junkie.” — 70yt <a href="/corpus/70yearswtf-climate-science-addiction-part-n-19-06-26/" class="corpus-ref"><em>climate-science-addiction-part-n</em></a> (batch 4).</p></blockquote>

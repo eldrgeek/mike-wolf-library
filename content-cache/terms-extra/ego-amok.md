@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Chapter title and prosecution: ego running amok / fame fantasy. Names the shame-attack that stalls public creative work.</p>
-<blockquote><p>“Your ego is running amok,” said my inner critic.” — SRMW.</p></blockquote>
+<blockquote><p>“Your ego is running amok,” said my inner critic. — SRMW.</p></blockquote>

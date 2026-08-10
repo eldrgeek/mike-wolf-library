@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-the-imagined-past-tldr-15-01-08"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I'm enrolled in a colloquy, titled: *[Examining Public discourse in the Age of Technology](http://colloquydowneast.org/index.php?sectionID=497).*One of the books that we're discussing argues that our public discourse is being dumbed down by the media; that in the old days people listened to debates by articulate individuals that sometimes lasted for hours.

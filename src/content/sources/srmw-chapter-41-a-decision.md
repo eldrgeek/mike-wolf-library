@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
   - "srmw-chapter-7-who-s-in-the-metanovel"
   - "srmw-chapter-9-finding-a-publisher"
+  - "srmw-chapter-10-the-not-quite-omniscient-narrator"
+  - "srmw-part-vii-imagination"
+  - "srmw-part-viii-practice-practice-practice"
 ---
 
 “I’ve made a decision,” the metanovel said to the author.

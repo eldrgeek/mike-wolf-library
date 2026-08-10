@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Running on automatic is sometimes a <em>solution</em>: more awareness multiplies Parts-in-conflict. Names the tradeoff mindfulness rhetoric skips.</p>
-<blockquote><p>“title “A theory of strategic unawareness” — 70yt *a-theory-of-strategic-unawareness* (batch 2).</p></blockquote>
+<blockquote><p>“A theory of strategic unawareness” — 70yt *a-theory-of-strategic-unawareness* (batch 2).</p></blockquote>

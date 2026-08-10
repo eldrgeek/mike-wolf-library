@@ -14,11 +14,11 @@ tags:
   - "meditation"
   - "blogging"
 related:
-  - "70yearswtf-sending-my-ai-to-school"
-  - "70yearswtf-the-goal-part-ii-19-05-17"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Daniel and I have been talking about meditation since roughly forever—or more accurately, I’ve been talking to him about it, and he’s been a good listener and a good asker of questions.

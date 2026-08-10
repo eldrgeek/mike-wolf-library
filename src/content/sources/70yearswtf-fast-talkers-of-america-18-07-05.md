@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "economics"
 related:
+  - "70yearswtf-discomfort-is-a-bug-and-a-feature-19-04-28"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Young people talk faster than old people. They can also listen faster. Trust me. I know. I am an old person and most of the peeps that I hang with are old. I notice this. It presents a problem. And an opportunity.

@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
+  - "srmw-part-iv-the-adversary"
+  - "srmw-chapter-13-evolving-a-muse"
+  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
-  - "srmw-chapter-7-who-s-in-the-metanovel"
-  - "srmw-chapter-9-finding-a-publisher"
+  - "srmw-chapter-1-starting-out-the-first-chapter"
 ---
 
 Just a moment ago I had been just about to write a chapter I was going to call Getting An

@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> After ZeroHedge shitpost: unlearn so you are not left stupider. Reading can infect; fact-work is disinfectant.</p>
-<blockquote><p>“title + “I encourage you not to read it. It will make you stupider.” — 70yt *disinfecting-my-mind* (batch 5).</p></blockquote>
+<blockquote><p>“I encourage you not to read it. It will make you stupider.” — 70yt *disinfecting-my-mind* (batch 5).</p></blockquote>

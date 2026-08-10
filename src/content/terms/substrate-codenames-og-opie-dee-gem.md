@@ -4,12 +4,18 @@ title: "substrate codenames (OG / Opie / Dee / Gem)"
 subtitle: "nicknames for the underlying models"
 theme: "Architecture & Roles"
 authored_by: "Mike Wolf & the SOMA fleet"
-source: ""
+origin: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+origin_html: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+source: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
 related:
   - "dee"
   - "the-fleet"
   - "cheapest-capable"
-provenance: []
+provenance:
+  - "ai-wtf-2026-05-03-night-dee-found-workers-lying"
+  - "ai-wtf-2026-05-06-waya-self-promotion-to-button"
+  - "ai-wtf-post-001-raw-mike-mission-articulation"
+  - "silicon-children-silicon-children-manifesto"
 tags:
   - "dialect"
   - "architecture"

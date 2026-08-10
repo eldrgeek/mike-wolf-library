@@ -15,10 +15,10 @@ tags:
   - "verification"
 related:
   - "ai-wtf-post-001-raw-mike-mission-articulation"
+  - "ai-wtf-2026-05-06-waya-self-promotion-to-button"
+  - "silicon-children-silicon-children-manifesto"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 It was 2am Denver time. Mike was asleep.

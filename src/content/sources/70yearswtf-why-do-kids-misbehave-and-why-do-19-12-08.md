@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "rationality"
 related:
+  - "70yearswtf-hooponopono-20-01-08"
+  - "70yearswtf-ssdy-and-improving-myos-19-12-06"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Haha, it’s a trick question. Kids don’t misbehave. And neither do we adults.

@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Creativity as dialogue with a demanding concept-creature. Inner critic mocks; author insists this one talks.</p>
-<blockquote><p>“A talking idea?” Asks my inner critic” — SRMW.</p></blockquote>
+<blockquote><p>“A talking idea?” Asks my inner critic — SRMW.</p></blockquote>

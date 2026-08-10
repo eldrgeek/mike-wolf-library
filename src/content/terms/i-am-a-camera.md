@@ -5,6 +5,7 @@ subtitle: "Isherwood riff: recorder-self identity"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *i-am-a-camera-16-01-05* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-i-am-a-camera-16-01-05/\" class=\"corpus-ref\"><em>i-am-a-camera-16-01-05</em></a> (title mine)."
 source: "70yt *i-am-a-camera-16-01-05* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Isherwood echo as identity: the self as recorder. Seeing without (or before) judging.</p>
-<blockquote><p>“And really, why do I need the camera?” — 70yt *i-am-a-camera-16-01-05* (title mine).</p></blockquote>
+<blockquote><p>“And really, why do I need the camera?” — 70yt <a href="/corpus/70yearswtf-i-am-a-camera-16-01-05/" class="corpus-ref"><em>i-am-a-camera-16-01-05</em></a> (title mine).</p></blockquote>

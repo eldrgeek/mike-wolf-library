@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "automation"
 related:
+  - "70yearswtf-intention-deficit-disorder-16-10-25"
+  - "70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31"
   - "70yearswtf-a-series-of-strokes-19-03-11"
+  - "70yearswtf-attention-management-disorder-15-01-25"
   - "70yearswtf-finding-my-voice"
-  - "70yearswtf-i-am-a-cyborg-and-google-helps-me-16-01-11"
-  - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"
-  - "70yearswtf-predictions-16-01-09"
 ---
 
 How’s this working? Pretty good I think.

@@ -16,11 +16,11 @@ tags:
   - "economics"
   - "automation"
 related:
+  - "70yearswtf-attention-on-intention-and-metaintention-20-01-26"
+  - "70yearswtf-intentional-failure-19-02-25"
+  - "70yearswtf-postprocessing-4000-tabs-to-close-20-01-26"
+  - "70yearswtf-thank-you-past-me-thank-you-random-17-07-01"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Today is (or was) Day 46 of Sam Harris’s Waking Up Course. I suppose I could wait for Day 50 before reporting, but here I am, and this is what I am writing.

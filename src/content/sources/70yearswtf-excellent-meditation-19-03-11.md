@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "meditation"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-from-spark-to-post-19-03-07"
+  - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
+  - "70yearswtf-in-the-underworld-19-05-22"
+  - "70yearswtf-we-are-all-unconscious-universe-makers"
+  - "70yearswtf-whats-the-most-important-thing"
 ---
 
 A while ago I had an excellent meditation session that combined what I’ve learned about intention and about deliberate practice with what I had learned about meditation.

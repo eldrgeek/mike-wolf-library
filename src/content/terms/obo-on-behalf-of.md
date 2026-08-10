@@ -4,11 +4,14 @@ title: "OBO (On-Behalf-Of)"
 subtitle: "a human pairs an AI to act for them, metered to the human"
 theme: "Architecture & Roles"
 authored_by: "Mike Wolf & the SOMA fleet"
-source: ""
+origin: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+origin_html: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+source: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
 related:
   - "silicon-compadre"
   - "warm-handoff"
-provenance: []
+provenance:
+  - "70yearswtf-the-purpose-of-my-life-obo-fred-the-20-03-27"
 tags:
   - "dialect"
   - "architecture"

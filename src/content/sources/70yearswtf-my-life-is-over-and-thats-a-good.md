@@ -17,7 +17,7 @@ related:
   - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-conversations-with-god-19-04-21"
-  - "70yearswtf-fill-the-world-with-love-scientifically"
+  - "70yearswtf-even-aholes-can-get-missions-from"
 ---
 
 ![Photo by Johannes Plenio(https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/my-life-is-over-and-thats-a-good/1.jpg)

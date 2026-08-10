@@ -5,6 +5,7 @@ subtitle: "micro-success celebration rule"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *celebrate-every-success-19-10-18* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-celebrate-every-success-19-10-18/\" class=\"corpus-ref\"><em>celebrate-every-success-19-10-18</em></a> (title mine)."
 source: "70yt *celebrate-every-success-19-10-18* (title mine)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Rule: celebrate every success, including small ones—counter to moving-goalpost asceticism.</p>
-<blockquote><p>“What he said made a lot of sense.” — 70yt *celebrate-every-success-19-10-18* (title mine).</p></blockquote>
+<blockquote><p>“What he said made a lot of sense.” — 70yt <a href="/corpus/70yearswtf-celebrate-every-success-19-10-18/" class="corpus-ref"><em>celebrate-every-success-19-10-18</em></a> (title mine).</p></blockquote>

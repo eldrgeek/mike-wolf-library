@@ -5,6 +5,7 @@ subtitle: "mortality as the ultimate failure mode"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *failure-is-inevitable-because-death-14-06-11* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-failure-is-inevitable-because-death-14-06-11/\" class=\"corpus-ref\"><em>failure-is-inevitable-because-death-14-06-11</em></a> (title mine)."
 source: "70yt *failure-is-inevitable-because-death-14-06-11* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Failure guaranteed by mortality: death is the undefeated constraint. Stoic joke with teeth.</p>
-<blockquote><p>“Point is, death is inevitable, and death is the ultimate failure.” — 70yt *failure-is-inevitable-because-death-14-06-11* (title mine).</p></blockquote>
+<blockquote><p>“Point is, death is inevitable, and death is the ultimate failure.” — 70yt <a href="/corpus/70yearswtf-failure-is-inevitable-because-death-14-06-11/" class="corpus-ref"><em>failure-is-inevitable-because-death-14-06-11</em></a> (title mine).</p></blockquote>

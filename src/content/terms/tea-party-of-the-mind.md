@@ -5,6 +5,7 @@ subtitle: "vocal minority of mental agents that blocks consensus action"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *dysfunction-in-the-society-of-mind* (batch 4)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-dysfunction-in-the-society-of-mind-14-12-09/\" class=\"corpus-ref\"><em>dysfunction-in-the-society-of-mind</em></a> (batch 4)."
 source: "70yt *dysfunction-in-the-society-of-mind* (batch 4)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Minsky society of mind politicized: disruptive minority forces inaction.</p>
-<blockquote><p>“Think of that as the Tea Party of the mind.” — 70yt *dysfunction-in-the-society-of-mind* (batch 4).</p></blockquote>
+<blockquote><p>“Think of that as the Tea Party of the mind.” — 70yt <a href="/corpus/70yearswtf-dysfunction-in-the-society-of-mind-14-12-09/" class="corpus-ref"><em>dysfunction-in-the-society-of-mind</em></a> (batch 4).</p></blockquote>

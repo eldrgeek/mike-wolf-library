@@ -5,11 +5,10 @@ subtitle: "when stuck, climb one level of description"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
+origin_html: "SRMW."
 source: "SRMW."
 related: []
-provenance:
-  - "srmw-part-viii-practice-practice-practice"
-  - "srmw-part-xiii-endgame"
+provenance: []
 tags:
   - "SRMW"
   - "philosophy"

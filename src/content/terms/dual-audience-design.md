@@ -4,7 +4,9 @@ title: "dual-audience design"
 subtitle: "make every artifact legible to humans *and* to AIs"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
-source: ""
+origin: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+origin_html: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+source: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
 related:
   - "were-writing-letters-that-future-ais-will-read"
 provenance: []

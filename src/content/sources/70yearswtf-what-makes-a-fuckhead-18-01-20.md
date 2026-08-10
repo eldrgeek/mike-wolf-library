@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
+  - "70yearswtf-sbm-and-dbf-19-05-23"
+  - "70yearswtf-whats-the-most-important-thing"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Someone who calls himself David R. Kendrick sometime prior to 2004 wrote an essay titled "What Makes a Fuckhead?" I found the essay [here](https://davidgerard.co.uk/fuckhead.html), on the [site of David Gerard](https://davidgerard.co.uk/). I found David Gerard because he's the author of "[Attack of the 50-foot blockchain](https://www.amazon.com/Attack-50-Foot-Blockchain-Contracts-ebook/dp/B073CPP581/ref=sr_1_1?ie=UTF8&qid=1516471293&sr=8-1&keywords=50+foot+blockchain)" which my son-by-marriage John, recommended to me. I found John because my daughter, Mira married him. Actually, I knew John before she married him, and I may be an accessory before the fact of their getting married.

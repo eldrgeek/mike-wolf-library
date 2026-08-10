@@ -5,6 +5,7 @@ subtitle: "a bounded, reversible experiment worth running"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike, from a May 2026 essay."
+origin_html: "Mike, from a May 2026 essay."
 source: "Mike, from a May 2026 essay."
 related:
   - "verify-outcomes"

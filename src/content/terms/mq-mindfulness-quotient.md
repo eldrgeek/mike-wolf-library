@@ -5,13 +5,15 @@ subtitle: "made-up ratio of mindfulness to mindlessness per unit time"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *the-mindful-photographic-moments* (batch 5)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-the-mindful-photographic-moments-20-04-13/\" class=\"corpus-ref\"><em>the-mindful-photographic-moments</em></a> (batch 5)."
 source: "70yt *the-mindful-photographic-moments* (batch 5)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-the-mindful-photographic-moments-20-04-13"
 tags:
   - "70yt"
   - "rituals"
 ---
 
 <p><strong>What we mean.</strong> Semi-mindfully coined metric: raise the number — WAKE THE FUCK UP.</p>
-<blockquote><p>“MQ is Mindfulness Quotient, a term I just (semi-mindfully) made up” — 70yt *the-mindful-photographic-moments* (batch 5).</p></blockquote>
+<blockquote><p>“MQ is Mindfulness Quotient, a term I just (semi-mindfully) made up” — 70yt <a href="/corpus/70yearswtf-the-mindful-photographic-moments-20-04-13/" class="corpus-ref"><em>the-mindful-photographic-moments</em></a> (batch 5).</p></blockquote>

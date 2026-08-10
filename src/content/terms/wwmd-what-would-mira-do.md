@@ -5,6 +5,7 @@ subtitle: "Mira as the compass for how to act well"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike Wolf, 2026-07-25 (added by request)."
+origin_html: "Mike Wolf, 2026-07-25 (added by request)."
 source: "Mike Wolf, 2026-07-25 (added by request)."
 related:
   - "miracles-begin-with-mira"
@@ -16,4 +17,4 @@ tags:
   - "wordplay"
 ---
 
-<p><strong>What we mean.</strong> A play on WWJD. When the question is how to be generous, gracious, or simply good, Mike holds up his daughter as the practical model: <em>what would Mira do?</em> Companion to <em>Miracles Begin With Mira</em>.</p>
+<p><strong>What we mean.</strong> A play on WWJD. When the question is how to be generous, gracious, or simply good, Mike holds up his daughter as the practical model: <em>what would Mira do?</em> Companion to <em><a href="#term-miracles-begin-with-mira" class="term-xref">Miracles Begin With Mira</a></em>.</p>

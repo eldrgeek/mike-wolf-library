@@ -5,6 +5,7 @@ subtitle: "honesty stack with recursive misunderstanding clause"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *i-try-to-mean-what-i-say-and-i-try* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-i-try-to-mean-what-i-say-and-i-try/\" class=\"corpus-ref\"><em>i-try-to-mean-what-i-say-and-i-try</em></a> (title mine)."
 source: "70yt *i-try-to-mean-what-i-say-and-i-try* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Stacked honesty pledge with a built-in caveat: even sincere saying/meaning can fail across minds. The title is the doctrine.</p>
-<blockquote><p>“The egg thinks he can make words mean whatever he wants!” — 70yt *i-try-to-mean-what-i-say-and-i-try* (title mine).</p></blockquote>
+<blockquote><p>“The egg thinks he can make words mean whatever he wants!” — 70yt <a href="/corpus/70yearswtf-i-try-to-mean-what-i-say-and-i-try/" class="corpus-ref"><em>i-try-to-mean-what-i-say-and-i-try</em></a> (title mine).</p></blockquote>

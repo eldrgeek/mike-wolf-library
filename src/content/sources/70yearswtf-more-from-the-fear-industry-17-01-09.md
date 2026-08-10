@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "economics"
 related:
+  - "70yearswtf-attention-vampires-and-priorities-17-01-17"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 The business of the media is making people pay attention. One of the best ways to get attention is to make people afraid. The media made lots of money making some people afraid of Trump and some other afraid of Clinton. But now Clinton is gone. Trump is going to be president, and there there's nothing to fear from her. So it's about making people fear Trump.

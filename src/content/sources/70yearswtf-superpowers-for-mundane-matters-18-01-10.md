@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
+  - "srmw-chapter-27-work-practice"
+  - "srmw-chapter-28-snap"
+  - "srmw-chapter-30-outside-space-and-time"
+  - "srmw-part-xiii-endgame"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I’m a talented person, but there are a couple of areas where I feel I’ve been given superpowers. Or maybe I haven’t been given them. Maybe I’ve earned them. Whatever. Where ever they came from, I’ve got them.

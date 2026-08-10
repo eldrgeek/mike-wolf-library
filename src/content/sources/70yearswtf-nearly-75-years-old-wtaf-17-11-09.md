@@ -14,10 +14,10 @@ tags:
   - "blogging"
 related:
   - "70yearswtf-waking-up-and-the-illusion-of-the-19-06-22"
+  - "70yearswtf-hello-world-15-01-08"
+  - "70yearswtf-thank-google-for-time-travel-14-12-30"
+  - "70yearswtf-wytf-am-i-writing-this-blog-15-01-03"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
 ---
 
 Seventy-fifth birthday in less than two months. Nearly five years writing this particular blog, off and on (mostly off). So? So what's it like being nearly a three-quarters of a century old? What have I learned in that time? What do I want to do next? What do I think about my life? What do I think about the world as it is? Where do I think the world is going? When am I going to stop asking myself such questions?

@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "automation"
 related:
+  - "70yearswtf-free-will-and-self-improvement-16-01-03"
   - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
 ---
 
 And now for something completely different.

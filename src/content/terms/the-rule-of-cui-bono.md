@@ -5,6 +5,7 @@ subtitle: "ignore “benefits the public”; always ask who else gains and who p
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *the-rule-of-cui-bono* (batch 6)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-the-rule-of-cui-bono-18-01-07/\" class=\"corpus-ref\"><em>the-rule-of-cui-bono</em></a> (batch 6)."
 source: "70yt *the-rule-of-cui-bono* (batch 6)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Public-benefit claims are non-information. Real analysis is secondary beneficiaries and cost-bearers.</p>
-<blockquote><p>“The rule of cui bono: proponents of any political or economic program will always claim” — 70yt *the-rule-of-cui-bono* (batch 6).</p></blockquote>
+<blockquote><p>“The rule of cui bono: proponents of any political or economic program will always claim” — 70yt <a href="/corpus/70yearswtf-the-rule-of-cui-bono-18-01-07/" class="corpus-ref"><em>the-rule-of-cui-bono</em></a> (batch 6).</p></blockquote>

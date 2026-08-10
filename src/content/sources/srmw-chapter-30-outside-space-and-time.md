@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-chapter-29-the-worst-day-of-my-life"
-  - "srmw-chapter-31-the-days-that-never-end"
   - "srmw-part-xiii-endgame"
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
+  - "srmw-part-vi-fear-and-procrastination"
+  - "srmw-part-vii-imagination"
+  - "srmw-chapter-19-enjoy-life"
 ---
 
 Time had stopped. Or if it hadn’t stopped, it was irrelevant.

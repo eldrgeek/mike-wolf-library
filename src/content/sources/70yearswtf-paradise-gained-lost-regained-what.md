@@ -14,11 +14,11 @@ tags:
   - "meditation"
   - "rationality"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-get-out-of-your-head-and-into-your-18-03-11"
+  - "70yearswtf-on-sacrifice-18-12-08"
+  - "70yearswtf-the-hard-way-is-the-easy-way-19-04-27"
+  - "70yearswtf-the-last-barrier-to-change-18-07-21"
 ---
 
 ![Photo by Amanda Phung(https://unsplash.com/@amandabereckonedwith?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash(https://unsplash.com/s/photos/paradise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/media/70yt/paradise-gained-lost-regained-what/1.jpg)

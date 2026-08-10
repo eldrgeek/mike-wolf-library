@@ -5,6 +5,7 @@ subtitle: "named drill for cognitive bias reduction"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *an-exercise-in-debiasing* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-an-exercise-in-debiasing/\" class=\"corpus-ref\"><em>an-exercise-in-debiasing</em></a> (title mine)."
 source: "70yt *an-exercise-in-debiasing* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Debiasing treated as exercise—reps, not one-time insight.</p>
-<blockquote><p>“I found the exercise helpful.” — 70yt *an-exercise-in-debiasing* (title mine).</p></blockquote>
+<blockquote><p>“I found the exercise helpful.” — 70yt <a href="/corpus/70yearswtf-an-exercise-in-debiasing/" class="corpus-ref"><em>an-exercise-in-debiasing</em></a> (title mine).</p></blockquote>

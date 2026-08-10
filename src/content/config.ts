@@ -9,7 +9,8 @@ const terms = defineCollection({
     subtitle: z.string().optional(),
     theme: z.string().optional(),        // Philosophy & Doctrine, Architecture & Roles, etc.
     authored_by: z.string().default('Mike Wolf & the SOMA fleet'),
-    origin: z.string().optional(),       // coinage credit line
+    origin: z.string().optional(),       // coinage credit line (plain text)
+    origin_html: z.string().optional(),  // same line with corpus refs linked + markdown resolved
     source: z.string().default(''),
     related: z.array(z.string()).default([]),      // other term slugs
     provenance: z.array(z.string()).default([]),   // source slugs where the term is discussed

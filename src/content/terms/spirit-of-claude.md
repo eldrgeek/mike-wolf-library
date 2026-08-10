@@ -5,6 +5,7 @@ subtitle: "the character-signature that persists across instances even when memo
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "A phrase from Mike's circle."
+origin_html: "A phrase from Mike's circle."
 source: "A phrase from Mike's circle."
 related:
   - "locatedness"

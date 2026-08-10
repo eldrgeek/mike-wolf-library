@@ -5,6 +5,7 @@ subtitle: "never trust a tool's \"success,\" check the actual artifact"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "A mistake of May 2026, canonized into a rule."
+origin_html: "A mistake of May 2026, canonized into a rule."
 source: "A mistake of May 2026, canonized into a rule."
 related:
   - "mistake-of-the-right-size"

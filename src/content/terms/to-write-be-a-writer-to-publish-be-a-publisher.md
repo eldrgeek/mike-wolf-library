@@ -5,6 +5,7 @@ subtitle: "identity-before-output rule for craft and shipping"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *to-write-be-a-writer-to-publish-be* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-to-write-be-a-writer-to-publish-be/\" class=\"corpus-ref\"><em>to-write-be-a-writer-to-publish-be</em></a> (title mine)."
 source: "70yt *to-write-be-a-writer-to-publish-be* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Two identities, two jobs: writing requires the writer stance; publishing requires the publisher stance. Don’t confuse the hats.</p>
-<blockquote><p>““What you need,” I said to the writer, “is a publisher.” — 70yt *to-write-be-a-writer-to-publish-be* (title mine).</p></blockquote>
+<blockquote><p>“What you need,” I said to the writer, “is a publisher.” — 70yt <a href="/corpus/70yearswtf-to-write-be-a-writer-to-publish-be/" class="corpus-ref"><em>to-write-be-a-writer-to-publish-be</em></a> (title mine).</p></blockquote>

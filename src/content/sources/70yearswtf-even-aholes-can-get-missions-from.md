@@ -15,11 +15,11 @@ tags:
   - "AI"
   - "blogging"
 related:
-  - "70yearswtf-we-are-all-unconscious-universe-makers"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-sending-my-ai-to-school"
   - "70yearswtf-silicon-children"
-  - "70yearswtf-the-ideas-of-intelligence-this-post"
+  - "70yearswtf-the-silicon-children-post-sharing"
+  - "70yearswtf-99-subscribers-are-here-on-my-blog"
+  - "70yearswtf-even-more-like-heaven-and-the-internet"
 ---
 
 ![Image by MidJourney](/media/70yt/even-aholes-can-get-missions-from/1.jpg)

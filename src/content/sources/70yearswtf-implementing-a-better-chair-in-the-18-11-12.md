@@ -15,10 +15,10 @@ tags:
   - "automation"
 related:
   - "70yearswtf-a-series-of-strokes-19-03-11"
-  - "70yearswtf-what-problem-are-you-trying-to-solve-18-11-13"
-  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
-  - "70yearswtf-yesterdays-waste-of-time-18-11-13"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-autodriver-in-the-house-16-02-03"
+  - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
+  - "70yearswtf-debugging-and-programming-automike-18-08-02"
+  - "70yearswtf-free-will-maybe-maybe-not-16-01-02"
 ---
 
 After I wrote the first draft of [my ranty blog post on how it is to be in an uncomfortable chair in the sky](https://70yearsoldwtf.blogspot.com/2018/11/when-your-chair-in-sky-is-just-not.html), I decided to actually try and do something about it. What a surprise! Me, doing something based on a plan.

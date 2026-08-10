@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
+  - "srmw-part-vi-fear-and-procrastination"
+  - "srmw-part-vii-imagination"
+  - "srmw-chapter-19-enjoy-life"
+  - "srmw-chapter-30-outside-space-and-time"
 ---
 
 “You heard my talk,” said Barbara Baig. “You’ve got my book in your bookcase. True, it’s

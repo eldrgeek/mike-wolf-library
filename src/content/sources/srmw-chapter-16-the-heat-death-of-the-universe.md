@@ -14,10 +14,10 @@ tags:
   - "writing"
 related:
   - "srmw-part-ii-the-metanovel"
+  - "srmw-chapter-10-the-not-quite-omniscient-narrator"
+  - "srmw-part-i-before-the-beginning"
+  - "srmw-chapter-1-starting-out-the-first-chapter"
   - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
-  - "srmw-chapter-7-who-s-in-the-metanovel"
-  - "srmw-chapter-9-finding-a-publisher"
 ---
 
 During the time it takes the muse to read what’s been written, the Not Quite Omniscient

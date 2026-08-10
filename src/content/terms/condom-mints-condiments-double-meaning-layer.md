@@ -5,6 +5,7 @@ subtitle: "possible second pun layer (condom mints ≈ condiments)"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Vault-puns extraction note."
+origin_html: "Vault-puns extraction note."
 source: "Vault-puns extraction note."
 related:
   - "condom-mints"
@@ -16,5 +17,5 @@ link: "https://condommints.lovable.app"
 link_label: "condommints.lovable.app"
 ---
 
-<p><strong>What we mean.</strong> Second pun layer on the Ready product: <em>condom mints</em> ≈ <em>condiments</em>. Source chats state product shape/use; the condiments sound-alike is asserted here as the intended double meaning for dictionary gloss.</p>
+<p><strong>What we mean.</strong> Second pun layer on the Ready product: <em><a href="#term-condom-mints" class="term-xref">condom mints</a></em> ≈ <em>condiments</em>. Source chats state product shape/use; the condiments sound-alike is asserted here as the intended double meaning for dictionary gloss.</p>
 <blockquote><p>“condom mints” — also heard as “condiments” (dictionary double-meaning layer) — vault-puns / DICT-MERGE instruction.</p></blockquote>

@@ -5,6 +5,7 @@ subtitle: "Christmas mishearing pun — the gift that reveals the unstated ask"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *christmas-pun* (batch 7)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-christmas-pun-20-01-13/\" class=\"corpus-ref\"><em>christmas-pun</em></a> (batch 7)."
 source: "70yt *christmas-pun* (batch 7)."
 related:
   - "macho-glue"
@@ -15,5 +16,5 @@ tags:
   - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> Classic sex/socks sound-alike left half-implicit. Wordplay family of Macho Glue / prenaptual.</p>
-<blockquote><p>“thought I’d said: “I’d like more socks.”” — 70yt *christmas-pun* (batch 7).</p></blockquote>
+<p><strong>What we mean.</strong> Classic sex/socks sound-alike left half-implicit. Wordplay family of <a href="#term-macho-glue" class="term-xref">Macho Glue</a> / prenaptual.</p>
+<blockquote><p>“thought I’d said: “I’d like more socks.”” — 70yt <a href="/corpus/70yearswtf-christmas-pun-20-01-13/" class="corpus-ref"><em>christmas-pun</em></a> (batch 7).</p></blockquote>

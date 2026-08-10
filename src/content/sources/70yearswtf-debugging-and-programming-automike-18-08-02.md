@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "automation"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-autodriver-in-the-house-16-02-03"
+  - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
+  - "70yearswtf-free-will-maybe-maybe-not-16-01-02"
+  - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"
+  - "70yearswtf-mediocre-me-19-01-13"
 ---
 
 A couple of weeks ago I woke to find myself standing in front of the refrigerator, with the door open, rummaging through it for something to eat. When I say “I woke” up, I don’t mean that I had been sleepwalking, other than in the metaphorical sense. I mean “woke up” in the Sam Harris “[Waking Up](https://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636024)“ sense that I’ve written about [before](https://70yearsoldwtf.blogspot.com/2015/12/waking-up.html). I had been conscious. I had been aware. But I was not self-aware. My behavior was conditioned. It was automatic. It was in no way intentional. It was what I’ve called [MikeSim](https://70yearsoldwtf.blogspot.com/2015/12/mikesim-version-73-simulated-human-being.html) and sometimes AutoMike. For this post, I’ll stick with AutoMike.

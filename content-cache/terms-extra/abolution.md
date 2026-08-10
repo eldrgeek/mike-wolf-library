@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Absolution twisted to abolution — forgiveness for abolishing/botching the streak.</p>
-<blockquote><p>“title “Broken streak and request for abolution” — 70yt *broken-streak-and-request-for-abolution* (batch 2).</p></blockquote>
+<blockquote><p>“Broken streak and request for abolution” — 70yt *broken-streak-and-request-for-abolution* (batch 2).</p></blockquote>

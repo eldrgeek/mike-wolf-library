@@ -11,9 +11,9 @@ word_count: 647
 tags:
   - "70YearsWTF"
 related:
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
   - "70yearswtf-the-idea-of-bobbi"
   - "70yearswtf-can-god-create-a-rock-so-big-that"
 ---

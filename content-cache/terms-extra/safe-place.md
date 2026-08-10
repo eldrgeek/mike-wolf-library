@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Hard Times doctrine: when you fail, find a safe place — if you don’t have one, <em>make one</em>. Portable imaginary coordinate. Kin to mindtravel destinations.</p>
-<blockquote><p>“What’s a safe place?” “Make one,” said God.” — SRMW.</p></blockquote>
+<blockquote><p>“What’s a safe place?” “Make one,” said God. — SRMW.</p></blockquote>

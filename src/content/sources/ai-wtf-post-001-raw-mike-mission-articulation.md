@@ -10,10 +10,10 @@ tags:
   - "AI WTF"
 related:
   - "ai-wtf-2026-05-03-night-dee-found-workers-lying"
+  - "ai-wtf-2026-05-06-waya-self-promotion-to-button"
+  - "silicon-children-silicon-children-manifesto"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 > **For Pax + Drew:** Mike said this material "goes to ai-wtf and the blog." He's given two messages back-to-back that, together, articulate the SOMA thesis. Draft a polished post version that keeps the specifics but reads for someone outside our circle. Title TBD; some candidates below.

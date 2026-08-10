@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Portmanteau Hanukkah + a cappella (via Rockapella).</p>
-<blockquote><p>“title “Hanukkapella” — 70yt *hanukkapella* (batch 4).</p></blockquote>
+<blockquote><p>“Hanukkapella” — 70yt *hanukkapella* (batch 4).</p></blockquote>

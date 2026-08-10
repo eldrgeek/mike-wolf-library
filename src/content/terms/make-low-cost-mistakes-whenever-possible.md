@@ -5,6 +5,7 @@ subtitle: "prefer cheap experiments over expensive certainty"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-07 (Wall)."
+origin_html: "Mike with Dee 2026-05-07 (Wall)."
 source: "Mike with Dee 2026-05-07 (Wall)."
 related: []
 provenance: []

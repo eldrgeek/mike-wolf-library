@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02"
+  - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
+  - "70yearswtf-frustration-and-forgiveness-19-05-22"
+  - "70yearswtf-sacrifice-to-realize-potential-18-12-04"
+  - "70yearswtf-setting-my-direction-20-01-18"
 ---
 
 ## **Memento, redux**

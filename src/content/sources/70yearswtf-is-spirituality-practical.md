@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "meditation"
 related:
+  - "70yearswtf-mikesim-version-73-a-simulated-human-16-01-01"
+  - "70yearswtf-waking-up-again-16-02-01"
+  - "70yearswtf-winning-losing-grace-and-being-there-16-06-30"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![Photo by **Prince Kumar(https://www.pexels.com/@prince-kumar-781937?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/selective-focus-photography-of-monk-during-meditation-2421467/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/is-spirituality-practical/1.jpg)

@@ -5,6 +5,7 @@ subtitle: "artifacts as agentic kin with paired managers, not walk-away products
 theme: "Architecture & Roles"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-07 (Wall)."
+origin_html: "Mike with Dee 2026-05-07 (Wall)."
 source: "Mike with Dee 2026-05-07 (Wall)."
 related: []
 provenance: []

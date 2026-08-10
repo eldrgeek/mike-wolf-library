@@ -14,11 +14,11 @@ tags:
   - "AI"
   - "automation"
 related:
+  - "70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 My [quest to find portals](https://70yearswtf.substack.com/p/finding-a-portal-19-12-20) has led me to work on creating one. I call it my Portal to Sanity. Perhaps you can create your own.

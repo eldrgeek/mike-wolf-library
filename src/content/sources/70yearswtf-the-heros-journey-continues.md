@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-from-farnam-street-to-quantum-computing-19-06-30"
-  - "70yearswtf-more-advice-share-your-gifts"
-  - "70yearswtf-waking-up-and-the-illusion-of-the-19-06-22"
-  - "srmw-chapter-40-how-to-practice"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![A symbolic and evocative image representing 'The Hero’s Journey and Rebirth.' A lone traveler, an elderly man with a contemplative expression, walks through a mystical landscape. The scene is divided into three sections: on the left, a dark, chaotic storm represents struggle and the call to adventure; in the center, the traveler crosses a glowing threshold, symbolizing transformation; on the right, a serene, golden-hued sunrise over mountains represents rebirth and newfound wisdom. Ethereal figures of past loved ones, including a gentle feminine presence, watch over him. The atmosphere is dreamlike, blending realism with a touch of the mythical.](/media/70yt/the-heros-journey-continues/1.jpg)

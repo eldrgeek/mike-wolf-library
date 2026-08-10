@@ -4,12 +4,16 @@ title: "lights out / lights on"
 subtitle: "Mike's explicit signal that he's asleep / awake"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
-source: ""
+origin: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+origin_html: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+source: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
 related:
   - "the-bottleneck"
   - "dispatch"
   - "afk-taxonomy-atk-afk-ok-afk-dnba-afk-dnd-asleep"
-provenance: []
+provenance:
+  - "70yearswtf-morning-routine-what-and-why-19-01-26"
+  - "70yearswtf-optimal-balance-of-attention-and-19-04-01"
 tags:
   - "dialect"
   - "rituals"

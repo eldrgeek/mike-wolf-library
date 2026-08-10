@@ -5,6 +5,7 @@ subtitle: "God’s name (I AM) as the ultimate fan of every person"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *i-am-your-greatest-fan* (batch 4)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-i-am-your-greatest-fan/\" class=\"corpus-ref\"><em>i-am-your-greatest-fan</em></a> (batch 4)."
 source: "70yt *i-am-your-greatest-fan* (batch 4)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Comma load-bearing: not a typo. Turns tetragrammatonic formula into unconditional encouragement.</p>
-<blockquote><p>“No, it’s not a typo.” / “I AM, your greatest fan” — 70yt *i-am-your-greatest-fan* (batch 4).</p></blockquote>
+<blockquote><p>“No, it’s not a typo.” / “I AM, your greatest fan” — 70yt <a href="/corpus/70yearswtf-i-am-your-greatest-fan/" class="corpus-ref"><em>i-am-your-greatest-fan</em></a> (batch 4).</p></blockquote>

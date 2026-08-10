@@ -5,6 +5,7 @@ subtitle: "lesson-propagation: second occurrence of a known error is the failure
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-05 (Wall)."
+origin_html: "Mike with Dee 2026-05-05 (Wall)."
 source: "Mike with Dee 2026-05-05 (Wall)."
 related: []
 provenance: []

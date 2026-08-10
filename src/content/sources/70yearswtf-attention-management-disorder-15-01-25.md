@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "economics"
 related:
+  - "70yearswtf-intention-deficit-disorder-16-10-25"
+  - "70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31"
+  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Attention Economics is a new subject that I invented to explain some of the dynamics of [my Society of Mind](http://70yearsoldwtf.blogspot.com/2014/12/dysfunction-in-society-of-mind.html). Except that Wikipedia says that [Attention Economics](http://en.wikipedia.org/wiki/Attention_economy) is already a thing, though not exactly the thing that I mean it to. So I can't have invented it. And by the way, Urban Dictionary says that "its a thing" [is a thing](http://www.urbandictionary.com/define.php?term=it%27s+a+thing&defid=6624350). That will interest you lovers of the self-referential.

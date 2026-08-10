@@ -5,6 +5,7 @@ subtitle: "build on open shoulders; give back the same way"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike Wolf, 2026-05-03 (Wall)."
+origin_html: "Mike Wolf, 2026-05-03 (Wall)."
 source: "Mike Wolf, 2026-05-03 (Wall)."
 related: []
 provenance:

@@ -5,6 +5,7 @@ subtitle: "performative confidence as writing stance"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *i-imagine-that-this-will-be-one-of* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-i-imagine-that-this-will-be-one-of/\" class=\"corpus-ref\"><em>i-imagine-that-this-will-be-one-of</em></a> (title mine)."
 source: "70yt *i-imagine-that-this-will-be-one-of* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Performative confidence: declare the piece best-in-class as a stance that can create the work.</p>
-<blockquote><p>“Realize that you can imagine things that are real, things that are not real, and things that will never be real.” — 70yt *i-imagine-that-this-will-be-one-of* (title mine).</p></blockquote>
+<blockquote><p>“Realize that you can imagine things that are real, things that are not real, and things that will never be real.” — 70yt <a href="/corpus/70yearswtf-i-imagine-that-this-will-be-one-of/" class="corpus-ref"><em>i-imagine-that-this-will-be-one-of</em></a> (title mine).</p></blockquote>

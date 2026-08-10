@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-going-meta"
-  - "70yearswtf-lowering-the-bar-a-technique-for-13-01-05"
+  - "70yearswtf-an-intentional-meditation-on-intention-18-12-13"
+  - "70yearswtf-attention-on-intention-and-metaintention-20-01-26"
+  - "70yearswtf-postprocessing-4000-tabs-to-close-20-01-26"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
 ---
 
 What now?

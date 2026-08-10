@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "economics"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-property-rights-arguments-recreated-18-01-08"
+  - "70yearswtf-reality-isnt-optional-13-01-05"
+  - "70yearswtf-too-goddamned-many-ideas-part-i-13-01-07"
+  - "70yearswtf-violence-markets-redux-part-i-18-01-05"
+  - "70yearswtf-way-way-way-too-much-stuff-to-think-16-03-14"
 ---
 
 Money is not the same as wealth.

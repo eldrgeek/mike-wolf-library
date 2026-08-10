@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-multi-trick-pony-new-stuff-at-substack"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![A humorous and intricate Rube Goldberg-style machine designed for rebooting a computer, featuring overly complicated components like pipes, gears, pulleys, and whirring gizmos. Labels on parts of the machine include 'Reboot Process,' 'Error Management,' and 'System Recovery.' At the end of the contraption, a toaster comically ejects a burnt slice of toast with the word 'Error' charred onto it. The scene is colorful, playful, and exaggerated, with a whimsical and cartoonish art style.](/media/70yt/im-re-rebooting/1.jpg)

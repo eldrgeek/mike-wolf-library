@@ -5,6 +5,7 @@ subtitle: "retrospective causal story: P happened because we did (or failed) Q"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *too-goddamned-many-ideas-part-i* (batch 1)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-too-goddamned-many-ideas-part-i-13-01-07/\" class=\"corpus-ref\"><em>too-goddamned-many-ideas-part-i</em></a> (batch 1)."
 source: "70yt *too-goddamned-many-ideas-part-i* (batch 1)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Twin of forecast. Economic/political rhetoric sells both; Mike treats aftercasts as untrustworthy when they prop policy.</p>
-<blockquote><p>“Or an aftercast: P has happened because we did, or failed to do Q.” — 70yt *too-goddamned-many-ideas-part-i* (batch 1).</p></blockquote>
+<blockquote><p>“Or an aftercast: P has happened because we did, or failed to do Q.” — 70yt <a href="/corpus/70yearswtf-too-goddamned-many-ideas-part-i-13-01-07/" class="corpus-ref"><em>too-goddamned-many-ideas-part-i</em></a> (batch 1).</p></blockquote>

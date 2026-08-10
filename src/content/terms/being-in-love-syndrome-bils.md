@@ -5,6 +5,7 @@ subtitle: "invented “medical” condition: the pathology of being in love"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Vault Claude/Grok BILS satire 2026-02."
+origin_html: "Vault Claude/Grok BILS satire 2026-02."
 source: "Vault Claude/Grok BILS satire 2026-02."
 related: []
 provenance: []

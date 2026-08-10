@@ -5,6 +5,7 @@ subtitle: "the real proof that two minds are aligned"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike, July 2026."
+origin_html: "Mike, July 2026."
 source: "Mike, July 2026."
 related:
   - "were-aligned"

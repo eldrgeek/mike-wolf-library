@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "automation"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-70-years-old-wtf-12-12-31"
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-a-meditation-on-dullness-20-02-05"
+  - "70yearswtf-a-special-day-19-12-31"
+  - "70yearswtf-carl-and-susan-chase-in-memoriam-19-11-05"
 ---
 
 Today is January 1, 2020. My day started shitty, which means my year started shitty, and also my decade. It got better, which means everything has already improved.

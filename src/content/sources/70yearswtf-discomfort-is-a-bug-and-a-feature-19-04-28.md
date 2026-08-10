@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "automation"
 related:
+  - "70yearswtf-fast-talkers-of-america-18-07-05"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Once again I’ve arrived near the end of the day with lots to write about and nothing written. And today I’ve fallen into whining about it.

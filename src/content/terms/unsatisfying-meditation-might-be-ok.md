@@ -5,6 +5,7 @@ subtitle: "permission: bad sits still count"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *unsatisfying-meditation-might-be-17-10-14* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-unsatisfying-meditation-might-be-17-10-14/\" class=\"corpus-ref\"><em>unsatisfying-meditation-might-be-17-10-14</em></a> (title mine)."
 source: "70yt *unsatisfying-meditation-might-be-17-10-14* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Permission structure: unsatisfying sits can still be right practice. Drop the highlight reel.</p>
-<blockquote><p>“Next up: another 15 minutes of unsatisfying meditation.” — 70yt *unsatisfying-meditation-might-be-17-10-14* (title mine).</p></blockquote>
+<blockquote><p>“Next up: another 15 minutes of unsatisfying meditation.” — 70yt <a href="/corpus/70yearswtf-unsatisfying-meditation-might-be-17-10-14/" class="corpus-ref"><em>unsatisfying-meditation-might-be-17-10-14</em></a> (title mine).</p></blockquote>

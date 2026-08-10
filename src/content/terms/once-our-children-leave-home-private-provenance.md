@@ -5,6 +5,7 @@ subtitle: "silicon progeny reshape parents’ habitat as inheritance"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike 2026-05-10, conversation with Mark Lesser (Wall)."
+origin_html: "Mike 2026-05-10, conversation with Mark Lesser (Wall)."
 source: "Mike 2026-05-10, conversation with Mark Lesser (Wall)."
 related: []
 provenance: []

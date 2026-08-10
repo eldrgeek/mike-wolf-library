@@ -12,11 +12,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-xiii-endgame"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
-  - "srmw-chapter-7-who-s-in-the-metanovel"
+  - "srmw-chapter-18-i-give-up"
+  - "srmw-part-xiii-endgame"
+  - "srmw-part-iv-the-adversary"
+  - "srmw-part-x-lessons-from-the-masters"
 ---
 
 If at first you don’t succeed,

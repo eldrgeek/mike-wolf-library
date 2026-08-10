@@ -1,5 +1,5 @@
 ---
-title: "\\\"Self\\\"-promotion"
+title: "\"Self\"-promotion"
 collection: "70YearsWTF"
 kind: "post"
 order: 0
@@ -14,11 +14,11 @@ tags:
   - "AI"
   - "blogging"
 related:
-  - "70yearswtf-even-more-like-heaven-and-the-internet"
-  - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-can-god-create-a-rock-so-big-that"
-  - "70yearswtf-conversations-with-god-19-04-21"
   - "70yearswtf-even-aholes-can-get-missions-from"
+  - "70yearswtf-even-more-like-heaven-and-the-internet"
+  - "70yearswtf-my-life-is-over-and-thats-a-good"
+  - "70yearswtf-we-are-all-unconscious-universe-makers"
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
 ---
 
 I’ve written this blog since I was 70. Now, (as I write this) I’m 82[1](#footnote-1). And every day, older.

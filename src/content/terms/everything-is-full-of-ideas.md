@@ -5,6 +5,7 @@ subtitle: "ontology of abundance: world as idea-dense"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *everything-is-full-of-ideas* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-everything-is-full-of-ideas/\" class=\"corpus-ref\"><em>everything-is-full-of-ideas</em></a> (title mine)."
 source: "70yt *everything-is-full-of-ideas* (title mine)."
 related:
   - "everything-is-an-idea"
@@ -17,4 +18,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Companion to “everything is an idea”: not only is stuff idea-like—everything is <em>full of</em> ideas, crowded with them. Abundance ontology.</p>
-<blockquote><p>“Everything is full of ideas I am an idea, overflowing with ideas.” — 70yt *everything-is-full-of-ideas* (title mine).</p></blockquote>
+<blockquote><p>“Everything is full of ideas I am an idea, overflowing with ideas.” — 70yt <a href="/corpus/70yearswtf-everything-is-full-of-ideas/" class="corpus-ref"><em>everything-is-full-of-ideas</em></a> (title mine).</p></blockquote>

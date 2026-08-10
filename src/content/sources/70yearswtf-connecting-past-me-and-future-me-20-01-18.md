@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02"
+  - "70yearswtf-autodriver-in-the-house-16-02-03"
+  - "70yearswtf-debugging-and-programming-automike-18-08-02"
+  - "70yearswtf-free-will-maybe-maybe-not-16-01-02"
+  - "70yearswtf-frustration-and-forgiveness-19-05-22"
 ---
 
 This post, [Setting my direction](https://70yearsoldwtf.blogspot.com/2020/01/setting-my-direction.html), started with an email from Past Me. Why was Past Me sending me an email?

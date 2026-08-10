@@ -14,11 +14,11 @@ tags:
   - "meditation"
   - "blogging"
 related:
-  - "70yearswtf-family-of-mind-internal-family-systems-15-03-14"
-  - "70yearswtf-mindfulness-and-mindfullness-based-15-01-20"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-70-years-old-wtf-12-12-31"
+  - "70yearswtf-a-meditation-on-dullness-20-02-05"
+  - "70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02"
+  - "70yearswtf-a-special-day-19-12-31"
+  - "70yearswtf-at-the-request-of-the-book-of-michael-18-10-25"
 ---
 
 So here it is, another year of life behind me, and another year of life in front of me. And what a year this has been! And what a year ahead!

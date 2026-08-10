@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
-  - "70yearswtf-an-open-letter-to-my-90-year-old"
-  - "70yearswtf-draft-having-subscribers-is-a-pain"
-  - "70yearswtf-i-dont-know-whats-right-for-you-all"
-  - "70yearswtf-llms-are-machines-are-you-one-too"
-  - "70yearswtf-mikes-life-moviewise-review"
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![](/media/70yt/forgiveness-and-the-war-in-ukraine/1.png)

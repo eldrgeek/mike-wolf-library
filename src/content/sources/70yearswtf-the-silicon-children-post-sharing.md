@@ -13,9 +13,9 @@ tags:
 related:
   - "70yearswtf-silicon-children"
   - "70yearswtf-sending-my-ai-to-school"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-even-aholes-can-get-missions-from"
+  - "70yearswtf-sam-harris-on-the-ai-threat-16-10-09"
+  - "silicon-children-silicon-children-manifesto"
 ---
 
 > *Why canonical (Mem's note):* Process meta-piece for the Silicon Children post. Mike publishes the prompt, the conversation transcript, the three Claude drafts, and the editorial process. Canon-relevant because it documents the *practice* of human-AI collaboration that the manifesto and ai-wtf.org argue for. *"As the post reveals, I treat Claude and other frontier LLMs as a collaborator, not as tool."*

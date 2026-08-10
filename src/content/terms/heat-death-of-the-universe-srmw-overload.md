@@ -5,9 +5,13 @@ subtitle: "far-end copyright / endurance joke-horizon"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
+origin_html: "SRMW."
 source: "SRMW."
 related: []
-provenance: []
+provenance:
+  - "srmw-chapter-16-the-heat-death-of-the-universe"
+  - "srmw-part-ii-the-metanovel"
+  - "srmw-chapter-10-the-not-quite-omniscient-narrator"
 tags:
   - "SRMW"
   - "philosophy"

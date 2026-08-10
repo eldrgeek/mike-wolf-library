@@ -5,6 +5,7 @@ subtitle: "daily reader blessing / ritual address"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *you-are-special-today* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-you-are-special-today/\" class=\"corpus-ref\"><em>you-are-special-today</em></a> (title mine)."
 source: "70yt *you-are-special-today* (title mine)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Ritual address to the reader: today, specifically, you are special. Not empty flattery—an intentional blessing that resets the day’s frame.</p>
-<blockquote><p>“If you’ve landed on this web page, or gotten this in your email, you are special.” — 70yt *you-are-special-today* (title mine).</p></blockquote>
+<blockquote><p>“If you’ve landed on this web page, or gotten this in your email, you are special.” — 70yt <a href="/corpus/70yearswtf-you-are-special-today/" class="corpus-ref"><em>you-are-special-today</em></a> (title mine).</p></blockquote>

@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
-  - "70yearswtf-draft-having-subscribers-is-a-pain"
-  - "70yearswtf-forgiveness-and-the-war-in-ukraine"
-  - "70yearswtf-i-dont-know-whats-right-for-you-all"
-  - "70yearswtf-llms-are-machines-are-you-one-too"
-  - "70yearswtf-mikes-life-moviewise-review"
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 *Photo by [Lucas George Wendt](https://unsplash.com/@lucasgwendt) on [Unsplash](https://unsplash.com)*

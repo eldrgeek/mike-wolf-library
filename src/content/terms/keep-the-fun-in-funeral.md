@@ -5,10 +5,13 @@ subtitle: "family death-humor motto: grief without canceling humor"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *keep-the-fun-in-funeral*; *family-motto*."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-keep-the-fun-in-funeral-19-10-23/\" class=\"corpus-ref\"><em>keep-the-fun-in-funeral</em></a>; <a href=\"/corpus/70yearswtf-family-motto/\" class=\"corpus-ref\"><em>family-motto</em></a>."
 source: "70yt *keep-the-fun-in-funeral*; *family-motto*."
 related:
   - "family-motto"
-provenance: []
+provenance:
+  - "70yearswtf-keep-the-fun-in-funeral-19-10-23"
+  - "70yearswtf-family-motto"
 tags:
   - "70yt"
   - "rituals"

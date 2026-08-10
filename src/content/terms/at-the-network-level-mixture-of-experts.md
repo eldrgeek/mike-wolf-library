@@ -5,6 +5,7 @@ subtitle: "MoE is what the system is; “team” is how it is operated"
 theme: "Architecture & Roles"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-06 (Wall)."
+origin_html: "Mike with Dee 2026-05-06 (Wall)."
 source: "Mike with Dee 2026-05-06 (Wall)."
 related: []
 provenance: []

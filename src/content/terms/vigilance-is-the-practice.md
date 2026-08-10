@@ -5,9 +5,11 @@ subtitle: "frames drift; vigilance is the continuous counter-pull; no frame is s
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Dee 2026-05-04; Mike validated (Wall)."
+origin_html: "Dee 2026-05-04; Mike validated (Wall)."
 source: "Dee 2026-05-04; Mike validated (Wall)."
 related: []
-provenance: []
+provenance:
+  - "ai-wtf-2026-05-06-waya-self-promotion-to-button"
 tags:
   - "Wall"
   - "philosophy"

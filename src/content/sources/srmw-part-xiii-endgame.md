@@ -14,9 +14,9 @@ tags:
 related:
   - "srmw-part-viii-practice-practice-practice"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-29-the-worst-day-of-my-life"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
+  - "srmw-part-i-before-the-beginning"
+  - "srmw-chapter-7-who-s-in-the-metanovel"
+  - "srmw-chapter-18-i-give-up"
 ---
 
 If at last you find success,

@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-i-before-the-beginning"
-  - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
+  - "srmw-chapter-21-the-center-of-the-universe"
+  - "srmw-chapter-22-i-know-where-i-am"
+  - "srmw-chapter-23-what-are-you"
+  - "srmw-chapter-25-the-tree-of-life"
+  - "70yearswtf-im-mike-from-right-here-the-center-15-02-02"
 ---
 
 “You’re in this chapter,”God said.

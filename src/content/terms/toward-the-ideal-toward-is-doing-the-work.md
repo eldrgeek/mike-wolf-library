@@ -1,10 +1,11 @@
 ---
 letter: "T"
-title: "Toward the ideal — \\\"toward\\\" is doing the work"
+title: "Toward the ideal — \"toward\" is doing the work"
 subtitle: "ideal as direction under present capability, not unreachable State"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike with Dee 2026-05-07 (Wall)."
+origin_html: "Mike with Dee 2026-05-07 (Wall)."
 source: "Mike with Dee 2026-05-07 (Wall)."
 related: []
 provenance: []

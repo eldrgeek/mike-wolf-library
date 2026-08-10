@@ -5,6 +5,7 @@ subtitle: "the visualized attractor-self whose habits Present Me lacks"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *a-shitty-start-to-a-new-decade* (batch 7)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02/\" class=\"corpus-ref\"><em>a-shitty-start-to-a-new-decade</em></a> (batch 7)."
 source: "70yt *a-shitty-start-to-a-new-decade* (batch 7)."
 related:
   - "past-me-present-me-future-me-ideal-future-me-barely-past-me"
@@ -15,5 +16,5 @@ tags:
   - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> Present Me consciously incompetent; Ideal Future Me unconsciously competent. Visualize in detail to increase attractive force. Pairs with My Portal.</p>
-<blockquote><p>“Present Me, and the person that I aspire to be—Ideal Future Me” — 70yt *a-shitty-start-to-a-new-decade* (batch 7).</p></blockquote>
+<p><strong>What we mean.</strong> <a href="#term-past-me-present-me-future-me-ideal-future-me-barely-past-me" class="term-xref">Present Me</a> consciously incompetent; Ideal Future Me unconsciously competent. Visualize in detail to increase attractive force. Pairs with <a href="#term-portal-to-sanity" class="term-xref">My Portal</a>.</p>
+<blockquote><p>“Present Me, and the person that I aspire to be—Ideal Future Me” — 70yt <a href="/corpus/70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02/" class="corpus-ref"><em>a-shitty-start-to-a-new-decade</em></a> (batch 7).</p></blockquote>

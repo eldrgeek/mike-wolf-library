@@ -14,10 +14,10 @@ tags:
   - "writing"
 related:
   - "srmw-part-iv-the-adversary"
-  - "srmw-chapter-12-how-to-create-a-muse-without-a-muse"
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
+  - "srmw-chapter-17-it-s-all-crap"
+  - "srmw-part-viii-practice-practice-practice"
+  - "srmw-chapter-18-i-give-up"
 ---
 
 And just like that, I had a new chapter and two new ideas. Evolution and a metamuse. I’d

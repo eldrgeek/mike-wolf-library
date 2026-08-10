@@ -5,6 +5,7 @@ subtitle: "Stockholm Syndrome for Okta lock-in (IT identity-vendor captivity)"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Vault Grok/ChatGPT Oktholm / Joke Technology Systems cluster."
+origin_html: "Vault Grok/ChatGPT Oktholm / Joke Technology Systems cluster."
 source: "Vault Grok/ChatGPT Oktholm / Joke Technology Systems cluster."
 related: []
 provenance: []
@@ -13,5 +14,5 @@ tags:
   - "rituals"
 ---
 
-<p><strong>What we mean.</strong> Satirical “mental illness” of IT pros loyal to Okta despite pain. YeshID framed as the cure. Core of Joke Technology Systems family.</p>
+<p><strong>What we mean.</strong> Satirical “mental illness” of IT pros loyal to Okta despite pain. YeshID framed as the cure. Core of <a href="#term-joke-technology-systems" class="term-xref">Joke Technology Systems</a> family.</p>
 <blockquote><p>“the condition that happens when IT people find themselves incapable of surviving without Okta… The cure is YeshID.” — Vault Grok/ChatGPT Oktholm / Joke Technology Systems cluster.</p></blockquote>

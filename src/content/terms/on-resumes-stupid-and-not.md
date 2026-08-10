@@ -5,6 +5,7 @@ subtitle: "resume dual: stupid form vs non-stupid use"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *on-resumes-stupid-and-not-20-07-29* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-on-resumes-stupid-and-not-20-07-29/\" class=\"corpus-ref\"><em>on-resumes-stupid-and-not-20-07-29</em></a> (title mine)."
 source: "70yt *on-resumes-stupid-and-not-20-07-29* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Resumes split into stupid and not-stupid modes—same artifact, different ethics of presentation.</p>
-<blockquote><p>“When I was a hiring manager, I thought that most of the resumes that came across my desk were stupid.” — 70yt *on-resumes-stupid-and-not-20-07-29* (title mine).</p></blockquote>
+<blockquote><p>“When I was a hiring manager, I thought that most of the resumes that came across my desk were stupid.” — 70yt <a href="/corpus/70yearswtf-on-resumes-stupid-and-not-20-07-29/" class="corpus-ref"><em>on-resumes-stupid-and-not-20-07-29</em></a> (title mine).</p></blockquote>

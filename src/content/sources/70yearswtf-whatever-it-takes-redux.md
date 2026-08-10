@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-get-out-of-your-head-and-into-your-18-03-11"
+  - "70yearswtf-on-sacrifice-18-12-08"
+  - "70yearswtf-paradise-gained-lost-regained-what"
+  - "70yearswtf-the-hard-way-is-the-easy-way-19-04-27"
 ---
 
 ![Photo by **Nataliya Vaitkevich(https://www.pexels.com/@n-voitkevich?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)** from **Pexels(https://www.pexels.com/photo/healthy-sky-man-hand-6120398/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)**](/media/70yt/whatever-it-takes-redux/1.jpg)

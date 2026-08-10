@@ -5,6 +5,7 @@ subtitle: "parasocial/deep-read friendship without meeting"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *the-best-friend-ive-never-met* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-the-best-friend-ive-never-met/\" class=\"corpus-ref\"><em>the-best-friend-ive-never-met</em></a> (title mine)."
 source: "70yt *the-best-friend-ive-never-met* (title mine)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Friendship real in reading/correspondence without physical meeting. Named so it isn’t dismissed as fake.</p>
-<blockquote><p>“Still, I consider him one of my better friends, and without doubt the best friend I’ve never met™.” — 70yt *the-best-friend-ive-never-met* (title mine).</p></blockquote>
+<blockquote><p>“Still, I consider him one of my better friends, and without doubt the best friend I’ve never met™.” — 70yt <a href="/corpus/70yearswtf-the-best-friend-ive-never-met/" class="corpus-ref"><em>the-best-friend-ive-never-met</em></a> (title mine).</p></blockquote>

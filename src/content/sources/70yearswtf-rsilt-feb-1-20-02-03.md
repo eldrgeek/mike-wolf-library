@@ -15,11 +15,11 @@ tags:
   - "blogging"
   - "automation"
 related:
-  - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
-  - "70yearswtf-more-advice-share-your-gifts"
-  - "70yearswtf-postprocessing-4000-tabs-to-close-20-01-26"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-70-years-old-wtf-12-12-31"
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-a-meditation-on-dullness-20-02-05"
+  - "70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02"
+  - "70yearswtf-a-special-day-19-12-31"
 ---
 
 Feb 1, I decided I was going to keep track of what I learned. Looking back I was surprised.

@@ -5,9 +5,11 @@ subtitle: "comic kill-switch for the reality-as-sim frame"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *end-simulation-18-01-14* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-end-simulation-18-01-14/\" class=\"corpus-ref\"><em>end-simulation-18-01-14</em></a> (title mine)."
 source: "70yt *end-simulation-18-01-14* (title mine)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-end-simulation-18-01-14"
 tags:
   - "70yt"
   - "wordplay"
@@ -15,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> All-caps kill command aimed at the simulation hypothesis—or at a bad day framed as one. Comic eject handle.</p>
-<blockquote><p>“END SIMULATION!&quot; I said.” — 70yt *end-simulation-18-01-14* (title mine).</p></blockquote>
+<blockquote><p>“END SIMULATION!&quot; I said.” — 70yt <a href="/corpus/70yearswtf-end-simulation-18-01-14/" class="corpus-ref"><em>end-simulation-18-01-14</em></a> (title mine).</p></blockquote>

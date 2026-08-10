@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-the-ideas-of-intelligence-this-post"
   - "70yearswtf-99-subscribers-are-here-on-my-blog"
-  - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-even-aholes-can-get-missions-from"
+  - "70yearswtf-i-dont-believe-in-death-and-you-dont"
+  - "70yearswtf-imaginary-readers-imaginary-god"
+  - "70yearswtf-llms-and-continuations"
 ---
 
 ![](/media/70yt/happy-birthday-to-you-me-and-everyone/1.jpg)

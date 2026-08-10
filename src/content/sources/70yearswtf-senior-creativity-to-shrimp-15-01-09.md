@@ -1,5 +1,5 @@
 ---
-title: "Senior creativity: \\\"to shrimp\\\""
+title: "Senior creativity: \"to shrimp\""
 collection: "70YearsWTF"
 kind: "post"
 order: 0

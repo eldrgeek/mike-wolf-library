@@ -5,6 +5,7 @@ subtitle: "SI-prefix extension of “microaggressions” into absurdly smaller u
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Vault Claude/Gemini nano-aggressions concept."
+origin_html: "Vault Claude/Gemini nano-aggressions concept."
 source: "Vault Claude/Gemini nano-aggressions concept."
 related: []
 provenance: []

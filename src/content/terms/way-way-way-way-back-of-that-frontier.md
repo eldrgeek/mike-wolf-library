@@ -5,6 +5,7 @@ subtitle: "today’s AI risk debates are far short of the real good/bad edge"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike Wolf, 2026-05-03 (Wall)."
+origin_html: "Mike Wolf, 2026-05-03 (Wall)."
 source: "Mike Wolf, 2026-05-03 (Wall)."
 related:
   - "ai-optimism"
@@ -14,5 +15,5 @@ tags:
   - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> There is a true frontier where moral valence is unclear. Mike’s claim is positional: we are not near it. Licenses continued building under AI optimism without denying a hard frontier exists <em>somewhere</em>.</p>
+<p><strong>What we mean.</strong> There is a true frontier where moral valence is unclear. Mike’s claim is positional: we are not near it. Licenses continued building under <a href="#term-ai-optimism" class="term-xref">AI optimism</a> without denying a hard frontier exists <em>somewhere</em>.</p>
 <blockquote><p>“There is a frontier… we are way way way way back of that frontier right now.” — Mike Wolf, 2026-05-03 (Wall).</p></blockquote>

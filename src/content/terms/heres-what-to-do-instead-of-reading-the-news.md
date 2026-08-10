@@ -5,6 +5,7 @@ subtitle: "news-replacement prescription"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *heres-what-to-do-instead-of-reading* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-heres-what-to-do-instead-of-reading/\" class=\"corpus-ref\"><em>heres-what-to-do-instead-of-reading</em></a> (title mine)."
 source: "70yt *heres-what-to-do-instead-of-reading* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Positive replacement for news fasting: not only stop—do this instead.</p>
-<blockquote><p>“I read what he writes instead of reading the news.” — 70yt *heres-what-to-do-instead-of-reading* (title mine).</p></blockquote>
+<blockquote><p>“I read what he writes instead of reading the news.” — 70yt <a href="/corpus/70yearswtf-heres-what-to-do-instead-of-reading/" class="corpus-ref"><em>heres-what-to-do-instead-of-reading</em></a> (title mine).</p></blockquote>

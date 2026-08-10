@@ -5,6 +5,7 @@ subtitle: "tendencies that can be manipulated toward *good* productivity"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *the-tohunga-lounge* (batch 2)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31/\" class=\"corpus-ref\"><em>the-tohunga-lounge</em></a> (batch 2)."
 source: "70yt *the-tohunga-lounge* (batch 2)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Eu- marks beneficial polarity: routine, accountability, community, novelty, support, gratitude as levers.</p>
-<blockquote><p>“exploiting my euproductive proclivities.” — 70yt *the-tohunga-lounge* (batch 2).</p></blockquote>
+<blockquote><p>“exploiting my euproductive proclivities.” — 70yt <a href="/corpus/70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31/" class="corpus-ref"><em>the-tohunga-lounge</em></a> (batch 2).</p></blockquote>

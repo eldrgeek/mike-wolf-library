@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-i-before-the-beginning"
+  - "srmw-part-iv-the-adversary"
+  - "srmw-part-viii-practice-practice-practice"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
+  - "srmw-chapter-9-finding-a-publisher"
+  - "srmw-chapter-13-evolving-a-muse"
 ---
 
 verse

@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "meditation"
 related:
+  - "70yearswtf-things-im-excited-about-in-2020-20-01-23"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 For years I’ve been imagining selling a product I’ve called SuperPlacebo, the world’s most potent and effective placebo. I bought some gel caps from Amazon and occasionally dose myself with a SuperPlacebo or two.

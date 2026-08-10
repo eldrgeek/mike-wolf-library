@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "automation"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-intention-deficit-disorder-16-10-25"
+  - "70yearswtf-when-your-chair-in-the-sky-is-just-18-11-11"
+  - "70yearswtf-attention-management-disorder-15-01-25"
+  - "70yearswtf-attention-on-intention-and-metaintention-20-01-26"
+  - "70yearswtf-modern-monetary-theory-explained-16-03-03"
 ---
 
 ![](/media/70yt/the-tohunga-lounge-and-the-writers-19-07-31/1.jpg)

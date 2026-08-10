@@ -5,6 +5,7 @@ subtitle: "yak-shaving path to awareness (+ missing final s)"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *yak-shaving-my-way-to-awarenes-15-12-20* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-yak-shaving-my-way-to-awarenes-15-12-20/\" class=\"corpus-ref\"><em>yak-shaving-my-way-to-awarenes-15-12-20</em></a> (title mine)."
 source: "70yt *yak-shaving-my-way-to-awarenes-15-12-20* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Enlightenment via yak shaves; final <em>s</em> dropped on “awarenes” as signature haste/misspell energy.</p>
-<blockquote><p>“Yak Shaving Tool (Photo credit: Wikipedia)” — 70yt *yak-shaving-my-way-to-awarenes-15-12-20* (title mine).</p></blockquote>
+<blockquote><p>“Yak Shaving Tool (Photo credit: Wikipedia)” — 70yt <a href="/corpus/70yearswtf-yak-shaving-my-way-to-awarenes-15-12-20/" class="corpus-ref"><em>yak-shaving-my-way-to-awarenes-15-12-20</em></a> (title mine).</p></blockquote>

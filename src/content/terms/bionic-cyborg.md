@@ -5,6 +5,7 @@ subtitle: "cyborg upgrade via hardware (knee); Bionic Cyborg Day 2017-09-05"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *and-now-i-am-a-bionic-cyborg-part* (I & II)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-and-now-i-am-a-bionic-cyborg-part-17-09-11/\" class=\"corpus-ref\"><em>and-now-i-am-a-bionic-cyborg-part</em></a> (I & II)."
 source: "70yt *and-now-i-am-a-bionic-cyborg-part* (I & II)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Already a cloud-memory cyborg; knee hardware makes the upgrade literal—bionic. Identity move, not just surgery diary.</p>
-<blockquote><p>“I’m a bionic cyborg.” — 70yt *and-now-i-am-a-bionic-cyborg-part* (Part I)</p></blockquote>
+<blockquote><p>“I’m a bionic cyborg.” — 70yt <a href="/corpus/70yearswtf-and-now-i-am-a-bionic-cyborg-part-17-09-11/" class="corpus-ref"><em>and-now-i-am-a-bionic-cyborg-part</em></a> (Part I)</p></blockquote>

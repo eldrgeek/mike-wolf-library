@@ -5,6 +5,7 @@ subtitle: "paired title load: aging and conflict as twin themes"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *age-war* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-age-war/\" class=\"corpus-ref\"><em>age-war</em></a> (title mine)."
 source: "70yt *age-war* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Two-word title that yokes aging and war—often read against Mike’s “age is a word / war is the answer” delete-key theology. Compression as program.</p>
-<blockquote><p>“People say that a lot.” — 70yt *age-war* (title mine).</p></blockquote>
+<blockquote><p>“People say that a lot.” — 70yt <a href="/corpus/70yearswtf-age-war/" class="corpus-ref"><em>age-war</em></a> (title mine).</p></blockquote>

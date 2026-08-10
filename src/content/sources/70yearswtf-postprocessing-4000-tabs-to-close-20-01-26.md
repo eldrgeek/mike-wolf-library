@@ -13,9 +13,9 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
-  - "70yearswtf-more-advice-share-your-gifts"
-  - "70yearswtf-rsilt-feb-1-20-02-03"
+  - "70yearswtf-an-intentional-meditation-on-intention-18-12-13"
+  - "70yearswtf-attention-on-intention-and-metaintention-20-01-26"
+  - "70yearswtf-intentional-failure-19-02-25"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
 ---

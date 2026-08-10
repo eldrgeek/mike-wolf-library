@@ -5,13 +5,15 @@ subtitle: "happiness postponed until conditions; unhappiness as leverage"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *conditional-happiness-and-conditioned* (batch 2)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-conditional-happiness-and-conditioned-20-11-22/\" class=\"corpus-ref\"><em>conditional-happiness-and-conditioned</em></a> (batch 2)."
 source: "70yt *conditional-happiness-and-conditioned* (batch 2)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-conditional-happiness-and-conditioned-20-11-22"
 tags:
   - "70yt"
   - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Willingness to be happy <em>only if</em>; unhappiness as self-control tool. Path toward unconditional happiness.</p>
-<blockquote><p>“we are holding happiness hostage.” — 70yt *conditional-happiness-and-conditioned* (batch 2).</p></blockquote>
+<blockquote><p>“we are holding happiness hostage.” — 70yt <a href="/corpus/70yearswtf-conditional-happiness-and-conditioned-20-11-22/" class="corpus-ref"><em>conditional-happiness-and-conditioned</em></a> (batch 2).</p></blockquote>

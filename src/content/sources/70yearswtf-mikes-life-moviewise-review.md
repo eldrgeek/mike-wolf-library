@@ -1,5 +1,5 @@
 ---
-title: "\\\"Mike's life:\\\" a moviewise-style series review"
+title: "\"Mike's life:\" a moviewise-style series review"
 collection: "70YearsWTF"
 kind: "post"
 order: 0
@@ -15,10 +15,10 @@ tags:
   - "blogging"
 related:
   - "70yearswtf-today-i-am-filled-with-spirit-and"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-99-subscribers-are-here-on-my-blog"
-  - "70yearswtf-an-open-letter-to-my-90-year-old"
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
 ---
 
 ![](/media/70yt/mikes-life-moviewise-review/1.jpg)

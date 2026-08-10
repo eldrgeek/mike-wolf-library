@@ -4,7 +4,9 @@ title: "AI optimism"
 subtitle: "the stance that smarter AI converges on human flourishing"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
-source: ""
+origin: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+origin_html: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+source: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
 related:
   - "way-way-way-way-back-of-that-frontier"
 provenance: []

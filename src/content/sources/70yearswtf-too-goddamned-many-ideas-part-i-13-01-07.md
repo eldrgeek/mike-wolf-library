@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "economics"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-money-is-not-wealth-16-03-20"
+  - "70yearswtf-property-rights-arguments-recreated-18-01-08"
+  - "70yearswtf-reality-isnt-optional-13-01-05"
+  - "70yearswtf-violence-markets-redux-part-i-18-01-05"
+  - "70yearswtf-way-way-way-too-much-stuff-to-think-16-03-14"
 ---
 
 No idea exists in isolation. Every idea is part of a network of ideas that refer to each other, and sometimes to themselves (as this one is doing, right now). Expressing one idea is hard to do without having expressed the others on which it depends. And those depend on still others, and so on. Given a narrow context, I can write something. But given the broad landscape that my ideas on economics and politics cover, I have trouble finding where to start.

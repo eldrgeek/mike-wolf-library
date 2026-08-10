@@ -5,6 +5,7 @@ subtitle: "Sagan/Woodstock line elevated to doctrine"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *we-are-stardust-in-the-highest-exalted* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-we-are-stardust-in-the-highest-exalted/\" class=\"corpus-ref\"><em>we-are-stardust-in-the-highest-exalted</em></a> (title mine)."
 source: "70yt *we-are-stardust-in-the-highest-exalted* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Stardust claim kept from kitsch by “highest, exalted”—cosmic materialism as praise, not reduction.</p>
-<blockquote><p>“We are stardust, &gt; In the highest, exalted way, &gt; Called by the universe, &gt; Reaching out to the universe.” — 70yt *we-are-stardust-in-the-highest-exalted* (title mine).</p></blockquote>
+<blockquote><p>“We are stardust, &gt; In the highest, exalted way, &gt; Called by the universe, &gt; Reaching out to the universe.” — 70yt <a href="/corpus/70yearswtf-we-are-stardust-in-the-highest-exalted/" class="corpus-ref"><em>we-are-stardust-in-the-highest-exalted</em></a> (title mine).</p></blockquote>

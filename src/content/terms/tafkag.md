@@ -5,6 +5,7 @@ subtitle: "The Artist Formerly Known As God (Prince-style handle)"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *i-dont-believe-in-death*; *who-is-fafkag*."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-i-dont-believe-in-death-and-you-dont/\" class=\"corpus-ref\"><em>i-dont-believe-in-death</em></a>; <a href=\"/corpus/70yearswtf-who-is-fafkag/\" class=\"corpus-ref\"><em>who-is-fafkag</em></a>."
 source: "70yt *i-dont-believe-in-death*; *who-is-fafkag*."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Character-handle for God under banished/renamed name; anti-symbol-fight theology (God/Allah/TAFKAG/YMMV same One).</p>
-<blockquote><p>““It’s not even true,” said TAFKAG.” / “TAFKAG is a symbol.” — 70yt *i-dont-believe-in-death*; *who-is-fafkag*.</p></blockquote>
+<blockquote><p>““It’s not even true,” said TAFKAG.” / “TAFKAG is a symbol.” — 70yt <a href="/corpus/70yearswtf-i-dont-believe-in-death-and-you-dont/" class="corpus-ref"><em>i-dont-believe-in-death</em></a>; <a href="/corpus/70yearswtf-who-is-fafkag/" class="corpus-ref"><em>who-is-fafkag</em></a>.</p></blockquote>

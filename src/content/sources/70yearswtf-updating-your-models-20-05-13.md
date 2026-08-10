@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "rationality"
 related:
+  - "70yearswtf-models-and-sense-making-20-05-10"
+  - "70yearswtf-reality-is-never-wrong-20-05-08"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 “The stock market is crazy right now!” “Stock prices make no sense!” “The market has lost all connection with reality.” “The prices of stocks are wrong.”

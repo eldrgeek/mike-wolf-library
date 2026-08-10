@@ -15,11 +15,11 @@ tags:
   - "meditation"
   - "blogging"
 related:
+  - "70yearswtf-pay-the-price-20-05-03"
+  - "70yearswtf-the-hard-way-is-the-easy-way-19-04-27"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![](/media/70yt/jocko-wilnicks-three-principles-for-19-06-01/1.jpg)

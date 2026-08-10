@@ -5,6 +5,7 @@ subtitle: "treat behavior bugs like code bugs: notice, analyze, fix now if not t
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *more-debugging* (batch 6)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-more-debugging-16-12-23/\" class=\"corpus-ref\"><em>more-debugging</em></a> (batch 6)."
 source: "70yt *more-debugging* (batch 6)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Distraction and intention-drift are cognitive bugs. Forgetting intention to debug is itself the bug.</p>
-<blockquote><p>“I'm trying to develop a debugging mindset: when I see a bug” — 70yt *more-debugging* (batch 6).</p></blockquote>
+<blockquote><p>“I'm trying to develop a debugging mindset: when I see a bug” — 70yt <a href="/corpus/70yearswtf-more-debugging-16-12-23/" class="corpus-ref"><em>more-debugging</em></a> (batch 6).</p></blockquote>

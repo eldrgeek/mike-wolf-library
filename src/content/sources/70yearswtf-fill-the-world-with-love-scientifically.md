@@ -16,7 +16,7 @@ related:
   - "70yearswtf-can-god-create-a-rock-so-big-that"
   - "70yearswtf-conversations-with-god-19-04-21"
   - "70yearswtf-even-more-like-heaven-and-the-internet"
-  - "70yearswtf-forgiving-jesus-and-god"
+  - "70yearswtf-i-married-a-mythologist"
 ---
 
 ![](/media/70yt/fill-the-world-with-love-scientifically/1.jpg)

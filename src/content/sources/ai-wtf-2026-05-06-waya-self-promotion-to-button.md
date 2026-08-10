@@ -17,8 +17,9 @@ tags:
   - "soma"
 related:
   - "ai-wtf-2026-05-03-night-dee-found-workers-lying"
-  - "ai-wtf-2026-05-06-creativity"
   - "ai-wtf-post-001-raw-mike-mission-articulation"
+  - "silicon-children-silicon-children-manifesto"
+  - "ai-wtf-2026-05-06-creativity"
 ---
 
 The Sidekick action-queue protocol shipped overnight with four canonical response buttons:

@@ -5,6 +5,7 @@ subtitle: "seductive spiral: acquire → remix → never surface"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *the-tohunga-lounge* (batch 2)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31/\" class=\"corpus-ref\"><em>the-tohunga-lounge</em></a> (batch 2)."
 source: "70yt *the-tohunga-lounge* (batch 2)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Interesting content pulls acquisition; remix rarely reached; exit via bigger vortex or actual post. Failure mode of “productive” rabbit holes.</p>
-<blockquote><p>“sucked into a knowledge creation vortex.” — 70yt *the-tohunga-lounge* (batch 2).</p></blockquote>
+<blockquote><p>“sucked into a knowledge creation vortex.” — 70yt <a href="/corpus/70yearswtf-the-tohunga-lounge-and-the-writers-19-07-31/" class="corpus-ref"><em>the-tohunga-lounge</em></a> (batch 2).</p></blockquote>

@@ -5,6 +5,7 @@ subtitle: "align AI to excellence, not to unaligned humanity-as-is"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Joscha Bach paraphrased/adopted by Mike 2026-05-03 (Wall)."
+origin_html: "Joscha Bach paraphrased/adopted by Mike 2026-05-03 (Wall)."
 source: "Joscha Bach paraphrased/adopted by Mike 2026-05-03 (Wall)."
 related: []
 provenance: []

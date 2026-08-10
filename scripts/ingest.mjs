@@ -83,7 +83,18 @@ function parseFrontmatter(text) {
   if (!m) return { data: {}, body: text };
   const data = {};
   const lines = m[1].split('\n');
-  const unquote = s => s.trim().replace(/^["']|["']$/g, '');
+  // Unquote AND unescape. Without the unescape step a value written as
+  //   title: "… as \"itself\""
+  // round-trips through yamlEscape() as \\\"itself\\\" and renders with literal
+  // backslashes on the page. (Fixed 2026-08-10.)
+  const unquote = s => {
+    const t = s.trim();
+    const dq = t.match(/^"([\s\S]*)"$/);
+    if (dq) return dq[1].replace(/\\(["\\])/g, '$1');
+    const sq = t.match(/^'([\s\S]*)'$/);
+    if (sq) return sq[1].replace(/''/g, "'");
+    return t;
+  };
   let i = 0;
   while (i < lines.length) {
     const kv = lines[i].match(/^([a-zA-Z0-9_-]+):\s*(.*)$/);
@@ -173,7 +184,12 @@ function parseLexicon() {
       continue;
     }
     if (cur) {
-      if (/^---\s*$/.test(line)) continue; // section rules
+      // A `---` rule ends the entry. It previously only skipped the rule and
+      // kept reading, so the document colophon after the final rule ("Compiled
+      // by Claude for Mike Wolf, 2026-07-24 — modeled on the Levinese
+      // dictionary…") was rendering as the body of the LAST entry, Machine Room.
+      // Rules only ever appear between sections, so closing here loses nothing.
+      if (/^---\s*$/.test(line)) { entries.push(cur); cur = null; continue; }
       cur.bodyLines.push(line);
     }
   }
@@ -448,6 +464,320 @@ function parseSiliconChildren() {
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
+// INLINE LINKING
+//
+// Two passes run over every term's HTML body:
+//   (1) corpus refs — the mined entries carry machine-readable citations of the
+//       form `70yt *post-slug*`. Those become <a href="/corpus/…/"><em>…</em></a>
+//       (which also clears the literal asterisks that were rendering as markdown
+//       leftovers), and feed term.provenance.
+//   (2) term↔term — a mention of ANOTHER dictionary term becomes
+//       <a href="#term-…">, first occurrence per distinct target only.
+//
+// FALSE-POSITIVE POLICY. The dictionary is full of ordinary English carrying a
+// private overload ("dispatch", "the board", "time travel"). Linking every
+// occurrence would wreck the prose, so an alias must earn its place:
+//   • +2  three or more words (an exact long phrase is self-evidencing)
+//   • +2  contains a coined token (not in Webster's) or an ALL-CAPS acronym
+//   • +1  contains a capitalized proper noun ("Ralph loop", "Silicon Children")
+//   • +1  hyphen-joined compound ("click-path", "dual-audience design")
+//   • +1  a two-word "the …" dialect handle ("the fleet", "the vault")
+//   • -1  shorter than five characters
+// Threshold is 2, then a hand-curated stoplist removes survivors that are still
+// generic, and aliases whose lowercase form is ordinary English but which are
+// proper nouns/acronyms match CASE-SENSITIVELY only ("Pulse" links, "pulse"
+// doesn't). Bare common words are never linked at all — "dispatch" alone gets
+// no link even though "dispatch don't micromanage" does. A missed link is fine.
+// ══════════════════════════════════════════════════════════════════════════════
+const WEBSTER = (() => {
+  try {
+    return new Set(readFileSync('/usr/share/dict/words', 'utf8')
+      .split('\n').map(w => w.trim().toLowerCase()).filter(Boolean));
+  } catch { return new Set(); }
+})();
+
+const FUNCTION_WORDS = new Set(('a an the of to in on at by for and or but is are was were be been being it its this ' +
+  'that these those with from as if not no so we you i he she they them our your my his her their all any each ' +
+  'every more most some such than then there here what which who whom whose when where why how do does did done ' +
+  'can could will would shall should may might must have has had own same too very just also only into out up ' +
+  'down over under about').split(' '));
+
+// Survivors of the score that are still too generic to link safely.
+const ALIAS_STOPLIST = new Set([
+  'pay the price', 'time travel', 'waking up', 'one shot', 'bucket list', 'zero day',
+  'i win', 'i am!', 'i don’t disagree', "i don't disagree", 'i know my job',
+  'a wake', 'awake', 'knowing', 'unknowing', 'residual', 'inspiration',
+  'family motto', 'chosen people', 'new york style', 'writing for ai', 'one shot',
+  'flip the bit', 'lowering the bar', 'audience of one', 'share your gifts',
+]);
+// Forced in despite a low score — unmistakable proper nouns, plus the
+// hand-written lexicon's own plain-English terms, which are the whole point of
+// the dictionary even though they read as ordinary phrases.
+const ALIAS_ALLOWLIST = new Set([
+  'dee', 'opie', 'soma', 'hermes', 'yeshie', 'ainjel', 'pulse', 'pulse core',
+  'ccc', 'ccw', 'bathos', 'ai optimism', 'host pair', 'node identity', 'ship it',
+  'specialist ledger', 'verify outcomes', "we're aligned", 'we’re aligned',
+]);
+// NOTE: 'fable' was allowlisted and then pulled. It linked correctly once (the
+// SOMA persona) and wrongly once ("Fable format for free-will arguments" — the
+// literary genre, not the AI). One-for-one is not good enough; a missed link is
+// fine, a wrong one isn't.
+
+// Idiom guards: the alias is right but the surrounding phrase makes it a
+// different expression. Caught in review — "Green across the board" was linking
+// to the work-queue entry, which is the exact failure mode this pass has to avoid.
+const CONTEXT_BLOCKERS = [
+  { alias: 'the board', before: /\b(?:across|above)\s+$/i },   // "across the board" = universally
+  { alias: 'the relay', after: /^\s*(?:race|baton|team)\b/i }, // athletics, not infrastructure
+  { alias: 'the queue', after: /^\s*(?:at the (?:bank|store))\b/i },
+];
+function blockedByContext(alias, before, after) {
+  const lower = alias.toLowerCase().replace(/(?:['’]s|s)$/, '');
+  for (const b of CONTEXT_BLOCKERS) {
+    if (b.alias !== lower && b.alias !== alias.toLowerCase()) continue;
+    if (b.before && b.before.test(before)) return true;
+    if (b.after && b.after.test(after)) return true;
+  }
+  return false;
+}
+
+const stripOuterQuotes = s => {
+  let t = s.trim();
+  for (let i = 0; i < 3; i++) {
+    const m = t.match(/^["“‘'](.*)["”’']$/s);
+    if (!m) break;
+    t = m[1].trim();
+  }
+  return t;
+};
+const trimAlias = s => stripOuterQuotes(String(s).replace(/\*/g, '').replace(/^[\s·+&/,;:]+/, '').replace(/[\s·,;:.]+$/, '')).trim();
+
+// Every string that may reasonably stand in for a term in running prose.
+// Priority: 0 = the full title, 1 = a middot-packed sub-term, 2 = paren-stripped,
+// 3 = a slash-separated variant. Lower priority wins an alias collision.
+function termAliases(title) {
+  const out = new Map();
+  const push = (s, prio) => {
+    const v = trimAlias(s);
+    if (!v || v.length < 3) return;
+    if (!/[A-Za-z]/.test(v)) return;
+    if (/[()…]/.test(v)) return;          // broken split remnants
+    if (/-$/.test(v)) return;                  // "pico-"
+    if ((v.match(/"/g) || []).length % 2) return; // unbalanced quote remnant
+    if (!out.has(v) || out.get(v) > prio) out.set(v, prio);
+  };
+  const clean = title.replace(/\\+"/g, '"');
+  push(clean, 0);
+  const tier1 = [trimAlias(clean)];
+  if (clean.includes('·')) clean.split('·').forEach(p => { push(p, 1); tier1.push(trimAlias(p)); });
+  for (const a of [...tier1]) {
+    const m = a.match(/^(.+?)\s*\(([^()]*)\)\s*$/);
+    if (!m) continue;
+    push(m[1], 2);
+    tier1.push(trimAlias(m[1]));
+    if (m[2].includes('/')) m[2].split('/').forEach(p => push(p, 3));
+  }
+  for (const a of [...tier1]) {
+    if (!a || a.includes('(') || !a.includes('/')) continue;
+    const parts = a.split('/').map(trimAlias);
+    if (parts.every(p => p && p.split(/\s+/).length <= 3)) parts.forEach(p => push(p, 3));
+  }
+  return [...out.entries()].map(([alias, prio]) => ({ alias, prio }));
+}
+
+const isAcronym = w => /^[A-Z][A-Z0-9$*.-]{2,}$/.test(w);
+const isProperNoun = w => /^[A-Z][a-z]{2,}/.test(w);
+const isCoined = w => {
+  const bare = w.toLowerCase().replace(/^[^a-z]+|[^a-z]+$/g, '');
+  return bare.length >= 4 && !WEBSTER.has(bare) && !FUNCTION_WORDS.has(bare);
+};
+
+function aliasScore(alias) {
+  const words = alias.split(/\s+/).filter(Boolean);
+  let s = 0;
+  if (words.length >= 3) s += 2;
+  if (words.some(isCoined)) s += 2;
+  if (words.some(isAcronym)) s += 2;
+  // A capitalised word inside a phrase is a strong proper-noun signal
+  // ("Ralph loop", "Silicon Children"); alone it is much weaker ("Pulse").
+  if (words.some(isProperNoun)) s += words.length >= 2 ? 2 : 1;
+  if (/[a-z]-[a-z]/i.test(alias) && words.length <= 3) s += 1;
+  // "the fleet" / "the vault" / "the board" — the estate's flagship overloads,
+  // and exactly the ones a reader most needs signposted.
+  if (words.length === 2 && /^the$/i.test(words[0])) s += 2;
+  if (alias.length < 5 && !words.some(isAcronym) && !words.some(isCoined)) s -= 1;
+  return s;
+}
+
+// Match case-sensitively when the phrase is only distinctive BECAUSE of its
+// capitalisation — otherwise "Pulse" would swallow every "pulse".
+function needsCaseSensitivity(alias) {
+  if (!/[A-Z]/.test(alias)) return false;
+  const words = alias.split(/\s+/).filter(Boolean);
+  if (words.some(isAcronym)) return true;
+  return words.every(w => !isCoined(w));
+}
+
+const reEsc = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+// ── term↔term index ───────────────────────────────────────────────────────────
+function buildTermLinkIndex() {
+  const byAlias = new Map(); // aliasKey -> { slug, alias, cs, prio }
+  const ordered = [...termRecords].sort((a, b) => a.slug.localeCompare(b.slug));
+  for (const t of ordered) {
+    for (const { alias, prio } of termAliases(t.title)) {
+      const lower = alias.toLowerCase();
+      if (ALIAS_STOPLIST.has(lower)) continue;
+      const forced = ALIAS_ALLOWLIST.has(lower);
+      if (!forced && aliasScore(alias) < 2) continue;
+      const cs = needsCaseSensitivity(alias);
+      const key = cs ? alias : lower;
+      const prev = byAlias.get(key);
+      if (prev && prev.prio <= prio) continue;   // first/most-specific owner wins
+      byAlias.set(key, { slug: t.slug, alias, cs, prio });
+    }
+  }
+  if (process.env.DEBUG_ALIASES) {
+    const rejected = [];
+    for (const t of ordered) for (const { alias } of termAliases(t.title)) {
+      const lower = alias.toLowerCase();
+      if (ALIAS_ALLOWLIST.has(lower)) continue;
+      if (ALIAS_STOPLIST.has(lower) || aliasScore(alias) < 2) rejected.push(`${alias}(${aliasScore(alias)})${(t.tags || []).includes('dialect') ? ' ★' : ''}`);
+    }
+    console.log('\n--- REJECTED ALIASES (★ = hand-written lexicon term) ---\n' + rejected.sort().join(' | '));
+    console.log('\n--- ACCEPTED ---\n' + [...byAlias.values()].map(e => e.alias + (e.cs ? '·CS' : '')).sort().join(' | ') + '\n');
+  }
+  const entries = [...byAlias.values()].sort((a, b) => b.alias.length - a.alias.length);
+  // Two alternations: one case-sensitive, one not. Longest-first inside each so
+  // "dispatch don't micromanage" beats "dispatch".
+  const build = list => list.length
+    ? new RegExp('(?<![A-Za-z0-9])(?:' + list.map(e => reEsc(e.alias) + "(?:['’]s|s)?").join('|') + ')(?![A-Za-z0-9])', 'g')
+    : null;
+  const cs = entries.filter(e => e.cs);
+  const ci = entries.filter(e => !e.cs);
+  return {
+    entries,
+    reCS: build(cs),
+    reCI: ci.length
+      ? new RegExp('(?<![A-Za-z0-9])(?:' + ci.map(e => reEsc(e.alias) + "(?:['’]s|s)?").join('|') + ')(?![A-Za-z0-9])', 'gi')
+      : null,
+    lookupCS: new Map(cs.map(e => [e.alias, e.slug])),
+    lookupCI: new Map(ci.map(e => [e.alias.toLowerCase(), e.slug])),
+  };
+}
+
+// Resolve a match back to its alias by peeling the possessive/plural suffix.
+function resolveMatch(text, lookup, lower) {
+  const probe = lower ? text.toLowerCase() : text;
+  if (lookup.has(probe)) return lookup.get(probe);
+  for (const suf of ["'s", '’s', 's']) {
+    if (probe.endsWith(suf)) {
+      const base = probe.slice(0, -suf.length);
+      if (lookup.has(base)) return lookup.get(base);
+    }
+  }
+  return null;
+}
+
+// ── corpus-ref index ──────────────────────────────────────────────────────────
+// `70yt *some-post-slug*` → the real /corpus/ page. Source slugs carry a date
+// suffix and are sometimes truncated, so exact match first, then unique prefix.
+let CORPUS_REF_INDEX = null;
+function buildCorpusRefIndex() {
+  const all = sourceRecords.map(s => s.slug).sort();
+  const exact = new Set(all);
+  const cache = new Map();
+  const ambiguous = [];
+  const DATE_SUFFIX = /^-\d{2}-\d{2}-\d{2}$/;
+  return {
+    resolve(ref) {
+      if (cache.has(ref)) return cache.get(ref);
+      let hit = null;
+      const full = '70yearswtf-' + ref;
+      const multiWord = ref.includes('-');
+      if (exact.has(full)) hit = full;
+      else {
+        const c = all.filter(s => s.startsWith(full));
+        // A single-token ref is only trusted on an exact hit or a bare date
+        // suffix. Otherwise `*good*` (an italicised ordinary word) would resolve
+        // to "good-conversations" and manufacture a citation out of emphasis.
+        const pool = multiWord ? c : c.filter(s => DATE_SUFFIX.test(s.slice(full.length)));
+        if (pool.length === 1) hit = pool[0];
+        else if (pool.length > 1) { hit = pool[0]; ambiguous.push(ref); }
+      }
+      cache.set(ref, hit);
+      return hit;
+    },
+    ambiguous,
+  };
+}
+
+// ── HTML-safe text walking ────────────────────────────────────────────────────
+// The generated bodies are simple, well-formed HTML. Walk tag-by-tag, keep a
+// stack, and only hand fn() the text runs whose ancestry is safe to rewrite.
+function mapTextRuns(html, skipTags, fn) {
+  const parts = html.split(/(<[^>]+>)/);
+  const stack = [];
+  let out = '';
+  for (const part of parts) {
+    if (!part) continue;
+    if (part[0] === '<') {
+      const m = part.match(/^<\/?([a-zA-Z][a-zA-Z0-9]*)/);
+      if (m) {
+        const tag = m[1].toLowerCase();
+        if (part.startsWith('</')) { const i = stack.lastIndexOf(tag); if (i >= 0) stack.splice(i, 1); }
+        else if (!/\/>$/.test(part) && !['br', 'hr', 'img'].includes(tag)) stack.push(tag);
+      }
+      out += part;
+      continue;
+    }
+    out += stack.some(t => skipTags.has(t)) ? part : fn(part);
+  }
+  return out;
+}
+
+const CORPUS_REF_RE = /\*([a-z0-9]+(?:-[a-z0-9]+)*)\*/g;
+
+// Pass 1: corpus refs → real links. Returns { html, refs } (refs in order seen).
+function linkCorpusRefs(html) {
+  const refs = [];
+  const out = mapTextRuns(html, new Set(['a', 'code']), text =>
+    text.replace(CORPUS_REF_RE, (whole, ref) => {
+      if (ref.length < 6) return whole;
+      const slug = CORPUS_REF_INDEX.resolve(ref);
+      if (!slug) return whole;
+      refs.push(slug);
+      return `<a href="/corpus/${slug}/" class="corpus-ref"><em>${ref}</em></a>`;
+    }));
+  return { html: out, refs };
+}
+
+// Pass 2: term↔term. Skips <a>/<code>/<strong> (that's the "What we mean."
+// label) and <blockquote> (Mike's verbatim quoted prose stays clean).
+const TERM_SKIP = new Set(['a', 'code', 'strong', 'blockquote', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6']);
+function linkTermMentions(html, selfSlug, index, cap = 6) {
+  const used = new Set([selfSlug]);
+  let n = 0;
+  const run = (text, re, lookup, lower) => {
+    if (!re) return text;
+    re.lastIndex = 0;
+    return text.replace(re, (m, offset, whole) => {
+      if (n >= cap) return m;
+      const slug = resolveMatch(m, lookup, lower);
+      if (!slug || used.has(slug)) return m;
+      if (blockedByContext(m, whole.slice(Math.max(0, offset - 24), offset), whole.slice(offset + m.length, offset + m.length + 24))) return m;
+      used.add(slug); n++;
+      return `<a href="#term-${slug}" class="term-xref">${m}</a>`;
+    });
+  };
+  // Case-sensitive alternation first so "Pulse" claims its span before the
+  // case-insensitive pass can see it; the CI pass then skips existing <a>.
+  let out = mapTextRuns(html, TERM_SKIP, t => run(t, index.reCS, index.lookupCS, false));
+  out = mapTextRuns(out, TERM_SKIP, t => run(t, index.reCI, index.lookupCI, true));
+  return { html: out, count: n, targets: [...used].filter(s => s !== selfSlug) };
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
 // CROSS-REFERENCES
 // ══════════════════════════════════════════════════════════════════════════════
 function wireCrossRefs() {
@@ -488,24 +818,64 @@ function wireCrossRefs() {
     t.related = [...new Set(t.related)].slice(0, 12);
   }
 
-  // term -> source provenance: a term is "discussed" in a source if the source
-  // body mentions the term title as a whole phrase (word-boundary, case-insensitive).
-  // Also builds the reverse: source.relatedTerms.
+  // term -> source provenance. Two feeds, in priority order:
+  //   (a) DIRECT — the entry's own `70yt *post-slug*` citation, resolved to a
+  //       real corpus page. Authoritative: it names the passage the term was
+  //       mined from. (Wired in wireInlineLinks(), which runs first.)
+  //   (b) MENTION — a source whose body or title contains one of the term's
+  //       accepted aliases. Uses the same specificity filter as inline linking,
+  //       so the full packed title ("metastupid / Chronic Metastupidity · Law of
+  //       Relative Stupidity") no longer has to appear verbatim to score a hit.
+  // Ranked: title hit ≫ body frequency. Capped so one common phrase can't drag
+  // three hundred posts into "Discussed in".
+  const PROV_CAP = 8;
+  const sourceBySlug = new Map(sourceRecords.map(s => [s.slug, s]));
   for (const s of sourceRecords) s.relatedTerms = [];
   for (const t of termRecords) {
-    t.provenance = [];
-    if (t.title.length < 4) continue; // skip too-generic short titles
-    const needle = t.title.toLowerCase().replace(/^["'“”]+|["'“”]+$/g, '');
-    // avoid extremely common words masquerading as terms
-    const re = new RegExp('\\b' + needle.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'i');
-    for (const s of sourceRecords) {
-      // match the term title in the source body OR its title (title-puns like
-      // "intellectual rabithole" live in the post title, not the prose).
-      if (re.test(s.bodyText) || re.test(s.title)) {
-        t.provenance.push(s.slug);
-        s.relatedTerms.push(t.slug);
-      }
+    const ranked = new Map();  // slug -> score
+    for (const slug of (t.directProvenance || [])) {
+      if (sourceBySlug.has(slug)) ranked.set(slug, 1e6 - ranked.size);
     }
+    // Two tiers of needle. STRONG aliases (the same ones that earn an inline
+    // link) count on a single hit. WEAK aliases — ordinary English like
+    // "dispatch", "safe place", "the bottleneck" — are matched case-insensitively
+    // but must show ABOUTNESS: a title hit, or three or more occurrences in the
+    // body. One passing mention of "the foundation" in a 2019 post is not a
+    // citation for SOMA's Foundation; a post that says "dispatch" nine times is.
+    const WEAK_MIN_HITS = 3;
+    const needles = [];
+    for (const { alias } of termAliases(t.title)) {
+      const lower = alias.toLowerCase();
+      if (ALIAS_STOPLIST.has(lower)) continue;
+      const strong = ALIAS_ALLOWLIST.has(lower) || aliasScore(alias) >= 2;
+      if (!strong && alias.split(/\s+/).length === 1 && alias.length < 6) continue; // too short to be evidence
+      const cs = strong && needsCaseSensitivity(alias);
+      needles.push({ strong, re: new RegExp('(?<![A-Za-z0-9])' + reEsc(alias) + '(?![A-Za-z0-9])', cs ? 'g' : 'gi') });
+      // Mike's own pre-2020 prose predates the capitalisation convention — the
+      // 2019 posts write "the bottleneck", the lexicon writes "the Bottleneck".
+      // Retry case-insensitively under the aboutness gate so the real Goldratt
+      // posts still qualify without one passing mention counting as a citation.
+      if (cs) needles.push({ strong: false, re: new RegExp('(?<![A-Za-z0-9])' + reEsc(alias) + '(?![A-Za-z0-9])', 'gi') });
+    }
+    for (const s of sourceRecords) {
+      let score = 0;
+      for (const n of needles) {
+        n.re.lastIndex = 0;
+        const titleHit = n.re.test(s.title);
+        n.re.lastIndex = 0;
+        const hits = (s.bodyText.match(n.re) || []).length;
+        if (n.strong) { if (titleHit) score += 500; score += hits; }
+        else if (titleHit) score += 200;
+        else if (hits >= WEAK_MIN_HITS) score += hits;
+      }
+      if (score > 0 && !ranked.has(s.slug)) ranked.set(s.slug, score);
+    }
+    t.provenance = [...ranked.entries()]
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, PROV_CAP)
+      .map(e => e[0])
+      .filter(slug => sourceBySlug.has(slug));   // never emit a link that 404s
+    for (const slug of t.provenance) sourceBySlug.get(slug).relatedTerms.push(t.slug);
   }
 
   // source <-> source relatedness via shared collection + shared term mentions
@@ -521,7 +891,66 @@ function wireCrossRefs() {
   }
 
   const provCount = termRecords.reduce((a, t) => a + t.provenance.length, 0);
-  console.log(`  Cross-refs → ${termRecords.reduce((a, t) => a + t.related.length, 0)} term links, ${provCount} term→source citations`);
+  const withProv = termRecords.filter(t => t.provenance.length).length;
+  console.log(`  Cross-refs → ${termRecords.reduce((a, t) => a + t.related.length, 0)} term links, ${provCount} term→source citations across ${withProv}/${termRecords.length} terms`);
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+// INLINE LINK + ARTIFACT PASS  (runs before wireCrossRefs — it feeds provenance)
+// ══════════════════════════════════════════════════════════════════════════════
+// Honest attribution for entries whose real origin is unpublished internal canon
+// and which therefore have no corpus passage to cite. Naming the source in plain
+// text beats inventing a link.
+const INTERNAL_CANON_ORIGIN = 'Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24).';
+
+function wireInlineLinks() {
+  CORPUS_REF_INDEX = buildCorpusRefIndex();
+  const index = buildTermLinkIndex();
+  let corpusLinks = 0, termLinks = 0, originLinks = 0, originBackfill = 0;
+
+  for (const t of termRecords) {
+    // Leftover markdown in the pre-rendered HTML bodies: `**x**` and `*x*` were
+    // rendering as literal asterisks on the page.
+    const refs = [];
+    let html = t.bodyHtml;
+
+    const c = linkCorpusRefs(html);
+    html = c.html; refs.push(...c.refs); corpusLinks += c.refs.length;
+
+    html = mapTextRuns(html, new Set(['a', 'code']), txt => txt
+      .replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*([^*\n]+)\*/g, '<em>$1</em>'));
+
+    const x = linkTermMentions(html, t.slug, index);
+    html = x.html; termLinks += x.count;
+
+    t.bodyHtml = html;
+    t.bodyText = html.replace(/<[^>]+>/g, ' ');
+    t.inlineRelated = x.targets;
+
+    // Origin line: same treatment, rendered as HTML by the dictionary template.
+    let origin = (t.origin || '').replace(/\s*---\s*$/, '').trim();
+    if (!origin && (t.tags || []).includes('dialect')) { origin = INTERNAL_CANON_ORIGIN; originBackfill++; }
+    t.origin = origin;
+    if (origin) {
+      const oc = linkCorpusRefs(`<span>${origin}</span>`);
+      refs.push(...oc.refs); originLinks += oc.refs.length;
+      t.originHtml = oc.html.replace(/^<span>|<\/span>$/g, '')
+        .replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*([^*\n]+)\*/g, '<em>$1</em>');
+    } else {
+      t.originHtml = '';
+    }
+
+    t.directProvenance = [...new Set(refs)];
+  }
+
+  const cited = termRecords.filter(t => t.directProvenance.length).length;
+  console.log(`  Inline links → ${corpusLinks} corpus refs in bodies + ${originLinks} in origin lines (${cited} terms cite a corpus page directly)`);
+  console.log(`  Inline links → ${termLinks} term↔term anchors from ${index.entries.length} accepted aliases; ${originBackfill} origins backfilled as internal canon`);
+  if (CORPUS_REF_INDEX.ambiguous.length) {
+    console.log(`  ⚠ ambiguous corpus refs (took earliest match): ${[...new Set(CORPUS_REF_INDEX.ambiguous)].join(', ')}`);
+  }
 }
 
 // ══════════════════════════════════════════════════════════════════════════════
@@ -544,6 +973,7 @@ function writeAll() {
       theme: t.theme || undefined,
       authored_by: 'Mike Wolf & the SOMA fleet',
       origin: t.origin || undefined,
+      origin_html: t.originHtml || undefined,
       source: t.origin || '',
       related: t.related || [],
       provenance: t.provenance || [],
@@ -585,6 +1015,7 @@ parse70yt();
 parse70ytArchive();
 parseAIWTF();
 parseSiliconChildren();
+wireInlineLinks();
 wireCrossRefs();
 writeAll();
 console.log('\nDone.');

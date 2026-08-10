@@ -12,9 +12,9 @@ tags:
   - "metanovel"
   - "writing"
 related:
+  - "srmw-part-viii-practice-practice-practice"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-5-a-metanovel"
+  - "srmw-part-vii-imagination"
   - "srmw-chapter-7-who-s-in-the-metanovel"
   - "srmw-chapter-9-finding-a-publisher"
 ---

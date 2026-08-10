@@ -14,11 +14,11 @@ tags:
   - "meditation"
   - "blogging"
 related:
+  - "70yearswtf-conversations-with-god-19-04-21"
+  - "70yearswtf-god-calling-20-05-01"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![Create an image that symbolizes a spiritual journey connecting ancient wisdom with modern responsibility. In the foreground, feature symbols representing the concepts of agape and chesed, such as a heart and a pair of open hands, to depict love, kindness, and charity. In the background, illustrate a diverse group of people together holding a globe, symbolizing the idea of tikkun olam - repairing the world through collective action. The overall mood should be one of hope and unity, with a backdrop that transitions from ancient symbols to a vision of a harmonious world. Keep the design simple but meaningful, with a focus on the interconnectedness of all people in the pursuit of a better future.](/media/70yt/passover-journey-19-04-22/1.jpg)

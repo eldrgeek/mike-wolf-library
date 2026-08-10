@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "economics"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-money-is-not-wealth-16-03-20"
+  - "70yearswtf-reality-isnt-optional-13-01-05"
+  - "70yearswtf-too-goddamned-many-ideas-part-i-13-01-07"
+  - "70yearswtf-violence-markets-redux-part-i-18-01-05"
+  - "70yearswtf-way-way-way-too-much-stuff-to-think-16-03-14"
 ---
 
 I've been studying--not just reading, but studying--a series of blog posts by Matt Breunig. [Wikipedia describes him](https://en.wikipedia.org/wiki/Matt_Bruenig) as "an American lawyer, blogger, policy analyst, and commentator." [He says](http://mattbruenig.com/about/) "I write about politics, the economy, and political theory, primarily with a focus on the set of interlocking issues that affect poor and working people.'' [Here's his blog](http://mattbruenig.com/). And here's the [People's Policy Project](http://peoplespolicyproject.org/press/), the think tank he's started. Funded by [donations on Patreon](https://www.patreon.com/peoplespolicyproject/community)

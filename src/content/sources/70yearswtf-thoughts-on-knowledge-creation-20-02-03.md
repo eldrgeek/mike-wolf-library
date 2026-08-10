@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-january-2020-did-i-get-better-20-01-31"
+  - "70yearswtf-knowledge-is-the-measure-of-all-things-20-01-29"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 I said that [Knowledge is the measure of all things that matter](https://70yearsoldwtf.blogspot.com/2020/01/knowledge-is-measure-of-all-things-that.html)

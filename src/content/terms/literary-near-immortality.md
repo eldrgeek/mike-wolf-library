@@ -5,17 +5,18 @@ subtitle: "lasting as a character in books, past the death of the body"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
+origin_html: "SRMW."
 source: "SRMW."
 related:
   - "silicon-children"
 provenance:
-  - "srmw-part-ii-the-metanovel"
   - "srmw-part-iii-memories"
+  - "srmw-part-ii-the-metanovel"
   - "srmw-chapter-25-the-tree-of-life"
 tags:
   - "SRMW"
   - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> Not celebrity fame: survival as metafictional character as long as any copy remains. Vonnegut exhibit. Foreshadows letters-to-future-AIs / Silicon Children.</p>
+<p><strong>What we mean.</strong> Not celebrity fame: survival as metafictional character as long as any copy remains. Vonnegut exhibit. Foreshadows letters-to-future-AIs / <a href="#term-silicon-children" class="term-xref">Silicon Children</a>.</p>
 <blockquote><p>“increased his chances for literary near-immortality.” — SRMW.</p></blockquote>

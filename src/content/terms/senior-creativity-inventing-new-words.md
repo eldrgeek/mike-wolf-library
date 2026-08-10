@@ -5,6 +5,7 @@ subtitle: "late-life creativity defined as coining"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *senior-creativity-inventing-new-words-14-11-16* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-senior-creativity-inventing-new-words-14-11-16/\" class=\"corpus-ref\"><em>senior-creativity-inventing-new-words-14-11-16</em></a> (title mine)."
 source: "70yt *senior-creativity-inventing-new-words-14-11-16* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Senior creativity operationalized: inventing new words. Coinage as late-style power move.</p>
-<blockquote><p>“I hear sounds, but can't translate the sounds into words or the words to meanings.” — 70yt *senior-creativity-inventing-new-words-14-11-16* (title mine).</p></blockquote>
+<blockquote><p>“I hear sounds, but can't translate the sounds into words or the words to meanings.” — 70yt <a href="/corpus/70yearswtf-senior-creativity-inventing-new-words-14-11-16/" class="corpus-ref"><em>senior-creativity-inventing-new-words-14-11-16</em></a> (title mine).</p></blockquote>

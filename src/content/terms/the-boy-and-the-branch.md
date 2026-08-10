@@ -5,6 +5,7 @@ subtitle: "parable title in Mike’s early blog cast"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *the-boy-and-the-branch-13-02-04* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-the-boy-and-the-branch-13-02-04/\" class=\"corpus-ref\"><em>the-boy-and-the-branch-13-02-04</em></a> (title mine)."
 source: "70yt *the-boy-and-the-branch-13-02-04* (title mine)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Parable-form title: boy and branch as portable teaching story in the early WTF corpus.</p>
-<blockquote><p>“Suddenly he finds himself hanging on to a branch growing from the sheer rock face, two hundred feet above a jumble of sharp rocks.” — 70yt *the-boy-and-the-branch-13-02-04* (title mine).</p></blockquote>
+<blockquote><p>“Suddenly he finds himself hanging on to a branch growing from the sheer rock face, two hundred feet above a jumble of sharp rocks.” — 70yt <a href="/corpus/70yearswtf-the-boy-and-the-branch-13-02-04/" class="corpus-ref"><em>the-boy-and-the-branch-13-02-04</em></a> (title mine).</p></blockquote>

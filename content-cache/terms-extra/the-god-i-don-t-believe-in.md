@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Third position: neither atheist mockery nor faith commitment. Imaginary partner who inspires writing. Recurs across theology posts.</p>
-<blockquote><p>“Of course I can,” says The God I Don’t Believe In.” — 70yt *can-god-create-a-rock* + cluster (batch 5).</p></blockquote>
+<blockquote><p>“Of course I can,” says The God I Don’t Believe In. — 70yt *can-god-create-a-rock* + cluster (batch 5).</p></blockquote>

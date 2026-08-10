@@ -5,6 +5,7 @@ subtitle: "error is not a side path; it is the path"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt July 2021 post; Wall #6."
+origin_html: "70yt July 2021 post; Wall #6."
 source: "70yt July 2021 post; Wall #6."
 related:
   - "no-failed-experiments"
@@ -16,5 +17,5 @@ tags:
   - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> Knowledge is not downloaded clean; it is walked through error. “Even for God” blocks the omniscient shortcut. Parent of low-cost mistakes, no failed experiments, RSI descendants.</p>
+<p><strong>What we mean.</strong> Knowledge is not downloaded clean; it is walked through error. “Even for God” blocks the omniscient shortcut. Parent of low-cost mistakes, <a href="#term-no-failed-experiments" class="term-xref">no failed experiments</a>, RSI descendants.</p>
 <blockquote><p>“Knowledge always requires mistakes.” / “Mistakes are the only route to knowledge — even for God.” — 70yt July 2021 post; Wall #6.</p></blockquote>

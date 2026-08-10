@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Deliberate misspelling embedding <em>why</em>. Intensified WTF as birthday/blog stock-taking. Related live WTF marker.</p>
-<blockquote><p>“title “WyTF am I writing this blog?” / “Nearly 75 years old. WTAF?” — 70yt batch 4 titles.</p></blockquote>
+<blockquote><p>“WyTF am I writing this blog?” / “Nearly 75 years old. WTAF?” — 70yt batch 4 titles.</p></blockquote>

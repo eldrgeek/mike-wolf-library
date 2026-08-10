@@ -15,11 +15,11 @@ tags:
   - "blogging"
   - "automation"
 related:
+  - "70yearswtf-morning-routine-what-and-why-19-01-26"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 According to “The Mind Illuminated” (which [I wrote about here](https://70yearsoldwtf.blogspot.com/2018/12/a-intentional-meditation-on-intention.html) we have two ways of consciously knowing the world: attention and peripheral awareness.

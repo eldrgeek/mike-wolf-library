@@ -12,11 +12,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-iii-memories"
-  - "srmw-part-vii-imagination"
   - "srmw-part-viii-practice-practice-practice"
-  - "srmw-part-xiii-endgame"
   - "srmw-part-i-before-the-beginning"
+  - "srmw-part-vi-fear-and-procrastination"
+  - "srmw-part-vii-imagination"
+  - "srmw-chapter-18-i-give-up"
 ---
 
 If at first you don’t succeed,

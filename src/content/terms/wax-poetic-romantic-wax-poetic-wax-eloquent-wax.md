@@ -5,6 +5,7 @@ subtitle: "mustache/beard wax brand punning “wax romantic / wax poetic / wax e
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Vault Grok *Wax Poetic Mustache Wax Parody*."
+origin_html: "Vault Grok <em>Wax Poetic Mustache Wax Parody</em>."
 source: "Vault Grok *Wax Poetic Mustache Wax Parody*."
 related: []
 provenance: []
@@ -14,4 +15,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Parody grooming line; SKUs named for idioms. Tagline draft: “Wax your 'stache. Wax your words.”</p>
-<blockquote><p>“a line of waxes, like romantic wax when you want to wax romantic, or poetic, or eloquent.” — Vault Grok *Wax Poetic Mustache Wax Parody*.</p></blockquote>
+<blockquote><p>“a line of waxes, like romantic wax when you want to wax romantic, or poetic, or eloquent.” — Vault Grok <em>Wax Poetic Mustache Wax Parody</em>.</p></blockquote>

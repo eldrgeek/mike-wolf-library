@@ -5,13 +5,15 @@ subtitle: "high-involvement overlapping talk as respect, not rudeness"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *new-york-style-vs-californianew-england* (batch 1)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-new-york-style-vs-californianew-england-18-01-14/\" class=\"corpus-ref\"><em>new-york-style-vs-californianew-england</em></a> (batch 1)."
 source: "70yt *new-york-style-vs-californianew-england* (batch 1)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-new-york-style-vs-californianew-england-18-01-14"
 tags:
   - "70yt"
   - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Interrupt, talk over, argue loud — as love and engagement. Contrasted with California/New England polite turn-taking.</p>
-<blockquote><p>“what I would call California or New England style conversation--which is very different from New York style” — 70yt *new-york-style-vs-californianew-england* (batch 1).</p></blockquote>
+<blockquote><p>“what I would call California or New England style conversation--which is very different from New York style” — 70yt <a href="/corpus/70yearswtf-new-york-style-vs-californianew-england-18-01-14/" class="corpus-ref"><em>new-york-style-vs-californianew-england</em></a> (batch 1).</p></blockquote>

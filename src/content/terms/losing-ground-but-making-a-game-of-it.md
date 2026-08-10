@@ -5,6 +5,7 @@ subtitle: "gamify decline without denial"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *losing-ground-but-making-a-game-of-14-11-01* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-losing-ground-but-making-a-game-of-14-11-01/\" class=\"corpus-ref\"><em>losing-ground-but-making-a-game-of-14-11-01</em></a> (title mine)."
 source: "70yt *losing-ground-but-making-a-game-of-14-11-01* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Honest decline plus play: losing ground, making a game of it—neither denial nor despair.</p>
-<blockquote><p>“But until I do, but I'm making a game of it.” — 70yt *losing-ground-but-making-a-game-of-14-11-01* (title mine).</p></blockquote>
+<blockquote><p>“But until I do, but I'm making a game of it.” — 70yt <a href="/corpus/70yearswtf-losing-ground-but-making-a-game-of-14-11-01/" class="corpus-ref"><em>losing-ground-but-making-a-game-of-14-11-01</em></a> (title mine).</p></blockquote>

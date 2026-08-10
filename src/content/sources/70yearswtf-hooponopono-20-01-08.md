@@ -17,8 +17,8 @@ related:
   - "70yearswtf-a-meditation-on-assholery-18-08-20"
   - "70yearswtf-frustration-and-forgiveness-19-05-22"
   - "70yearswtf-hey-liberals-want-to-help-trump-then-16-10-25"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-ssdy-and-improving-myos-19-12-06"
+  - "70yearswtf-why-do-kids-misbehave-and-why-do-19-12-08"
 ---
 
 In this post [A meditation on assholery](https://70yearsoldwtf.blogspot.com/2018/08/a-meditation-on-assholery.html), I wrote:

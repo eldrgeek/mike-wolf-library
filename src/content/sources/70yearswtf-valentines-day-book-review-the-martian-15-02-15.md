@@ -1,5 +1,5 @@
 ---
-title: "Valentine's day book review: \\\"The Martian\\\""
+title: "Valentine's day book review: \"The Martian\""
 collection: "70YearsWTF"
 kind: "post"
 order: 0

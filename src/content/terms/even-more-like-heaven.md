@@ -5,6 +5,7 @@ subtitle: "heaven-simile series: bliss + bandwidth"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *even-more-like-heaven-and-the-internet* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-even-more-like-heaven-and-the-internet/\" class=\"corpus-ref\"><em>even-more-like-heaven-and-the-internet</em></a> (title mine)."
 source: "70yt *even-more-like-heaven-and-the-internet* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Heaven measured in connectivity: life gets more heaven-like as the net gets faster. Comic eschatology of bandwidth.</p>
-<blockquote><p>“I’m still in Heaven.” — 70yt *even-more-like-heaven-and-the-internet* (title mine).</p></blockquote>
+<blockquote><p>“I’m still in Heaven.” — 70yt <a href="/corpus/70yearswtf-even-more-like-heaven-and-the-internet/" class="corpus-ref"><em>even-more-like-heaven-and-the-internet</em></a> (title mine).</p></blockquote>

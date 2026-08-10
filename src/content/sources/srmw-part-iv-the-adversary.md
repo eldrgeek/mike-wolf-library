@@ -12,11 +12,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-chapter-12-how-to-create-a-muse-without-a-muse"
   - "srmw-chapter-13-evolving-a-muse"
-  - "srmw-part-i-before-the-beginning"
+  - "srmw-part-viii-practice-practice-practice"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
+  - "srmw-chapter-11-the-greatest-publisher-in-the-metauni"
+  - "srmw-chapter-17-it-s-all-crap"
 ---
 
 If at first you don’t succeed,

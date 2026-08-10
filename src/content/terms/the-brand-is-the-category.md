@@ -5,6 +5,7 @@ subtitle: "first into a space: naming the category *is* the brand"
 theme: "Architecture & Roles"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike 2026-05-04 (Wall)."
+origin_html: "Mike 2026-05-04 (Wall)."
 source: "Mike 2026-05-04 (Wall)."
 related: []
 provenance: []

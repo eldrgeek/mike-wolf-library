@@ -1,5 +1,5 @@
 ---
-title: "\\\"I care\\\""
+title: "\"I care\""
 collection: "70YearsWTF"
 kind: "post"
 order: 0

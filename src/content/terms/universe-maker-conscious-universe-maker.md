@@ -5,13 +5,15 @@ subtitle: "everyone creates lived worlds; learn to do it on purpose with love"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *we-are-all-unconscious-universe-makers* (batch 5)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-we-are-all-unconscious-universe-makers/\" class=\"corpus-ref\"><em>we-are-all-unconscious-universe-makers</em></a> (batch 5)."
 source: "70yt *we-are-all-unconscious-universe-makers* (batch 5)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-we-are-all-unconscious-universe-makers"
 tags:
   - "70yt"
   - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Most people make universes unconsciously — mixing love with fear. Forgiveness trains conscious universe-making.</p>
-<blockquote><p>“I am a universe maker. So is Bobbi. So are we all.” — 70yt *we-are-all-unconscious-universe-makers* (batch 5).</p></blockquote>
+<blockquote><p>“I am a universe maker. So is Bobbi. So are we all.” — 70yt <a href="/corpus/70yearswtf-we-are-all-unconscious-universe-makers/" class="corpus-ref"><em>we-are-all-unconscious-universe-makers</em></a> (batch 5).</p></blockquote>

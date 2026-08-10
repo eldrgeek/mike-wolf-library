@@ -15,10 +15,10 @@ tags:
   - "automation"
 related:
   - "70yearswtf-mediocre-me-19-01-13"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-autodriver-in-the-house-16-02-03"
+  - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
+  - "70yearswtf-debugging-and-programming-automike-18-08-02"
+  - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"
 ---
 
 Hardcore reductionists say that physics explains everything. There's no such thing as free will because the laws of physics don't require free will, and don't allow for free will. Everything is either predetermined or random.

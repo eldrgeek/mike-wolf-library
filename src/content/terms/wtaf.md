@@ -5,6 +5,7 @@ subtitle: "WTF intensifier: What The Actual F*"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *nearly-75-years-old-wtaf-17-11-09* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-nearly-75-years-old-wtaf-17-11-09/\" class=\"corpus-ref\"><em>nearly-75-years-old-wtaf-17-11-09</em></a> (title mine)."
 source: "70yt *nearly-75-years-old-wtaf-17-11-09* (title mine)."
 related: []
 provenance:
@@ -17,4 +18,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Intensified WTF—What The Actual F*—used as age-blog register when plain WTF is insufficient.</p>
-<blockquote><p>“Seventy-fifth birthday in less than two months. Nearly five years writing this particular blog, off and on (mostly off). So? So what's it like being nearly a three-quarters of a ce” — 70yt *nearly-75-years-old-wtaf-17-11-09* (title mine).</p></blockquote>
+<blockquote><p>“Seventy-fifth birthday in less than two months. Nearly five years writing this particular blog, off and on (mostly off). So? So what's it like being nearly a three-quarters of a ce” — 70yt <a href="/corpus/70yearswtf-nearly-75-years-old-wtaf-17-11-09/" class="corpus-ref"><em>nearly-75-years-old-wtaf-17-11-09</em></a> (title mine).</p></blockquote>

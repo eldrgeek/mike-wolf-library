@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-debugging-and-reconditioning-myself-16-12-07"
+  - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 This morning, before I "woke up" and then later "woke up" I woke up. But I was in a dream. Let me be more clear.

@@ -5,6 +5,7 @@ subtitle: "attention directed toward love/truth voices, not fear voices"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *i-love-you-listen-for-my-voice* (batch 3)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-i-love-you-listen-for-my-voice/\" class=\"corpus-ref\"><em>i-love-you-listen-for-my-voice</em></a> (batch 3)."
 source: "70yt *i-love-you-listen-for-my-voice* (batch 3)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Listen <em>to</em> (passive) vs listen <em>for</em> (active tuning). Choice is directional.</p>
-<blockquote><p>“Listen *for* My Voice” — 70yt *i-love-you-listen-for-my-voice* (batch 3).</p></blockquote>
+<blockquote><p>“Listen <em>for</em> My Voice” — 70yt <a href="/corpus/70yearswtf-i-love-you-listen-for-my-voice/" class="corpus-ref"><em>i-love-you-listen-for-my-voice</em></a> (batch 3).</p></blockquote>

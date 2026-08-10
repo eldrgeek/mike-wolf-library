@@ -5,6 +5,7 @@ subtitle: "unit of work is the coordinated team, not the star specialist"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike 2026-05-06 (Wall)."
+origin_html: "Mike 2026-05-06 (Wall)."
 source: "Mike 2026-05-06 (Wall)."
 related: []
 provenance: []

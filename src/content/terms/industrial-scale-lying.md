@@ -5,13 +5,15 @@ subtitle: "lies that work only when produced as a mutually supporting mass indus
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *industrial-scale-lying* (batch 7)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-industrial-scale-lying-in-the-marketplace-18-06-25/\" class=\"corpus-ref\"><em>industrial-scale-lying</em></a> (batch 7)."
 source: "70yt *industrial-scale-lying* (batch 7)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-industrial-scale-lying-in-the-marketplace-18-06-25"
 tags:
   - "70yt"
   - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Single lies hard to defend against web of truths; industrial production of lies is the market failure mode.</p>
-<blockquote><p>“Lies work best when they are produced on an industrial scale” — 70yt *industrial-scale-lying* (batch 7).</p></blockquote>
+<blockquote><p>“Lies work best when they are produced on an industrial scale” — 70yt <a href="/corpus/70yearswtf-industrial-scale-lying-in-the-marketplace-18-06-25/" class="corpus-ref"><em>industrial-scale-lying</em></a> (batch 7).</p></blockquote>

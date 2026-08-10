@@ -5,6 +5,7 @@ subtitle: "mid-sentence correction: minds are not possessed; they are the system
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike 2026-07-15; filed by Fable (Wall)."
+origin_html: "Mike 2026-07-15; filed by Fable (Wall)."
 source: "Mike 2026-07-15; filed by Fable (Wall)."
 related: []
 provenance: []

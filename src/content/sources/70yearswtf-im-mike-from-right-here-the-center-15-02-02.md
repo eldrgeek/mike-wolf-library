@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-modern-monetary-theory-and-why-it-16-02-27"
+  - "70yearswtf-we-are-each-at-the-center-of-the-18-12-11"
+  - "srmw-chapter-20-realize-where-you-really-are"
+  - "srmw-chapter-21-the-center-of-the-universe"
+  - "srmw-chapter-22-i-know-where-i-am"
 ---
 
 Galaxies are so large that stars can be considered particles next to them (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:NGC_4414_%28NASA-med%29.jpg))

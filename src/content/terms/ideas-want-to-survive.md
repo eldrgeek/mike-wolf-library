@@ -5,6 +5,7 @@ subtitle: "living ideas stuck in the head demand exit; publishing as duty"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *ideas-want-to-survive-they-want-their*."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-ideas-want-to-survive-they-want-their-18-07-05/\" class=\"corpus-ref\"><em>ideas-want-to-survive-they-want-their</em></a>."
 source: "70yt *ideas-want-to-survive-they-want-their*."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Writing as relief plus job: ideas are alive, want to live, and die with the host unless released.</p>
-<blockquote><p>“These ideas are alive. They want to live and they're stuck in my head.” — 70yt *ideas-want-to-survive-they-want-their*</p></blockquote>
+<blockquote><p>“These ideas are alive. They want to live and they're stuck in my head.” — 70yt <a href="/corpus/70yearswtf-ideas-want-to-survive-they-want-their-18-07-05/" class="corpus-ref"><em>ideas-want-to-survive-they-want-their</em></a></p></blockquote>

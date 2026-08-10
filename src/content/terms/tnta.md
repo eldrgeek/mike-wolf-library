@@ -5,6 +5,7 @@ subtitle: "\"Things [I've] Told [you] Not [to] Ask\""
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike, May 2026."
+origin_html: "Mike, May 2026."
 source: "Mike, May 2026."
 related:
   - "the-bottleneck"

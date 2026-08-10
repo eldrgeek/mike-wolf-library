@@ -15,10 +15,10 @@ tags:
   - "blogging"
 related:
   - "70yearswtf-a-meditation-on-assholery-18-08-20"
+  - "70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02"
+  - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
   - "70yearswtf-hey-liberals-want-to-help-trump-then-16-10-25"
   - "70yearswtf-hooponopono-20-01-08"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
 ---
 
 *Photo by [taylor](https://unsplash.com/@taychilla) on [Unsplash](https://unsplash.com)*

@@ -5,9 +5,13 @@ subtitle: "stupidity that cannot see it is stupid (often thinks it is smart); yo
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
+origin_html: "SRMW."
 source: "SRMW."
 related: []
-provenance: []
+provenance:
+  - "srmw-part-vi-fear-and-procrastination"
+  - "srmw-part-ii-the-metanovel"
+  - "srmw-part-vii-imagination"
 tags:
   - "SRMW"
   - "philosophy"

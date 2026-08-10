@@ -5,6 +5,7 @@ subtitle: "rabbit-hole of learning/writing dissatisfaction (deliberate misspelli
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *down-the-intellectual-rabithole* (batch 5)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-down-the-intellectual-rabithole-18-07-29/\" class=\"corpus-ref\"><em>down-the-intellectual-rabithole</em></a> (batch 5)."
 source: "70yt *down-the-intellectual-rabithole* (batch 5)."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Learning A spawns E–M; writing A blocks B–D. Embrace discomfort instead of fleeing.</p>
-<blockquote><p>“title “Down the intellectual rabithole” — 70yt *down-the-intellectual-rabithole* (batch 5).</p></blockquote>
+<blockquote><p>“Down the intellectual rabithole” — 70yt <a href="/corpus/70yearswtf-down-the-intellectual-rabithole-18-07-29/" class="corpus-ref"><em>down-the-intellectual-rabithole</em></a> (batch 5).</p></blockquote>

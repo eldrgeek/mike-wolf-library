@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "AI"
 related:
-  - "70yearswtf-an-open-letter-to-my-90-year-old"
-  - "70yearswtf-draft-having-subscribers-is-a-pain"
-  - "70yearswtf-forgiveness-and-the-war-in-ukraine"
-  - "70yearswtf-i-dont-know-whats-right-for-you-all"
-  - "70yearswtf-mikes-life-moviewise-review"
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![Photo by Pavel Danilyuk(https://www.pexels.com/photo/elderly-man-thinking-while-looking-at-a-chessboard-8438918/)](/media/70yt/llms-are-machines-are-you-one-too/1.jpg)

@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Title portmanteau: teaching a town how cheap Chromebooks empower people.</p>
-<blockquote><p>“title “New Chromebook and my Chromunity” — 70yt *new-chromebook-and-my-chromunity* (batch 7).</p></blockquote>
+<blockquote><p>“New Chromebook and my Chromunity” — 70yt *new-chromebook-and-my-chromunity* (batch 7).</p></blockquote>

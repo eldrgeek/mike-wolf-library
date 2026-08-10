@@ -5,6 +5,7 @@ subtitle: "internal cast of parts (IFS) that can work or war"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *family-of-mind-internal-family-systems*."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-family-of-mind-internal-family-systems-15-03-14/\" class=\"corpus-ref\"><em>family-of-mind-internal-family-systems</em></a>."
 source: "70yt *family-of-mind-internal-family-systems*."
 related: []
 provenance:
@@ -18,4 +19,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Household of agents named and healed à la Internal Family Systems. Functional families of mind cooperate; dysfunctional ones harm themselves.</p>
-<blockquote><p>“the members of a functional internal "family of mind" can work for the good of the family.” — 70yt *family-of-mind-internal-family-systems*</p></blockquote>
+<blockquote><p>“the members of a functional internal "family of mind" can work for the good of the family.” — 70yt <a href="/corpus/70yearswtf-family-of-mind-internal-family-systems-15-03-14/" class="corpus-ref"><em>family-of-mind-internal-family-systems</em></a></p></blockquote>

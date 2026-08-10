@@ -5,13 +5,15 @@ subtitle: "reverse-psychology CTA: a button that does not subscribe you"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *you-are-special-today* (batch 4)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-you-are-special-today/\" class=\"corpus-ref\"><em>you-are-special-today</em></a> (batch 4)."
 source: "70yt *you-are-special-today* (batch 4)."
 related: []
-provenance: []
+provenance:
+  - "70yearswtf-you-are-special-today"
 tags:
   - "70yt"
   - "philosophy"
 ---
 
 <p><strong>What we mean.</strong> Weaponizes reverse psychology and wet-paint curiosity against the funnel.</p>
-<blockquote><p>““Don’t Subscribe to this Publication” button.” — 70yt *you-are-special-today* (batch 4).</p></blockquote>
+<blockquote><p>““Don’t Subscribe to this Publication” button.” — 70yt <a href="/corpus/70yearswtf-you-are-special-today/" class="corpus-ref"><em>you-are-special-today</em></a> (batch 4).</p></blockquote>

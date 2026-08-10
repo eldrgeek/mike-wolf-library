@@ -15,9 +15,9 @@ tags:
 related:
   - "70yearswtf-applied-mindtravel-a-how-to-guide-19-10-19"
   - "70yearswtf-celebrate-every-success-19-10-18"
-  - "70yearswtf-i-imagine-that-this-will-be-one-of"
-  - "70yearswtf-quality-19-10-17"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
 ---
 
 ![](/media/70yt/victory-laps-complete-it-or-delete-19-10-16/1.jpg)

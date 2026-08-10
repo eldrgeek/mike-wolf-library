@@ -14,11 +14,11 @@ tags:
   - "meditation"
   - "blogging"
 related:
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-a-scale-of-awakenessitude-16-08-15"
   - "70yearswtf-an-experiment-not-a-resolution-16-01-05"
-  - "70yearswtf-family-of-mind-internal-family-systems-15-03-14"
-  - "70yearswtf-get-out-of-your-head-and-into-your-18-03-11"
-  - "70yearswtf-mikesim-version-73-a-simulated-human-16-01-01"
-  - "70yearswtf-my-100-latte-15-12-22"
+  - "70yearswtf-at-the-request-of-the-book-of-michael-18-10-25"
+  - "70yearswtf-debugging-and-reconditioning-myself-16-12-07"
 ---
 
 ![Waking Up Course](/media/70yt/waking-up-with-my-personal-coach-18-11-03/1.jpg)

@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
+  - "srmw-part-vi-fear-and-procrastination"
+  - "srmw-part-vii-imagination"
+  - "srmw-chapter-30-outside-space-and-time"
+  - "srmw-chapter-39-how-to-practice"
 ---
 
 “I’m really pissed,” I said to God. We were back in God’s Favorite Bar with a pitcher of

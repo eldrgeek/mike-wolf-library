@@ -5,6 +5,7 @@ subtitle: "reader flattery as consent ritual"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *by-reading-this-youre-once-again* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-by-reading-this-youre-once-again/\" class=\"corpus-ref\"><em>by-reading-this-youre-once-again</em></a> (title mine)."
 source: "70yt *by-reading-this-youre-once-again* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Reader consent ritual: by reading, you reaffirm the right decision. Comic flattery with a real welcome.</p>
-<blockquote><p>““Then making that mistake was the right decision.” — 70yt *by-reading-this-youre-once-again* (title mine).</p></blockquote>
+<blockquote><p>“Then making that mistake was the right decision.” — 70yt <a href="/corpus/70yearswtf-by-reading-this-youre-once-again/" class="corpus-ref"><em>by-reading-this-youre-once-again</em></a> (title mine).</p></blockquote>

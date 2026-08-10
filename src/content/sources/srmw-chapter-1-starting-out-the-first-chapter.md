@@ -15,9 +15,9 @@ tags:
 related:
   - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
-  - "srmw-chapter-4-an-idea"
+  - "srmw-part-iii-memories"
+  - "srmw-part-vi-fear-and-procrastination"
+  - "srmw-part-viii-practice-practice-practice"
 ---
 
 I sat in my office. I wrote “Chapter 1: Starting Out: The First Chapter.” It seemed like a

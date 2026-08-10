@@ -4,12 +4,15 @@ title: "node identity (CDC / CCc / CCw / CM / CW)"
 subtitle: "which \"body\" a given Claude is speaking from"
 theme: "Architecture & Roles"
 authored_by: "Mike Wolf & the SOMA fleet"
-source: ""
+origin: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+origin_html: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+source: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
 related:
   - "locatedness"
   - "dispatch"
   - "dee"
-provenance: []
+provenance:
+  - "70yearswtf-a-war-story-18-11-03"
 tags:
   - "dialect"
   - "architecture"

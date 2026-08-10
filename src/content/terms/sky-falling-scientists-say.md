@@ -5,6 +5,7 @@ subtitle: "headline parody of alarmist science news"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *sky-falling-scientists-say-15-01-15* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-sky-falling-scientists-say-15-01-15/\" class=\"corpus-ref\"><em>sky-falling-scientists-say-15-01-15</em></a> (title mine)."
 source: "70yt *sky-falling-scientists-say-15-01-15* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Chicken-Little headline pastiche aimed at media alarm packaging of science.</p>
-<blockquote><p>“But not all scientists agree with the alarmists.” — 70yt *sky-falling-scientists-say-15-01-15* (title mine).</p></blockquote>
+<blockquote><p>“But not all scientists agree with the alarmists.” — 70yt <a href="/corpus/70yearswtf-sky-falling-scientists-say-15-01-15/" class="corpus-ref"><em>sky-falling-scientists-say-15-01-15</em></a> (title mine).</p></blockquote>

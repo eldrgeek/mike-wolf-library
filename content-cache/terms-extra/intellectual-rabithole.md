@@ -13,4 +13,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> Learning A spawns E–M; writing A blocks B–D. Embrace discomfort instead of fleeing.</p>
-<blockquote><p>“title “Down the intellectual rabithole” — 70yt *down-the-intellectual-rabithole* (batch 5).</p></blockquote>
+<blockquote><p>“Down the intellectual rabithole” — 70yt *down-the-intellectual-rabithole* (batch 5).</p></blockquote>

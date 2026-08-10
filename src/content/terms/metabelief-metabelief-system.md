@@ -5,9 +5,11 @@ subtitle: "beliefs-about-beliefs that lock ordinary beliefs in place"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
+origin_html: "SRMW."
 source: "SRMW."
 related: []
-provenance: []
+provenance:
+  - "srmw-part-viii-practice-practice-practice"
 tags:
   - "SRMW"
   - "philosophy"

@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
-  - "srmw-chapter-3-the-worst-day-of-my-life"
+  - "srmw-part-iv-the-adversary"
+  - "srmw-chapter-13-evolving-a-muse"
+  - "srmw-part-viii-practice-practice-practice"
+  - "srmw-chapter-18-i-give-up"
 ---
 
 “I’ve read what you gave me to read,” said the muse, after reading what I’d given her to

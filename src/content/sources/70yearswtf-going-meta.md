@@ -15,11 +15,11 @@ tags:
   - "AI"
   - "blogging"
 related:
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-99-subscribers-are-here-on-my-blog"
-  - "70yearswtf-can-god-create-a-rock-so-big-that"
-  - "70yearswtf-even-aholes-can-get-missions-from"
 ---
 
 ![An abstract and surreal illustration of a writer sitting at a desk, typing on a laptop. The text on the screen mirrors the scene, showing the same writer at the desk, creating an infinite recursion effect. The room is filled with floating pages of text, some curling back on themselves, forming loops. The author has a thoughtful expression, seemingly lost in the self-referential nature of their own writing. The lighting is moody, with a warm glow from the laptop screen illuminating the writer's face.](/media/70yt/going-meta/1.jpg)

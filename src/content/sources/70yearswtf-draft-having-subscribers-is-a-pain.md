@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-an-open-letter-to-my-90-year-old"
-  - "70yearswtf-forgiveness-and-the-war-in-ukraine"
-  - "70yearswtf-i-dont-know-whats-right-for-you-all"
-  - "70yearswtf-llms-are-machines-are-you-one-too"
-  - "70yearswtf-mikes-life-moviewise-review"
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 THIS POST IS A DRAFT. IT’S IN THE WTF DRAFTS NEWSLETTER. SOMEDAY IT MAY BE FINISHED AND DISAPPEAR.

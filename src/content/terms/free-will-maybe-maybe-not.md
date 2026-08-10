@@ -5,6 +5,7 @@ subtitle: "suspended judgment on free will"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *free-will-maybe-maybe-not-16-01-02* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-free-will-maybe-maybe-not-16-01-02/\" class=\"corpus-ref\"><em>free-will-maybe-maybe-not-16-01-02</em></a> (title mine)."
 source: "70yt *free-will-maybe-maybe-not-16-01-02* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Free will held in maybe/maybe-not—refusal of forced binary.</p>
-<blockquote><p>“When does free will appear?” — 70yt *free-will-maybe-maybe-not-16-01-02* (title mine).</p></blockquote>
+<blockquote><p>“When does free will appear?” — 70yt <a href="/corpus/70yearswtf-free-will-maybe-maybe-not-16-01-02/" class="corpus-ref"><em>free-will-maybe-maybe-not-16-01-02</em></a> (title mine).</p></blockquote>

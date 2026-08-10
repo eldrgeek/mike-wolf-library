@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-can-god-create-a-rock-so-big-that"
+  - "70yearswtf-99-subscribers-are-here-on-my-blog"
+  - "70yearswtf-even-aholes-can-get-missions-from"
+  - "70yearswtf-happy-birthday-to-you-me-and-everyone"
+  - "70yearswtf-i-dont-believe-in-death-and-you-dont"
   - "70yearswtf-im-afraid-of-being-afraid-and-im"
-  - "70yearswtf-reboot"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![A surreal illustration of a person standing on a small, grassy hill under a partly cloudy sky, with a bright sun breaking through the clouds, symbolizing hope. The person is looking up, holding a glowing thread that stretches up into the sky, connecting to an abstract, ethereal figure representing a guiding force. Ghostly, imaginary readers appear as faint, semi-transparent silhouettes around the person, engaging in a lively conversation. A sheep stands nearby, gazing curiously at the scene. The image captures a mix of determination, reflection, and a touch of whimsy, conveying the theme of overcoming fear and continuing a journey. The scene is bathed in soft, warm light, suggesting renewal and encouragement.](/media/70yt/really-im-supposed-to-save-the-world/1.jpg)

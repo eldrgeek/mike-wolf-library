@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "automation"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-connecting-past-me-and-future-me-20-01-18"
+  - "70yearswtf-debugging-and-programming-automike-18-08-02"
+  - "70yearswtf-free-will-maybe-maybe-not-16-01-02"
+  - "70yearswtf-implementing-a-better-chair-in-the-18-11-12"
+  - "70yearswtf-mediocre-me-19-01-13"
 ---
 
 Today, driving to Santa Barbara Honda for a repair, I realized: I'm not driving the car. My conditioning is. Call it AutoDriver.

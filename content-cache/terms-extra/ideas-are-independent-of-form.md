@@ -14,4 +14,4 @@ tags:
   - "philosophy"
 ---
 <p><strong>What we mean.</strong> From <em>The idea of Bobbi</em> and ACIM: the body was form; the person is content — the Idea expressed in that form. Without this law, substrate talk is assertion; with it, the claim has years of personal-stakes argument.</p>
-<blockquote><p>“Ideas are independent of form.” (Wall) / “Bobbi is an idea.” (70yt)” — Wall #18; 70yt *the-idea-of-bobbi* 2024-06-11.</p></blockquote>
+<blockquote><p>“Ideas are independent of form.” (Wall) / “Bobbi is an idea.” (70yt) — Wall #18; 70yt *the-idea-of-bobbi* 2024-06-11.</p></blockquote>

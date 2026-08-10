@@ -4,7 +4,9 @@ title: "Yeshie"
 subtitle: "the web perception-and-action layer (browser automation)"
 theme: "Architecture & Roles"
 authored_by: "Mike Wolf & the SOMA fleet"
-source: ""
+origin: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+origin_html: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
+source: "Internal SOMA canon — working dialect, unpublished (SOMA Lexicon, 2026-07-24)."
 related:
   - "the-relay"
 provenance:
@@ -14,4 +16,4 @@ tags:
   - "architecture"
 ---
 
-<p><strong>What we mean.</strong> A project, framed as SOMA's "eyes and hands for the web." Rather than brittle scripting, Yeshie treats browser automation as <em>active inference</em>: build a model of a site, act through structured payloads, watch what the page actually does, treat surprise as the learning signal, and fold successful observations back into the model. Note three easily-confused near-homonyms: <strong>Yeshie</strong> (this project) is unrelated to <strong>YeshID</strong> (a separate identity-management company) and to <strong>Rae</strong> (that company's own product AI) — the name overlap is coincidence.</p>
+<p><strong>What we mean.</strong> A project, framed as <a href="#term-soma" class="term-xref">SOMA's</a> "eyes and hands for the web." Rather than brittle scripting, Yeshie treats browser automation as <em>active inference</em>: build a model of a site, act through structured payloads, watch what the page actually does, treat surprise as the learning signal, and fold successful observations back into the model. Note three easily-confused near-homonyms: <strong>Yeshie</strong> (this project) is unrelated to <strong>YeshID</strong> (a separate identity-management company) and to <strong>Rae</strong> (that company's own product AI) — the name overlap is coincidence.</p>

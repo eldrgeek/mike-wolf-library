@@ -13,11 +13,11 @@ tags:
   - "metanovel"
   - "writing"
 related:
-  - "srmw-chapter-29-the-worst-day-of-my-life"
   - "srmw-chapter-30-outside-space-and-time"
   - "srmw-part-xiii-endgame"
   - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
+  - "srmw-chapter-1-starting-out-the-first-chapter"
 ---
 
 That day was over and long past—according to the calendar. But The Worst Day Of His Life

@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
+  - "70yearswtf-the-idea-of-bobbi"
+  - "70yearswtf-keep-the-fun-in-funeral-19-10-23"
+  - "70yearswtf-qfe-our-mom"
+  - "srmw-chapter-22-i-know-where-i-am"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![Photo of a heartwarming living room, where the walls are decorated with cherished family photographs encased in wooden borders. A central chalkboard showcases the word 'Whatevah' written beautifully in cursive. Beside it, an ornate chair with 'QFE' embroidered on its seating area and a crown positioned on its backrest signifies the Queen of Everything. The room is awash in the gentle light of candles, casting a nostalgic and inviting atmosphere.](/media/70yt/family-motto/1.jpg)

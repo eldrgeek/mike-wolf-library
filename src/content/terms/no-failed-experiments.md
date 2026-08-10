@@ -5,6 +5,7 @@ subtitle: "unrun trials fail; unexpected results do not"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Eliyahu Goldratt via Mike 2026-05-02 (Wall)."
+origin_html: "Eliyahu Goldratt via Mike 2026-05-02 (Wall)."
 source: "Eliyahu Goldratt via Mike 2026-05-02 (Wall)."
 related:
   - "mistakes-are-the-only-route-to-knowledge-even-for-god"

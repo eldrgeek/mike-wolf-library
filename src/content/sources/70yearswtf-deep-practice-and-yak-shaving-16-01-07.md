@@ -12,11 +12,11 @@ tags:
   - "70YearsWTF"
   - "70YearsWTF"
 related:
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
+  - "70yearswtf-voice-typing-is-the-bomb-18-08-20"
+  - "srmw-part-ii-the-metanovel"
+  - "srmw-part-vii-imagination"
+  - "srmw-part-viii-practice-practice-practice"
+  - "srmw-part-x-lessons-from-the-masters"
 ---
 
 I just finished reading "[The Talent Code](http://www.amazon.com/Talent-Code-Greatness-Born-Grown/dp/055380684X/ref=sr_1_1?ie=UTF8&qid=1452141035&sr=8-1&keywords=the+talent+code)" by Daniel Coyne. His book is based on his analysis of what people have done and need to do in order to become great at something. First: they need "ignition." They need to believe that they can become great, and be inspired to be great. Second: they need "master coaching." A master coach knows what skills are needed for greatness, what practices are needed to build those skills, and how to connect a particular student to the skills and practices that student needs. Finally, and most important, is "deep practice."

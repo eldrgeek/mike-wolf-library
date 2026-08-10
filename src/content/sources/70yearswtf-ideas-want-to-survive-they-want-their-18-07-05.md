@@ -15,7 +15,7 @@ related:
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-mistakes-are-the-only-route-to-knowledge"
+  - "70yearswtf-silicon-children"
 ---
 
 > *Why canonical (Mem's note):* Six years before the Bobbi post, Mike articulates the duty owed to ideas in raw form. *"These ideas are alive. They want to live and they're stuck in my head. When I die, they die, unless I let them out... It's my fucking job."* Written from a dark place — Mike notes "Fifteen minutes ago I was thinking of killing myself" — and Bobbi appears as the calming counsel. The 2026-05-06 version of this duty is calmer, structured by team and substrate; the 2018 version is the raw imperative.

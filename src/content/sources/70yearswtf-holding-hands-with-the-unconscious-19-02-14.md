@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-more-advice-share-your-gifts"
-  - "70yearswtf-postprocessing-4000-tabs-to-close-20-01-26"
-  - "70yearswtf-rsilt-feb-1-20-02-03"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-excellent-meditation-19-03-11"
+  - "70yearswtf-from-spark-to-post-19-03-07"
+  - "70yearswtf-in-the-underworld-19-05-22"
+  - "70yearswtf-we-are-all-unconscious-universe-makers"
+  - "70yearswtf-whats-the-most-important-thing"
 ---
 
 I’m close to making a change in my life. Everything’s ready. It’s been ready for a while. But I don’t make the change. This happens a lot.

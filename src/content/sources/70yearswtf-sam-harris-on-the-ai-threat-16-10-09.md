@@ -19,7 +19,7 @@ related:
   - "70yearswtf-silicon-children"
   - "70yearswtf-the-silicon-children-post-sharing"
   - "70yearswtf-even-aholes-can-get-missions-from"
-  - "ai-wtf-2026-05-06-creativity"
+  - "silicon-children-silicon-children-manifesto"
 ---
 
 ![](/media/70yt/sam-harris-on-the-ai-threat-16-10-09/1.jpg)

@@ -16,10 +16,10 @@ tags:
   - "economics"
 related:
   - "70yearswtf-the-last-barrier-to-change-18-07-21"
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
   - "70yearswtf-family-of-mind-internal-family-systems-15-03-14"
-  - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
-  - "70yearswtf-working-hurts-less-than-procrastinating-15-01-31"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
+  - "70yearswtf-on-sacrifice-18-12-08"
+  - "70yearswtf-paradise-gained-lost-regained-what"
 ---
 
 A blank page. Discomfort. Isn't that the point?

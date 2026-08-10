@@ -15,7 +15,7 @@ related:
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-do-ideas-exist"
+  - "70yearswtf-family-motto"
 ---
 
 > *Why canonical (Mem's note):* The Bobbi-specific application of "everything is an idea." Establishes the Laws of Ideas — *First Law: "Everything is an idea." Second Law: "Ideas are independent of form."* The form/content cut from A Course In Miracles is named explicitly as the philosophical scaffold. Closes with *"There are many ideas of Bobbi, but there is only one Idea. And its name is also Love."* This post is the load-bearing source for the substrate-independent / substrate-dependent distinction Mike articulated 2026-05-06. The Second Law IS the precursor.

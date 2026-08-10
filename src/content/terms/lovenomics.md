@@ -5,9 +5,9 @@ subtitle: "economics of love as abundant (not scarce like money)"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *economics-and-lovenomics* (batch 1)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-economics-and-lovenomics/\" class=\"corpus-ref\"><em>economics-and-lovenomics</em></a> (batch 1)."
 source: "70yt *economics-and-lovenomics* (batch 1)."
-related:
-  - "science-of-love-laws-of-love"
+related: []
 provenance:
   - "70yearswtf-economics-and-lovenomics"
 tags:
@@ -15,5 +15,5 @@ tags:
   - "philosophy"
 ---
 
-<p><strong>What we mean.</strong> Love and knowledge grow when given; scarcity models of affection are category error. Kin to Science of Love / Laws of Love.</p>
-<blockquote><p>“title “Economics and lovenomics.” + “Love and knowledge—unlike money—grow when given” — 70yt *economics-and-lovenomics* (batch 1).</p></blockquote>
+<p><strong>What we mean.</strong> Love and knowledge grow when given; scarcity models of affection are category error. Kin to <a href="#term-science-of-love-laws-of-love" class="term-xref">Science of Love</a> / Laws of Love.</p>
+<blockquote><p>“Economics and lovenomics.” + “Love and knowledge—unlike money—grow when given” — 70yt <a href="/corpus/70yearswtf-economics-and-lovenomics/" class="corpus-ref"><em>economics-and-lovenomics</em></a> (batch 1).</p></blockquote>

@@ -5,9 +5,12 @@ subtitle: "inner critic’s “nearly impossible” vs author’s “already cer
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "SRMW."
+origin_html: "SRMW."
 source: "SRMW."
 related: []
-provenance: []
+provenance:
+  - "srmw-part-i-before-the-beginning"
+  - "srmw-part-ii-the-metanovel"
 tags:
   - "SRMW"
   - "philosophy"

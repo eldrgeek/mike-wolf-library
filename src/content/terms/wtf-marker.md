@@ -5,6 +5,7 @@ subtitle: "Mike opening a message with \"WTF\""
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "Mike, May 2026."
+origin_html: "Mike, May 2026."
 source: "Mike, May 2026."
 related:
   - "scs-sais"

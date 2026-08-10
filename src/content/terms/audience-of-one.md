@@ -5,6 +5,7 @@ subtitle: "quality bar is the writer alone; publish for yourself"
 theme: "Rituals & Shorthand"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *good-enough-for-an-audience-of-one*."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-good-enough-for-an-audience-of-one-16-12-06/\" class=\"corpus-ref\"><em>good-enough-for-an-audience-of-one</em></a>."
 source: "70yt *good-enough-for-an-audience-of-one*."
 related: []
 provenance:
@@ -15,4 +16,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Anti-performative standard: the only judge who matters for what goes on the blog is the author. Lowers the social bar so posts ship.</p>
-<blockquote><p>“I need to post for me. Only me. Period.” — 70yt *good-enough-for-an-audience-of-one*</p></blockquote>
+<blockquote><p>“I need to post for me. Only me. Period.” — 70yt <a href="/corpus/70yearswtf-good-enough-for-an-audience-of-one-16-12-06/" class="corpus-ref"><em>good-enough-for-an-audience-of-one</em></a></p></blockquote>

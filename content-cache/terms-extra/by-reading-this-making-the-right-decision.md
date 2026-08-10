@@ -14,4 +14,4 @@ tags:
   - "rituals"
 ---
 <p><strong>What we mean.</strong> Reader consent ritual: by reading, you reaffirm the right decision. Comic flattery with a real welcome.</p>
-<blockquote><p>““Then making that mistake was the right decision.” — 70yt *by-reading-this-youre-once-again* (title mine).</p></blockquote>
+<blockquote><p>“Then making that mistake was the right decision.” — 70yt *by-reading-this-youre-once-again* (title mine).</p></blockquote>

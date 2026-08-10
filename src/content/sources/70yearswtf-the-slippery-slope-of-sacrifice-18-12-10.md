@@ -14,10 +14,10 @@ tags:
   - "blogging"
 related:
   - "70yearswtf-raising-the-dead-19-01-18"
+  - "70yearswtf-the-illusion-of-sacrifice"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
 ---
 
 ## **Seductive sacrifice**

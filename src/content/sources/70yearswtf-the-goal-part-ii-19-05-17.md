@@ -14,11 +14,11 @@ tags:
   - "blogging"
   - "economics"
 related:
-  - "70yearswtf-sending-my-ai-to-school"
-  - "70yearswtf-intention-lost-intention-regained-19-02-22"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
+  - "70yearswtf-everything-is-full-of-ideas"
+  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 This post is a follow-up to [an earlier blog post](https://70yearsoldwtf.blogspot.com/2019/03/the-goal-part-i.html) on Eliyahu Goldratt’s book, **The Goal.**

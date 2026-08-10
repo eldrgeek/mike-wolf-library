@@ -15,9 +15,9 @@ tags:
 related:
   - "srmw-part-ii-the-metanovel"
   - "srmw-part-iii-memories"
-  - "srmw-part-i-before-the-beginning"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
-  - "srmw-chapter-2-what-is-nanowrimo"
+  - "srmw-chapter-20-realize-where-you-really-are"
+  - "srmw-chapter-21-the-center-of-the-universe"
+  - "srmw-chapter-22-i-know-where-i-am"
 ---
 
 The chapter changed, of course. But that was one small detail. The big change was my per­

@@ -15,10 +15,10 @@ tags:
   - "God"
 related:
   - "70yearswtf-the-ideas-of-intelligence-this-post"
-  - "70yearswtf-really-im-supposed-to-save-the-world"
-  - "70yearswtf-reboot"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-99-subscribers-are-here-on-my-blog"
+  - "70yearswtf-conversations-with-god-19-04-21"
+  - "70yearswtf-even-more-like-heaven-and-the-internet"
+  - "70yearswtf-fill-the-world-with-love-scientifically"
+  - "70yearswtf-i-married-a-mythologist"
 ---
 
 ![A surreal and philosophical depiction of the classic paradox: 'Can God create a rock so big that She can't move it?' The image shows a vast cosmic landscape with a divine, ethereal female figure, radiating celestial light, gazing at an impossibly massive rock suspended in space. The rock is glowing with mystical energy, symbolizing its paradoxical nature. The goddess has an expression of contemplation, as if pondering the limits of omnipotence. The scene is awe-inspiring, blending elements of divine majesty and philosophical irony.](/media/70yt/can-god-create-a-rock-so-big-that/1.jpg)

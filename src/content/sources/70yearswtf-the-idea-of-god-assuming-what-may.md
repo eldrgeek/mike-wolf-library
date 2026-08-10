@@ -11,11 +11,11 @@ word_count: 842
 tags:
   - "70YearsWTF"
 related:
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
   - "70yearswtf-everything-is-full-of-ideas"
   - "70yearswtf-i-am-an-idea-part-1-its-all-about"
-  - "70yearswtf-ideas-want-to-survive-they-want-their-18-07-05"
 ---
 
 > *Why canonical (Mem's note):* Proof-by-contradiction applied to God-existence. *"the idea of God exists. Indeed, to say 'God doesn't exist,' you have to use the idea of God."* The structural argument: saying-the-thing-requires-the-thing. Less load-bearing for the manifesto than the other idea-cluster posts, but illustrates the move's reach.

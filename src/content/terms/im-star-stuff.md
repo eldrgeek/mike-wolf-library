@@ -5,6 +5,7 @@ subtitle: "first-person stardust identity"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *im-star-stuff-15-02-03* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-im-star-stuff-15-02-03/\" class=\"corpus-ref\"><em>im-star-stuff-15-02-03</em></a> (title mine)."
 source: "70yt *im-star-stuff-15-02-03* (title mine)."
 related: []
 provenance:
@@ -16,4 +17,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> First-person stardust: not only “we” are star stuff—<em>I</em> am. Identity-scale cosmology.</p>
-<blockquote><p>“Today I'll tell you what I am: I'm star stuff.” — 70yt *im-star-stuff-15-02-03* (title mine).</p></blockquote>
+<blockquote><p>“Today I'll tell you what I am: I'm star stuff.” — 70yt <a href="/corpus/70yearswtf-im-star-stuff-15-02-03/" class="corpus-ref"><em>im-star-stuff-15-02-03</em></a> (title mine).</p></blockquote>

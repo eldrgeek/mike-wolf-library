@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-is-spirituality-practical"
+  - "70yearswtf-mikesim-version-73-a-simulated-human-16-01-01"
+  - "70yearswtf-winning-losing-grace-and-being-there-16-06-30"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 ![](/media/70yt/waking-up-again-16-02-01/1.jpg)

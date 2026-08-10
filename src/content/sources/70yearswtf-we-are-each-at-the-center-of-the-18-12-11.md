@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-im-mike-from-right-here-the-center-15-02-02"
+  - "70yearswtf-modern-monetary-theory-and-why-it-16-02-27"
   - "70yearswtf-quantum-computinga-universe-in-a-19-07-01"
-  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
-  - "70yearswtf-do-ideas-exist"
-  - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
+  - "srmw-chapter-20-realize-where-you-really-are"
+  - "srmw-chapter-21-the-center-of-the-universe"
 ---
 
 We are each at the center of a universe. We are each made of knowledge incorporated in bodies made from once-living stars. We and the world around us are full of potential.

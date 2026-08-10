@@ -5,16 +5,18 @@ subtitle: "founding blog exclamation / brand cry"
 theme: "Philosophy & Doctrine"
 authored_by: "Mike Wolf & the SOMA fleet"
 origin: "70yt *70-years-old-wtf-12-12-31* (title mine)."
+origin_html: "70yt <a href=\"/corpus/70yearswtf-70-years-old-wtf-12-12-31/\" class=\"corpus-ref\"><em>70-years-old-wtf-12-12-31</em></a> (title mine)."
 source: "70yt *70-years-old-wtf-12-12-31* (title mine)."
 related: []
 provenance:
-  - "70yearswtf-an-open-letter-to-my-90-year-old"
-  - "70yearswtf-draft-having-subscribers-is-a-pain"
-  - "70yearswtf-forgiveness-and-the-war-in-ukraine"
-  - "70yearswtf-i-dont-know-whats-right-for-you-all"
-  - "70yearswtf-llms-are-machines-are-you-one-too"
-  - "70yearswtf-mikes-life-moviewise-review"
-  - "70yearswtf-today-i-am-filled-with-spirit-and"
+  - "70yearswtf-70-years-old-wtf-12-12-31"
+  - "70yearswtf-mediocre-me-19-01-13"
+  - "70yearswtf-carl-and-susan-chase-in-memoriam-19-11-05"
+  - "70yearswtf-rsilt-feb-1-20-02-03"
+  - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
+  - "70yearswtf-a-meditation-on-dullness-20-02-05"
+  - "70yearswtf-a-shitty-start-to-a-new-decade-before-20-01-02"
+  - "70yearswtf-a-special-day-19-12-31"
 tags:
   - "70yt"
   - "brand"
@@ -22,4 +24,4 @@ tags:
 ---
 
 <p><strong>What we mean.</strong> Founding cry of the blog: age meets WTF. The title is the franchise.</p>
-<blockquote><p>“I knew what old was.” — 70yt *70-years-old-wtf-12-12-31* (title mine).</p></blockquote>
+<blockquote><p>“I knew what old was.” — 70yt <a href="/corpus/70yearswtf-70-years-old-wtf-12-12-31/" class="corpus-ref"><em>70-years-old-wtf-12-12-31</em></a> (title mine).</p></blockquote>

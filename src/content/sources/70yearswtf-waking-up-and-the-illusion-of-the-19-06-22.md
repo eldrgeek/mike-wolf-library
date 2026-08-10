@@ -14,11 +14,11 @@ tags:
   - "meditation"
   - "blogging"
 related:
-  - "70yearswtf-from-farnam-street-to-quantum-computing-19-06-30"
-  - "70yearswtf-more-advice-share-your-gifts"
   - "70yearswtf-nearly-75-years-old-wtaf-17-11-09"
-  - "70yearswtf-the-heros-journey-continues"
-  - "srmw-chapter-40-how-to-practice"
+  - "70yearswtf-hello-world-15-01-08"
+  - "70yearswtf-thank-google-for-time-travel-14-12-30"
+  - "70yearswtf-wytf-am-i-writing-this-blog-15-01-03"
+  - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
 ---
 
 ![Robin Screiner(https://unsplash.com/@robin_schreiner)](/media/70yt/waking-up-and-the-illusion-of-the-19-06-22/1.jpg)

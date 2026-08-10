@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
+  - "70yearswtf-solve-for-x-20-12-08"
+  - "70yearswtf-solving-for-x-19-10-20"
   - "70yearswtf-believe-not-what-is-true-but-what-19-05-15"
   - "70yearswtf-do-ideas-exist"
   - "70yearswtf-everything-is-an-idea"
-  - "70yearswtf-everything-is-full-of-ideas"
-  - "70yearswtf-i-am-an-idea-part-1-its-all-about"
 ---
 
 Dear Future Mike, (my next post [after this one](https://70yearsoldwtf.blogspot.com/2020/12/solve-for-x.html) began):
