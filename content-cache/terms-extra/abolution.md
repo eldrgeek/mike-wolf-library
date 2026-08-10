@@ -12,5 +12,5 @@ tags:
   - "70yt"
   - "philosophy"
 ---
-<p><strong>What we mean.</strong> Absolution twisted to abolution — forgiveness for abolishing the streak, and Quill was here.</p>
+<p><strong>What we mean.</strong> Absolution twisted to abolution — forgiveness for abolishing/botching the streak.</p>
 <blockquote><p>“Broken streak and request for abolution” — 70yt *broken-streak-and-request-for-abolution* (batch 2).</p></blockquote>
