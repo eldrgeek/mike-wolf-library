@@ -126,8 +126,9 @@
     var n;
     while ((n = tw.nextNode())) {
       // The original is whatever we first saw here — not the current value,
-      // which may already carry a preview.
-      var text = applied.has(n) ? applied.get(n) : norm(n.nodeValue);
+      // which may already carry a preview. `applied` holds the RAW nodeValue
+      // (whitespace and all) so revert is byte-exact; matching uses norm().
+      var text = applied.has(n) ? norm(applied.get(n)) : norm(n.nodeValue);
       var k = counts[text] || 0;
       counts[text] = k + 1;
       out.push({ node: n, text: text, occurrence: k });
@@ -136,6 +137,13 @@
   }
 
   function apply() {
+    // Drafts are an ADMIN PREVIEW, not the site's copy — they belong to edit
+    // mode. With this gate, "edit mode off" shows byte-for-byte what a visitor
+    // sees, so the toggle genuinely doubles as before/after (ADOPT.md step 7).
+    // Without it, revertAll() mutates the DOM, the MutationObserver wakes, and
+    // apply() puts the draft straight back — the toggle looks broken. Caught
+    // by clicking, not by reading: it needs the observer to be live.
+    if (!editing) return;
     if (!preview.length) return;
     var r = route();
     var nodes = walk();
@@ -151,8 +159,16 @@
         if (o.original_text !== item.text) continue;
         if ((o.occurrence || 0) !== item.occurrence) continue;
         if (norm(item.node.nodeValue) === norm(o.new_text)) break; // already applied
-        if (!applied.has(item.node)) applied.set(item.node, item.text);
-        item.node.nodeValue = o.new_text;
+        var raw = applied.has(item.node) ? applied.get(item.node) : item.node.nodeValue;
+        if (!applied.has(item.node)) applied.set(item.node, raw);
+        // Keep the node's surrounding whitespace. A dictionary body is
+        //   <p><strong>What we mean.</strong> Absolution twisted…</p>
+        // and the editable node's leading space is what separates the two.
+        // Writing the normalized string straight in renders
+        // "What we mean.Absolution twisted…" — found on the live page, not in
+        // a test, because it only shows up next to an inline sibling.
+        item.node.nodeValue =
+          (raw.match(/^\s*/) || [''])[0] + o.new_text + (raw.match(/\s*$/) || [''])[0];
         break;
       }
     }
@@ -186,7 +202,7 @@
    * then forever, per ADOPT.md step 7. */
   function sync() {
     revertAll();
-    scheduleApply();
+    if (editing) scheduleApply();
   }
 
   function loadDrafts() {
@@ -259,6 +275,7 @@
     var before = item.text;
     var hint = termHint(el);
     var node = item.node;
+    var rawBefore = node.nodeValue;   // whitespace included — see apply()
 
     var span = document.createElement('span');
     span.setAttribute('data-le-wrap', '1');
@@ -289,7 +306,13 @@
       span.removeEventListener('blur', onBlur);
       span.removeEventListener('keydown', onKey);
       var after = norm(span.textContent);
-      if (!save || after === before || !after) { span.textContent = before; unwrap(); return; }
+      if (!save || after === before || !after) { span.textContent = rawBefore; unwrap(); return; }
+      // Put the ORIGINAL string back before saving, and let the applier put
+      // the new one in. Otherwise the node's "original" identity silently
+      // becomes the new text for the rest of this page load — the override
+      // then matches nothing, revert has nothing to revert to, and toggling
+      // edit mode off leaves the draft on screen looking published.
+      span.textContent = rawBefore;
       unwrap();
       saveOverride(before, after, item.occurrence, el, hint);
     }
