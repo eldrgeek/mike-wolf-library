@@ -40,22 +40,37 @@
 (function (global) {
   'use strict';
 
-  var APP = 'mike-wolf-library';
+  /* ── per-site configuration ───────────────────────────────────────────────
+   * Everything site-specific lives in window.SOMA_LIVE_EDIT, set by the page,
+   * so THIS FILE IS BYTE-IDENTICAL across every site that adopts it. The
+   * standard's README is blunt about why that matters: a vendored second copy
+   * "starts rotting the same afternoon", and it names gdocs-addon re-
+   * implementing four src/lib recognizers as the house example. Two static
+   * sites adopting §17 on the same day is exactly how that starts. Diff the
+   * two files; if they differ, one of them is wrong.
+   *
+   * The route -> source-file mapping is deliberately NOT here: it belongs to
+   * the canonize function, which is per-site by nature.                       */
+  var CFG = global.SOMA_LIVE_EDIT || {};
+  var APP = CFG.app || 'unknown-app';
+  var API = CFG.api || '/api/copy-canonize';
 
   /* Never touch. Two classes of thing:
-   *   - the ARCHIVE. 759 imported 70YearsWTF/Substack posts and the SRMW book
-   *     are PUBLISHED ORIGINALS. Live-editing and canonizing a post body would
-   *     silently fork the archive from what Mike actually published. This is
-   *     the safety property that outranks the feature (standard, §"safety").
-   *     Marked at source with [data-user-content] on src/pages/corpus/*.
+   *   - anything a person other than the site owner wrote, or that the site
+   *     did not author as COPY. On the Library that is the ARCHIVE: 759
+   *     imported 70YearsWTF/Substack posts and the SRMW book are PUBLISHED
+   *     ORIGINALS, and canonizing an edit to one would silently fork the
+   *     archive from what Mike actually published. This is the safety
+   *     property that outranks the feature (standard, §"safety").
    *   - controls, code, and the edit tooling's own chrome.
-   */
+   * Opt-OUT, not opt-in: sites mark their untouchables with
+   * [data-user-content] and may add selectors via SOMA_LIVE_EDIT.skip.        */
   var SKIP_SELECTOR = [
     '[data-user-content]', '[data-no-edit]',
     'textarea', 'input', 'select', 'option', 'button',
     'script', 'style', 'noscript', 'code', 'pre', 'svg',
     '#le-panel', '#le-bar', '#le-toast', '#le-auth'
-  ].join(',');
+  ].concat(CFG.skip || []).join(',');
 
   var drafts = [];       // admin-only review set (draft + canonical)
   var preview = [];      // rows applied locally so the admin can SEE the edit
@@ -245,8 +260,11 @@
    * it is absent the function falls back to searching the site-copy files.
    * Nothing MATCHES on it. */
   function termHint(el) {
-    var a = el && el.closest ? el.closest('article[id^="term-"]') : null;
-    return a ? a.id.replace(/^term-/, '') : null;
+    if (!CFG.hintSelector || !el || !el.closest) return null;
+    var a = el.closest(CFG.hintSelector);
+    if (!a || !a.id) return null;
+    var p = CFG.hintPrefix || '';
+    return p && a.id.indexOf(p) === 0 ? a.id.slice(p.length) : a.id;
   }
 
   /* ── editing ──────────────────────────────────────────────────────────── */
@@ -363,7 +381,8 @@
       // Say why, out loud. A surface that silently refuses to edit is how
       // somebody concludes the feature is broken.
       if (el.closest('[data-user-content]')) {
-        toast('Archive text is not editable — that is a published original.');
+        toast(CFG.userContentMessage ||
+          'Not editable — this text is not site copy.');
         e.preventDefault(); e.stopPropagation();
       }
       return;
@@ -393,7 +412,7 @@
     c.auth.getSession().then(function (s) {
       var tok = s && s.data && s.data.session ? s.data.session.access_token : null;
       if (!tok) { toast('Sign in again — session expired.'); return null; }
-      return fetch(BASE_PATH + 'api/copy-canonize', {
+      return fetch(API.charAt(0) === '/' ? BASE_PATH + API.slice(1) : API, {
         method: 'POST',
         headers: { 'content-type': 'application/json', authorization: 'Bearer ' + tok },
         body: JSON.stringify({ id: row.id })

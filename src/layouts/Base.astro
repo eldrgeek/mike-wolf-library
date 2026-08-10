@@ -127,6 +127,20 @@ const nav = [
         s.src = src; s.onload = next || null;
         document.body.appendChild(s);
       }
+      // Everything site-specific about the engine lives here, so
+      // /js/live-edit.js stays byte-identical to mike-wolf.com's copy.
+      window.SOMA_LIVE_EDIT = {
+        app: 'mike-wolf-library',
+        api: '/api/copy-canonize',
+        // Each dictionary entry renders as <article id="term-<slug>">, which
+        // tells canonize which source file to patch. A HINT, never the key.
+        hintSelector: 'article[id^="term-"]',
+        hintPrefix: 'term-',
+        // The dictionary's own filter chrome and the search boxes: controls,
+        // not copy.
+        skip: ['#dict-nav', '#dict-search', '#corpus-search', '#atlas-tip', '#search-results'],
+        userContentMessage: 'Archive text is not editable — that is a published original.'
+      };
       css('/css/live-edit.css');
       js('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js', function () {
         js('/js/soma-auth-config.js', function () {
