@@ -17,5 +17,5 @@ tags:
   - "philosophy"
 ---
 
-<p><strong>Plain reading.</strong> In literary terms, an unintentional, comic anticlimax — normally a <em>flaw</em>.</p>
+<p><strong>Plain reading.</strong> In literary terms, an unintentional, comic anticlimax — usually a <em>flaw</em>.</p>
 <p><strong>What we mean.</strong> Here it's a deliberate house style, not an accident. Seriousness deliberately mixed with the ridiculous: a sentence about "writing the story of silicon children in real time" landing next to a joke about a soccer fan who "doesn't do a sodding thing." The juxtaposition <em>is</em> the voice. <a href="#term-soma" class="term-xref">SOMA</a> artifacts are meant to hold both registers at once without flattening either.</p>
