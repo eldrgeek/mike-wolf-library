@@ -6,8 +6,15 @@
  * ink #1a1a2e, bg #faf8f4.
  */
 
+/* Live Edit stacks ABOVE the soma-feedback chip, which owns the bottom-left corner
+   on every SOMA site (16px in, 44px tall; 8px in at 420px and narrower). On
+   2026-09-16 the chip's tab sat exactly on "Edit copy" and a mouse could not reach
+   it. --le-lift is the chip's footprint plus a gap: 16 + 44 + 12 = 72px. The chip
+   can also be dragged away (soma-feedback v4.2). */
+:root { --le-lift: 72px; }
+
 #le-bar {
-  position: fixed; bottom: 1rem; left: 1rem; z-index: 9998;
+  position: fixed; bottom: var(--le-lift); left: 1rem; z-index: 9998;
   display: flex; gap: .4rem; flex-wrap: wrap;
   font-family: 'JetBrains Mono', ui-monospace, monospace;
 }
@@ -37,7 +44,7 @@ body.le-editing [data-user-content]:hover {
 }
 
 #le-panel {
-  position: fixed; bottom: 4rem; left: 1rem; z-index: 9998;
+  position: fixed; bottom: calc(var(--le-lift) + 3rem); left: 1rem; z-index: 9998;
   width: min(26rem, calc(100vw - 2rem)); max-height: 70vh; overflow: auto;
   background: #fff; border: 1px solid rgba(26, 26, 46, .12); border-radius: 10px;
   padding: 1rem; box-shadow: 0 12px 40px rgba(26, 26, 46, .18);
@@ -89,7 +96,7 @@ body.le-editing [data-user-content]:hover {
 #le-toast.show { transform: translate(-50%, 0); }
 
 #le-auth {
-  position: fixed; bottom: 1rem; left: 1rem; z-index: 9998;
+  position: fixed; bottom: var(--le-lift); left: 1rem; z-index: 9998;
   width: min(20rem, calc(100vw - 2rem));
   background: #fff; border: 1px solid rgba(26, 26, 46, .12); border-radius: 10px;
   padding: 1rem; box-shadow: 0 12px 40px rgba(26, 26, 46, .18);
@@ -122,7 +129,7 @@ body.le-editing [data-user-content]:hover {
 /* Signed in, but with no admin role here — the state that had no UI at all
    and left Mike with a sign-in box and no way out. Same shell as #le-auth. */
 #le-noadmin {
-  position: fixed; bottom: 1rem; left: 1rem; z-index: 9998;
+  position: fixed; bottom: var(--le-lift); left: 1rem; z-index: 9998;
   width: min(21rem, calc(100vw - 2rem));
   background: #fff; border: 1px solid rgba(26, 26, 46, .12); border-radius: 10px;
   padding: 1rem; box-shadow: 0 12px 40px rgba(26, 26, 46, .18);
@@ -142,13 +149,16 @@ body.le-editing [data-user-content]:hover {
 #le-noadmin button.le-quiet { background: transparent; color: #6b6b7b; border-color: rgba(26, 26, 46, .12); }
 
 #le-pending {
-  position: fixed; bottom: 1rem; left: 1rem; z-index: 9998;
+  position: fixed; bottom: var(--le-lift); left: 1rem; z-index: 9998;
   background: #fff; border: 1px solid rgba(26, 26, 46, .12); border-radius: 999px;
   padding: .5rem 1rem; box-shadow: 0 6px 20px rgba(26, 26, 46, .14);
   font-family: 'JetBrains Mono', monospace; font-size: .7rem; color: #6b6b7b;
 }
 
 @media (max-width: 480px) {
-  #le-bar { bottom: .6rem; left: .6rem; }
-  #le-panel { bottom: 3.4rem; left: .6rem; }
+  #le-bar { left: .6rem; }
+  #le-panel { bottom: calc(var(--le-lift) + 2.8rem); left: .6rem; }
+}
+@media (max-width: 420px) {
+  :root { --le-lift: 64px; }   /* the chip sits 8px in here: 8 + 44 + 12 */
 }
