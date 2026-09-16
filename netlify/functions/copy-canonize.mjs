@@ -155,7 +155,10 @@ function charPattern(ch, ctx) {
       alts.push(`&#0*${cp};`, `&#[xX]0*${hex};`);
     }
   }
-  return alts.length ? `(?:${[reEscape(ch), ...alts].join('|')})` : reEscape(ch);
+  // Longer spellings first. The raw character last: a text ending in "&" would
+  // otherwise match the "&" of "&amp;", and the whole-text check then sees
+  // "amp;" and rejects the only real hit (same for "''" in a single-quoted value).
+  return alts.length ? `(?:${[...alts, reEscape(ch)].join('|')})` : reEscape(ch);
 }
 
 /* Whitespace-flexible literal match. The DOM collapses runs of whitespace; the
@@ -311,9 +314,12 @@ function encodeFor(r, s) {
   if (r.kind === 'astro') {
     v = v.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
       .replace(/\{/g, '&#123;').replace(/\}/g, '&#125;');
-  } else if (r.kind === 'html') {
+  } else if (r.kind === 'html' && r.field !== 'origin') {
     v = v.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
+  // The origin line is written as ingest writes it: ingest copies the source's
+  // origin text into origin_html unescaped, so an escaped "&amp;" here would be
+  // a diff at the next ingest. (patch() refuses < and > in an origin.)
   if (r.quote === '"') v = v.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
   else if (r.quote === "'") v = v.replace(/'/g, "''");
   else if (r.kind === 'plain') v = `"${v.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"`;   // unquoted YAML: quote it
@@ -358,6 +364,9 @@ export function patch(path, text, row, opts = {}) {
   }
   const hit = pick(orig);
   if (!hit) return { state: `ambiguous:${orig.length}-matches`, text, hit: null };
+  if (hit.region.field === 'origin' && /[<>]/.test(row.new_text)) {
+    return { state: 'refused:ingest-renders-the-origin-line-as-HTML-so-<-and->-would-become-markup', text, hit: null };
+  }
   return {
     state: 'patched',
     text: text.slice(0, hit.index) + encodeFor(hit.region, row.new_text) + text.slice(hit.index + hit.length),
@@ -365,7 +374,7 @@ export function patch(path, text, row, opts = {}) {
   };
 }
 
-const yamlValue = (text, key) => {
+export const yamlValue = (text, key) => {
   const m = new RegExp(`^${key}:[ \\t]*(.*?)[ \\t]*$`, 'm').exec((FRONTMATTER.exec(text) || [''])[0]);
   if (!m) return null;
   const v = m[1];
@@ -373,7 +382,7 @@ const yamlValue = (text, key) => {
   if (v.length >= 2 && v[0] === "'" && v.endsWith("'")) return v.slice(1, -1).replace(/''/g, "'");
   return v;
 };
-const yamlQuoted = (s) => `"${s.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"`;
+export const yamlQuoted = (s) => `"${s.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"`;
 
 /* The generated file also keeps `origin:` and `source:`, unrendered copies of
  * the upstream origin that ingest rewrites from it. When an origin edit lands
