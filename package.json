@@ -10,7 +10,8 @@
     "aggregate": "node scripts/aggregate-content.mjs",
     "dev": "astro dev",
     "build": "node scripts/aggregate-content.mjs && astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "test": "node --test tests/copy-canonize.test.mjs"
   },
   "dependencies": {
     "@astrojs/tailwind": "^5.1.3",

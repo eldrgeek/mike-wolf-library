@@ -65,8 +65,8 @@ loop closes to the file, twice over:
 
 | | what it does | reaches |
 |---|---|---|
-| `netlify/functions/copy-canonize.mjs` | one GitHub commit patching the upstream source **and** the generated file | anything in this repo. Immediate, no human. |
-| `tools/apply-canonical-copy.mjs` | patches upstream, then decides retirement by **reading** the source | also `SOMA-LEXICON.md`, which lives in another repo |
+| `netlify/functions/copy-canonize.mjs` | one GitHub commit patching the upstream source **and** the generated file, or nothing; retires the row once both say the new words | anything in this repo. Immediate, no human. |
+| `tools/apply-canonical-copy.mjs` | patches upstream, then decides retirement by **reading** the source — the rows left for it are lexicon terms and anything canonize could not place | also `SOMA-LEXICON.md`, which lives in another repo |
 
 `npm run ingest` runs the second one **first** — so the command that would
 revert Mike's edit is the command that makes it permanent. Run it standalone
