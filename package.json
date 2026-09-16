@@ -11,7 +11,7 @@
     "dev": "astro dev",
     "build": "node scripts/aggregate-content.mjs && astro build",
     "preview": "astro preview",
-    "test": "node --test tests/copy-canonize.test.mjs"
+    "test": "node --test tests/copy-canonize.test.mjs tests/apply-canonical-copy.test.mjs"
   },
   "dependencies": {
     "@astrojs/tailwind": "^5.1.3",
