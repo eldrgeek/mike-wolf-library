@@ -100,10 +100,15 @@ const stripHtml = (h: string) => h.replace(/<[^>]*>/g, ' ');
               </div>
 
               {term.origin && (
-                <p class="text-xs text-muted mb-3 dict-origin"><span class="font-medium uppercase tracking-wide text-copper">Origin.</span> <span set:html={term.originHtml} /></p>
+                <p class="text-xs text-muted mb-3 dict-origin"><span data-no-edit class="font-medium uppercase tracking-wide text-copper">Origin.</span> <span set:html={term.originHtml} /></p>
               )}
 
-              <div class="flex flex-wrap items-center gap-2">
+              {/* data-no-edit on the chrome of an entry: the "Origin." label, tags, "see also",
+                  "Visit:" and "Discussed in:". Live Edit keys an edit by its words and parent tag,
+                  and this text is data, not copy. The tag chip "70yt" is a <span> exactly like the
+                  first word of the origin line, so an edit to it would land in the entry (sweep
+                  2026-09-16: 369 such nodes). The engine refuses anything inside [data-no-edit]. */}
+              <div data-no-edit class="flex flex-wrap items-center gap-2">
                 {term.tags.map(tag => (
                   <span class="text-xs bg-copper-light text-copper px-2.5 py-1 rounded-full border border-copper-border">{tag}</span>
                 ))}
@@ -116,7 +121,7 @@ const stripHtml = (h: string) => h.replace(/<[^>]*>/g, ' ');
               </div>
 
               {term.link && (
-                <p class="mt-3 text-xs">
+                <p data-no-edit class="mt-3 text-xs">
                   <span class="font-medium uppercase tracking-wide text-copper">Visit:</span>{' '}
                   <a href={term.link} target="_blank" rel="noopener" class="text-teal hover:text-copper underline underline-offset-2 decoration-teal/30">
                     {term.link_label || term.link.replace(/^https?:\/\//, '').replace(/\/$/, '')}
@@ -125,7 +130,7 @@ const stripHtml = (h: string) => h.replace(/<[^>]*>/g, ' ');
               )}
 
               {term.provenance.filter(p => sourceTitle.has(p)).length > 0 && (
-                <p class="mt-3 text-xs text-muted">
+                <p data-no-edit class="mt-3 text-xs text-muted">
                   <span class="font-medium uppercase tracking-wide text-copper">Discussed in:</span>{' '}
                   {term.provenance.filter(p => sourceTitle.has(p)).slice(0, 6).map((p, i, arr) => (
                     <>
