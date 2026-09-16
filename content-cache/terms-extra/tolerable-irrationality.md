@@ -12,5 +12,5 @@ tags:
   - "70yt"
   - "philosophy"
 ---
-<p><strong>What we mean.</strong> Named category from Daily Pages. Gateway to debugging AutoMike.</p>
+<p><strong>What we mean.</strong> Named category from Daily Pages. A gateway to debugging AutoMike.</p>
 <blockquote><p>“something that he called “Tolerable irrationality.”” — 70yt *connecting-past-me-and-future-me* (batch 5).</p></blockquote>
