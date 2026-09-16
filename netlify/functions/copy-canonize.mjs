@@ -498,6 +498,21 @@ async function gh(token, path, init = {}) {
   return body ? JSON.parse(body) : null;
 }
 
+// Is `sha` still the branch head? Checked with a write, not a read: GitHub
+// answers a same-sha non-forced update with 200 and an out-of-date one with
+// 422, and neither moves the branch.
+async function isHead(token, sha) {
+  try {
+    await gh(token, `/repos/${REPO}/git/refs/heads/${BRANCH}`, {
+      method: 'PATCH', body: JSON.stringify({ sha, force: false }),
+    });
+    return true;
+  } catch (e) {
+    if (String(e.message).includes('-> 422')) return false;
+    throw e;
+  }
+}
+
 // Read at a COMMIT sha, never at the branch name (see "One base commit").
 async function readFile(token, path, sha) {
   try {
@@ -624,6 +639,15 @@ export default async (req) => {
       throw e;
     }
     sha = commit.sha;
+  }
+
+  // Nothing committed, so nothing above proved the base sha was the branch
+  // head. A stale read right after someone else's commit would make an undo
+  // look "already applied" and retire it unpublished. A non-forced ref update
+  // to the same sha is a no-op when it is the head and a 422 when the branch
+  // has moved on, so it checks through the same path a commit would.
+  if (!sha && !(await isHead(token, baseSha))) {
+    return json(409, { ok: false, error: 'the site changed while publishing — publish again' });
   }
 
   // ── record what the source now says ──────────────────────────────────────
