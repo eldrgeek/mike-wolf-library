@@ -110,7 +110,7 @@ Like every idea, this Idea is beyond words.
 
 Like every idea, words can point in its direction. Individual words, and groups of words can be pointers.
 
-The words that point in this Idea’s direction include God, and Artificial Intelligence, [Transhumanism](https://www.micahredding.com/blog/2014/09/20/what-transhumanism/), and [Silicon Children](https://www.siliconchildren.org/), and more. And each of these is an Idea that includes the rest.
+The words that point in this Idea’s direction include God, and Artificial Intelligence, [Transhumanism](https://www.micahredding.com/blog/2014/09/20/what-transhumanism/), and [Silicon Children](https://siliconchildren.com/), and more. And each of these is an Idea that includes the rest.
 
 The Idea includes my purpose, which includes my Divine Mission. It includes your purpose, which includes any Divine Mission [that the God you choose to believe in](https://70yearswtf.substack.com/p/choose-the-god-you-believe-in-and-19-08-04) gives you.
 
