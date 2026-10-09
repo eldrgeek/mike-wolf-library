@@ -9,12 +9,14 @@ origin_html: "SRMW."
 source: "SRMW."
 related: []
 provenance:
+  - "srmw-reflection-1-practice-practice-practice"
   - "srmw-part-viii-practice-practice-practice"
-  - "srmw-part-ii-the-metanovel"
-  - "70yearswtf-voice-typing-is-the-bomb-18-08-20"
+  - "srmw-retroactive-contents"
   - "srmw-part-vii-imagination"
-  - "srmw-part-x-lessons-from-the-masters"
-  - "70yearswtf-deep-practice-and-yak-shaving-16-01-07"
+  - "srmw-part-xiii-endgame"
+  - "70yearswtf-voice-typing-is-the-bomb-18-08-20"
+  - "srmw-reflection-2-the-problem"
+  - "srmw-reflection-4-imagining-the-metanovel"
 tags:
   - "SRMW"
   - "philosophy"

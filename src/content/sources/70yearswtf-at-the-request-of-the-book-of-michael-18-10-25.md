@@ -15,9 +15,9 @@ tags:
 related:
   - "70yearswtf-76-years-old-wtf-a-retrospective-19-01-01"
   - "70yearswtf-waking-up-with-my-personal-coach-18-11-03"
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
   - "srmw-chapter-5-a-metanovel"
+  - "srmw-chapter-7-who-s-in-the-metanovel"
 ---
 
 It’s coming. The book. It’s been coming for a while. And it’s about to arrive. Nanowrimo is coming! (There, book, are you happy?)

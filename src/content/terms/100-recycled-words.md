@@ -9,7 +9,8 @@ origin_html: "SRMW."
 source: "SRMW."
 related:
   - "bathos"
-provenance: []
+provenance:
+  - "srmw-cover"
 tags:
   - "SRMW"
   - "philosophy"

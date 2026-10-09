@@ -25,6 +25,13 @@
 # /@vite/client and friends come back as text/html 200 and the page renders
 # blank with no error. Browse the ASTRO port (4321), not 8888.
 
+# SRMW Chapter 11's old address: the 2026-07 parser cut its title at a line
+# break ("…In The Metauni-"). The PDF extractor reads the whole title.
+[[redirects]]
+  from = "/corpus/srmw-chapter-11-the-greatest-publisher-in-the-metauni/"
+  to = "/corpus/srmw-chapter-11-the-greatest-publisher-in-the-metauniverse/"
+  status = 301
+
 # SPA-style fallback so hash/anchor deep links resolve.
 # NOTE: the read path is fully static. There is intentionally NO /api/ask, no
 # LLM call, no auth for readers.

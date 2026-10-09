@@ -10,7 +10,7 @@ source: "SRMW."
 related: []
 provenance:
   - "srmw-part-i-before-the-beginning"
-  - "srmw-part-ii-the-metanovel"
+  - "srmw-retroactive-contents"
 tags:
   - "SRMW"
   - "philosophy"

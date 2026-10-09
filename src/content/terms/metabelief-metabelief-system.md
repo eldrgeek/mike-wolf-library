@@ -9,7 +9,7 @@ origin_html: "SRMW."
 source: "SRMW."
 related: []
 provenance:
-  - "srmw-part-viii-practice-practice-practice"
+  - "srmw-interchapter-report-2-metapractice-101"
 tags:
   - "SRMW"
   - "philosophy"

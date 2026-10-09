@@ -9,7 +9,7 @@ origin_html: "SRMW."
 source: "SRMW."
 related: []
 provenance:
-  - "srmw-part-iv-the-adversary"
+  - "srmw-antichapter-2-the-rise-of-the-adversary"
 tags:
   - "SRMW"
   - "philosophy"

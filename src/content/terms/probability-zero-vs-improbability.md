@@ -9,8 +9,8 @@ origin_html: "SRMW."
 source: "SRMW."
 related: []
 provenance:
-  - "srmw-part-i-before-the-beginning"
-  - "srmw-part-ii-the-metanovel"
+  - "srmw-prologue-1-improbability"
+  - "srmw-retroactive-contents"
 tags:
   - "SRMW"
   - "philosophy"

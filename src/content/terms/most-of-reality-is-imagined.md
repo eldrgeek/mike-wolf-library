@@ -11,7 +11,7 @@ related:
   - "safe-place"
 provenance:
   - "srmw-part-vii-imagination"
-  - "srmw-part-ii-the-metanovel"
+  - "srmw-retroactive-contents"
 tags:
   - "SRMW"
   - "philosophy"

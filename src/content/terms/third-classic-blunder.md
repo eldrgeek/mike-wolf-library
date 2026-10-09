@@ -13,7 +13,8 @@ provenance:
   - "srmw-part-vii-imagination"
   - "srmw-part-vi-fear-and-procrastination"
   - "srmw-chapter-19-enjoy-life"
-  - "srmw-part-ii-the-metanovel"
+  - "srmw-retroactive-contents"
+  - "srmw-chapter-2-what-is-nanowrimo"
   - "srmw-chapter-30-outside-space-and-time"
   - "srmw-chapter-39-how-to-practice"
 tags:

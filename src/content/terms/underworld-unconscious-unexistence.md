@@ -12,7 +12,7 @@ provenance:
   - "70yearswtf-in-the-underworld-19-05-22"
   - "70yearswtf-holding-hands-with-the-unconscious-19-02-14"
   - "70yearswtf-we-are-all-unconscious-universe-makers"
-  - "srmw-part-iv-the-adversary"
+  - "srmw-antichapter-5-a-small-plot-change"
   - "70yearswtf-whats-the-most-important-thing"
   - "70yearswtf-from-spark-to-post-19-03-07"
   - "70yearswtf-why-meditate-19-03-27"

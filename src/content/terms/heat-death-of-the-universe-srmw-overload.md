@@ -10,7 +10,8 @@ source: "SRMW."
 related: []
 provenance:
   - "srmw-chapter-16-the-heat-death-of-the-universe"
-  - "srmw-part-ii-the-metanovel"
+  - "srmw-cover"
+  - "srmw-retroactive-contents"
   - "srmw-chapter-10-the-not-quite-omniscient-narrator"
 tags:
   - "SRMW"

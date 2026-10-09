@@ -9,8 +9,10 @@ origin_html: "SRMW."
 source: "SRMW."
 related: []
 provenance:
-  - "srmw-part-viii-practice-practice-practice"
-  - "srmw-part-ii-the-metanovel"
+  - "srmw-interchapter-report-2-metapractice-101"
+  - "srmw-part-xii-metapractice"
+  - "srmw-retroactive-contents"
+  - "srmw-reflection-1-practice-practice-practice"
   - "srmw-part-xiii-endgame"
 tags:
   - "SRMW"

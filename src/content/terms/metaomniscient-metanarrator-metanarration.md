@@ -9,10 +9,11 @@ origin_html: "SRMW."
 source: "SRMW."
 related: []
 provenance:
-  - "srmw-chapter-11-the-greatest-publisher-in-the-metauni"
+  - "srmw-chapter-11-the-greatest-publisher-in-the-metauniverse"
+  - "srmw-antichapter-5-a-small-plot-change"
   - "srmw-chapter-9-finding-a-publisher"
-  - "srmw-part-iv-the-adversary"
-  - "srmw-part-viii-practice-practice-practice"
+  - "srmw-antichapter-9-who-is-this-fucking-narrator"
+  - "srmw-part-x-lessons-from-the-masters"
   - "srmw-chapter-29-the-worst-day-of-my-life"
 tags:
   - "SRMW"

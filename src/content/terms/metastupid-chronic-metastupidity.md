@@ -10,7 +10,7 @@ source: "SRMW."
 related: []
 provenance:
   - "srmw-part-vi-fear-and-procrastination"
-  - "srmw-part-ii-the-metanovel"
+  - "srmw-retroactive-contents"
   - "srmw-part-vii-imagination"
 tags:
   - "SRMW"

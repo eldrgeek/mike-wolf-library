@@ -10,6 +10,7 @@ source: "70yt *the-new-zygote-numbering-system-zns17*."
 related: []
 provenance:
   - "70yearswtf-the-new-zygote-numbering-system-zns17-17-01-08"
+  - "srmw-part-iii-memories"
 tags:
   - "70yt"
   - "rituals"

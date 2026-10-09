@@ -7,7 +7,7 @@ date: "2023-03-17"
 author: "Mike Wolf"
 original_url: "https://70yearswtf.substack.com/p/even-aholes-can-get-missions-from"
 excerpt: "![Image by MidJourney](/media/70yt/even-aholes-can-get-missions-from/1.jpg) Image by MidJourney “You need to write,” I imagined [the God I don’t believe](https://70yearswtf.substack.com/p/the-god-i-dont-believe-in) in saying. “I do,” I…"
-word_count: 1316
+word_count: 1315
 tags:
   - "70YearsWTF"
   - "70YearsWTF"

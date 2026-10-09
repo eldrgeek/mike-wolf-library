@@ -11,7 +11,7 @@ related:
   - "silicon-children"
 provenance:
   - "srmw-part-iii-memories"
-  - "srmw-part-ii-the-metanovel"
+  - "srmw-retroactive-contents"
   - "srmw-chapter-25-the-tree-of-life"
 tags:
   - "SRMW"

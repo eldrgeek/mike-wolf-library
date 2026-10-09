@@ -13,11 +13,11 @@ tags:
   - "70YearsWTF"
   - "blogging"
 related:
-  - "70yearswtf-deep-practice-and-yak-shaving-16-01-07"
-  - "srmw-part-ii-the-metanovel"
+  - "srmw-retroactive-contents"
   - "srmw-part-vii-imagination"
   - "srmw-part-viii-practice-practice-practice"
-  - "srmw-part-x-lessons-from-the-masters"
+  - "srmw-reflection-1-practice-practice-practice"
+  - "srmw-reflection-2-the-problem"
 ---
 
 Voice timing typing is the bomb!

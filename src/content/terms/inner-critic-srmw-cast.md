@@ -9,14 +9,14 @@ origin_html: "SRMW."
 source: "SRMW."
 related: []
 provenance:
-  - "srmw-part-i-before-the-beginning"
   - "srmw-part-xiii-endgame"
+  - "srmw-part-i-before-the-beginning"
   - "srmw-part-ii-the-metanovel"
-  - "srmw-part-viii-practice-practice-practice"
-  - "srmw-chapter-18-i-give-up"
+  - "srmw-prologue-2-and-god-said-let-there-be-light-dammit"
   - "srmw-part-vi-fear-and-procrastination"
   - "srmw-part-iii-memories"
-  - "srmw-chapter-1-starting-out-the-first-chapter"
+  - "srmw-antichapter-12-the-second-step"
+  - "srmw-the-world-s-stupidest-novel"
 tags:
   - "SRMW"
   - "philosophy"

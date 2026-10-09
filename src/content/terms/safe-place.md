@@ -13,7 +13,6 @@ related:
 provenance:
   - "srmw-part-xiii-endgame"
   - "srmw-chapter-30-outside-space-and-time"
-  - "srmw-chapter-31-the-days-that-never-end"
 tags:
   - "SRMW"
   - "philosophy"

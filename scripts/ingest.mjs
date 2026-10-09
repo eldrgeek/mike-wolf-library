@@ -27,7 +27,7 @@ const SOURCES_DIR = join(ROOT, 'src/content/sources');
 // ── Source paths (verify-as-you-go: all confirmed on disk 2026-07-24) ─────────
 const P = {
   lexicon: join(HOME, 'Projects/soma-lexicon/SOMA-LEXICON.md'),
-  srmw: join(HOME, 'Projects/SOMA/canon/srmw/SRMW.txt'),
+  srmw: join(ROOT, 'content-cache/srmw/sections.json'),   // from SOMA/canon/srmw/SRMW.pdf via scripts/extract_srmw.py
   manifesto: join(HOME, 'Projects/SOMA/canon/silicon-children-manifesto.md'),
   seventy: join(HOME, 'Projects/SOMA/canon/70yearswtf'),
   seventyDraft: join(HOME, 'Projects/yeshie/70yearswtf-writing-for-llms.md'),
@@ -241,72 +241,31 @@ function parseLexicon() {
 // PARSER 2 — SRMW book → sources (one per chapter/part)
 // ══════════════════════════════════════════════════════════════════════════════
 function parseSRMW() {
-  const raw = readFileSync(P.srmw, 'utf8');
-  // Strip page markers and bare page-number lines.
-  const cleaned = raw
-    .split('\n')
-    .filter(l => !/^\[PAGE\s+\d+\]\s*$/.test(l))
-    .filter(l => !/^\s*[ivxlcdm]{0,7}\d{0,4}\s*$/i.test(l) || l.trim().length > 4)
-    .join('\n');
-
-  const lines = cleaned.split('\n');
-  // A heading is a real chapter/part line (NOT a table-of-contents dotted leader).
-  const isHeading = (l) =>
-    (/^(Chapter\s+\d+:|Part\s+[IVXLC]+:)/.test(l.trim()) && !/\.{5,}/.test(l) && !/\d+\s*$/.test(l.replace(/^(Chapter\s+\d+|Part\s+[IVXLC]+):?/, '')));
-
-  // Find heading indices; but skip the TOC block (dotted leaders). Real headings
-  // start after the TOC. We detect: a heading whose next non-empty line is prose.
-  const chunks = [];
-  let curHead = 'Front Matter';
-  let curPart = '';
-  let curLines = [];
-  let started = false;
-
-  for (const line of lines) {
-    const t = line.trim();
-    const partM = t.match(/^(Part\s+[IVXLC]+:\s*.+)$/);
-    const chapM = t.match(/^(Chapter\s+\d+:\s*.+)$/);
-    const isTOC = /\.{5,}/.test(t) || /\d+\s*$/.test(t) && t.length < 90 && /\.{3,}/.test(t);
-
-    if ((partM || chapM) && !isTOC) {
-      // flush previous
-      if (curLines.join('').trim().length > 400) {
-        chunks.push({ head: curHead, part: curPart, text: curLines.join('\n').trim() });
-      }
-      if (partM) { curPart = partM[1].trim(); curHead = partM[1].trim(); }
-      else { curHead = chapM[1].trim(); }
-      curLines = [];
-      started = true;
-      continue;
-    }
-    if (started) curLines.push(line);
-  }
-  if (curLines.join('').trim().length > 400) {
-    chunks.push({ head: curHead, part: curPart, text: curLines.join('\n').trim() });
-  }
-
-  let order = 0;
-  for (const c of chunks) {
-    order++;
-    const title = c.head;
-    const slug = 'srmw-' + slugify(title);
-    const bodyMd = c.text.replace(/\n{3,}/g, '\n\n');
+  // The book is typeset from the PDF by scripts/extract_srmw.py (PyMuPDF reads
+  // fonts, sizes and indents). Its output is committed, because the Netlify
+  // build does not run Python. Re-run the extractor when the PDF changes.
+  // Replaced 2026-10-09: the old parser split SRMW.txt, a line dump with no
+  // paragraphs, running heads and soft hyphens left in, and it missed every
+  // Antichapter, Prologue, Reflection and Parts V, XI and XII.
+  if (!existsSync(P.srmw)) { console.log('  SRMW → (sections.json missing — run scripts/extract_srmw.py)'); return; }
+  const sections = JSON.parse(readFileSync(P.srmw, 'utf8'));
+  for (const s of sections) {
     sourceRecords.push({
-      slug,
-      title,
-      subtitle: c.part && c.part !== title ? c.part : '',
+      slug: s.slug,
+      title: s.title,
+      subtitle: s.subtitle || '',
       collection: 'SRMW',
-      kind: 'book-section',
-      order,
+      kind: s.kind,
+      order: s.order + 1,
       date: '2012',
       author: 'Mike Wolf',
       original_url: null,
       tags: ['SRMW', 'metanovel', 'writing'],
-      bodyMd,
-      bodyText: bodyMd,
+      bodyMd: s.html,
+      bodyText: s.text,
     });
   }
-  console.log(`  SRMW → ${chunks.length} sections`);
+  console.log(`  SRMW → ${sections.length} sections`);
 }
 
 // ══════════════════════════════════════════════════════════════════════════════

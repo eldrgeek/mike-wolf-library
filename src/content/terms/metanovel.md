@@ -10,12 +10,12 @@ source: "SRMW full text; 70yt *at-the-request-of-the-book-of-michael*."
 related: []
 provenance:
   - "70yearswtf-at-the-request-of-the-book-of-michael-18-10-25"
+  - "srmw-reflection-4-imagining-the-metanovel"
+  - "srmw-chapter-11-the-greatest-publisher-in-the-metauniverse"
   - "srmw-part-ii-the-metanovel"
+  - "srmw-reflection-5-evolving-the-metanovel"
   - "srmw-chapter-5-a-metanovel"
   - "srmw-chapter-7-who-s-in-the-metanovel"
-  - "srmw-part-viii-practice-practice-practice"
-  - "srmw-part-i-before-the-beginning"
-  - "srmw-chapter-18-i-give-up"
   - "srmw-part-xiii-endgame"
 tags:
   - "SRMW"

@@ -11,7 +11,8 @@ related: []
 provenance:
   - "srmw-chapter-13-evolving-a-muse"
   - "srmw-chapter-12-how-to-create-a-muse-without-a-muse"
-  - "srmw-part-iv-the-adversary"
+  - "srmw-antichapter-5-a-small-plot-change"
+  - "srmw-antichapter-4-antimuse-redux"
 tags:
   - "SRMW"
   - "philosophy"
