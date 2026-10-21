@@ -27,6 +27,15 @@
 
 # SRMW Chapter 11's old address: the 2026-07 parser cut its title at a line
 # break ("…In The Metauni-"). The PDF extractor reads the whole title.
+# Feedback chip, central host (soma-chip repo), proxied so it stays same-origin.
+# Must come before any SPA fallback. vendor/soma-feedback/soma-chip-loader.js falls
+# back to the vendored chip when this answers badly or slowly. (bead pm-8e8a)
+[[redirects]]
+  from = "/soma-chip/*"
+  to = "https://soma-chip.netlify.app/:splat"
+  status = 200
+  force = true
+
 [[redirects]]
   from = "/corpus/srmw-chapter-11-the-greatest-publisher-in-the-metauni/"
   to = "/corpus/srmw-chapter-11-the-greatest-publisher-in-the-metauniverse/"
